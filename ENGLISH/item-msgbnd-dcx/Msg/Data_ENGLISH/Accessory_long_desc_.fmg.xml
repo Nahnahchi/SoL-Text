@@ -4,8 +4,6 @@
 <version>DarkSouls1</version>
 <bigendian>False</bigendian>
 <entries>
-<text id="1">%null%</text>
-<text id="2">%null%</text>
 <text id="100">
 This ring was named after Havel the Rock,
 Lord Gwyn's old battlefield compatriot.
@@ -87,7 +85,6 @@ Grants small increase to HP.
 Rings grant powers large and small.
 Their discovery, and effective use,
 can make one's journey easier.</text>
-<text id="112">%null%</text>
 <text id="113">
 One of the infamous bite rings
 commissioned by Sir Arstor of Carim.
@@ -118,7 +115,7 @@ to Princess Dusk of Oolacile upon her birth.
 
 The ringstone allows its wearer to cast
 additional magics, but at the cost of
-one-half of HP.</text>
+some HP.</text>
 <text id="117">
 One of the special rings granted to the four
 knights of Gwyn. The Hornet Ring belonged
@@ -127,7 +124,6 @@ to the Lord's Blade Ciaran.
 By boosting critical attacks, its wearer can
 annihilate foes, as Ciaran's dagger laid
 waste to Lord Gwyn's enemies.</text>
-<text id="118">%null%</text>
 <text id="119">
 One of the special rings granted to the four
 knights of Gwyn. The Hawk Ring belonged to
@@ -212,26 +208,27 @@ Agents of subterfuge in this faraway land
 are particularly fond of the dark gold wood
 grain, which greatly alters its wearer's
 rolling action.</text>
-<text id="129">%null%</text>
 <text id="130">
 This ring is granted to those who enter a
 Covenant with Gwynevere, daughter of Lord Gwyn
 and the Princess of Sunlight. This slightly
-warm ring boosts the synergy of miracles.
+warm ring slowly restores HP and boosts the 
+synergy of miracles.
 
 The Princess of Sunlight Gwynevere left
 Anor Londo along with many other deities,
 and later became wife to Flame God Flann.</text>
-<text id="131">%null%</text>
-<text id="132">%null%</text>
 <text id="133">
-This black diamond ring is granted to those
-who enter a Covenant with Velka, the Goddess
-of Sin. It automatically counterattacks when
-its wearer inflicts sustained damage.
+This black diamond ring is normally worn by
+followers of Velka, the Goddess of Sin. 
+Prevents user from dying, but needs to be 
+recharged at a bonfire.
 
 Velka the Goddess of Sin is an eccentric
-witch versed in various secret rites, an</text>
+witch versed in various secret rites. She
+never had any interest in establishing 
+a Covenant and likely views her followers 
+as no different from any other sinners.</text>
 <text id="134">
 This ring belonged to the seal guardian
 of New Londo. It prevents its wearer's
@@ -240,8 +237,6 @@ discovery by cursed ghosts.
 There were once three guardians of the seal,
 but two of them tired of their eternal task,
 and left New Londo long ago.</text>
-<text id="135">%null%</text>
-<text id="136">%null%</text>
 <text id="137">
 Old ring from an old witch.
 
@@ -263,13 +258,16 @@ this special ring. But fool that he is,
 he readily dropped it, and from that spot,
 a terrible centipede demon was born.</text>
 <text id="140">
-The ring of a lost miracle of New Londo.
-This ring takes damage in place of its
-wearer, but has a fixed chance of breaking.
+The ring of the lost city of New Londo.
+Use the accursed Darksign to throw away 
+speckles of humanity left inside you.
 
-As evidenced by this ring, the culture of
-New Londo was unique, and its flooding
-is widely considered to be a great loss.</text>
+Residents of New Londo used to manifest
+loyalty to the Four Kings by offering their
+humanity. Most ambitious of them aspired
+to become Darkwraiths themselves.
+
+Spread of the Abyss was only a matter of time.</text>
 <text id="141">
 A special ring granted to only the most
 accomplished sorcerers at Vinheim Dragon

@@ -43,8 +43,6 @@ homes, or sends you back to yours.
 Beware of fickle use of this item if you
 intend to nurture relations.
 </text>
-<text id="104">%null%</text>
-<text id="105">%null%</text>
 <text id="106">Online play item.
 Write/view/rate message.
 
@@ -54,7 +52,6 @@ are rated. Also, rate messages of others.
 In Lordran, the flow of time is distorted,
 and messages allow Undead to assist
 (or deceive) one another.</text>
-<text id="107">%null%</text>
 <text id="108">Online play item.
 Check list of indicted players.
 
@@ -71,7 +68,6 @@ across neighboring worlds. Phantoms lured
 to the host world may end up as victims,
 allowing the Eyes of Death to multiply,
 and leading to further proliferation of bane.</text>
-<text id="110">%null%</text>
 <text id="111">Online play item.
 Invade another world.
 (Hollows cannot use the item)
@@ -145,6 +141,14 @@ Anor Londo, but even in the absence
 of its overseer, capitulation is a disgrace.
 In the name of a warrior's honor, do not
 quickly resort to use of this crystal.</text>
+<text id="120">The Darksign signifies an accursed Undead.
+Those branded with it are reborn after
+death, but will one day lose their mind
+and go Hollow.
+
+Death triggers the Darksign, which returns
+its bearer to the last bonfire rested at,
+but at the cost of all humanity and souls.</text>
 <text id="200">The Undead treasure these dull green flasks.
 Fill with Estus at bonfire. Fills HP.
 
@@ -321,10 +325,6 @@ Keepers. The Dark Tales also make reference:
    And dies to protect it further
 
 </text>
-<text id="216">%null%</text>
-<text id="217">%null%</text>
-<text id="218">%null%</text>
-<text id="219">%null%</text>
 <text id="220">Silver pendant engraved with
 the crest of Artorias.
 
@@ -333,15 +333,6 @@ Presented to Artorias for facing the Abyss.
 
 Effectively deflects the Dark of the Abyss,
 especially in its magic forms.</text>
-<text id="221">%null%</text>
-<text id="222">%null%</text>
-<text id="223">%null%</text>
-<text id="224">%null%</text>
-<text id="225">%null%</text>
-<text id="226">%null%</text>
-<text id="227">%null%</text>
-<text id="228">%null%</text>
-<text id="229">%null%</text>
 <text id="230">Large medicinal mushroom of
 Elizabeth, keeper of the sanctuary.
 
@@ -350,15 +341,6 @@ and greatly restores HP for a limited duration.
 
 Its dramatic effect can make the difference
 between a warrior's life and death.</text>
-<text id="231">%null%</text>
-<text id="232">%null%</text>
-<text id="233">%null%</text>
-<text id="234">%null%</text>
-<text id="235">%null%</text>
-<text id="236">%null%</text>
-<text id="237">%null%</text>
-<text id="238">%null%</text>
-<text id="239">%null%</text>
 <text id="240">Holy water from Goddess Gwynevere.
 Fully restore HP and undo irregularities.
 
@@ -377,15 +359,12 @@ sometimes harvested in large quantities,
 but normally it is an annual plant found
 near water.
 </text>
-<text id="261">%null%</text>
-<text id="262">%null%</text>
-<text id="263">%null%</text>
-<text id="264">%null%</text>
-<text id="265">%null%</text>
-<text id="266">%null%</text>
-<text id="267">%null%</text>
-<text id="268">%null%</text>
-<text id="269">%null%</text>
+<text id="261">Red weed, shaped like a flower.
+Temporary boost to HP.
+
+This plant is loved by both live and 
+undead for it's soft, sweetly sour taste.
+A common ingredient for Estus soup.</text>
 <text id="270">Medicinal red moss clump.
 Reduces bleeding build-up.
 
@@ -411,7 +390,14 @@ quickly leads to death.
 Moss clumps without a flower are useless
 against toxin, and a lack of these moss
 clumps could lead to an early demise.</text>
-<text id="273">%null%</text>
+<text id="273">A clump of green moss.
+Poisons the user.
+
+Unlike ripe moss that can act as medicine, 
+green moss lacks healing properties. It
+inflicts poison to whoever (or whatever)
+decides to consume it. Repeated use may 
+cause addiction.</text>
 <text id="274">Ash-colored stone encasing a skull.
 Secret treasure of Arstor, the Earl of Carim.
 Reduces curse build-up and breaks curse.
@@ -430,10 +416,6 @@ selfless choice.
 
 Naturally, these chestnuts are forbidden, but
 are allowed under special circumstances.</text>
-<text id="276">%null%</text>
-<text id="277">%null%</text>
-<text id="278">%null%</text>
-<text id="279">%null%</text>
 <text id="280">Lightly enchanted golden powder.
 Repairs weapon equipped in right hand.
 
@@ -449,15 +431,6 @@ for a Repairbox.
 
 
 </text>
-<text id="281">%null%</text>
-<text id="282">%null%</text>
-<text id="283">%null%</text>
-<text id="284">%null%</text>
-<text id="285">%null%</text>
-<text id="286">%null%</text>
-<text id="287">%null%</text>
-<text id="288">%null%</text>
-<text id="289">%null%</text>
 <text id="290">Throwing knife.
 Used as a projectile.
 
@@ -501,7 +474,6 @@ attract certain types of enemies.
 Souls are a concentration of life, and the
 life-starved Hollows are lured by its power.
 Not effective for all enemies.</text>
-<text id="295">%null%</text>
 <text id="296">Talisman utilized by Allfather Lloyd's
 cleric knights to hunt down the Undead.
 Blocks Estus recovery within a limited area.
@@ -550,8 +522,6 @@ Adds poison effect to right-hand weapon.
 Hits with affected weapon build up enemy
 poison level. If enemy is poisoned, damage
 will be inflicted for a period of time.</text>
-<text id="314">%null%</text>
-<text id="315">%null%</text>
 <text id="330">Bone fragment reduced to white ash.
 Return to last bonfire used for resting.
 
@@ -559,13 +529,15 @@ Bonfires are fueled by bones of the Undead.
 In rare cases, the strong urge of their
 previous owner's to seek bonfires enchants
 their bones with a homeward instinct.</text>
-<text id="350">Rare tiny black sprite found on corpses
-Use to gain 1 humanity
+<text id="350">A pair of tiny black sprites that hate each other
+Use to gain 1 humanity and shoot a projectile
 
-This black sprite is called humanity, but
-little is known about its true nature.
-If the soul is the source of all life,
-then what distinction is left for humanity?</text>
+When used they will finally be free of each other.
+While consuming one of them, the other will flee
+at inhumanly high speed.
+
+One can only wonder why is there so many such 
+humanities in the world.</text>
 <text id="370">Warm pebble emitting a beautiful phasing aura
 of seven colors, with a very rare eighth.
 
@@ -650,7 +622,6 @@ step, but it cannot be reversed until death.
 
 
 </text>
-<text id="379">%null%</text>
 <text id="380">Rubbish with no value.
 Who in their right mind would bother carrying
 this around? Perhaps you need help.</text>
@@ -695,10 +666,6 @@ summoning of a third phantom, but also a second dark spirit.
 
 Also makes the summoning of a dark spirit occur earlier. 
 Use with caution.</text>
-<text id="386">%null%</text>
-<text id="387">%null%</text>
-<text id="388">%null%</text>
-<text id="389">%null%</text>
 <text id="390">Soul of the Ash Maiden,
 Fire Keeper of Firelink Shrine.
 
@@ -773,9 +740,6 @@ of precious Estus Flasks.
 It can be used to gain Humanity and restore HP
 at the cost of losing the Fire Keeper soul to
 reinforce the Estus Flasks.</text>
-<text id="397">%null%</text>
-<text id="398">%null%</text>
-<text id="399">%null%</text>
 <text id="400">Soul of a lost Undead who has
 long ago gone Hollow.
 
@@ -894,14 +858,6 @@ This black sprite is called humanity, but
 little is known about its true nature.
 If the soul is the source of all life,
 then what distinction is left for humanity?</text>
-<text id="502">%null%</text>
-<text id="503">%null%</text>
-<text id="504">%null%</text>
-<text id="505">%null%</text>
-<text id="506">%null%</text>
-<text id="507">%null%</text>
-<text id="508">%null%</text>
-<text id="509">%null%</text>
 <text id="510">Head carved of archtrees by Gough in his
 imprisonment. Gough imparts an emotion to
 each and every completed carving, which
@@ -1078,9 +1034,6 @@ Ascends +10 standard wpn to crystal weapon.
 
 Crystal weapons are powerful but brittle,
 and cannot be repaired once broken.</text>
-<text id="803">%null%</text>
-<text id="804">%null%</text>
-<text id="805">%null%</text>
 <text id="806">Ember required for weapon ascension.
 Large magic ember, a form of sorcery.
 Handled only by the Vinheim magic blacksmiths.
@@ -1122,7 +1075,6 @@ Ascends +5 divine weapon to occult weapon.
 
 Occult weapons were used to hunt the Gods, and
 are effective against their followers and kin.</text>
-<text id="811">%null%</text>
 <text id="812">Ember required for weapon ascension.
 Large flame ember used in ancient rites.
 Handled only by blacksmiths knowledgeable in
@@ -1153,15 +1105,6 @@ the Legendary Slabs. Titanite is
 etched into weapons to reinforce.
 
 </text>
-<text id="1001">%null%</text>
-<text id="1002">%null%</text>
-<text id="1003">%null%</text>
-<text id="1004">%null%</text>
-<text id="1005">%null%</text>
-<text id="1006">%null%</text>
-<text id="1007">%null%</text>
-<text id="1008">%null%</text>
-<text id="1009">%null%</text>
 <text id="1010">Titanite shard for weapon reinforcement.
 Larger titanite material.
 Reinforces standard weapons to +10,
@@ -1172,15 +1115,6 @@ the Legendary Slabs. Titanite is
 etched into weapons to reinforce.
 
 </text>
-<text id="1011">%null%</text>
-<text id="1012">%null%</text>
-<text id="1013">%null%</text>
-<text id="1014">%null%</text>
-<text id="1015">%null%</text>
-<text id="1016">%null%</text>
-<text id="1017">%null%</text>
-<text id="1018">%null%</text>
-<text id="1019">%null%</text>
 <text id="1020">Titanite shard for weapon reinforcement.
 Green titanite imbued with a special power.
 Reinforces magic, divine, and fire
@@ -1189,15 +1123,6 @@ weapons to +5.
 Titanite shards are fragments of
 the Legendary Slabs. Titanite is
 etched into weapons to reinforce.</text>
-<text id="1021">%null%</text>
-<text id="1022">%null%</text>
-<text id="1023">%null%</text>
-<text id="1024">%null%</text>
-<text id="1025">%null%</text>
-<text id="1026">%null%</text>
-<text id="1027">%null%</text>
-<text id="1028">%null%</text>
-<text id="1029">%null%</text>
 <text id="1030">Titanite chunk for weapon reinforcement.
 Not found outside of Lordran.
 Reinforces standard weapons to +14,
@@ -1206,15 +1131,6 @@ and crystal, lightning weapons to +4.
 With the discovery of chunks in Lordran,
 the race to locate the Legendary Slabs
 has begun. But could they be mere myth?</text>
-<text id="1031">%null%</text>
-<text id="1032">%null%</text>
-<text id="1033">%null%</text>
-<text id="1034">%null%</text>
-<text id="1035">%null%</text>
-<text id="1036">%null%</text>
-<text id="1037">%null%</text>
-<text id="1038">%null%</text>
-<text id="1039">%null%</text>
 <text id="1040">Titanite chunk for weapon reinforcement.
 Blue titanite has powerful magic energy.
 Reinforces magic weapons to +9,
@@ -1223,15 +1139,6 @@ and enchanted weapons to +4.
 With the discovery of chunks in Lordran,
 the race to locate the Legendary Slabs
 has begun. But could they be mere myth?</text>
-<text id="1041">%null%</text>
-<text id="1042">%null%</text>
-<text id="1043">%null%</text>
-<text id="1044">%null%</text>
-<text id="1045">%null%</text>
-<text id="1046">%null%</text>
-<text id="1047">%null%</text>
-<text id="1048">%null%</text>
-<text id="1049">%null%</text>
 <text id="1050">Titanite chunk for weapon reinforcement.
 White titanite has powerful miracle energy.
 Reinforces divine weapons to +9,
@@ -1240,15 +1147,6 @@ and occult weapons to +4.
 With the discovery of chunks in Lordran,
 the race to locate the Legendary Slabs
 has begun. But could they be mere myth?</text>
-<text id="1051">%null%</text>
-<text id="1052">%null%</text>
-<text id="1053">%null%</text>
-<text id="1054">%null%</text>
-<text id="1055">%null%</text>
-<text id="1056">%null%</text>
-<text id="1057">%null%</text>
-<text id="1058">%null%</text>
-<text id="1059">%null%</text>
 <text id="1060">Titanite chunk for weapon reinforcement.
 Red titanite has powerful fire energy.
 Reinforces fire weapons to +9,
@@ -1257,15 +1155,6 @@ and chaos weapons to +4.
 With the discovery of chunks in Lordran,
 the race to locate the Legendary Slabs
 has begun. But could they be mere myth?</text>
-<text id="1061">%null%</text>
-<text id="1062">%null%</text>
-<text id="1063">%null%</text>
-<text id="1064">%null%</text>
-<text id="1065">%null%</text>
-<text id="1066">%null%</text>
-<text id="1067">%null%</text>
-<text id="1068">%null%</text>
-<text id="1069">%null%</text>
 <text id="1070">Titanite slab for weapon reinforcement.
 Legendary Slabs were the domain of the Gods.
 Reinforces standard weapons to +15,
@@ -1277,15 +1166,6 @@ weapons of other Gods. Weapons forged with
 this slab become rare legendary weapons.
 
 </text>
-<text id="1071">%null%</text>
-<text id="1072">%null%</text>
-<text id="1073">%null%</text>
-<text id="1074">%null%</text>
-<text id="1075">%null%</text>
-<text id="1076">%null%</text>
-<text id="1077">%null%</text>
-<text id="1078">%null%</text>
-<text id="1079">%null%</text>
 <text id="1080">Blue titanite slab for weapon reinforcement.
 Legendary Slabs were the domain of the Gods.
 Reinforces magic weapons to +10,
@@ -1297,15 +1177,6 @@ weapons of other Gods. Weapons forged with
 this slab become rare legendary weapons.
 
 </text>
-<text id="1081">%null%</text>
-<text id="1082">%null%</text>
-<text id="1083">%null%</text>
-<text id="1084">%null%</text>
-<text id="1085">%null%</text>
-<text id="1086">%null%</text>
-<text id="1087">%null%</text>
-<text id="1088">%null%</text>
-<text id="1089">%null%</text>
 <text id="1090">White titanite slab for weapon reinforcement.
 Legendary Slabs were the domain of the Gods.
 Reinforces divine weapons to +10,
@@ -1317,15 +1188,6 @@ weapons of other Gods. Weapons forged with
 this slab become rare legendary weapons.
 
 </text>
-<text id="1091">%null%</text>
-<text id="1092">%null%</text>
-<text id="1093">%null%</text>
-<text id="1094">%null%</text>
-<text id="1095">%null%</text>
-<text id="1096">%null%</text>
-<text id="1097">%null%</text>
-<text id="1098">%null%</text>
-<text id="1099">%null%</text>
 <text id="1100">Red titanite slab for weapon reinforcement.
 Legendary Slabs were the domain of the Gods.
 Reinforces fire weapons to +10,
@@ -1337,15 +1199,6 @@ weapons of other Gods. Weapons forged with
 this slab become rare legendary weapons.
 
 </text>
-<text id="1101">%null%</text>
-<text id="1102">%null%</text>
-<text id="1103">%null%</text>
-<text id="1104">%null%</text>
-<text id="1105">%null%</text>
-<text id="1106">%null%</text>
-<text id="1107">%null%</text>
-<text id="1108">%null%</text>
-<text id="1109">%null%</text>
 <text id="1110">Dragon scale for reinforcing dragon weapons.
 Peeled from an ancient dragon.
 
@@ -1354,15 +1207,6 @@ and the transcendent apostles, who seek
 the perpetuity of the ancient dragons,
 have crossed the very end of the earth
 to seek this invaluable treasure.</text>
-<text id="1111">%null%</text>
-<text id="1112">%null%</text>
-<text id="1113">%null%</text>
-<text id="1114">%null%</text>
-<text id="1115">%null%</text>
-<text id="1116">%null%</text>
-<text id="1117">%null%</text>
-<text id="1118">%null%</text>
-<text id="1119">%null%</text>
 <text id="1120">Special titanite stolen from a faceless
 stone beast known as a Titanite Demon.
 
@@ -1370,15 +1214,6 @@ When the nameless blacksmith deity passed,
 from several Slabs, great beasts arose.
 The power of titanite remains within them,
 and they still roam Lordran today.</text>
-<text id="1121">%null%</text>
-<text id="1122">%null%</text>
-<text id="1123">%null%</text>
-<text id="1124">%null%</text>
-<text id="1125">%null%</text>
-<text id="1126">%null%</text>
-<text id="1127">%null%</text>
-<text id="1128">%null%</text>
-<text id="1129">%null%</text>
 <text id="1130">This weapon-reinforcing titanite is imbued
 with a particularly powerful energy.
 Reinforces weapons that cannot be
@@ -1557,7 +1392,6 @@ Tool of the trade for thieves.
 
 But in the cursed land of the Undead,
 most doors are better left unopened.</text>
-<text id="2200">%null%</text>
 <text id="2500">Soul of Gravelord Nito, first of the dead.
 This Lord Soul was discovered at the
 dawn of the Age of Fire.
@@ -1600,11 +1434,6 @@ piece, it will still satiate the Lordvessel.
 
 </text>
 <text id="2504">Demon Flame 5</text>
-<text id="2505">%null%</text>
-<text id="2506">%null%</text>
-<text id="2507">%null%</text>
-<text id="2508">%null%</text>
-<text id="2509">%null%</text>
 <text id="2510">Lordvessel bestowed upon the chosen Undead
 who is destined to succeed Lord Gwyn.
 The chosen Undead is granted the art of
@@ -1613,15 +1442,6 @@ warping between bonfires.
 To open the final door, place this vessel
 on the Firelink Altar, and fill it with
 powerful souls.</text>
-<text id="2511">%null%</text>
-<text id="2512">%null%</text>
-<text id="2513">%null%</text>
-<text id="2514">%null%</text>
-<text id="2515">%null%</text>
-<text id="2516">%null%</text>
-<text id="2517">%null%</text>
-<text id="2518">%null%</text>
-<text id="2519">%null%</text>
 <text id="2520">Half of a broken stone pendant.
 The vine appears to originate from Oolacile.
 
@@ -1648,10 +1468,6 @@ Rest at a bonfire to make weapon
 and armor repair possible.
 Repair powder is fragile,
 and cannot be taken along.</text>
-<text id="2603">%null%</text>
-<text id="2604">%null%</text>
-<text id="2605">%null%</text>
-<text id="2606">%null%</text>
 <text id="2607">This secret rite allows bonfires to be
 bolstered further with Kindling, so that
 even more Estus can be collected.
@@ -1670,22 +1486,12 @@ it as a symbol of unbridled avarice.
 Any number of items can be deposited into
 the box, and items can be managed while
 resting at a bonfire.</text>
-<text id="2609">%null%</text>
 <text id="3000">Elementary sorcery.
 Fire soul arrow.
 
 Soul arrows inflict magic damage, making them
 effective against iron armor, tough scales,
 and other physically resilient materials.</text>
-<text id="3001">%null%</text>
-<text id="3002">%null%</text>
-<text id="3003">%null%</text>
-<text id="3004">%null%</text>
-<text id="3005">%null%</text>
-<text id="3006">%null%</text>
-<text id="3007">%null%</text>
-<text id="3008">%null%</text>
-<text id="3009">%null%</text>
 <text id="3010">Sorcery which improves upon Soul Arrow.
 Fire strong soul arrow.
 
@@ -1693,90 +1499,36 @@ At the Vinheim Dragon School,
 the acquisition of this spell marks an
 apprentice's coronation as a sorcerer.
 </text>
-<text id="3011">%null%</text>
-<text id="3012">%null%</text>
-<text id="3013">%null%</text>
-<text id="3014">%null%</text>
-<text id="3015">%null%</text>
-<text id="3016">%null%</text>
-<text id="3017">%null%</text>
-<text id="3018">%null%</text>
-<text id="3019">%null%</text>
 <text id="3020">Soul sorcery emphasizing power.
 Fire heavy soul arrow.
 
 A more powerful, but also slower sorcery.
 Difficult to use due to a long cool down and
 a limitation on the number of castings.</text>
-<text id="3021">%null%</text>
-<text id="3022">%null%</text>
-<text id="3023">%null%</text>
-<text id="3024">%null%</text>
-<text id="3025">%null%</text>
-<text id="3026">%null%</text>
-<text id="3027">%null%</text>
-<text id="3028">%null%</text>
-<text id="3029">%null%</text>
 <text id="3030">Sorcery which improves upon Heavy Soul Arrow.
 Fire strong heavy soul arrow.
 
 As difficult to use as Heavy Soul Arrow,
 but powerful enough to make it well worth it.
 Adored by certain sorcerers.</text>
-<text id="3031">%null%</text>
-<text id="3032">%null%</text>
-<text id="3033">%null%</text>
-<text id="3034">%null%</text>
-<text id="3035">%null%</text>
-<text id="3036">%null%</text>
-<text id="3037">%null%</text>
-<text id="3038">%null%</text>
-<text id="3039">%null%</text>
 <text id="3040">Sorcery developed by Big Hat Logan.
 Fire homing soulmass.
 
 Life originates in the soul; no wonder the
 soulmass draws toward it. This sorcery is
 a window into seeker Logan's methods.</text>
-<text id="3041">%null%</text>
-<text id="3042">%null%</text>
-<text id="3043">%null%</text>
-<text id="3044">%null%</text>
-<text id="3045">%null%</text>
-<text id="3046">%null%</text>
-<text id="3047">%null%</text>
-<text id="3048">%null%</text>
-<text id="3049">%null%</text>
 <text id="3050">Sorcery boosted by the knowledge.
 Logan acquired at the Regal Archives.
 Fire homing crystal soulmass.
 
 The mysteries of souls, crystals, and the
 sorceries are deeply intertwined.</text>
-<text id="3051">%null%</text>
-<text id="3052">%null%</text>
-<text id="3053">%null%</text>
-<text id="3054">%null%</text>
-<text id="3055">%null%</text>
-<text id="3056">%null%</text>
-<text id="3057">%null%</text>
-<text id="3058">%null%</text>
-<text id="3059">%null%</text>
 <text id="3060">Sorcery developed by Big Hat Logan.
 Fire piercing soul spear.
 
 A symbol of Logan's strength, the soul spear
 is referenced repeatedly in the legends, and
 is said to be on par with Lord Gwyn's lightning.</text>
-<text id="3061">%null%</text>
-<text id="3062">%null%</text>
-<text id="3063">%null%</text>
-<text id="3064">%null%</text>
-<text id="3065">%null%</text>
-<text id="3066">%null%</text>
-<text id="3067">%null%</text>
-<text id="3068">%null%</text>
-<text id="3069">%null%</text>
 <text id="3070">Sorcery boosted by the knowledge.
 Logan acquired at the Regal Archives.
 Fire piercing crystal soul spear.
@@ -1790,15 +1542,6 @@ Magic augmentation: right weapon.
 The power of the magic swordsmen of Vinheim
 is predicated upon this and Magic Shield.
 Many warriors learn sorcery just for this.</text>
-<text id="3101">%null%</text>
-<text id="3102">%null%</text>
-<text id="3103">%null%</text>
-<text id="3104">%null%</text>
-<text id="3105">%null%</text>
-<text id="3106">%null%</text>
-<text id="3107">%null%</text>
-<text id="3108">%null%</text>
-<text id="3109">%null%</text>
 <text id="3110">Sorcery which improves upon Magic Weapon.
 High magic augmentation: right weapon.
 
@@ -1806,15 +1549,6 @@ At Vinheim Dragon School, only magic
 swordsmen on special orders are allowed
 to learn this spell which grants powerful
 augmentation to various weapons.</text>
-<text id="3111">%null%</text>
-<text id="3112">%null%</text>
-<text id="3113">%null%</text>
-<text id="3114">%null%</text>
-<text id="3115">%null%</text>
-<text id="3116">%null%</text>
-<text id="3117">%null%</text>
-<text id="3118">%null%</text>
-<text id="3119">%null%</text>
 <text id="3120">Sorcery boosted by the knowledge.
 Logan acquired at the Regal Archive.
 High magic + crystallization: right weapon
@@ -1829,15 +1563,6 @@ Shields augmented by magic are resistant to
 magic attacks and have higher stability.
 This spell makes it possible to challenge
 powerful foes with a small shield.</text>
-<text id="3301">%null%</text>
-<text id="3302">%null%</text>
-<text id="3303">%null%</text>
-<text id="3304">%null%</text>
-<text id="3305">%null%</text>
-<text id="3306">%null%</text>
-<text id="3307">%null%</text>
-<text id="3308">%null%</text>
-<text id="3309">%null%</text>
 <text id="3310">Sorcery which improves upon Magic Shield.
 High magic augmentation: left shield.
 
@@ -1852,15 +1577,6 @@ Not a simple augmentation, making it
 dependent on the skill of its caster. 
 An example of the capacity of Oolacile
 sorceries to control light.</text>
-<text id="3401">%null%</text>
-<text id="3402">%null%</text>
-<text id="3403">%null%</text>
-<text id="3404">%null%</text>
-<text id="3405">%null%</text>
-<text id="3406">%null%</text>
-<text id="3407">%null%</text>
-<text id="3408">%null%</text>
-<text id="3409">%null%</text>
 <text id="3410">Ancient sorcery of the lost land of Oolacile.
 Turns body nearly invisible.
 
@@ -1879,15 +1595,6 @@ This light-producing sorcery is elementary
 but nonetheless demonstrates the achievements
 in mysticism of Oolacile. Such magic has
 not been developed even in Vinheim.</text>
-<text id="3501">%null%</text>
-<text id="3502">%null%</text>
-<text id="3503">%null%</text>
-<text id="3504">%null%</text>
-<text id="3505">%null%</text>
-<text id="3506">%null%</text>
-<text id="3507">%null%</text>
-<text id="3508">%null%</text>
-<text id="3509">%null%</text>
 <text id="3510">Sorcery developed by a certain surreptitious
 sorcerer at Vinheim Dragon School.
 Masks all noises of caster.
@@ -1895,15 +1602,6 @@ Masks all noises of caster.
 Effectively, Vinheim is controlled by the
 Dragon School, and it is no wonder that the
 town has its share of dark secrets.</text>
-<text id="3511">%null%</text>
-<text id="3512">%null%</text>
-<text id="3513">%null%</text>
-<text id="3514">%null%</text>
-<text id="3515">%null%</text>
-<text id="3516">%null%</text>
-<text id="3517">%null%</text>
-<text id="3518">%null%</text>
-<text id="3519">%null%</text>
 <text id="3520">Sorcery used by playful sorcerers.
 Lure enemies away by creating a
 sound originating in the distance.
@@ -1913,15 +1611,6 @@ serious sorcerers, but it has a surprising
 amount of applications, some of them
 extremely effective.
 </text>
-<text id="3521">%null%</text>
-<text id="3522">%null%</text>
-<text id="3523">%null%</text>
-<text id="3524">%null%</text>
-<text id="3525">%null%</text>
-<text id="3526">%null%</text>
-<text id="3527">%null%</text>
-<text id="3528">%null%</text>
-<text id="3529">%null%</text>
 <text id="3530">Ancient sorcery of the lost land of Oolacile.
 Repair equipped weapons and armor.
 
@@ -1930,15 +1619,6 @@ Oolacile. Its effects resemble Repair Powder,
 which must have found its way into the
 culture of this lost land.
 </text>
-<text id="3531">%null%</text>
-<text id="3532">%null%</text>
-<text id="3533">%null%</text>
-<text id="3534">%null%</text>
-<text id="3535">%null%</text>
-<text id="3536">%null%</text>
-<text id="3537">%null%</text>
-<text id="3538">%null%</text>
-<text id="3539">%null%</text>
 <text id="3540">Sorcery developed by a certain surreptitious
 sorcerer at Vinheim Dragon School.
 Reduce damage and noise from fall.
@@ -1948,15 +1628,6 @@ extravagant cost of hiring Vinheim spooks.
 
 
 </text>
-<text id="3541">%null%</text>
-<text id="3542">%null%</text>
-<text id="3543">%null%</text>
-<text id="3544">%null%</text>
-<text id="3545">%null%</text>
-<text id="3546">%null%</text>
-<text id="3547">%null%</text>
-<text id="3548">%null%</text>
-<text id="3549">%null%</text>
 <text id="3550">Ancient sorcery of the lost land of Oolacile.
 Transform into something inconspicuous.
 
@@ -1973,15 +1644,6 @@ Sacrifice humanity to undo curse.
 Abhorrent curses eat away at the core of
 one's very existence, and cleansing oneself
 of curses is no easy task indeed.</text>
-<text id="3601">%null%</text>
-<text id="3602">%null%</text>
-<text id="3603">%null%</text>
-<text id="3604">%null%</text>
-<text id="3605">%null%</text>
-<text id="3606">%null%</text>
-<text id="3607">%null%</text>
-<text id="3608">%null%</text>
-<text id="3609">%null%</text>
 <text id="3610">Sorcery of the red-robed Yulva,
 one of the Sealers of New Londo.
 Reduce bleeding and poison build-up,
@@ -2003,15 +1665,6 @@ Hurl fireball.
 The fire damage caused by fireballs makes
 them effective against corporeal beasts and
 Undead, who by nature fear flame.</text>
-<text id="4001">%null%</text>
-<text id="4002">%null%</text>
-<text id="4003">%null%</text>
-<text id="4004">%null%</text>
-<text id="4005">%null%</text>
-<text id="4006">%null%</text>
-<text id="4007">%null%</text>
-<text id="4008">%null%</text>
-<text id="4009">%null%</text>
 <text id="4010">Pyromancy which improves upon Fireball.
 Hurl fire orb.
 
@@ -2019,15 +1672,6 @@ The flaming fire orb explodes upon impact,
 causing fire splash damage in a spectacle
 which seems to symbolize the strength of
 the fire-manipulating pyromancers.</text>
-<text id="4011">%null%</text>
-<text id="4012">%null%</text>
-<text id="4013">%null%</text>
-<text id="4014">%null%</text>
-<text id="4015">%null%</text>
-<text id="4016">%null%</text>
-<text id="4017">%null%</text>
-<text id="4018">%null%</text>
-<text id="4019">%null%</text>
 <text id="4020">Ultimate fireball pyromancy.
 Hurl giant fireball.
 
@@ -2037,29 +1681,11 @@ pyromancy was rooted in an adoration of fire.
 Those who acquire this spell usually agree.
 
 </text>
-<text id="4021">%null%</text>
-<text id="4022">%null%</text>
-<text id="4023">%null%</text>
-<text id="4024">%null%</text>
-<text id="4025">%null%</text>
-<text id="4026">%null%</text>
-<text id="4027">%null%</text>
-<text id="4028">%null%</text>
-<text id="4029">%null%</text>
 <text id="4030">Primal pyromancy taught by Quelana of Izalith.
 Erect fire pillars in vicinity.
 
 The storm of flame is indiscriminate,
 and incinerates all nearby life.</text>
-<text id="4031">%null%</text>
-<text id="4032">%null%</text>
-<text id="4033">%null%</text>
-<text id="4034">%null%</text>
-<text id="4035">%null%</text>
-<text id="4036">%null%</text>
-<text id="4037">%null%</text>
-<text id="4038">%null%</text>
-<text id="4039">%null%</text>
 <text id="4040">Primal pyromancy of Quelana of Izalith.
 Erect giant fire pillars in vicinity.
 
@@ -2067,15 +1693,6 @@ The tempestuous raging flames resemble those
 summoned by the Daughters of Chaos when they
 challenged the ancient dragons and scorched
 the very earth.</text>
-<text id="4041">%null%</text>
-<text id="4042">%null%</text>
-<text id="4043">%null%</text>
-<text id="4044">%null%</text>
-<text id="4045">%null%</text>
-<text id="4046">%null%</text>
-<text id="4047">%null%</text>
-<text id="4048">%null%</text>
-<text id="4049">%null%</text>
 <text id="4050">Pyromancy foreign to the Great Swamp.
 Create a surge of flame from palm of hand.
 
@@ -2083,15 +1700,6 @@ Not all pyromancy originates in the Great
 Swamp. One hears rumors of unknown
 pyromancers inhabiting various lands, and
 this spell is the work of one such outlander.</text>
-<text id="4051">%null%</text>
-<text id="4052">%null%</text>
-<text id="4053">%null%</text>
-<text id="4054">%null%</text>
-<text id="4055">%null%</text>
-<text id="4056">%null%</text>
-<text id="4057">%null%</text>
-<text id="4058">%null%</text>
-<text id="4059">%null%</text>
 <text id="4060">Primal pyromancy taught by Quelana of Izalith.
 Sweep foes with fire whip.
 
@@ -2103,15 +1711,6 @@ Create powerful flame in hand.
 One of the most basic pyromancies.
 For this very reason, the flame thus
 created is fierce.</text>
-<text id="4101">%null%</text>
-<text id="4102">%null%</text>
-<text id="4103">%null%</text>
-<text id="4104">%null%</text>
-<text id="4105">%null%</text>
-<text id="4106">%null%</text>
-<text id="4107">%null%</text>
-<text id="4108">%null%</text>
-<text id="4109">%null%</text>
 <text id="4110">Pyromancy which improves upon Combustion.
 Create powerful, giant flame in hand.
 
@@ -2125,15 +1724,6 @@ Create poison mist.
 Eingyi became an egg-bearing Undead who
 serves a deformed young girl who speaks
 an unintelligible tongue.</text>
-<text id="4201">%null%</text>
-<text id="4202">%null%</text>
-<text id="4203">%null%</text>
-<text id="4204">%null%</text>
-<text id="4205">%null%</text>
-<text id="4206">%null%</text>
-<text id="4207">%null%</text>
-<text id="4208">%null%</text>
-<text id="4209">%null%</text>
 <text id="4210">Unique pyromancy crafted by Eingyi,
 considered a heretic even at the Great Swamp
 Create intense poison mist.
@@ -2141,15 +1731,6 @@ Create intense poison mist.
 Why was Eingyi driven from the Great Swamp?
 One only need cast this pyromancy, a perverse
 diversion from the art of fire, to find out.</text>
-<text id="4211">%null%</text>
-<text id="4212">%null%</text>
-<text id="4213">%null%</text>
-<text id="4214">%null%</text>
-<text id="4215">%null%</text>
-<text id="4216">%null%</text>
-<text id="4217">%null%</text>
-<text id="4218">%null%</text>
-<text id="4219">%null%</text>
 <text id="4220">Pyromancy foreign to the Great Swamp.
 Emit acid which corrodes weapons and armor.
 
@@ -2164,15 +1745,6 @@ Iron flesh boosts defense and resilience.
 Use of this pyromancy requires caution,
 as the caster becomes exceedingly heavy
 and unable to move freely.</text>
-<text id="4301">%null%</text>
-<text id="4302">%null%</text>
-<text id="4303">%null%</text>
-<text id="4304">%null%</text>
-<text id="4305">%null%</text>
-<text id="4306">%null%</text>
-<text id="4307">%null%</text>
-<text id="4308">%null%</text>
-<text id="4309">%null%</text>
 <text id="4310">Pyromancy of Carmina, who harnessed the power
 of flame to actualize the inner-self.
 Intense sweating reduces flame damage.
@@ -2180,17 +1752,7 @@ Intense sweating reduces flame damage.
 Carmina, the most accomplished pupil of
 Salaman the Master Pyromancy, pioneered
 new directions for the art of pyromancy.</text>
-<text id="4311">%null%</text>
-<text id="4312">%null%</text>
-<text id="4313">%null%</text>
-<text id="4314">%null%</text>
-<text id="4315">%null%</text>
-<text id="4316">%null%</text>
-<text id="4317">%null%</text>
-<text id="4318">%null%</text>
-<text id="4319">%null%</text>
-<text id="4320">Advanced pyromancy of Quelana of Izalith.
-Charm Undead and gain temporary allies.
+<text id="4320">Charm Undead and gain temporary allies.
 
 The living are lured by flame, and this
 relationship is part and parcel to the art of
@@ -2217,15 +1779,6 @@ change strength depending on humanity
 The Witch of Izalith, in an ambitious attempt
 to copy the First Flame, created instead the
 Flame of Chaos, a twisted bed of life.</text>
-<text id="4501">%null%</text>
-<text id="4502">%null%</text>
-<text id="4503">%null%</text>
-<text id="4504">%null%</text>
-<text id="4505">%null%</text>
-<text id="4506">%null%</text>
-<text id="4507">%null%</text>
-<text id="4508">%null%</text>
-<text id="4509">%null%</text>
 <text id="4510">Art of the Flame of Chaos, which engulfed
 the Witch of Izalith and her daughters
 Sweep foes with chaos fire whip which
@@ -2233,15 +1786,6 @@ changes strength depending on humanity
 
 The fire whip was wielded by the
 eldest of the Daughters of Chaos.</text>
-<text id="4511">%null%</text>
-<text id="4512">%null%</text>
-<text id="4513">%null%</text>
-<text id="4514">%null%</text>
-<text id="4515">%null%</text>
-<text id="4516">%null%</text>
-<text id="4517">%null%</text>
-<text id="4518">%null%</text>
-<text id="4519">%null%</text>
 <text id="4520">Miracles</text>
 <text id="5000">Great miracle cast by advanced clerics.
 Restores high HP.
@@ -2249,73 +1793,28 @@ Restores high HP.
 Great Heal is a long tale, only learned by a
 select few. No caster will be disappointed
 by the bountiful life that it yields.</text>
-<text id="5001">%null%</text>
-<text id="5002">%null%</text>
-<text id="5003">%null%</text>
-<text id="5004">%null%</text>
-<text id="5005">%null%</text>
-<text id="5006">%null%</text>
-<text id="5007">%null%</text>
-<text id="5008">%null%</text>
-<text id="5009">%null%</text>
 <text id="5010">Great miracle cast by advanced clerics.
 Restores high HP.
 
 Great Heal Excerpt borrows from only
 several verses of Great Heal. As a result,
 it can only be cast a stark few times.</text>
-<text id="5011">%null%</text>
-<text id="5012">%null%</text>
-<text id="5013">%null%</text>
-<text id="5014">%null%</text>
-<text id="5015">%null%</text>
-<text id="5016">%null%</text>
-<text id="5017">%null%</text>
-<text id="5018">%null%</text>
-<text id="5019">%null%</text>
 <text id="5020">Great miracle cast by advanced clerics.
 Restores high HP.
 
 Great Heal Excerpt borrows from only
 several verses of Great Heal. As a result,
 it can only be cast a stark few times.</text>
-<text id="5021">%null%</text>
-<text id="5022">%null%</text>
-<text id="5023">%null%</text>
-<text id="5024">%null%</text>
-<text id="5025">%null%</text>
-<text id="5026">%null%</text>
-<text id="5027">%null%</text>
-<text id="5028">%null%</text>
-<text id="5029">%null%</text>
 <text id="5030">Common miracle amongst cleric knights.
 Gradual HP restoration.
 
 Beware of the cleric knight blessed by
 Replenishment, for he shall not fall easily.</text>
-<text id="5031">%null%</text>
-<text id="5032">%null%</text>
-<text id="5033">%null%</text>
-<text id="5034">%null%</text>
-<text id="5035">%null%</text>
-<text id="5036">%null%</text>
-<text id="5037">%null%</text>
-<text id="5038">%null%</text>
-<text id="5039">%null%</text>
 <text id="5040">Common miracle amongst cleric knights.
 Gradual HP restoration.
 
 Beware of the cleric knight blessed by
 Replenishment, for he shall not fall easily.</text>
-<text id="5041">%null%</text>
-<text id="5042">%null%</text>
-<text id="5043">%null%</text>
-<text id="5044">%null%</text>
-<text id="5045">%null%</text>
-<text id="5046">%null%</text>
-<text id="5047">%null%</text>
-<text id="5048">%null%</text>
-<text id="5049">%null%</text>
 <text id="5050">Miracle known only by the servants of
 the first dead, Gravelord Nito.
 Giant Gravelord swords jut out in vicinity.
@@ -2330,15 +1829,6 @@ Giant Gravelord swords jut out in vicinity.
 Many have died, and many eyes were claimed to
 realize the Greatsword Dance, a Gravelord
 ritual known only by his closest servants.</text>
-<text id="5101">%null%</text>
-<text id="5102">%null%</text>
-<text id="5103">%null%</text>
-<text id="5104">%null%</text>
-<text id="5105">%null%</text>
-<text id="5106">%null%</text>
-<text id="5107">%null%</text>
-<text id="5108">%null%</text>
-<text id="5109">%null%</text>
 <text id="5110">Lost miracle, foreign to the Way of White
 While active, no losses incurred upon death
 
@@ -2353,15 +1843,6 @@ only the curse of the Undead has distorted
 its power, redirecting casters to a bonfire.
 Or perhaps for Undead, this serves as home?
 </text>
-<text id="5201">%null%</text>
-<text id="5202">%null%</text>
-<text id="5203">%null%</text>
-<text id="5204">%null%</text>
-<text id="5205">%null%</text>
-<text id="5206">%null%</text>
-<text id="5207">%null%</text>
-<text id="5208">%null%</text>
-<text id="5209">%null%</text>
 <text id="5210">Great miracle cast by advanced clerics.
 Return to last bonfire rested at.
 
@@ -2377,29 +1858,11 @@ Wrath of the Gods was an epic tale that
 tattered over time and devolved into the
 modern Force. This primal form of Force
 emits a shockwave that also inflicts damage.</text>
-<text id="5301">%null%</text>
-<text id="5302">%null%</text>
-<text id="5303">%null%</text>
-<text id="5304">%null%</text>
-<text id="5305">%null%</text>
-<text id="5306">%null%</text>
-<text id="5307">%null%</text>
-<text id="5308">%null%</text>
-<text id="5309">%null%</text>
 <text id="5310">Outland miracle, foreign to the Way of White.
 Emit shockwave.
 
 Considered an alternate branching of Force.
 Emits an expanding shockwave orb.</text>
-<text id="5311">%null%</text>
-<text id="5312">%null%</text>
-<text id="5313">%null%</text>
-<text id="5314">%null%</text>
-<text id="5315">%null%</text>
-<text id="5316">%null%</text>
-<text id="5317">%null%</text>
-<text id="5318">%null%</text>
-<text id="5319">%null%</text>
 <text id="5320">Miracle of clerics on an Undead mission.
 Display more guidance from other worlds.
 
@@ -2419,30 +1882,12 @@ Hurl giant lightning spear.
 The weapon of the God of War, who inherited
 the sunlight of Lord Gwyn, but had
 respect only for arms, and nothing else.</text>
-<text id="5501">%null%</text>
-<text id="5502">%null%</text>
-<text id="5503">%null%</text>
-<text id="5504">%null%</text>
-<text id="5505">%null%</text>
-<text id="5506">%null%</text>
-<text id="5507">%null%</text>
-<text id="5508">%null%</text>
-<text id="5509">%null%</text>
 <text id="5510">Miracle born from the fading soul of Gwyn.
 Hurl sunlight spear.
 
 In the war that marked the dawn of the Age
 of Fire, Gwyn wielded these rays of sunlight,
 which remain fierce even as they fade.</text>
-<text id="5511">%null%</text>
-<text id="5512">%null%</text>
-<text id="5513">%null%</text>
-<text id="5514">%null%</text>
-<text id="5515">%null%</text>
-<text id="5516">%null%</text>
-<text id="5517">%null%</text>
-<text id="5518">%null%</text>
-<text id="5519">%null%</text>
 <text id="5520">Miracle of Bishop Havel the Rock.
 Cover body in defensive magic coating.
 
@@ -2456,31 +1901,12 @@ Havel the Rock, an old battlefield compatriot
 of Lord Gwyn, was the sworn enemy of Seath
 the Scaleless. He despised magic, and made
 certain to devise means of counteraction.</text>
-<text id="5601">%null%</text>
-<text id="5602">%null%</text>
-<text id="5603">%null%</text>
-<text id="5604">%null%</text>
-<text id="5605">%null%</text>
-<text id="5606">%null%</text>
-<text id="5607">%null%</text>
-<text id="5608">%null%</text>
-<text id="5609">%null%</text>
 <text id="5610">Miracle of the black-haired witch Velka.
 Temporary auto counter vs. heavy damage.
 
 For each sin there is a punishment, and
 it is the task of Goddess Velka to define
 the sin, and mete out the punishment.</text>
-<text id="5700">%null%</text>
-<text id="5701">%null%</text>
-<text id="5702">%null%</text>
-<text id="5703">%null%</text>
-<text id="5704">%null%</text>
-<text id="5705">%null%</text>
-<text id="5706">%null%</text>
-<text id="5707">%null%</text>
-<text id="5708">%null%</text>
-<text id="5709">%null%</text>
 <text id="5710">Outland miracle, foreign to the Way of White.
 Slows all walking within effect area.
 
@@ -2494,15 +1920,6 @@ Velka, the Goddess of Sin, is a rogue deity,
 but she is versed in arts both new and old,
 and is considered to have a great range of
 influence even as gods are concerned.</text>
-<text id="5801">%null%</text>
-<text id="5802">%null%</text>
-<text id="5803">%null%</text>
-<text id="5804">%null%</text>
-<text id="5805">%null%</text>
-<text id="5806">%null%</text>
-<text id="5807">%null%</text>
-<text id="5808">%null%</text>
-<text id="5809">%null%</text>
 <text id="5810">Miracle wielded by Lord Gwyn's firstborn.
 Boost right weapon with rays of Sun.
 
@@ -2518,15 +1935,6 @@ Boost right weapon with rays of Darkmoon.
 The power of the rays of the Darkmoon are
 manifested in vengeance, and the deeper the
 animus, the more devastating the attack.</text>
-<text id="5901">%null%</text>
-<text id="5902">%null%</text>
-<text id="5903">%null%</text>
-<text id="5904">%null%</text>
-<text id="5905">%null%</text>
-<text id="5906">%null%</text>
-<text id="5907">%null%</text>
-<text id="5908">%null%</text>
-<text id="5909">%null%</text>
 <text id="5910">Miracle granted to those bound by covenant
 to Gwyndolin, Lord Gwyn's lastborn.
 Boost right weapon with rays of Darkmoon.
@@ -2534,20 +1942,5 @@ Boost right weapon with rays of Darkmoon.
 The power of the rays of the Darkmoon are
 manifested in vengeance, and the deeper the
 animus, the more devastating the attack.</text>
-<text id="9000">%null%</text>
-<text id="9001">%null%</text>
-<text id="9002">%null%</text>
-<text id="9003">%null%</text>
-<text id="9004">%null%</text>
-<text id="9005">%null%</text>
-<text id="9006">%null%</text>
-<text id="9007">%null%</text>
-<text id="9008">%null%</text>
-<text id="9009">%null%</text>
-<text id="9010">%null%</text>
-<text id="9011">%null%</text>
-<text id="9012">%null%</text>
-<text id="9013">%null%</text>
-<text id="9014">%null%</text>
 </entries>
 </fmg>

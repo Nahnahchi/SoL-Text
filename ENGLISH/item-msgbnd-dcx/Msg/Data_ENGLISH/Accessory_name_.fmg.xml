@@ -4,8 +4,6 @@
 <version>DarkSouls1</version>
 <bigendian>False</bigendian>
 <entries>
-<text id="1">%null%</text>
-<text id="2">%null%</text>
 <text id="100">Havel's Ring</text>
 <text id="101">Red Tearstone Ring</text>
 <text id="102">Darkmoon Blade Covenant Ring</text>
@@ -18,13 +16,11 @@
 <text id="109">Bloodbite Ring</text>
 <text id="110">Poisonbite Ring</text>
 <text id="111">Tiny Being's Ring</text>
-<text id="112">%null%</text>
 <text id="113">Cursebite Ring</text>
 <text id="114">White Seance Ring</text>
 <text id="115">Bellowing Dragoncrest Ring</text>
 <text id="116">Dusk Crown Ring</text>
 <text id="117">Hornet Ring</text>
-<text id="118">%null%</text>
 <text id="119">Hawk Ring</text>
 <text id="120">Ring of Steel Protection</text>
 <text id="121">Covetous Gold Serpent Ring</text>
@@ -35,14 +31,9 @@
 <text id="126">Ring of Sacrifice</text>
 <text id="127">Rare Ring of Sacrifice</text>
 <text id="128">Dark Wood Grain Ring</text>
-<text id="129">%null%</text>
 <text id="130">Ring of the Sun Princess</text>
-<text id="131">%null%</text>
-<text id="132">%null%</text>
 <text id="133">Ring of Condemnation</text>
 <text id="134">Ring of Blind Ghosts</text>
-<text id="135">%null%</text>
-<text id="136">%null%</text>
 <text id="137">Old Witch's Ring</text>
 <text id="138">Covenant of Artorias</text>
 <text id="139">Orange Charred Ring</text>

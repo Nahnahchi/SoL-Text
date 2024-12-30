@@ -44,13 +44,6 @@
 Returning to Title Menu.</text>
 <text id="4102">The connection to the DARK SOULS™: REMASTERED game server 
 was lost.  Returning to Title Menu.</text>
-<text id="4103">%null%</text>
-<text id="4104">%null%</text>
-<text id="4105">%null%</text>
-<text id="4106">%null%</text>
-<text id="4107">%null%</text>
-<text id="4108">%null%</text>
-<text id="4109">%null%</text>
 <text id="4110">The connection to the DARK SOULS™: REMASTERED game server was lost.</text>
 <text id="4160">Connection to Steam interrupted.
 Returning to Title Menu.</text>
@@ -73,25 +66,7 @@ Returning to Title Menu.</text>
 Save data is corrupted.</text>
 <text id="4194">Network connection has been lost. Returning to Title Menu.</text>
 <text id="18300">&lt;?selectUD?&gt;:Select &lt;?conclusion?&gt;:Details &lt;?commando?&gt;:Steam User Info &lt;?cancel?&gt;:Close &lt;?categoryChangeL?&gt;:Previous 100 &lt;?categoryChangeR?&gt;:Next 100 &lt;?shortCutL?&gt;:Show top &lt;?shortCutR?&gt;:Your Grades</text>
-<text id="18301">%null%</text>
-<text id="18302">%null%</text>
-<text id="18303">%null%</text>
-<text id="18304">%null%</text>
-<text id="18305">%null%</text>
-<text id="18306">%null%</text>
-<text id="18307">%null%</text>
-<text id="18308">%null%</text>
-<text id="18309">%null%</text>
 <text id="18310">&lt;?selectUD?&gt;:Select &lt;?selectLR?&gt;Change level tier &lt;?conclusion?&gt;:Details &lt;?commando?&gt;:Steam User Info &lt;?cancel?&gt;:Close &lt;?categoryChangeL?&gt;:Above 100 &lt;?categoryChangeR?&gt;:Below 100 &lt;?shortCutL?&gt;:Show leaders &lt;?shortCutR?&gt;:Your rank</text>
-<text id="18311">%null%</text>
-<text id="18312">%null%</text>
-<text id="18313">%null%</text>
-<text id="18314">%null%</text>
-<text id="18315">%null%</text>
-<text id="18316">%null%</text>
-<text id="18317">%null%</text>
-<text id="18318">%null%</text>
-<text id="18319">%null%</text>
 <text id="18320">&lt;?selectUD?&gt;:Select &lt;?conclusion?&gt;:Enter &lt;?commando?&gt;:Steam User Info &lt;?cancel?&gt;:Close</text>
 <text id="41000">This will delete selected save data.
 Is this OK?</text>
@@ -105,17 +80,9 @@ and download update.</text>
 <text id="45100">Insufficient free space on hard drive.
 At least 9 MB is required to play
 DARK SOULS™: REMASTERED.</text>
-<text id="45101">%null%</text>
-<text id="45102">%null%</text>
 <text id="45103">Insufficient free space on hard drive.
 At least 9 MB is required to play
 DARK SOULS™: REMASTERED.</text>
-<text id="45104">%null%</text>
-<text id="45105">%null%</text>
-<text id="45106">%null%</text>
-<text id="45107">%null%</text>
-<text id="45108">%null%</text>
-<text id="45109">%null%</text>
 <text id="45110">Save data was corrupted.</text>
 <text id="45111">Save data was corrupted.
 Would you like to create new save data?
@@ -123,14 +90,6 @@ The current save data will be overwritten.
 
 Select OK to overwrite save data.
 Select CANCEL to reload current save data.</text>
-<text id="45112">%null%</text>
-<text id="45113">%null%</text>
-<text id="45114">%null%</text>
-<text id="45115">%null%</text>
-<text id="45116">%null%</text>
-<text id="45117">%null%</text>
-<text id="45118">%null%</text>
-<text id="45119">%null%</text>
 <text id="45120">Failed to load save data.</text>
 <text id="45121">Failed to load save data.
 Would you like to create new save data?
@@ -144,13 +103,6 @@ from the System menu.
 
 Failing to quit the game properly can result
 in losing some progress.</text>
-<text id="45123">%null%</text>
-<text id="45124">%null%</text>
-<text id="45125">%null%</text>
-<text id="45126">%null%</text>
-<text id="45127">%null%</text>
-<text id="45128">%null%</text>
-<text id="45129">%null%</text>
 <text id="45130">Failed to create new save data.
 Please exit the game and manually delete the save data.
 
@@ -169,7 +121,6 @@ Selecting CANCEL will load the save data again.</text>
 Delete an existing character and create a new one?
 
 *You can create up to 10 characters.</text>
-<text id="45500">%null%</text>
 <text id="47000">Checking number of files</text>
 <text id="47100">Loading save data...
 Do not turn off the power
@@ -180,13 +131,6 @@ or quit the game.</text>
 <text id="47102">Loading...
 Do not turn off the power
 or quit the game.</text>
-<text id="47103">%null%</text>
-<text id="47104">%null%</text>
-<text id="47105">%null%</text>
-<text id="47106">%null%</text>
-<text id="47107">%null%</text>
-<text id="47108">%null%</text>
-<text id="47109">%null%</text>
 <text id="47110">Updating save data...
 Do not turn off the power
 or quit the game.</text>
@@ -199,16 +143,7 @@ or quit the game.</text>
 <text id="47113">Deleting character...
 Do not turn off the power
 or quit the game.</text>
-<text id="47114">%null%</text>
-<text id="47115">%null%</text>
-<text id="47116">%null%</text>
-<text id="47117">%null%</text>
-<text id="47118">%null%</text>
-<text id="47119">%null%</text>
-<text id="47120">%null%</text>
-<text id="47121">%null%</text>
 <text id="48000">Discard changes and return</text>
-<text id="50000">%null%</text>
 <text id="50001">Acquiring Ranking Data</text>
 <text id="50002">Ranking Data cannot be acquired in Offline Mode</text>
 <text id="50501">Game will start in offline mode.</text>
@@ -239,10 +174,6 @@ You will only be able to play offline</text>
 You will only be able to play offline</text>
 <text id="50525">Cannot use server at this time
 You will only be able to play offline</text>
-<text id="50526">%null%</text>
-<text id="50527">%null%</text>
-<text id="50528">%null%</text>
-<text id="50529">%null%</text>
 <text id="50530">Error with Framerate detected and 
 Online mode is not accessible.
 Either continue the game in Offline mode
@@ -292,7 +223,6 @@ Do you wish to create new save data?
 This will overwrite your old save data.
 
 Select "No" to attempt to load again.</text>
-<text id="65204">%null%</text>
 <text id="65205">No storage device selected. Failed to load save data.</text>
 <text id="65206">Unable to access selected storage device.
 Failed to create save data.</text>
@@ -323,14 +253,6 @@ hard drive.</text>
 If a previous character has already been
 added, its rankings will be overwritten.</text>
 <text id="65401">Remove this character from rankings?</text>
-<text id="65402">%null%</text>
-<text id="65403">%null%</text>
-<text id="65404">%null%</text>
-<text id="65405">%null%</text>
-<text id="65406">%null%</text>
-<text id="65407">%null%</text>
-<text id="65408">%null%</text>
-<text id="65409">%null%</text>
 <text id="65410">Downloading advanced data</text>
 <text id="65411">Failed to download advanced data
 
@@ -359,8 +281,6 @@ in loss of progress.</text>
 Press "OK" to try again.</text>
 <text id="401103">Failed to load save data.
 Press "OK" to try again.</text>
-<text id="401104">%null%</text>
-<text id="401105">%null%</text>
 <text id="401106">Failed to save game.
 Save data is corrupted.
 
@@ -371,7 +291,6 @@ Delete corrupted data and create a new save?</text>
 Insufficient free space to save game.
 
 Select "OK" to try again.</text>
-<text id="401109">%null%</text>
 <text id="401110">Checking save data...</text>
 <text id="401111">Creating save data...</text>
 <text id="401112">Updating save data...</text>
@@ -382,32 +301,11 @@ DARK SOULS™: REMASTERED to the latest version before trying again.</text>
 a later version of the currently installed game.
 Quit the game and sign in to Steam to
 update DARK SOULS™: REMASTERED to the latest version.</text>
-<text id="401115">%null%</text>
-<text id="401116">%null%</text>
-<text id="401117">%null%</text>
-<text id="401118">%null%</text>
-<text id="401119">%null%</text>
 <text id="401120">Checking network connection status...</text>
 <text id="401150">Logging in to the DARK SOULS™: REMASTERED game server...</text>
 <text id="401151">Logging out from DARK SOULS™: REMASTERED game server...</text>
-<text id="401152">%null%</text>
-<text id="401153">%null%</text>
-<text id="401154">%null%</text>
-<text id="401155">%null%</text>
-<text id="401156">%null%</text>
-<text id="401157">%null%</text>
-<text id="401158">%null%</text>
-<text id="401159">%null%</text>
 <text id="401160">Retrieving data from the DARK SOULS™: REMASTERED game server...</text>
-<text id="401161">%null%</text>
-<text id="401162">%null%</text>
-<text id="401163">%null%</text>
-<text id="401164">%null%</text>
 <text id="401165">Saving data to the DARK SOULS™: REMASTERED game server...</text>
-<text id="401166">%null%</text>
-<text id="401167">%null%</text>
-<text id="401168">%null%</text>
-<text id="401169">%null%</text>
 <text id="401170">Starting in offline mode.
 
 To use online features, check to see 
@@ -428,7 +326,6 @@ Select "OK" to attempt to log in again.</text>
 features, please install the update and restart the game.</text>
 <text id="401505">Cannot log in to the DARK SOULS™: REMASTERED game server
 because it has been stopped or is undergoing maintenance.</text>
-<text id="401506">%null%</text>
 <text id="401507">Cheating detected on your account by Valve Anti-Cheat.
 You may no longer utilize services provided by the DARK SOULS™: REMASTERED Servers.</text>
 <text id="401601">Failed to acquire information.
@@ -439,15 +336,6 @@ Delete an existing profile and create a new one?
 Note: You may create up to 10 profiles.</text>
 <text id="401721">Failed to load save data.
 Save data is corrupted.</text>
-<text id="401722">%null%</text>
-<text id="401723">%null%</text>
-<text id="401724">%null%</text>
-<text id="401725">%null%</text>
-<text id="401726">%null%</text>
-<text id="401727">%null%</text>
-<text id="401728">%null%</text>
-<text id="401729">%null%</text>
-<text id="401730">%null%</text>
 <text id="401731">Failed to initialize character info for online play.
 Select "OK" to try again.</text>
 <text id="401991">An error has occurred.
@@ -1081,28 +969,17 @@ Leaving session.</text>
 <text id="20001003">Failed to create session.</text>
 <text id="20001004">Failed to join session.</text>
 <text id="20001005">You have been disconnected from Steam. Exiting online mode…</text>
-<text id="20001006">%null%</text>
-<text id="20001007">%null%</text>
-<text id="20001008">%null%</text>
-<text id="20001009">%null%</text>
 <text id="20001010">A sign-in change has occurred.
 Exiting game session...</text>
 <text id="20001011">Cannot continue game because you are in party chat.
 Returning to Title Menu...</text>
-<text id="20001012">%null%</text>
-<text id="20001013">%null%</text>
-<text id="20001014">%null%</text>
 <text id="20001015">P2P connection has been lost
 Returning to Main Menu</text>
-<text id="20001016">%null%</text>
 <text id="20001017">Framerate is insufficient for Online play. 
 Returning to the Title menu. </text>
 <text id="20001999">Network settings</text>
 <text id="20002000">Network settings</text>
-<text id="20002001">%null%</text>
 <text id="20002002">Matchmaking password</text>
-<text id="20002003">%null%</text>
-<text id="20002004">%null%</text>
 <text id="20002005">Region Matchmaking</text>
 <text id="20002006">Launch setting</text>
 <text id="20002007">Ranking Registration</text>
@@ -1121,57 +998,12 @@ Returning to the Title menu. </text>
 <text id="20002204">&lt;?networkValue05?&gt;</text>
 <text id="30001000">DARK SOULS™: REMASTERED ROM not detected.
 Insert DARK SOULS™: REMASTERED ROM into drive.</text>
-<text id="30001001">%null%</text>
-<text id="30001002">%null%</text>
-<text id="30001003">%null%</text>
-<text id="30001004">%null%</text>
-<text id="30001005">%null%</text>
-<text id="30001006">%null%</text>
-<text id="30001007">%null%</text>
-<text id="30001008">%null%</text>
-<text id="30001009">%null%</text>
 <text id="30001010">This game requires DirectX 9.
 Please install DirectX 9 to play.</text>
-<text id="30001011">%null%</text>
-<text id="30001012">%null%</text>
-<text id="30001013">%null%</text>
-<text id="30001014">%null%</text>
-<text id="30001015">%null%</text>
-<text id="30001016">%null%</text>
-<text id="30001017">%null%</text>
-<text id="30001018">%null%</text>
-<text id="30001019">%null%</text>
 <text id="30001020">This computer is running an older version of Windows.
 To play this game, install version xxx or higher.</text>
-<text id="30001021">%null%</text>
-<text id="30001022">%null%</text>
-<text id="30001023">%null%</text>
-<text id="30001024">%null%</text>
-<text id="30001025">%null%</text>
-<text id="30001026">%null%</text>
-<text id="30001027">%null%</text>
-<text id="30001028">%null%</text>
-<text id="30001029">%null%</text>
 <text id="30001030">This application was already launched</text>
-<text id="30001031">%null%</text>
-<text id="30001032">%null%</text>
-<text id="30001033">%null%</text>
-<text id="30001034">%null%</text>
-<text id="30001035">%null%</text>
-<text id="30001036">%null%</text>
-<text id="30001037">%null%</text>
-<text id="30001038">%null%</text>
-<text id="30001039">%null%</text>
 <text id="30001040">The system does not meet the minimum DirectX 11 / Shader Model 5.0 GPU requirement to run the application.</text>
-<text id="30001041">%null%</text>
-<text id="30001042">%null%</text>
-<text id="30001043">%null%</text>
-<text id="30001044">%null%</text>
-<text id="30001045">%null%</text>
-<text id="30001046">%null%</text>
-<text id="30001047">%null%</text>
-<text id="30001048">%null%</text>
-<text id="30001049">%null%</text>
 <text id="30001050">The system does not meet the minimum memory requirement to run the application.</text>
 <text id="30002000">An error occurred while reading game data.
 Closing game.</text>
@@ -1220,8 +1052,6 @@ Closing game.</text>
 <text id="30003215">Full screen</text>
 <text id="30003216">Borderless</text>
 <text id="30003217">Windowed</text>
-<text id="30003218">%null%</text>
-<text id="30003219">%null%</text>
 <text id="30003220">&lt;?pcenvInitValue05?&gt;</text>
 <text id="30003221">&lt;?pcenvInitValue06?&gt;</text>
 <text id="30003222">&lt;?pcenvInitValue07?&gt;</text>
@@ -1239,14 +1069,6 @@ Closing game.</text>
 <text id="30004004">&lt;?systemDlgButton05?&gt;</text>
 <text id="30004005">&lt;?systemDlgButton06?&gt;</text>
 <text id="30004080">Keyboard &amp; Mouse Alt</text>
-<text id="30004081">%null%</text>
-<text id="30004082">%null%</text>
-<text id="30004083">%null%</text>
-<text id="30004084">%null%</text>
-<text id="30004085">%null%</text>
-<text id="30004086">%null%</text>
-<text id="30004087">%null%</text>
-<text id="30004088">%null%</text>
 <text id="30004089">Key settings</text>
 <text id="30004090">Key settings</text>
 <text id="30004091">Controller</text>
@@ -1255,69 +1077,32 @@ Closing game.</text>
 <text id="30004094">DirectInput controller</text>
 <text id="30004095">Xbox One Wireless Controller</text>
 <text id="30004096">PlayStation®4 controller</text>
-<text id="30004097">%null%</text>
-<text id="30004098">%null%</text>
-<text id="30004099">%null%</text>
 <text id="30004100">Run (forward)</text>
 <text id="30004101">Run (backward)</text>
 <text id="30004102">Run (right)</text>
 <text id="30004103">Run (left)</text>
 <text id="30004104">Walk</text>
-<text id="30004105">%null%</text>
-<text id="30004106">%null%</text>
-<text id="30004107">%null%</text>
-<text id="30004108">%null%</text>
-<text id="30004109">%null%</text>
 <text id="30004110">Camera up</text>
 <text id="30004111">Camera down</text>
 <text id="30004112">Camera right</text>
 <text id="30004113">Camera left</text>
 <text id="30004114">Lock target on or off/Reset camera</text>
-<text id="30004115">%null%</text>
-<text id="30004116">%null%</text>
-<text id="30004117">%null%</text>
-<text id="30004118">%null%</text>
-<text id="30004119">%null%</text>
 <text id="30004120">Switch right weapon</text>
 <text id="30004121">Switch left weapon</text>
 <text id="30004122">Switch item</text>
 <text id="30004123">Switch magic</text>
-<text id="30004124">%null%</text>
-<text id="30004125">%null%</text>
-<text id="30004126">%null%</text>
-<text id="30004127">%null%</text>
-<text id="30004128">%null%</text>
-<text id="30004129">%null%</text>
 <text id="30004130">Right weapon action (attack)</text>
 <text id="30004131">Right weapon action (Strong Attack)</text>
 <text id="30004132">Left weapon action (block)</text>
 <text id="30004133">Left weapon action (parry)</text>
-<text id="30004134">%null%</text>
-<text id="30004135">%null%</text>
-<text id="30004136">%null%</text>
-<text id="30004137">%null%</text>
-<text id="30004138">%null%</text>
-<text id="30004139">%null%</text>
 <text id="30004140">Use item</text>
 <text id="30004141">Dash/Roll/Backstep</text>
 <text id="30004142">Action</text>
 <text id="30004143">Toggle one-hand/two-hand grip</text>
 <text id="30004144">Jump</text>
-<text id="30004145">%null%</text>
-<text id="30004146">%null%</text>
-<text id="30004147">%null%</text>
-<text id="30004148">%null%</text>
-<text id="30004149">%null%</text>
 <text id="30004150">Open Menu</text>
 <text id="30004151">Open Gesture Menu</text>
 <text id="30004152">Open LIVE Guide</text>
-<text id="30004153">%null%</text>
-<text id="30004154">%null%</text>
-<text id="30004155">%null%</text>
-<text id="30004156">%null%</text>
-<text id="30004157">%null%</text>
-<text id="30004158">%null%</text>
-<text id="30004159">%null%</text>
 <text id="30004160">Select (up)</text>
 <text id="30004161">Select (down)</text>
 <text id="30004162">Select (left)</text>
@@ -1346,14 +1131,6 @@ Closing game.</text>
 <text id="30004212">Input already assigned. Reassign?</text>
 <text id="40000000">&lt;?keyCategory?&gt;</text>
 <text id="40000001">&lt;?keyController?&gt;</text>
-<text id="40000002">%null%</text>
-<text id="40000003">%null%</text>
-<text id="40000004">%null%</text>
-<text id="40000005">%null%</text>
-<text id="40000006">%null%</text>
-<text id="40000007">%null%</text>
-<text id="40000008">%null%</text>
-<text id="40000009">%null%</text>
 <text id="40000010">&lt;?keyAction1?&gt;</text>
 <text id="40000011">&lt;?keyAction2?&gt;</text>
 <text id="40000012">&lt;?keyAction3?&gt;</text>
@@ -1386,35 +1163,18 @@ Closing game.</text>
 <text id="40000039">&lt;?keyDefault10?&gt;</text>
 <text id="40001001">Left click</text>
 <text id="40001002">Right click</text>
-<text id="40001003">%null%</text>
 <text id="40001004">L.</text>
 <text id="40001005">R.</text>
 <text id="40001006">(Num.Key)</text>
 <text id="40001007">+</text>
 <text id="40001008">Backspace</text>
 <text id="40001009">Tab</text>
-<text id="40001010">%null%</text>
-<text id="40001011">%null%</text>
-<text id="40001012">%null%</text>
 <text id="40001013">Enter</text>
-<text id="40001014">%null%</text>
-<text id="40001015">%null%</text>
 <text id="40001016">Shift</text>
 <text id="40001017">Ctrl</text>
 <text id="40001018">Alt</text>
-<text id="40001019">%null%</text>
 <text id="40001020">Caps Lock</text>
-<text id="40001021">%null%</text>
-<text id="40001022">%null%</text>
-<text id="40001023">%null%</text>
-<text id="40001024">%null%</text>
-<text id="40001025">%null%</text>
-<text id="40001026">%null%</text>
 <text id="40001027">Esc</text>
-<text id="40001028">%null%</text>
-<text id="40001029">%null%</text>
-<text id="40001030">%null%</text>
-<text id="40001031">%null%</text>
 <text id="40001032">Space</text>
 <text id="40001033">Page Up</text>
 <text id="40001034">Page Down</text>
@@ -1424,13 +1184,8 @@ Closing game.</text>
 <text id="40001038">↑</text>
 <text id="40001039">→</text>
 <text id="40001040">↓</text>
-<text id="40001041">%null%</text>
-<text id="40001042">%null%</text>
-<text id="40001043">%null%</text>
-<text id="40001044">%null%</text>
 <text id="40001045">Insert</text>
 <text id="40001046">Delete</text>
-<text id="40001047">%null%</text>
 <text id="40001048">0</text>
 <text id="40001049">1</text>
 <text id="40001050">2</text>
@@ -1441,13 +1196,6 @@ Closing game.</text>
 <text id="40001055">7</text>
 <text id="40001056">8</text>
 <text id="40001057">9</text>
-<text id="40001058">%null%</text>
-<text id="40001059">%null%</text>
-<text id="40001060">%null%</text>
-<text id="40001061">%null%</text>
-<text id="40001062">%null%</text>
-<text id="40001063">%null%</text>
-<text id="40001064">%null%</text>
 <text id="40001065">A</text>
 <text id="40001066">B</text>
 <text id="40001067">C</text>

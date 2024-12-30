@@ -4,8 +4,6 @@
 <version>DarkSouls1</version>
 <bigendian>False</bigendian>
 <entries>
-<text id="1">%null%</text>
-<text id="2">%null%</text>
 <text id="100000">Dagger</text>
 <text id="100100">Dagger</text>
 <text id="100200">Dagger</text>
@@ -38,7 +36,6 @@
 <text id="103800">Dagger</text>
 <text id="103900">Dagger</text>
 <text id="104000">Dagger</text>
-<text id="199000">%null%</text>
 <text id="200000">Straight Sword</text>
 <text id="200100">Straight Sword</text>
 <text id="200200">Straight Sword</text>
@@ -142,7 +139,6 @@
 <text id="212700">Straight Sword</text>
 <text id="212800">Straight Sword</text>
 <text id="212900">Straight Sword</text>
-<text id="299000">%null%</text>
 <text id="300000">Greatsword</text>
 <text id="300100">Greatsword</text>
 <text id="300200">Greatsword</text>
@@ -189,6 +185,7 @@
 <text id="307100">Greatsword</text>
 <text id="309000">Greatsword</text>
 <text id="310000">Greatsword</text>
+<text id="310100">Greatsword</text>
 <text id="311000">Greatsword</text>
 <text id="311100">Greatsword</text>
 <text id="311200">Greatsword</text>
@@ -257,8 +254,8 @@
 <text id="352900">Ul. Greatsword</text>
 <text id="354000">Ul. Greatsword</text>
 <text id="355000">Ul. Greatsword</text>
+<text id="355100">Ul. Greatsword</text>
 <text id="398000">Ul. Greatsword</text>
-<text id="399000">%null%</text>
 <text id="400000">Curved Sword</text>
 <text id="400100">Curved Sword</text>
 <text id="400200">Curved Sword</text>
@@ -328,8 +325,6 @@
 <text id="451900">C. Greatsword</text>
 <text id="453000">C. Greatsword</text>
 <text id="454000">C. Greatsword</text>
-<text id="498000">%null%</text>
-<text id="499000">%null%</text>
 <text id="500000">Katana</text>
 <text id="500100">Katana</text>
 <text id="500200">Katana</text>
@@ -485,8 +480,8 @@
 <text id="751900">Greataxe</text>
 <text id="752000">Greataxe</text>
 <text id="753000">Greataxe</text>
+<text id="753100">Greataxe</text>
 <text id="798000">Greataxe</text>
-<text id="799000">%null%</text>
 <text id="800000">Hammer</text>
 <text id="800100">Hammer</text>
 <text id="800200">Hammer</text>
@@ -622,7 +617,6 @@
 <text id="857000">Great Hammer</text>
 <text id="857100">Great Hammer</text>
 <text id="898000">Great Hammer</text>
-<text id="899000">%null%</text>
 <text id="900000">Bare fists</text>
 <text id="901000">Gauntlet</text>
 <text id="901100">Gauntlet</text>
@@ -647,7 +641,6 @@
 <text id="903000">Gauntlet</text>
 <text id="903100">Gauntlet</text>
 <text id="904000">Gauntlet</text>
-<text id="999000">%null%</text>
 <text id="1000000">Spear</text>
 <text id="1000100">Spear</text>
 <text id="1000200">Spear</text>
@@ -731,7 +724,6 @@
 <text id="1052900">Spear</text>
 <text id="1053000">Spear</text>
 <text id="1054000">Spear</text>
-<text id="1099000">%null%</text>
 <text id="1100000">Halberd</text>
 <text id="1100100">Halberd</text>
 <text id="1100200">Halberd</text>
@@ -764,6 +756,7 @@
 <text id="1103800">Halberd</text>
 <text id="1103900">Halberd</text>
 <text id="1105000">Halberd</text>
+<text id="1105100">Halberd</text>
 <text id="1106000">Halberd</text>
 <text id="1106100">Halberd</text>
 <text id="1106200">Halberd</text>
@@ -803,7 +796,6 @@
 <text id="1151600">Halberd</text>
 <text id="1151700">Halberd</text>
 <text id="1151800">Halberd</text>
-<text id="1199000">%null%</text>
 <text id="1200000">Bow</text>
 <text id="1200100">Bow</text>
 <text id="1200200">Bow</text>
@@ -873,8 +865,6 @@
 <text id="1253400">Crossbow</text>
 <text id="1253600">Crossbow</text>
 <text id="1253800">Crossbow</text>
-<text id="1298000">%null%</text>
-<text id="1299000">%null%</text>
 <text id="1300000">Catalyst</text>
 <text id="1301000">Catalyst</text>
 <text id="1302000">Catalyst</text>
@@ -920,9 +910,6 @@
 <text id="1366000">Talisman</text>
 <text id="1367000">Talisman</text>
 <text id="1396000">Lantern</text>
-<text id="1397000">%null%</text>
-<text id="1398000">%null%</text>
-<text id="1399000">%null%</text>
 <text id="1400000">Shield</text>
 <text id="1400100">Shield</text>
 <text id="1400200">Shield</text>
@@ -1115,8 +1102,6 @@
 <text id="1478400">Shield</text>
 <text id="1478600">Shield</text>
 <text id="1478800">Shield</text>
-<text id="1498000">%null%</text>
-<text id="1499000">%null%</text>
 <text id="1500000">Greatshield</text>
 <text id="1500100">Greatshield</text>
 <text id="1500200">Greatshield</text>
@@ -1180,7 +1165,6 @@
 <text id="1510400">Greatshield</text>
 <text id="1510500">Greatshield</text>
 <text id="1510600">Greatshield</text>
-<text id="1599000">%null%</text>
 <text id="1600000">Whip</text>
 <text id="1600100">Whip</text>
 <text id="1600200">Whip</text>
@@ -1201,7 +1185,6 @@
 <text id="1601700">Whip</text>
 <text id="1601800">Whip</text>
 <text id="1601900">Whip</text>
-<text id="1699000">%null%</text>
 <text id="2000000">Arrow</text>
 <text id="2001000">Arrow</text>
 <text id="2002000">Arrow</text>
@@ -1211,13 +1194,11 @@
 <text id="2006000">Arrow</text>
 <text id="2007000">Great Arrow</text>
 <text id="2008000">Great Arrow</text>
-<text id="2099000">%null%</text>
 <text id="2100000">Bolt</text>
 <text id="2101000">Bolt</text>
 <text id="2102000">Bolt</text>
 <text id="2103000">Bolt</text>
 <text id="2104000">Bolt</text>
-<text id="2199000">%null%</text>
 <text id="9000000">Shield</text>
 <text id="9000100">Shield</text>
 <text id="9000200">Shield</text>

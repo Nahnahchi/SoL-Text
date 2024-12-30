@@ -4,9 +4,6 @@
 <version>DarkSouls1</version>
 <bigendian>False</bigendian>
 <entries>
-<text id="1">%null%</text>
-<text id="2">%null%</text>
-<text id="100">%null%</text>
 <text id="100000">Dagger</text>
 <text id="100001">Dagger+1</text>
 <text id="100002">Dagger+2</text>
@@ -274,7 +271,6 @@
 <text id="104003">Priscilla's Dagger+3</text>
 <text id="104004">Priscilla's Dagger+4</text>
 <text id="104005">Priscilla's Dagger+5</text>
-<text id="199000">%null%</text>
 <text id="200000">Shortsword</text>
 <text id="200001">Shortsword+1</text>
 <text id="200002">Shortsword+2</text>
@@ -1143,7 +1139,6 @@
 <text id="212903">Chaos Straight Sword Hilt+3</text>
 <text id="212904">Chaos Straight Sword Hilt+4</text>
 <text id="212905">Chaos Straight Sword Hilt+5</text>
-<text id="299000">%null%</text>
 <text id="300000">Bastard Sword</text>
 <text id="300001">Bastard Sword+1</text>
 <text id="300002">Bastard Sword+2</text>
@@ -1526,6 +1521,12 @@
 <text id="310003">Black Knight Sword+3</text>
 <text id="310004">Black Knight Sword+4</text>
 <text id="310005">Black Knight Sword+5</text>
+<text id="310100">Charred Black Knight Sword</text>
+<text id="310101">Charred Black Knight Sword+1</text>
+<text id="310102">Charred Black Knight Sword+2</text>
+<text id="310103">Charred Black Knight Sword+3</text>
+<text id="310104">Charred Black Knight Sword+4</text>
+<text id="310105">Charred Black Knight Sword+5</text>
 <text id="311000">Greatsword of Artorias</text>
 <text id="311001">Greatsword of Artorias+1</text>
 <text id="311002">Greatsword of Artorias+2</text>
@@ -2009,8 +2010,12 @@
 <text id="355003">Black Knight Greatsword+3</text>
 <text id="355004">Black Knight Greatsword+4</text>
 <text id="355005">Black Knight Greatsword+5</text>
-<text id="398000">%null%</text>
-<text id="399000">%null%</text>
+<text id="355100">Charred Black Knight Greatsword</text>
+<text id="355101">Charred Black Knight Greatsword+1</text>
+<text id="355102">Charred Black Knight Greatsword+2</text>
+<text id="355103">Charred Black Knight Greatsword+3</text>
+<text id="355104">Charred Black Knight Greatsword+4</text>
+<text id="355105">Charred Black Knight Greatsword+5</text>
 <text id="400000">Scimitar</text>
 <text id="400001">Scimitar+1</text>
 <text id="400002">Scimitar+2</text>
@@ -2569,14 +2574,12 @@
 <text id="453003">Gravelord Sword+3</text>
 <text id="453004">Gravelord Sword+4</text>
 <text id="453005">Gravelord Sword+5</text>
-<text id="454000">%null%</text>
-<text id="454001">1</text>
-<text id="454002">2</text>
-<text id="454003">3</text>
-<text id="454004">4</text>
-<text id="454005">5</text>
-<text id="498000">%null%</text>
-<text id="499000">%null%</text>
+<text id="454000">Abyssal Kings' Sword</text>
+<text id="454001">Abyssal Kings' Sword+1</text>
+<text id="454002">Abyssal Kings' Sword+2</text>
+<text id="454003">Abyssal Kings' Sword+3</text>
+<text id="454004">Abyssal Kings' Sword+4</text>
+<text id="454005">Abyssal Kings' Sword+5</text>
 <text id="500000">Uchigatana</text>
 <text id="500001">Uchigatana+1</text>
 <text id="500002">Uchigatana+2</text>
@@ -2850,7 +2853,6 @@
 <text id="503203">Chaos Blade+3</text>
 <text id="503204">Chaos Blade+4</text>
 <text id="503205">Chaos Blade+5</text>
-<text id="599000">%null%</text>
 <text id="600000">Mail Breaker</text>
 <text id="600001">Mail Breaker+1</text>
 <text id="600002">Mail Breaker+2</text>
@@ -3197,7 +3199,6 @@
 <text id="604903">Chaos Ricard's Rapier+3</text>
 <text id="604904">Chaos Ricard's Rapier+4</text>
 <text id="604905">Chaos Ricard's Rapier+5</text>
-<text id="699000">%null%</text>
 <text id="700000">Hand Axe</text>
 <text id="700001">Hand Axe+1</text>
 <text id="700002">Hand Axe+2</text>
@@ -3847,8 +3848,12 @@
 <text id="753003">Black Knight Greataxe+3</text>
 <text id="753004">Black Knight Greataxe+4</text>
 <text id="753005">Black Knight Greataxe+5</text>
-<text id="798000">%null%</text>
-<text id="799000">%null%</text>
+<text id="753100">Charred Black Knight Greataxe</text>
+<text id="753101">Charred Black Knight Greataxe+1</text>
+<text id="753102">Charred Black Knight Greataxe+2</text>
+<text id="753103">Charred Black Knight Greataxe+3</text>
+<text id="753104">Charred Black Knight Greataxe+4</text>
+<text id="753105">Charred Black Knight Greataxe+5</text>
 <text id="800000">Club</text>
 <text id="800001">Club+1</text>
 <text id="800002">Club+2</text>
@@ -4953,8 +4958,6 @@
 <text id="857103">Smough's Hammer+3</text>
 <text id="857104">Smough's Hammer+4</text>
 <text id="857105">Smough's Hammer+5</text>
-<text id="898000">%null%</text>
-<text id="899000">%null%</text>
 <text id="900000">Fists</text>
 <text id="901000">Caestus</text>
 <text id="901001">Caestus+1</text>
@@ -5144,7 +5147,6 @@
 <text id="904003">Dark Hand+3</text>
 <text id="904004">Dark Hand+4</text>
 <text id="904005">Dark Hand+5</text>
-<text id="999000">%null%</text>
 <text id="1000000">Spear</text>
 <text id="1000001">Spear+1</text>
 <text id="1000002">Spear+2</text>
@@ -5793,7 +5795,6 @@
 <text id="1054003">Dragonslayer Spear+3</text>
 <text id="1054004">Dragonslayer Spear+4</text>
 <text id="1054005">Dragonslayer Spear+5</text>
-<text id="1099000">%null%</text>
 <text id="1100000">Halberd</text>
 <text id="1100001">Halberd+1</text>
 <text id="1100002">Halberd+2</text>
@@ -6061,6 +6062,12 @@
 <text id="1105003">Black Knight Halberd+3</text>
 <text id="1105004">Black Knight Halberd+4</text>
 <text id="1105005">Black Knight Halberd+5</text>
+<text id="1105100">Charred Black Knight Halberd</text>
+<text id="1105101">Charred Black Knight Halberd+1</text>
+<text id="1105102">Charred Black Knight Halberd+2</text>
+<text id="1105103">Charred Black Knight Halberd+3</text>
+<text id="1105104">Charred Black Knight Halberd+4</text>
+<text id="1105105">Charred Black Knight Halberd+5</text>
 <text id="1106000">Lucerne </text>
 <text id="1106001">Lucerne +1</text>
 <text id="1106002">Lucerne +2</text>
@@ -6370,7 +6377,6 @@
 <text id="1151803">Lifehunt Scythe+3</text>
 <text id="1151804">Lifehunt Scythe+4</text>
 <text id="1151805">Lifehunt Scythe+5</text>
-<text id="1199000">%null%</text>
 <text id="1200000">Short Bow</text>
 <text id="1200001">Short Bow+1</text>
 <text id="1200002">Short Bow+2</text>
@@ -6985,8 +6991,6 @@
 <text id="1253808">Fire Sniper Crossbow+8</text>
 <text id="1253809">Fire Sniper Crossbow+9</text>
 <text id="1253810">Fire Sniper Crossbow+10</text>
-<text id="1298000">%null%</text>
-<text id="1299000">%null%</text>
 <text id="1300000">Sorcerer's Catalyst</text>
 <text id="1301000">Beatrice's Catalyst</text>
 <text id="1302000">Tin Banishment Catalyst</text>
@@ -7037,14 +7041,11 @@
 <text id="1361000">Canvas Talisman</text>
 <text id="1362000">Thorolund Talisman</text>
 <text id="1363000">Ivory Talisman</text>
-<text id="1364000">Gwynevere's Talisman</text>
+<text id="1364000">Union Talisman</text>
 <text id="1365000">Sunlight Talisman</text>
 <text id="1366000">Darkmoon Talisman</text>
 <text id="1367000">Velka's Talisman</text>
 <text id="1396000">Skull Lantern</text>
-<text id="1397000">%null%</text>
-<text id="1398000">%null%</text>
-<text id="1399000">%null%</text>
 <text id="1400000">East-West Shield</text>
 <text id="1400001">East-West Shield+1</text>
 <text id="1400002">East-West Shield+2</text>
@@ -8822,8 +8823,6 @@
 <text id="1478808">Fire Gargoyle's Shield+8</text>
 <text id="1478809">Fire Gargoyle's Shield+9</text>
 <text id="1478810">Fire Gargoyle's Shield+10</text>
-<text id="1498000">%null%</text>
-<text id="1499000">%null%</text>
 <text id="1500000">Eagle Shield</text>
 <text id="1500001">Eagle Shield+1</text>
 <text id="1500002">Eagle Shield+2</text>
@@ -9302,7 +9301,6 @@
 <text id="1510603">Greatshield of Artorias+3</text>
 <text id="1510604">Greatshield of Artorias+4</text>
 <text id="1510605">Greatshield of Artorias+5</text>
-<text id="1599000">%null%</text>
 <text id="1600000">Whip</text>
 <text id="1600001">Whip+1</text>
 <text id="1600002">Whip+2</text>
@@ -9473,7 +9471,6 @@
 <text id="1601903">Chaos Notched Whip+3</text>
 <text id="1601904">Chaos Notched Whip+4</text>
 <text id="1601905">Chaos Notched Whip+5</text>
-<text id="1699000">%null%</text>
 <text id="2000000">Standard Arrow</text>
 <text id="2001000">Large Arrow</text>
 <text id="2002000">Feather Arrow</text>

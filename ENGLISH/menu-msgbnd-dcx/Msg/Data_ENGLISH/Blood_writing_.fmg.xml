@@ -14,7 +14,6 @@
 <text id="1102">Prisoner ahead</text>
 <text id="1103">Blacksmith ahead</text>
 <text id="1104">Jumping off ahead</text>
-<text id="1105">%null%</text>
 <text id="1106">In order to use amiibo, please change the "amiibo" option
 to "Use amiibo" from the control settings menu.</text>
 <text id="1200">Path ahead</text>
@@ -44,7 +43,6 @@ In Deathmatch, all players except victim receive credit.</text>
 after falling from trap door. 
 </text>
 <text id="2112">Wait at this trap door to become host.</text>
-<text id="2113">%null%</text>
 <text id="2114">Duel: Ruins</text>
 <text id="2115">Duel: Dais</text>
 <text id="2116">Team: Ruins</text>
@@ -85,12 +83,6 @@ and Deathmatch have 4 or 6 participants.</text>
 <text id="8101">Get your Shield!</text>
 <text id="8102">&lt;?attackR?&gt; while falling : Plunging Attack</text>
 <text id="8103">Good job. Go straight ahead.</text>
-<text id="8104">%null%</text>
-<text id="8105">%null%</text>
-<text id="8106">%null%</text>
-<text id="8107">%null%</text>
-<text id="8108">%null%</text>
-<text id="8109">%null%</text>
 <text id="8110">Exchange</text>
 <text id="9000">&lt;?cameraMove?&gt; : Camera Controls</text>
 <text id="9001">&lt;?startMenuSwitch?&gt; : Open Menu
@@ -117,14 +109,9 @@ After parrying, &lt;?attackR?&gt; : Riposte</text>
 <text id="9015">With Bow pulled &lt;?attackL?&gt; : Precision Fire Mode/Release
 In Precision Fire Mode &lt;?selectUD?&gt; : Zoom</text>
 <text id="9016">&lt;?attackL?&gt; with left weapon equipped : Left Weapon Attack</text>
-<text id="9017">%null%</text>
 <text id="9018">&lt;?attackR?&gt; : Attack
 &lt;?subAttackR?&gt; : Strong Attack</text>
 <text id="9019">Rest at bonfire : Recover HP</text>
-<text id="9020">%null%</text>
-<text id="9021">%null%</text>
-<text id="9022">%null%</text>
-<text id="9023">%null%</text>
 <text id="9024">With Talisman equipped &lt;?attackR?&gt; : Use Miracle
 &lt;?changeMagic?&gt; : Toggle Miracles</text>
 <text id="9025">Resting at bonfire revives enemies</text>

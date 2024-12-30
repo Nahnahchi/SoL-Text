@@ -4,8 +4,6 @@
 <version>DarkSouls1</version>
 <bigendian>False</bigendian>
 <entries>
-<text id="1">%null%</text>
-<text id="2">%null%</text>
 <text id="100000">Weapon type: Dagger
 Attack type: Slash/Thrust
 
@@ -286,7 +284,6 @@ Crossbreed in the painted world of Ariamis.
 Possessing the power of lifehunt, it dances
 about when wielded, in a fashion reminiscent
 of the white-robed painting guardians.</text>
-<text id="199000">%null%</text>
 <text id="200000">Weapon type: Straight Sword
 Attack type: Regular/Thrust
 
@@ -1204,7 +1201,6 @@ discarded in the Undead Asylum.
 Only slightly better than one's bare hands,
 and not recommended for extensive use.
 Be certain to find a replacement quickly.</text>
-<text id="299000">%null%</text>
 <text id="300000">Weapon type: Greatsword
 Attack type: Regular
 
@@ -1620,6 +1616,16 @@ Seath is the grandfather of sorcery, and this
 sword is imbued with his magic, which shall
 be unleashed as a wave of moonlight.</text>
 <text id="310000">Weapon type: Greatsword
+Attack type: Regular/Thrust
+
+Greatsword of the black knights who wander
+Lordran. Used to face chaos demons.
+
+The large motion that puts the weight of the
+body into the attack reflects the great size
+of their adversaries long ago.
+</text>
+<text id="310100">Weapon type: Greatsword
 Attack type: Regular/Thrust
 
 Greatsword of the black knights who wander
@@ -2243,8 +2249,16 @@ body into the attack reflects the great size
 of their adversaries long ago.
 
 </text>
-<text id="398000">%null%</text>
-<text id="399000">%null%</text>
+<text id="355100">Weapon type: Ultra Greatsword
+Attack type: Regular/Thrust
+
+Greatsword of the black knights who wander
+Lordran. Used to face chaos demons.
+
+The large motion that puts the weight of the
+body into the attack reflects the great size
+of their adversaries long ago.
+</text>
 <text id="400000">Weapon type: Curved Sword
 Attack type: Slash
 
@@ -2889,9 +2903,12 @@ Crafted from the bones of the fallen.
 The miasma of death exudes from the sword,
 a veritable toxin to any living being.
 </text>
-<text id="454000">King's Greatswords</text>
-<text id="498000">%null%</text>
-<text id="499000">%null%</text>
+<text id="454000">Weapon type: Curved Greatsword
+Attack type: Slash
+
+Profaned weapon of the Four Kings of New Londo.
+The aura of the Abyss lingers around this sword
+and will swallow an uncareful wielder.</text>
 <text id="500000">Weapon type: Katana
 Attack type: Slash/Thrust
 
@@ -3299,7 +3316,6 @@ who was transformed into a chaos demon.
 This blade inherits only the chaotic nature
 of Quelaag, and has a unique speckled design.
 Blade wielder erodes along with opponents.</text>
-<text id="599000">%null%</text>
 <text id="600000">Weapon type: Thrusting Sword
 Attack type: Thrust
 
@@ -3729,7 +3745,6 @@ lands in a fateful ill-conceived journey.
 He became Undead, and disappeared up North.
 
 </text>
-<text id="699000">%null%</text>
 <text id="700000">Weapon type: Axe
 Attack type: Regular
 
@@ -4489,8 +4504,16 @@ The large motion that puts the weight of the
 body into the attack reflects the great size
 of their adversaries long ago.
 </text>
-<text id="798000">%null%</text>
-<text id="799000">%null%</text>
+<text id="753100">Weapon type: Greataxe
+Attack type: Regular
+
+Greataxe of the black knights who wander
+Lordran. Used to face chaos demons.
+
+The large motion that puts the weight of the
+body into the attack reflects the great size
+of their adversaries long ago.
+</text>
 <text id="800000">Weapon type: Hammer
 Attack type: Strike
 
@@ -5912,8 +5935,6 @@ hopes of being ranked with the Four Knights.
 
 
 </text>
-<text id="898000">%null%</text>
-<text id="899000">%null%</text>
 <text id="900000">Bare fists</text>
 <text id="901000">Weapon type: Fists
 Attack type: Strike
@@ -6136,7 +6157,6 @@ art shared by this weapon, which also acts as
 a special shield. The ancients, particularly,
 could sap the humanity of even a replete
 saint in the blink of an eye.</text>
-<text id="999000">%null%</text>
 <text id="1000000">Weapon type: Spear
 Attack type: Thrust
 
@@ -7007,7 +7027,6 @@ and buries spear deep within a dragon's hide,
 and sends human foes flying.
 
 </text>
-<text id="1099000">%null%</text>
 <text id="1100000">Weapon type: Halberd
 Attack type: Regular/Thrust
 
@@ -7308,6 +7327,16 @@ Perfectly standard bronze halberd
 without any special power.
 </text>
 <text id="1105000">Weapon type: Halberd
+Attack type: Slash
+
+Halberd of the black knights who wander
+Lordran. Used to face chaos demons.
+
+The large motion that puts the weight of the
+body into the attack reflects the great size
+of their adversaries long ago.
+</text>
+<text id="1105100">Weapon type: Halberd
 Attack type: Slash
 
 Halberd of the black knights who wander
@@ -7766,7 +7795,6 @@ ability, and in the hands of a mortal, its
 power will turn upon its wielder.
 
 </text>
-<text id="1199000">%null%</text>
 <text id="1200000">Weapon type: Bow
 Attack type: none
 
@@ -8441,8 +8469,6 @@ Carim snipers. Often used with sniper bolts.
 But while crossbows are normally easy to
 use, the Sniper Crossbow requires dexterity.
 </text>
-<text id="1298000">%null%</text>
-<text id="1299000">%null%</text>
 <text id="1300000">Weapon type: Catalyst
 Attack type: Strike
 
@@ -8896,7 +8922,16 @@ Ivory Talismans are granted only to female
 clerics, and their value is affected
 dramatically by their owner's faith.
 </text>
-<text id="1364000">Dragon Talismans</text>
+<text id="1364000">Weapon type: Talisman
+Attack type: Strike
+
+Medium for casting spells.
+This talisman was born from a union of a 
+dragon and a god. As such, it scales from
+both faith and intelligence. However, 
+such union is fragile, and those who are 
+truly faithful will find this talisman unusable.
+</text>
 <text id="1365000">Weapon type: Talisman
 Attack type: Strike
 
@@ -8934,9 +8969,6 @@ Droops from his long beard locks.
 This lantern alights the Tomb of the Giants,
 Nito's light-devouring domain of death.
 Also serves as a fire damage strike weapon.</text>
-<text id="1397000">%null%</text>
-<text id="1398000">%null%</text>
-<text id="1399000">%null%</text>
 <text id="1400000">Weapon type: Shield
 Attack type: Strike
 
@@ -10695,8 +10727,6 @@ that does not reduce physical damage 100%.
 
 
 </text>
-<text id="1498000">%null%</text>
-<text id="1499000">%null%</text>
 <text id="1500000">Weapon type: Greatshield
 Attack type: Strike
 
@@ -11357,7 +11387,6 @@ protection against various status effects.
 
 
 </text>
-<text id="1599000">%null%</text>
 <text id="1600000">Weapon type: Whip
 Attack type: Regular
 
@@ -11538,7 +11567,6 @@ Only slightly effective against armor and
 tough scales, but quite formidable against
 enemies with exposed skin.
 Also causes heavy bleeding.</text>
-<text id="1699000">%null%</text>
 <text id="2000000">Weapon type: Arrow
 Attack type: Thrust
 
@@ -11607,7 +11635,6 @@ for dragon slaying. Requires Greatbow.
 
 Gough personally crafts each stone tip,
 and wraps the shaft tightly with tree bark.</text>
-<text id="2099000">%null%</text>
 <text id="2100000">Weapon type: Bolt
 Attack type: Thrust
 
@@ -11655,7 +11682,6 @@ crossbow, but remembers the specifications
 of the bolts requested by ancient warriors.
 
 </text>
-<text id="2199000">%null%</text>
 <text id="9000000">Weapon type: Small Shield
 Attack type: Strike
 
@@ -11872,30 +11898,6 @@ Built of special black iron and even heavier
 than Knight Berenike's tower shield.
 Especially resistant to fire attacks and
 effective for shield bashing.</text>
-<text id="9004000">%null%</text>
-<text id="9004100">%null%</text>
-<text id="9004200">%null%</text>
-<text id="9004400">%null%</text>
-<text id="9004600">%null%</text>
-<text id="9004800">%null%</text>
-<text id="9005000">%null%</text>
-<text id="9005100">%null%</text>
-<text id="9005200">%null%</text>
-<text id="9005400">%null%</text>
-<text id="9005600">%null%</text>
-<text id="9005800">%null%</text>
-<text id="9006000">%null%</text>
-<text id="9006100">%null%</text>
-<text id="9006200">%null%</text>
-<text id="9006400">%null%</text>
-<text id="9006600">%null%</text>
-<text id="9006800">%null%</text>
-<text id="9007000">%null%</text>
-<text id="9007100">%null%</text>
-<text id="9007200">%null%</text>
-<text id="9007400">%null%</text>
-<text id="9007600">%null%</text>
-<text id="9007800">%null%</text>
 <text id="9010000">Weapon type: Curved Sword
 Attack type: Slash
 

@@ -4,7 +4,6 @@
 <version>DarkSouls1</version>
 <bigendian>False</bigendian>
 <entries>
-<text id="200">%null%</text>
 <text id="1000">Shaved</text>
 <text id="1100">Receding</text>
 <text id="1200">Short</text>
