@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls1</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="2">%null%</text>
+<text id="100">Erhöht maximale Ausrüstungslast</text>
+<text id="101">Verstärkt ANG, bei geringen TP</text>
+<text id="102">Antworte auf Finstersonne Wendelins Beschwörung</text>
+<text id="103">Antworte auf Alvinas Beschwörung</text>
+<text id="104">Beschleunigt Ausdauererholung</text>
+<text id="105">Verstärkt Feuer-Verteidigung</text>
+<text id="106">Verstärkt Blitz-Verteidigung</text>
+<text id="107">Verstärkt Magie-Verteidigung</text>
+<text id="108">Verstärkt gering: Magie-/Feuer-/Blitz-Verteidigung</text>
+<text id="109">Verstärkt Blutungsresistenz</text>
+<text id="110">Verstärkt Giftresistenz</text>
+<text id="111">Kleine Zunahme von TP</text>
+<text id="112">%null%</text>
+<text id="113">Verstärkt Fluchresistenz</text>
+<text id="114">Gewährt zusätzliche Zauberei-Slots</text>
+<text id="115">Verstärkt Magie</text>
+<text id="116">Gewährt zusätzliche Magie, aber halbiert TP</text>
+<text id="117">Verstärkt kritische Angriffe</text>
+<text id="118">%null%</text>
+<text id="119">Erhöht Bogenreichweite</text>
+<text id="120">Verstärkt Verteidigung bei Angriffen</text>
+<text id="121">Erhöht Chance Gegenstände aufzufinden</text>
+<text id="122">Zusätzliche Seelenabsorption bei Tod des Gegners</text>
+<text id="123">Träger verursacht keine Geräusche</text>
+<text id="124">Schützt vor Entdeckung</text>
+<text id="125">Verbessert die Balance</text>
+<text id="126">Keine Verluste bei Tod, aber der Ring bricht</text>
+<text id="127">Keine Verluste bei Tod, Fluchlösung, Ring bricht </text>
+<text id="128">Verändert das Rollverhalten des Trägers</text>
+<text id="129">%null%</text>
+<text id="130">Verstärkt Wundersynergie</text>
+<text id="131">%null%</text>
+<text id="132">%null%</text>
+<text id="133">Ring greift bei permanentem Schaden an</text>
+<text id="134">Gewährt Tarnung vor verfluchten Geistern</text>
+<text id="135">%null%</text>
+<text id="136">%null%</text>
+<text id="137">Alter Ring mit unbekannter Wirkung</text>
+<text id="138">Ermöglicht Abgrundschreiten</text>
+<text id="139">Reduziert Lavaschaden</text>
+<text id="140">Absorbiert Schad. f. Träg, Bruch-Chance bei %</text>
+<text id="141">Verlängert die Dauer von Zaubern</text>
+<text id="142">Absorbiert TP von gefallenen Gegnern</text>
+<text id="143">Verstärkt TP/Ausdauer/Last, bricht bei Entfernung</text>
+<text id="144">Verstärkt Gegenangriff mit Stichwaffen</text>
+<text id="145">Verlangsamt Abnutzung von Waffen</text>
+<text id="146">Verstärkt Balance</text>
+<text id="147">Verstärkt Verteidigung, wenn TP gering sind</text>
+<text id="148">Verstärkt Wunder</text>
+<text id="149">Gewährt zusätzliche Zauberei-Slots</text>
+<text id="150">Erhält doppelten Schaden</text>
+</entries>
+</fmg>

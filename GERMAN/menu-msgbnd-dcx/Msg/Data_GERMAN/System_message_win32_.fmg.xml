@@ -1,0 +1,1438 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls1</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">OK</text>
+<text id="2">ABBRECHEN</text>
+<text id="3">JA</text>
+<text id="4">NEIN</text>
+<text id="5">Annehmen</text>
+<text id="6">Nicht annehmen</text>
+<text id="7">Ablehnen</text>
+<text id="8">ERNEUT VERSUCHEN</text>
+<text id="9">FORTFAHREN</text>
+<text id="10">ABBRECHEN</text>
+<text id="2001">KG_OK</text>
+<text id="2002">KG_Cancel</text>
+<text id="2003">KG_L_U</text>
+<text id="2004">KG_L_D</text>
+<text id="2005">KG_L_L</text>
+<text id="2006">KG_L_R</text>
+<text id="2007">KG_L_UD</text>
+<text id="2008">KG_L_LR</text>
+<text id="2009">KG_L_UDLR</text>
+<text id="2010">KG_R_U</text>
+<text id="2011">KG_R_L</text>
+<text id="2012">KG_L1</text>
+<text id="2013">KG_R1</text>
+<text id="2014">KG_L2</text>
+<text id="2015">KG_R2</text>
+<text id="2016">KG_L3</text>
+<text id="2017">KG_R3</text>
+<text id="2018">KG_LS</text>
+<text id="2019">KG_RS</text>
+<text id="2020">KG_TP_L</text>
+<text id="2021">KG_TP_R</text>
+<text id="2022">KG_Start</text>
+<text id="2201">CN_TEX_Copyright</text>
+<text id="2202">CN_TEX_R_mark</text>
+<text id="2203">CN_TEX_TradeMark</text>
+<text id="2204">CN_TEX_Dash</text>
+<text id="4101">Verbindung zum Netzwerk nicht möglich.
+Titelbildschirm wird aufgerufen.</text>
+<text id="4102">Aktuell besteht keine Verbindung
+zum DARK SOULS™: REMASTERED Spieleserver.
+Titelbildschirm wird aufgerufen.</text>
+<text id="4103">%null%</text>
+<text id="4104">%null%</text>
+<text id="4105">%null%</text>
+<text id="4106">%null%</text>
+<text id="4107">%null%</text>
+<text id="4108">%null%</text>
+<text id="4109">%null%</text>
+<text id="4110">Aktuell besteht keine Verbindung
+zum DARK SOULS™: REMASTERED Spieleserver.</text>
+<text id="4160">Verbindung zu Steam unterbrochen.
+Titelbildschirm wird aufgerufen.</text>
+<text id="4161">Die Bildfrequenz ist für das Online-Spielen
+ungeeignet. Titelbildschirm wird aufgerufen.</text>
+<text id="4190">Es ist ein Netzwerkfehler aufgetreten.
+Titelbildschirm wird aufgerufen.</text>
+<text id="4191">Spiel konnte nicht gespeichert werden.
+Speicherdaten sind beschädigt.
+
+Drücke auf JA, um es erneut zu versuchen.
+
+Drücke auf NEIN, um ohne zu speichern zum Titelbildschirm zurückzukehren.</text>
+<text id="4192">Spiel konnte nicht gespeichert werden.
+Speicherdaten sind beschädigt.
+
+Kehre zurück zum Titelbildschirm.</text>
+<text id="4193">Spiel konnte nicht gespeichert werden.
+Speicherdaten sind beschädigt.</text>
+<text id="4194">Netzwerkverbindung ist abgebrochen. Kehre zurück zum Titelbildschirm.</text>
+<text id="18300">&lt;?selectUD?&gt; Wählen &lt;?conclusion?&gt; Details &lt;?commando?&gt; Steamnutzerinfo &lt;?cancel?&gt; Schließen &lt;?categoryChangeL?&gt; Hoch 100 &lt;?categoryChangeR?&gt; Runter 100 &lt;?shortCutL?&gt; Top-Spieler &lt;?shortCutR?&gt;:Deine Werte</text>
+<text id="18301">%null%</text>
+<text id="18302">%null%</text>
+<text id="18303">%null%</text>
+<text id="18304">%null%</text>
+<text id="18305">%null%</text>
+<text id="18306">%null%</text>
+<text id="18307">%null%</text>
+<text id="18308">%null%</text>
+<text id="18309">%null%</text>
+<text id="18310">&lt;?selectUD?&gt; Wählen &lt;?selectLR?&gt; Stufenbereich ändern &lt;?conclusion?&gt; Details &lt;?commando?&gt; Steam-Nutzerinfo &lt;?cancel?&gt; Schließen &lt;?categoryChangeL?&gt; Hoch 100 &lt;?categoryChangeR?&gt; Runter 100 &lt;?shortCutL?&gt; Top-Spieler &lt;?shortCutR?&gt; Deine Werte</text>
+<text id="18311">%null%</text>
+<text id="18312">%null%</text>
+<text id="18313">%null%</text>
+<text id="18314">%null%</text>
+<text id="18315">%null%</text>
+<text id="18316">%null%</text>
+<text id="18317">%null%</text>
+<text id="18318">%null%</text>
+<text id="18319">%null%</text>
+<text id="18320">&lt;?selectUD?&gt; Wählen &lt;?conclusion?&gt; OK &lt;?commando?&gt; Steam-Nutzerinfo &lt;?cancel?&gt; Verlassen</text>
+<text id="41000">Der ausgewählte Charakter wird gelöscht.
+Möchtest du fortfahren?</text>
+<text id="45000">Dieses Spiel speichert automatisch.
+Bitte schalte deinen Computer nicht aus
+oder entferne das Speichergerät, während das 
+Symbol für Automatisches Speichern rechts
+oben auf dem Bildschirm angezeigt wird.</text>
+<text id="45001">Version der Speicherdaten entspricht nicht
+der Version des Spiels. Beende das Spiel 
+und melde dich bei Steam an, um das Update 
+herunterzuladen.</text>
+<text id="45100">Zu wenig freier Speicherplatz auf dem
+Speichergerät. Zum Spielen von DARK SOULS™: REMASTERED
+sind mindestens 9 MB freier Speicherplatz
+erforderlich.</text>
+<text id="45101">%null%</text>
+<text id="45102">%null%</text>
+<text id="45103">Zu wenig freier Speicherplatz auf dem
+Speichergerät. Zum Spielen von DARK SOULS™: REMASTERED
+sind mindestens 9 MB freier Speicherplatz
+erforderlich.</text>
+<text id="45104">%null%</text>
+<text id="45105">%null%</text>
+<text id="45106">%null%</text>
+<text id="45107">%null%</text>
+<text id="45108">%null%</text>
+<text id="45109">%null%</text>
+<text id="45110">Die SPEICHERDATEN wurden beschädigt.</text>
+<text id="45111">Die SPEICHERDATEN wurden beschädigt.
+Neue SPEICHERDATEN erstellen?
+Wähle OK, um die aktuellen SPEICHERDATEN 
+zu überschreiben und neue zu erstellen.
+Wähle ABBRECHEN um die SPEICHERDATEN
+erneut zu laden.</text>
+<text id="45112">%null%</text>
+<text id="45113">%null%</text>
+<text id="45114">%null%</text>
+<text id="45115">%null%</text>
+<text id="45116">%null%</text>
+<text id="45117">%null%</text>
+<text id="45118">%null%</text>
+<text id="45119">%null%</text>
+<text id="45120">SPEICHERDATEN konnten nicht geladen werden.</text>
+<text id="45121">SPEICHERDATEN konnten nicht geladen werden.
+Neue SPEICHERDATEN erstellen?
+Wähle OK, um die aktuellen SPEICHERDATEN 
+zu überschreiben und neue zu erstellen.
+Wähle ABBRECHEN um die SPEICHERDATEN
+erneut zu laden.</text>
+<text id="45122">Das Spiel wurde zuletzt evtl. nicht korrekt 
+über das Spiel-Menü beendet. Bitte zum 
+Beenden des Spiels "Partie beenden" in 
+den Einstellungen des Spiel-Menüs benutzen,
+da ansonsten Spielfortschritte verloren gehen
+können.</text>
+<text id="45123">%null%</text>
+<text id="45124">%null%</text>
+<text id="45125">%null%</text>
+<text id="45126">%null%</text>
+<text id="45127">%null%</text>
+<text id="45128">%null%</text>
+<text id="45129">%null%</text>
+<text id="45130">SPEICHERDATEN konnten nicht erstellt werden.
+Bitte das Spiel verlassen und die
+SPEICHERDATEN manuell entfernen.
+
+Wähle ABBRECHEN um die SPEICHERDATEN 
+erneut zu erstellen.
+</text>
+<text id="45200">Speichern der SPEICHERDATEN gescheitert.</text>
+<text id="45201">Speichern der SPEICHERDATEN gescheitert.</text>
+<text id="45250">Erfolge konnten nicht installiert werden.
+Spiel beenden und DARK SOULS™: REMASTERED erneut laden,
+um Erfolge erneut zu installieren.</text>
+<text id="45300">SPEICHERDATEN sind beschädigt.
+Versuchen die Speicherdaten wiederherzustellen?
+Beschädigter Charakter wird verworfen.
+
+Wähle ABBRECHEN um die SPEICHERDATEN
+erneut zu laden.
+</text>
+<text id="45400">Es können keine weiteren Charaktere erstellt werden.
+Einen bestehenden Charakter löschen und einen neuen
+erstellen?
+
+*Es können maximal 10 Charaktere erstellt werden.</text>
+<text id="45500">%null%</text>
+<text id="47000">Anzahl der Dateien wird überprüft ...</text>
+<text id="47100">SPEICHERDATEN werden geladen.
+Bitte schalte deinen Computer nicht aus und beende das Spiel nicht.</text>
+<text id="47101">SPEICHERDATEN werden geprüft.
+Bitte schalte deinen Computer nicht aus und beende das Spiel nicht.</text>
+<text id="47102">Lädt ...
+Bitte schalte deinen Computer nicht aus und beende das Spiel nicht.</text>
+<text id="47103">%null%</text>
+<text id="47104">%null%</text>
+<text id="47105">%null%</text>
+<text id="47106">%null%</text>
+<text id="47107">%null%</text>
+<text id="47108">%null%</text>
+<text id="47109">%null%</text>
+<text id="47110">Speicherdaten werden aktualisiert.
+Bitte schalte deinen Computer nicht aus und beende das Spiel nicht.</text>
+<text id="47111">Speicherdaten werden aktualisiert.
+Bitte schalte deinen Computer nicht aus und beende das Spiel nicht.</text>
+<text id="47112">Speicherdaten werden erstellt.
+Bitte schalte deinen Computer nicht aus und beende das Spiel nicht.</text>
+<text id="47113">Charakter wird gelöscht ...
+Bitte schalte deinen Computer nicht aus und beende das Spiel nicht.</text>
+<text id="47114">%null%</text>
+<text id="47115">%null%</text>
+<text id="47116">%null%</text>
+<text id="47117">%null%</text>
+<text id="47118">%null%</text>
+<text id="47119">%null%</text>
+<text id="47120">%null%</text>
+<text id="47121">%null%</text>
+<text id="48000">Änderungen verwerfen und zurückkehren.</text>
+<text id="50000">%null%</text>
+<text id="50001">Bestenlisten werden abgerufen ...</text>
+<text id="50002">Bestenlisten können im Offline-Modus nicht
+abgerufen werden.</text>
+<text id="50501">Spiel wird im Offline-Modus gestartet.</text>
+<text id="50502">Es wird eine Verbindung zu
+Steam benötigt, um auf den
+Online-Modus zuzugreifen.</text>
+<text id="50503">Dein Steam-Account unterliegt 
+Jugendschutz-Einschränkungen.
+Spielen im Online-Modus nicht möglich.</text>
+<text id="50504">Du bist nicht angemeldet.
+Du musst dich anmelden, um Zugriff auf Steam-Multiplayer zu haben.
+Jetzt anmelden?</text>
+<text id="50505">Ein Netzwerk-Fehler ist aufgetreten.
+Zugriff auf Steam-Multiplayer nicht möglich.</text>
+<text id="50506">Steam-Multiplayer kann mit dieser Version 
+nicht benutzt werden. </text>
+<text id="50507">Du bist nicht angemeldet. 
+Spiel trotzdem starten?
+Es wird nur der Offline-Modus 
+verfügbar sein.</text>
+<text id="50520">Service derzeit nicht verfügbar.
+Du kannst nur offline spielen.</text>
+<text id="50521">Service noch nicht verfügbar.
+Du kannst nur offline spielen.</text>
+<text id="50522">Es werden Wartungsarbeiten durchgeführt.
+Du kannst nur offline spielen.</text>
+<text id="50523">Server antwortet nicht.
+Du kannst nur offline spielen.</text>
+<text id="50524">Server derzeit nicht verfügbar.
+Du kannst nur offline spielen.</text>
+<text id="50525">Server derzeit nicht verfügbar.
+Du kannst nur offline spielen.</text>
+<text id="50526">%null%</text>
+<text id="50527">%null%</text>
+<text id="50528">%null%</text>
+<text id="50529">%null%</text>
+<text id="50530">Da ein Fehler bei der Bildfrequenz erkannt wurde
+ist der Online-Modus nicht zugänglich. Entweder
+das Spiel im Offline-Modus weiterspielen oder
+nach der Lösung des Problems das Spiel neu starten.</text>
+<text id="51100">Du wurdest abgemeldet.
+Du kehrst zum Titelbildschirm zurück ...</text>
+<text id="51101">Spiel wird aus dem ausgesetzten Zustand
+fortgesetzt. Du kehrst nun zum Titelbildschirm zurück.</text>
+<text id="65000">Du bist nicht mit einem Spielerprofil verbunden und 
+wirst das Spiel nicht speichern können. 
+Wenn du ohne Verbindung weiterspielst,
+werden keine Spielfortschritte gespeichert.
+Dennoch fortfahren?</text>
+<text id="65001">Du bist nicht angemeldet. Das Spiel wird im
+Offline-Modus gestartet. Es werden keine
+Spieldaten gespeichert.</text>
+<text id="65002">Die Version der Speicherdaten entspricht 
+nicht der Version des Spiels. Melde dich bei 
+Steam an, um das Update herunterzuladen.
+Das Spiel wird nun beendet.</text>
+<text id="65003">Deine Mehrspieler-Privilegien unterliegen
+Einschränkungen. Du kannst nicht auf 
+Steam-Multiplayer zugreifen.</text>
+<text id="65004">Du befindest dich in einer
+Xbox LIVE Party Spielsitzung.
+Der Online-Modus ist nicht verfügbar.</text>
+<text id="65005">Es wurde eine Änderung im angemeldeten Profil festgestellt. </text>
+<text id="65100">Du kannst nicht online spielen, 
+da du nicht bei Steam angemeldet bist.</text>
+<text id="65101">Dieses Spielerprofil hat nicht die 
+erforderliche Erlaubnis, um Steam-
+Multiplayer nutzen zu können.</text>
+<text id="65200">Kein Speichergerät ausgewählt. Spiel und
+Spielfortschritte können nicht gespeichert
+werden und du hast keinen Zugriff auf
+Online-Features dieses Spiels.
+Dennoch fortfahren?</text>
+<text id="65201">Nicht genügend Speicherplatz auf dem ausgewählten
+Speichergerät. Zum Speichern von Spieldaten sind
+mindestens &lt;?dataSize?&gt; MB freier Speicherplatz
+erforderlich.</text>
+<text id="65202">SPEICHERDATEN konnten nicht geladen werden.
+Die Daten sind möglicherweise beschädigt.
+
+Neue SPEICHERDATEN erstellen? Die alten
+Speicherdaten werden dadurch überschrieben.
+NEIN wählen, um die SPEICHERDATEN erneut
+zu laden.</text>
+<text id="65203">SPEICHERDATEN konnten nicht geladen werden.
+Die Daten sind möglicherweise beschädigt.
+
+Neue SPEICHERDATEN erstellen? Die alten
+Speicherdaten werden dadurch überschrieben.
+NEIN wählen, um die SPEICHERDATEN erneut
+zu laden.</text>
+<text id="65204">%null%</text>
+<text id="65205">Kein Speichergerät ausgewählt. 
+Laden der SPEICHERDATEN ist gescheitert.</text>
+<text id="65206">Kein Zugriff auf das ausgewählte Speichergerät.
+SPEICHERDATEN können nicht erstellt werden.</text>
+<text id="65207">Kein Zugriff auf das ausgewählte Speichergerät.
+Ausgewählter Charakter konnte nicht geladen werden.</text>
+<text id="65208">Neuer Charakter konnte nicht erstellt
+werden, da eine Veränderung im 
+angemeldeten Profil festgestellt wurde.</text>
+<text id="65209">Der Charakter konnte nicht geladen werden, 
+da eine Veränderung im angemeldeten 
+Profil festgestellt wurde.</text>
+<text id="65210">SPEICHERDATEN konnten nicht geladen
+werden, weil du nicht angemeldet bist.</text>
+<text id="65211">Speicherdaten können nicht erstellt 
+werden, da keine Verbindung zu Steam 
+vorhanden ist.</text>
+<text id="65212">Speicherdaten konnten nicht geladen
+werden, da keine Verbindung zu Steam
+vorhanden ist.
+</text>
+<text id="65213">Speicherdaten konnten nicht geladen
+werden, da keine Verbindung zu Steam 
+vorhanden ist.
+</text>
+<text id="65300">Es können keine weiteren Charaktere erstellt werden.
+Einen bestehenden Charakter löschen und einen neuen
+erstellen?</text>
+<text id="65301">Keine SPEICHERDATEN gefunden.
+SPEICHERDATEN erstellen?
+- Hinweis -
+Dieses Spiel verwendet Automatisches Speichern.
+Daten werden automatisch auf dem ausgewählten
+Speichergerät gesichert.</text>
+<text id="65400">Soll der ausgewählte Charakter in der 
+Bestenliste erscheinen? Falls ein anderer 
+Charakter bereits hinzugefügt wurde, wird 
+sein Eintrag überschrieben.</text>
+<text id="65401">Diesen Charakter von der Bestenliste entfernen?</text>
+<text id="65402">%null%</text>
+<text id="65403">%null%</text>
+<text id="65404">%null%</text>
+<text id="65405">%null%</text>
+<text id="65406">%null%</text>
+<text id="65407">%null%</text>
+<text id="65408">%null%</text>
+<text id="65409">%null%</text>
+<text id="65410">Erweiterte Daten werden heruntergeladen.</text>
+<text id="65411">Erweiterte Daten konnten nicht heruntergeladen werden.
+
+*Erweiterte Daten nur für Spieler auf Spitzenrängen verfügbar.</text>
+<text id="65412">Deine Daten werden geladen.</text>
+<text id="65413">Deine Daten konnten nicht gefunden werden.</text>
+<text id="65500">Bitte Controller erneut anschließen.</text>
+<text id="70000">Speichern gescheitert.
+Das ausgewählte Speichergerät wurde entfernt.
+Du kehrst jetzt zum Hauptmenü zurück ...</text>
+<text id="101000">BELIEBIGE TASTE DRÜCKEN</text>
+<text id="101001">START-TASTE DRÜCKEN</text>
+<text id="114006">Vibration</text>
+<text id="200100">Text enthält nicht unterstützte Zeichen.
+Diese Zeichen werden durch Sternchen (*) ersetzt.</text>
+<text id="250059">&lt;?warpName10?&gt;</text>
+<text id="250060">&lt;?warpName11?&gt;</text>
+<text id="400003">Das Spiel wurde nach dem letzten Spielen nicht korrekt beendet.
+Wenn das Spiel beendet werden soll, bitte im Menü "Spiel verlassen"
+wählen und erst nach Erreichen des Titelbildschirms ausschalten.
+Wenn das Spiel nicht korrekt mit "Spiel verlassen" beendet wird,
+können die letzten Spielfortschritte verloren gehen.</text>
+<text id="401102">Spielstand konnte nicht gespeichert werden.
+Drücke auf "OK", um es erneut zu versuchen.</text>
+<text id="401103">Spielstand konnte nicht geladen werden.
+Drücke auf "OK", um es erneut zu versuchen.</text>
+<text id="401104">%null%</text>
+<text id="401105">%null%</text>
+<text id="401106">Spiel konnte nicht gespeichert werden.
+Speicherdaten sind beschädigt.
+Drücke auf "OK", um es erneut zu versuchen.</text>
+<text id="401107">Die Speicherdaten sind beschädigt.
+Beschädigte Daten löschen und neue erstellen?</text>
+<text id="401108">Spiel konnte nicht gespeichert werden.
+Nicht genügend Speicherplatz.
+
+Drücke auf "OK", um es erneut zu versuchen.</text>
+<text id="401109">%null%</text>
+<text id="401110">Spielstand wird überprüft ...</text>
+<text id="401111">Spielstand wird erstellt ...</text>
+<text id="401112">Spielstand wird aktualisiert ...</text>
+<text id="401113">Spielversion und Speicherdatenversion stimmen nicht überein.
+Bitte das Spiel verlassen und den Steam Client nutzen,
+um DARK SOULS™: REMASTERED auf die neueste Version zu aktualisieren.</text>
+<text id="401114">Das Profil konnte nicht geladen werden,
+weil es von einer neueren Spielversion stammt.
+Bitte das Spiel beenden, bei Steam anmelden
+und DARK SOULS™: REMASTERED aktualisieren.</text>
+<text id="401115">%null%</text>
+<text id="401116">%null%</text>
+<text id="401117">%null%</text>
+<text id="401118">%null%</text>
+<text id="401119">%null%</text>
+<text id="401120">Netzwerkverbindungsstatus wird geprüft...</text>
+<text id="401150">Anmeldung beim DARK SOULS™: REMASTERED Spieleserver ...</text>
+<text id="401151">Abmelden vom DARK SOULS™: REMASTERED Spieleserver...</text>
+<text id="401152">%null%</text>
+<text id="401153">%null%</text>
+<text id="401154">%null%</text>
+<text id="401155">%null%</text>
+<text id="401156">%null%</text>
+<text id="401157">%null%</text>
+<text id="401158">%null%</text>
+<text id="401159">%null%</text>
+<text id="401160">Daten werden vom DARK SOULS™: REMASTERED Spieleserver abgerufen</text>
+<text id="401161">%null%</text>
+<text id="401162">%null%</text>
+<text id="401163">%null%</text>
+<text id="401164">%null%</text>
+<text id="401165">Speichert Daten auf DARK SOULS™: REMASTERED Spieleserver ...</text>
+<text id="401166">%null%</text>
+<text id="401167">%null%</text>
+<text id="401168">%null%</text>
+<text id="401169">%null%</text>
+<text id="401170">Spiel wird im Offline-Modus gestartet.
+ Zur Nutzung von Online-Features bitte
+die Verbindung prüfen und im Titelmenü
+"Anmelden" wählen.</text>
+<text id="401171">Kehre zurück zum Titelbildschirm.</text>
+<text id="401201">Verbindung zum Netzwerk nicht möglich.
+Prüfe bitte deine Netzwerkeinstellungen.</text>
+<text id="401202">Netzwerkstatusprüfung fehlgeschlagen.</text>
+<text id="401400">Das Spiel kann nicht im Online-Modus
+gestartet werden, weil ein Problem mit
+der Bildfrequenz erkannt wurde. Bitte
+das Spiel nach Beheben des Problems neu
+starten, um online spielen zu können.</text>
+<text id="401502">Der Zugriff des Kontos auf die Dienste des Spielservers
+von DARK SOULS™: REMASTERED wurde eingeschränkt.</text>
+<text id="401503">Anmeldung beim DARK SOULS™: REMASTERED Spieleserver fehlgeschlagen.
+Wähle "OK", um einen neuen Anmeldeversuch vorzunehmen.</text>
+<text id="401504">Es ist ein Update für das Spiel verfügbar.
+Installiere das Update und starte das Spiel
+erneut, um die Netzwerkfunktionen verwenden
+zu können.</text>
+<text id="401505">Anmeldung beim DARK SOULS™: REMASTERED Spieleserver nicht möglich,
+da er deaktiviert wurde oder derzeit gewartet wird.</text>
+<text id="401506">%null%</text>
+<text id="401507">Valve Anti-Cheat hat Betrug auf diesem Konto entdeckt.
+Dienste des Spielservers von DARK SOULS™: REMASTERED können nicht
+weiter beansprucht werden.</text>
+<text id="401601">Daten konnten nicht abgerufen werden.
+Wähle "OK", um es erneut zu versuchen.</text>
+<text id="401701">Keine weitere Profil-Erstellung möglich.
+Bestehendes Profil löschen und neues
+Profil erstellen?
+
+Max. 10 Profile erstellbar.</text>
+<text id="401721">Speicherdaten konnten nicht geladen werden.
+Speicherdaten sind beschädigt.</text>
+<text id="401722">%null%</text>
+<text id="401723">%null%</text>
+<text id="401724">%null%</text>
+<text id="401725">%null%</text>
+<text id="401726">%null%</text>
+<text id="401727">%null%</text>
+<text id="401728">%null%</text>
+<text id="401729">%null%</text>
+<text id="401730">%null%</text>
+<text id="401731">Charakterdaten für das Online-Spiel konnten nicht
+initialisiert werden.
+Wähle "OK", um es erneut zu versuchen.</text>
+<text id="401991">Ein Fehler ist aufgetreten.
+Titelbildschirm wird aufgerufen.</text>
+<text id="500000">Vielen Dank fürs Spielen</text>
+<text id="500001">24.05.2018</text>
+<text id="509999">no translation needed</text>
+<text id="510000">no translation needed</text>
+<text id="510001">no translation needed</text>
+<text id="510002">no translation needed</text>
+<text id="510003">no translation needed</text>
+<text id="510004">no translation needed</text>
+<text id="510005">no translation needed</text>
+<text id="510006">no translation needed</text>
+<text id="510007">no translation needed</text>
+<text id="510008">no translation needed</text>
+<text id="510009">no translation needed</text>
+<text id="510010">no translation needed</text>
+<text id="510011">no translation needed</text>
+<text id="510012">no translation needed</text>
+<text id="510013">no translation needed</text>
+<text id="510014">no translation needed</text>
+<text id="510999">DARK SOULS™: REMASTERED ENDBENUTZERLIZENZVEREINBARUNG</text>
+<text id="511000">BANDAI NAMCO ENTERTAINMENT
+ENDBENUTZERLIZENZVEREINBARUNG</text>
+<text id="511001">Letzte Aktualisierung: 19. Dezember 2017</text>
+<text id="511002">BITTE LESEN SIE DIESE VEREINBARUNG SORGFÄLTIG DURCH. INDEM SIE UNSERE SPIELE ODER DIENSTE NUTZEN ODER DARAUF ZUGREIFEN, ERKENNEN SIE ALLE IN DIESER VEREINBARUNG BESCHRIEBENEN SOWIE DURCH BEZUGNAHME ENTHALTENEN BESTIMMUNGEN ALS VERBINDLICH AN. FALLS SIE NICHT ALL DIESEN BESTIMMUNGEN ZUSTIMMEN, NUTZEN SIE UNSERE SPIELE ODER DIENSTE NICHT UND GREIFEN SIE NICHT DARAUF ZU.</text>
+<text id="511003">DIESE VEREINBARUNG ENTHÄLT U. A. EINE SCHIEDSVERFAHRENSKLAUSEL (ABSCHNITT 19(a)) UND EINE SAMMELKLAGENVERZICHTSKLAUSEL (ABSCHNITT 19(b)), DIE NICHT FÜR SIE GELTEN, WENN SICH IHR WOHNSITZ AUSSERHALB DER VEREINIGTEN STAATEN BEFINDET.</text>
+<text id="511004">Wenn sich Ihr Wohnsitz in Deutschland befindet, gelten spezifische Klauseln für Sie. (Siehe Abschnitte 7 und 15 für Einzelheiten.)
+Wenn sich Ihr Wohnsitz in der Europäischen Union befindet, gilt eine spezifische Klausel für Sie. (Siehe Abschnitt 10 für Einzelheiten.)
+Wenn sich Ihr Wohnsitz in Australien befindet, gilt eine spezifische Klausel für Sie. (Siehe Abschnitt 15 für Einzelheiten.)
+Wenn sich Ihr Wohnsitz in Nord-, Mittel- oder Südamerika (mit Ausnahme der USA) befindet, gilt eine spezifische Klausel für Sie. (Siehe Abschnitt 18 für Einzelheiten.)
+Wenn sich Ihr Wohnsitz in den Vereinigten Staaten befindet, gilt eine spezifische Klausel für Sie. (Siehe Abschnitt 19 für Einzelheiten.)</text>
+<text id="511005">Diese Endbenutzerlizenzvereinbarung (diese „Vereinbarung“) ist ein Vertrag zwischen Ihnen und entweder BANDAI NAMCO Entertainment Inc. („BNEI“), BANDAI NAMCO Entertainment America Inc. („BNEA“), BANDAI NAMCO Entertainment Europe S.A.S. („BNEE“) oder BANDAI NAMCO Entertainment Asia Pte Ltd. („BNE Asia“) (in allen Fällen „BANDAI NAMCO“, „uns“, „wir“ oder „unser“) und gilt für Ihren Zugriff auf und Ihre Nutzung des Spiels, in dem diese Vereinbarung enthalten ist (oder das oben genannte Spiel, falls Sie diese Vereinbarung online lesen), einschließlich und ohne Beschränkung auf jegliche Mehrspieler-, Online- oder herunterladbaren Teile des Spiels und jegliche das Spiel betreffenden schriftlichen oder elektronischen Dokumentationen oder Inhalte (das „Spiel“). Das Spiel wird lizenziert, nicht verkauft, und diese Vereinbarung überträgt keinerlei Rechtsansprüche oder Eigentumsrechte am Spiel oder an Kopien des Spiels. Diese Vereinbarung ändert in keiner Weise die Bestimmungen oder Bedingungen anderer Vereinbarungen, die Sie möglicherweise mit BANDAI NAMCO für andere Produkte oder Dienste eingegangen sind. Etwaige Änderungen, Erweiterungen oder Streichungen der Vereinbarung Ihrerseits sind nicht zulässig und werden von BANDAI NAMCO hiermit ausdrücklich zurückgewiesen.</text>
+<text id="511006">Zusätzliche von uns vorgegebene Bestimmungen (insbesondere bezüglich veröffentlichter Gebühren, Abrechnungsverfahren und Regeln von Werbeaktionen) können für besondere Funktionalitäten und Funktionen gelten, die Teil des Spiels sind. Sofern nicht anders angegeben, sind alle zusätzlich anwendbaren Bestimmungen durch Bezugnahme Bestandteil dieser Vereinbarung. Im Fall eines Konflikts zwischen dieser Vereinbarung und etwaigen zusätzlichen Bestimmungen gelten die zusätzlichen Bestimmungen für solche besonderen Funktionalitäten und Funktionen.</text>
+<text id="511007">1. 	VERTRAGSPARTNER: Die Körperschaft von BANDAI NAMCO, mit der Sie eine Vertragsbeziehung eingehen, richtet sich nach Ihrem Wohnort. Wenn sich Ihr Wohnsitz in Nord-, Mittel- oder Südamerika befindet, gilt diese Vereinbarung zwischen Ihnen und BNEA. Wenn sich Ihr Wohnsitz in Asien (mit Ausnahme von Japan) befindet, gilt diese Vereinbarung zwischen Ihnen und BNE Asia. Wenn sich Ihr Wohnsitz an einem anderen Ort befindet, gilt diese Vereinbarung zwischen Ihnen und BNEE.</text>
+<text id="511008">2. 	DATENSCHUTZ: Daten, die über dieses Spiel gesammelt werden, werden von BNEI in Japan gespeichert. Weitere Informationen darüber, wie wir solche Daten sammeln, nutzen und weitergeben, finden Sie in der Datenschutzrichtlinie von BNEI, die nach dieser Vereinbarung angezeigt wird.</text>
+<text id="511009">3. 	VORAUSSETZUNGEN FÜR DIE LIZENZGEWÄHRUNG: Die in dieser Vereinbarung enthaltenen Lizenzen sind ausdrücklich an nachfolgende Klauseln sowie Ihre vollständige Einhaltung aller anderen in dieser Vereinbarung festgelegten Bestimmungen und Bedingungen gebunden:
+a)	Sie gelten gemäß der Rechtslage an Ihrem Wohnort als volljährig. Wenn Sie gemäß der Rechtslage an Ihrem Wohnort nicht als volljährig gelten, muss ein Elternteil oder Erziehungsberechtigter diese Vereinbarung sowie alle anwendbaren zusätzlichen Bestimmungen als verbindlich anerkennen.
+b)	Sie stimmen zu, alle Bestimmungen in dieser Vereinbarung sowie etwaige zusätzliche für das Spiel anwendbare Bestimmungen einzuhalten.
+c)	Ihr Zugriff auf das Spiel und Ihre Nutzung des Spiels unterliegen bestimmten Sicherheitsmaßnahmen, insbesondere der Registrierung des Spiels mit einer Seriennummer, einem fortwährenden Internetzugang und der Anerkennung bestimmter Funktionen für die Sicherheit und die digitale Rechteverwaltung. Falls Sie solche Sicherheitsmaßnahmen nicht akzeptieren oder vollständig umsetzen, kann Ihre Nutzung des Spiels ganz oder teilweise beeinträchtigt werden.
+d)	Ihr Zugriff auf das Spiel und Ihre Nutzung des Spiels erfolgen unter Einhaltung aller anwendbaren lokalen, bundesstaatlichen, nationalen und internationalen Gesetze und Vorschriften.
+e)	Ihr Zugriff auf das Spiel und Ihre Nutzung des Spiels erfolgen nur auf lokalen Geräten, auf denen gültig lizenzierte Kopien der Betriebssysteme laufen, für die das Spiel konzipiert wurde (die „Hardware“).
+f)	Sie haben alle für die Hardware anwendbaren Bestimmungen und Bedingungen akzeptiert und halten diese ein, einschließlich aller Bestimmungen solcher Plattformen in Bezug auf Bezahlvorgänge.</text>
+<text id="511010">4. 	EINGESCHRÄNKTE BENUTZERLIZENZ:
+a)	Vorbehaltlich der Bestimmungen dieser Vereinbarung und Ihrer Einhaltung derselben gewähren wir Ihnen eine nicht exklusive, nicht übertragbare, beschränkte Lizenz zur Nutzung des Spiels für den Zeitraum der Vereinbarung in Ihrem Wohnsitzland, auf Hardware, die Sie besitzen oder exklusiv kontrollieren, und ausschließlich gemäß den anwendbaren Nutzungsvorschriften oder Nutzungsbedingungen (sofern vorhanden) der jeweiligen Plattform. Alle Aktualisierungen, Ergänzungen oder Erweiterungen des Originalspiels unterliegen dieser Vereinbarung, sofern solchen Aktualisierungen keine separaten Lizenzbestimmungen beigefügt sind.
+b)	Das Vorstehende beschreibt die Gesamtheit Ihrer Rechte in Bezug auf das Spiel, und wir behalten alle Rechte in und an dem Spiel, die Ihnen nicht ausdrücklich in dieser Vereinbarung gewährt werden. Ohne Einschränkung des Vorstehenden werden Sie keine der folgenden Handlungen ausführen, oder Dritte ermächtigen oder ihnen erlauben, diese Handlungen auszuführen: (i) das Spiel vertreiben, kopieren, lizenzieren, verleihen oder verkaufen (sofern dies nicht ausdrücklich durch diese Lizenz oder durch anwendbare Nutzungsvorschriften der jeweiligen Plattform erlaubt ist); (ii) das Spiel für andere Zwecke als Ihren persönlichen, nichtkommerziellen Gebrauch verwenden; (iii) den Quelltext des Spiels rekonstruieren, dekompilieren, zerlegen oder versuchen, diesen zu entdecken; (iv) das Spiel modifizieren, verändern oder daraus abgeleitete Werke entwickeln; (v) Hinweise auf Urheberrechts-, Marken- oder andere Eigentumsrechte auf oder in dem Spiel entfernen, ändern oder unkenntlich machen; (vi) das Spiel für Zwecke verwenden, für die es nicht konzipiert wurde; (vii) das Spiel auf Hardware nutzen, die Sie nicht besitzen oder exklusiv kontrollieren; (viii) Sicherheitsmaßnahmen im Spiel umgehen oder versuchen, diese zu umgehen; oder (ix) versuchen, Ihre Region unkenntlich zu machen oder zu verbergen, wenn Sie auf Onlinefunktionen des Spiels zugreifen.</text>
+<text id="511011">5. 	EIGENTUMSVERHÄLTNISSE: Das Spiel sowie alle Inhalte (mit Ausnahme von Nutzerinhalten, wie nachfolgend definiert) und andere Materialien, die im Spiel oder durch das Spiel verfügbar sind (insbesondere das BANDAI NAMCO-Logo und alle Designs, Texte, Grafiken, Bilder, Informationen, Daten, Software, Audiodateien, Spielwährung, virtuellen Gegenstände und anderen Dateien sowie deren Auswahl und Anordnung), sind Eigentum von BANDAI NAMCO oder seinen Lizenzgebern und werden durch Urheberrechte und andere Gesetze und Verträge zum geistigen Eigentum geschützt. Ungeachtet etwaiger anderslautender in dieser Vereinbarung enthaltener Bestimmungen stimmen Sie zu, dass Sie keinerlei Eigentumsrechte oder Rechtsansprüche an jedweden Inhalten haben, die im Spiel vorhanden sind, insbesondere nicht an Spielwährung und virtuellen Gegenständen.</text>
+<text id="511012">6. 	DAUER:
+a)	Vorbehaltlich Ihrer Erfüllung der in Abschnitt 3 festgelegten Voraussetzungen bleibt diese Vereinbarung in vollem Umfang in Kraft, während Sie das Spiel nutzen. Diese Vereinbarung kann von jeder Partei jederzeit, mit oder ohne Angabe von Gründen, nach angemessener Vorankündigung aufgehoben werden. Sie können diese Vereinbarung aufheben, indem Sie sämtliche in Ihrem Besitz, Ihrer Verwahrung oder Ihrer Verfügungsgewalt befindlichen Kopien des Spiels löschen oder vernichten. BANDAI NAMCO ist weder Ihnen noch irgendwelchen Dritten gegenüber haftbar für die Beendigung Ihrer Nutzung des Spiels.
+b)	Unbeschadet sonstiger Rechte von BANDAI NAMCO gilt: Sollten Sie die Bestimmungen und Bedingungen dieser Vereinbarung nicht einhalten, behält BANDAI NAMCO sich das Recht vor, Ihre Lizenz an dem Spiel unverzüglich zu beschränken, auszusetzen oder zu beenden.
+c)	Nach Kündigung dieser Vereinbarung (i) erlischt Ihre Lizenz am Spiel unverzüglich; und (ii) haben Sie kein Recht auf Erstattung irgendwelcher Gebühren, einschließlich nicht in Anspruch genommener Gebühren (sofern vorhanden), mit Ausnahme erworbener Spielwährung, die gemäß dem anwendbaren Recht erstattet wird.
+d)	Die Abschnitte 4(b), 5, 6(d), 8, 11 und 14–23 behalten auch nach Beendigung dieser Vereinbarung ihre Gültigkeit.</text>
+<text id="511013">7. 	ÄNDERUNGEN: BANDAI NAMCO behält sich das Recht vor, diese Vereinbarung jederzeit, aus jedwedem Grund und nach BANDAI NAMCOs alleinigem Ermessen zu ändern oder zu modifizieren. Falls BANDAI NAMCO Änderungen an dieser Vereinbarung vornimmt, werden wir solche Änderungen einen Monat im Voraus ankündigen, z. B. in Form einer Benachrichtigung über das Spiel. Durch Ihre fortwährende Nutzung des Spiels nach dem Datum des Inkrafttretens solcher Änderungen bestätigen Sie Ihre Zustimmung zu der überarbeiteten Vereinbarung.
+
+Wenn sich Ihr Wohnsitz in Deutschland befindet, gilt zusätzlich zu den vorstehend genannten Bestimmungen in diesem Abschnitt die folgende Formulierung für Sie:
+
+BANDAI NAMCO behält sich das Recht vor, diese Vereinbarung jederzeit und aus jedwedem Grund zu ändern oder zu modifizieren, mit Ausnahme der Bestimmungen, die die wesentlichen Vertragspflichten der Parteien hierunter festlegen. Die wesentlichen Vertragspflichten der Parteien werden nicht geändert wie in diesem Abschnitt beschrieben. BANDAI NAMCO wird Sie über jede angedachte Modifizierung dieser Vereinbarung in Kenntnis setzen, Ihnen die angedachte neue Version dieser Vereinbarung zukommen lassen und Sie über das Datum benachrichtigen, an dem die neue Vereinbarung in Kraft treten wird. Alle Änderungen erfordern eine schriftliche Vorankündigung (E-Mail genügt), die sechs Wochen im Voraus erfolgen muss. Falls Sie die jeweiligen Modifizierungen nicht ausdrücklich innerhalb eines Zeitraums von sechs Wochen nach Inkrafttreten der neuen Vereinbarung ablehnen, wird dies als Ihre Zustimmung zu den Modifizierungen der Vereinbarung ausgelegt. In der besagten Ankündigung angedachter Modifizierungen wird BANDAI NAMCO Sie ausdrücklich und spezifisch auf das Recht hinweisen, innerhalb eines Zeitraums von sechs Wochen Einspruch einzulegen, sowie auf die Konsequenzen für den Fall, dass Sie die angedachten Modifizierungen nicht ausdrücklich zurückweisen.</text>
+<text id="511014">8. 	MODIFIZIERUNG DES SPIELS:
+a) BANDAI NAMCO behält sich das Recht vor, das Spiel oder jedwede seiner Funktionen oder Elemente nach angemessener Vorankündigung oder (in Notfällen oder falls absolut erforderlich) ohne Vorankündigung zu modifizieren oder vorübergehend oder dauerhaft einzustellen. Sie stimmen zu, dass BANDAI NAMCO für keinerlei Modifizierung, Aussetzung oder Einstellung des Spiels oder jedweder seiner Elemente haftbar ist.
+b) Das Spiel befindet sich in der Beta-Phase. Ihr Recht, auf das Spiel zuzugreifen und es zu nutzen, ist auf einen Zeitraum beschränkt, der nach alleinigem Ermessen von BANDAI NAMCO bestimmt wird (die „Beta-Phase“).
+i) Gelegentlich kann BANDAI NAMCO nach alleinigem Ermessen, ohne Ankündigung und ohne Haftung Ihnen gegenüber das Spiel, jedwede Aspekte des Spiels sowie Ihren Zugriff darauf und Ihre Nutzung davon modifizieren, begrenzen, beschränken, aussetzen, beenden oder einstellen, einschließlich des Zurücksetzens Ihrer Spieldaten. Modifikationen können automatische Softwareaktualisierungen und Upgrades umfassen, oder auch das Entfernen von Inhalten oder Diensten, das zu einem Verlust von Daten, Inhalten, Funktionalität oder Nutzbarkeit führen kann.
+ii) Das Spiel kann Defekte enthalten, und ein Hauptzweck der Lizenzierung des Spiels im Rahmen dieser Vereinbarung ist, dass BANDAI NAMCO Feedback über die Spielleistung erhalten und Defekte identifizieren kann. BANDAI NAMCO ist nicht verpflichtet, Ihnen unter den Bedingungen dieser Vereinbarung technischen Support zukommen zu lassen, und gewährt keinerlei Zusicherung, dass bestimmte Fehler oder Unstimmigkeiten im Spiel korrigiert werden. Sie stimmen zu, dass BANDAI NAMCO im Rahmen des geltenden Rechts für keinerlei Verluste von Daten, Inhalten, Funktionen oder Nutzbarkeit sowie für keinerlei Schäden an Ihrem Computer, Ihren Daten und/oder Ihrer Software haftbar ist. Ihr Zugriff auf das Spiel sowie dessen Nutzung erfolgen ausschließlich auf eigene Gefahr.
+iii) Sie stimmen zu, Anfragen von BANDAI NAMCO bezüglich Ihres Zugriffs auf das Spiel sowie dessen Nutzung nachzukommen, einschließlich Bitten von BANDAI NAMCO, Fehler und andere Probleme zu melden, die Sie im Spiel oder bezüglich des Spiels entdecken.
+iv) Sie stimmen zu, dass Sie Dritten ohne vorherige schriftliche Einwilligung von BANDAI NAMCO keinerlei Andeutungen, Feedback oder nichtöffentliche Daten oder Informationen bezüglich des Spiels (insbesondere Informationen über Bilder, Gameplay oder Fehler im Spiel) offenbaren oder zukommen lassen werden.
+v) BANDAI NAMCO kann während der Beta-Phase jederzeit nach alleinigem Ermessen, ohne Ankündigung und ohne Haftung Ihnen gegenüber Ihre Spieldaten (einschließlich Stufe und Gegenstände) zurücksetzen.</text>
+<text id="511015">9. 	SPIELINTERNE WÄHRUNG UND VIRTUELLE GEGENSTÄNDE:
+a)	BANDAI NAMCO kann Ihnen die Möglichkeit bieten, (i) eine beschränkte Lizenz zur Nutzung spielinterner Währung zu erwerben („erworbene Spielwährung“); (ii) eine beschränkte Lizenz zur Nutzung spielinterner Währung zu verdienen, indem Sie im Spiel bestimmte Aufgaben absolvieren (zusammen mit der erworbenen Spielwährung „Spielwährung“ genannt); und/oder (iii) eine beschränkte Lizenz für virtuelle Güter und Dienstleistungen, die von BANDAI NAMCO im Spiel verfügbar gemacht werden („virtuelle Gegenstände“), zu verdienen und/oder mit Spielwährung zu erwerben. Falls BANDAI NAMCO die Möglichkeit bietet, solche Lizenzen zu erwerben oder zu verdienen, gewährt BANDAI NAMCO Ihnen eine nicht exklusive, nicht übertragbare, widerrufliche und beschränkte Berechtigung und Lizenz, solche Spielwährung oder virtuellen Gegenstände (wie zutreffend) für Ihren persönlichen, nichtkommerziellen Gebrauch ausschließlich im Spiel zu nutzen, vorbehaltlich der Bestimmungen dieser Vereinbarung und Ihrer Einhaltung derselben.
+b)	Spielwährung kann nur gegen virtuelle Gegenstände zur Nutzung im Spiel eingelöst werden, und weder Spielwährung noch virtuelle Gegenstände können bei BANDAI NAMCO oder irgendeiner anderen Person oder Körperschaft gegen Geld, gegen Dinge mit Geldwert oder gegen irgendwelche monetären Gegenwerte eingetauscht werden, sofern durch anwendbare Gesetze nichts anderes vorgeschrieben ist. Spielwährung und virtuelle Gegenstände haben keinen Gegenwert in realer Währung und stellen keinen Ersatz für reale Währung dar. Weder BANDAI NAMCO noch irgendeine andere Person oder Körperschaft ist verpflichtet, Spielwährung oder virtuelle Gegenstände gegen irgendetwas von Wert einzutauschen, insbesondere gegen reale Währung. Sie erkennen an und stimmen zu, dass BANDAI NAMCO jederzeit Handlungen durchführen kann, die spielinterne Attribute oder den wahrgenommenen Wert von Spielwährung bzw. virtuellen Gegenständen beeinflussen können, sofern dies nicht durch anwendbares Recht untersagt ist. BANDAI NAMCO kann nach alleinigem Ermessen die Menge an Spielwährung beschränken, die erworben, verdient oder eingelöst werden kann.
+c)	Alle Käufe erworbener Spielwährung sind endgültig und unter keinen Umständen erstattungsfähig, übertragbar oder umtauschbar, sofern durch anwendbare Gesetze nichts anderes vorgeschrieben ist.  Mit Ausnahme des Kaufpreises für erworbene Spielwährung und bestimmte virtuelle Gegenstände erhebt BANDAI NAMCO keine Gebühren für den Zugriff auf oder die Nutzung bzw. Nichtnutzung von Spielwährung und virtuellen Gegenständen.
+d)	Sie dürfen Spielwährung oder virtuelle Gegenstände nicht übertragen, verkaufen, verschenken, tauschen, handeln, leasen, unterlizenzieren oder verleihen, sofern dies nicht im Spiel und mit ausdrücklicher Genehmigung von BANDAI NAMCO geschieht. Sofern in dieser Vereinbarung nicht anders geregelt wird, hält und behält BANDAI NAMCO alle Eigentumsrechte, Rechtsansprüche und Interessen an Spielwährung und virtuellen Gegenständen.
+e)	Die hierunter gewährten Rechte an Spielwährung und virtuellen Gegenständen enden mit der Beendigung dieser Vereinbarung gemäß Abschnitt 6, sofern durch diese Vereinbarung nichts anderes vorgegeben ist.</text>
+<text id="511016">10. 	RÜCKTRITTSRECHT: Wenn sich Ihr Wohnsitz in einem Mitgliedstaat der Europäischen Union befindet, haben Sie bestimmte Rücktrittsrechte beim Kauf von Spielwährung oder virtuellen Gegenständen mit realer Währung. Sie verzichten jedoch ausdrücklich auf Ihr Rücktrittsrecht, sobald die Leistung des Dienstes einsetzt, wenn Ihrem Konto Zugriff auf die Spielwährung oder virtuellen Gegenstände gewährt wird. Sie stimmen zu, dass (i) der Download von Spielwährung oder virtuellen Gegenständen unmittelbar nach dem Kauf beginnt; und (ii) Sie Ihr Rücktrittsrecht einbüßen, sobald der Kaufvorgang abgeschlossen ist.</text>
+<text id="511017">11. 	BENUTZERINHALTE: Indem Sie jegliche Art von Kommunikation, Information, geistigem Eigentum, Material, Nachrichten, Fotos, Grafiken, Videos, URLs und anderen Elementen oder Inhalten im Spiel posten („Benutzerinhalte“), gewähren Sie BANDAI NAMCO im Rahmen anwendbarer lokaler Gesetze hiermit für die Gesamtdauer des anwendbaren rechtlichen Schutzes geistiger Eigentumsrechte eine nicht exklusive, gebührenfreie, komplett übertragbare und unterlizenzierbare weltweite Lizenz, die Benutzerinhalte im Zusammenhang mit dem Spiel und zugehörigen Produkten und Diensten zu nutzen. Dies umfasst die Rechte, Benutzerinhalte zu reproduzieren, zu kopieren, zu adaptieren, zu modifizieren, darzubieten, als Grundlage abgeleiteter Werke zu verwenden, darzustellen, zu veröffentlichen, zu senden, zu übertragen oder anderweitig zu nutzen, zu vertreiben, zu vermarkten und der Öffentlichkeit mitzuteilen, durch alle derzeit bekannten oder zukünftig entwickelten Mittel und Medien, ohne weitere Benachrichtigung oder Vergütung jeglicher Art an Sie. Insofern anwendbare Gesetze es erlauben, verzichten Sie hiermit auf jegliche moralischen Rechte der Urheberschaft, Veröffentlichung, Reputation oder Nennung bezüglich der Nutzung und Auswertung solcher Elemente durch BANDAI NAMCO und andere Spieler im Zusammenhang mit dem Spiel sowie mit zugehörigen Produkten und Diensten im Rahmen anwendbarer Gesetze. Die Gewährung dieser Lizenz an BANDAI NAMCO überdauert jegliche Kündigung oder Auflösung dieser Vereinbarung.</text>
+<text id="511018">12. 	ONLINE-VERHALTEN: Außer im Fall vorsätzlichen Verschuldens oder grober Fahrlässigkeit durch BANDAI NAMCO ist BANDAI NAMCO nicht verantwortlich oder haftbar für das Verhalten von Benutzern, ungeachtet dessen, ob ein solches Verhalten mit dem Zugriff auf das Spiel oder mit der Nutzung des Spiels in Zusammenhang steht. BANDAI NAMCO kann jederzeit Ihren Zugriff auf das Spiel aussetzen oder beenden, wenn Sie gegen die Bestimmungen dieses Abschnitts 12 oder gegen andere Bestimmungen oder Bedingungen dieser Vereinbarung verstoßen. BANDAI NAMCO kann (z. B. in Reaktion auf eine Forderung eines Urheberrechtsinhabers) alle Benutzerinhalte prüfen, die ins oder im Spiel hochgeladen, veröffentlicht, gespeichert oder dargestellt wurden (nachfolgend als „gepostet“ bezeichnet); im Fall von Benutzerinhalten, die als Teil einer Privatnachricht geteilt wurden, wird BANDAI NAMCO solche Inhalte nicht durchsehen oder prüfen, wenn nicht mindestens eine Partei der Kommunikation ihr Einverständnis gewährt hat (z. B. indem die Partei BANDAI NAMCO die Nachricht als anstößig meldet). BANDAI NAMCO behält sich das Recht vor, jedwede Benutzerinhalte zu löschen oder sich zu weigern, sie online zu stellen. Obwohl BANDAI NAMCO im Spiel gepostete Benutzerinhalte nicht regelmäßig durchsieht, bearbeitet oder überwacht, behält sich BANDAI NAMCO das Recht vor, nach absolut freiem Ermessen jedwede Benutzerinhalte zu entfernen, durchzusehen oder zu bearbeiten, die über das Spiel gepostet werden, wenn BANDAI NAMCO nach vernünftigem Ermessen feststellt, dass solche Benutzerinhalte gegen diese Vereinbarung und/oder die Rechte Dritter, anwendbare Gesetze, Verordnungen oder Vorschriften verstoßen. Sie dürfen das Spiel nicht nutzen, wenn Sie zuvor suspendiert oder aus dem Spiel entfernt wurden. Sie sind allein verantwortlich für jedwede Benutzerinhalte, die Sie posten oder an andere Benutzer oder Dritte übertragen. Insbesondere stimmen Sie zu, dass Sie im Zusammenhang mit dem Spiel keine der folgenden Handlungen durchführen, versuchen oder beauftragen werden:
+
+a)	Benutzerinhalte posten, die gesetzeswidrig, verleumderisch, diffamierend, beleidigend, obszön, pornografisch, unanständig, vulgär, anzüglich, eindeutig sexuell, belästigend, bedrohend, missbräuchlich, hetzerisch oder betrügerisch sind; oder die Persönlichkeits- oder Öffentlichkeitsrechte verletzen; oder die illegale oder asoziale Aktivitäten fördern oder ermutigen (einschließlich Hacking); oder die Rassismus, Fanatismus, Hass, Körperverletzung oder andere Schädigungen gegen jedwede Gruppe oder Individuen fördern; oder die anderweitig zu beanstanden sind;
+b)	Benutzerinhalte posten, die gegen jedwede Patente, Marken, Geschäftsgeheimnisse, Urheberrechte oder anderen geistigen Rechte oder Eigentumsrechte jedweder Person oder Körperschaft verstoßen;
+c)	sich an kommerziellen Aktivitäten oder Verkaufstätigkeiten beteiligen, einschließlich der Übertragung kommerzieller Werbung oder Aufrufe;
+d)	persönliche Daten über jedwede Person (einschließlich Sie selbst) eingeben, veröffentlichen oder verbreiten;
+e)	sich als eine andere Person oder Körperschaft ausgeben, einschließlich Vertreter, Forenleiter, Leiter, Hosts, Mitarbeiter oder Beauftragte von BANDAI NAMCO; oder Ihre Verbindung mit einer Person oder Körperschaft falsch angeben oder anderweitig irreführend darstellen;
+f)	das Spiel oder den normalen Fluss des Gameplays oder der Dialoge beeinträchtigen oder unterbrechen; oder vulgäre oder beleidigende Ausdrucksweisen verwenden; oder übermäßig „schreien“ (z. B. durch ausschließliches Verwenden von Großbuchstaben); oder spammen; oder jedwede anderen disruptiven oder lästigen Methoden anwenden, die andere Nutzer des Spiels stören können;
+g)	jedwede Bugs, Fehler oder Designschwächen nutzen oder ausnutzen, um unberechtigten Zugriff auf das Spiel zu erhalten, um sich unfaire Vorteile gegenüber anderen Spielern zu verschaffen, oder um zu schummeln oder unerlaubte Exploits im Zusammenhang mit dem Spiel zu nutzen (insbesondere durch Zugriff auf Teile des Spiels, für die Sie keine Zugriffsberechtigung besitzen, und durch die Nutzung von Bots, Emulatoren oder anderen unerlaubten Fremdwerkzeugen);
+h)	irgendetwas tun, das die Fähigkeit anderer Nutzer einschränkt, das Spiel im Einklang mit seinen Regeln zu genießen, oder das BANDAI NAMCO oder den Plattformanbieter beim Versuch, das Spiel für das Vergnügen aller Nutzer aufrechtzuerhalten, erheblich finanziell belastet oder behindert;
+i)	sich während des Onlinespielens vorsätzlich vom Netzwerk trennen oder sich mehrfach vorsätzlich von einem bestimmten Spieler besiegen lassen, um dessen Rang oder Siegesquote im Spiel zu verbessern;
+j)	virtuelle Gegenstände oder Spielwährung außerhalb des Spiels handeln, verkaufen oder anderweitig übertragen oder versuchen, sie zu übertragen;
+k)	anderweitig gegen die Bestimmungen dieser Vereinbarung oder gegen von BANDAI NAMCO kommunizierte Richtlinien verstoßen; oder Haftungsfälle für BANDAI NAMCO verursachen.</text>
+<text id="511019">13. 	RICHTLINIEN ZUM URHEBERRECHT: Urheberrechtsinhaber oder Beauftragte von Urheberrechtsinhabern, die der Ansicht sind, dass etwas im Spiel gegen die in ihrem Besitz oder unter ihrer Kontrolle befindlichen Urheberrechte verstößt, können einen solchen Verstoß unserem designierten Urheberrechtsbeauftragten melden wie nachfolgend beschrieben. Die Bearbeitung Ihrer Meldung kann beschleunigt werden, indem Sie die Informationen und Angaben bereitstellen, die im US-amerikanischen Gesetz 17 U.S.C. §512(c)(3) aufgeführt sind. Die Erfüllung dieser Satzung ist keine Vorbedingung für die Verstoßmeldung, mit Ausnahme von Urheberrechtsinhabern in den Vereinigten Staaten. Jede Person, die in einer Meldung wissentlich fälschlicherweise behauptet, dass bestimmtes Material oder eine bestimmte Aktivität einen Verstoß darstelle, kann für Schäden haftbar gemacht werden (einschließlich Kosten und Anwaltsgebühren), die bei uns oder dem vorgeblichen Rechtsverletzer entstehen, wenn wir auf Grundlage einer solchen Falschdarstellung das beanstandete Material oder die Aktivität entfernen oder den Zugriff darauf deaktivieren. BANDAI NAMCO hat eine Richtlinie eingeführt, laut der bei entsprechenden Umständen und im alleinigen Ermessen von BANDAI NAMCO Nutzer gesperrt werden, die wiederholt gegen geistige Eigentumsrechte Dritter verstoßen haben. BANDAI NAMCO kann jedoch auch den Zugriff von Nutzern auf das Spiel begrenzen oder sperren, die nur ein Mal (und nicht wiederholt) gegen geistige Eigentumsrechte Dritter verstoßen.
+
+BANDAI NAMCO Entertainment Inc.
+Attn: Copyright Agent
+5-37-8 Shiba, Minato-ku,
+Tokyo 108-0014
+Japan
+Tel.: +81-3-6744-6112
+Fax: +81-3-6866-0577
+copyrightagent@bandainamcoent.co.jp</text>
+<text id="511020">14. 	INHALTE DRITTER: Durch das Spiel können Ihnen Inhalte von allen Nutzern, Werbetreibenden und anderen Dritten zugänglich gemacht werden. Da wir Inhalte Dritter nicht kontrollieren, stimmen Sie zu, dass wir (außer im Fall vorsätzlichen Verschuldens oder grober Fahrlässigkeit durch BANDAI NAMCO) für keinerlei Inhalte Dritter verantwortlich sind; dass wir keine Garantien bezüglich der Richtigkeit oder Qualität von Informationen in Inhalten Dritter gewähren; und dass wir keine Verantwortung für unbeabsichtigte, anstößige, unzutreffende, irreführende oder gesetzeswidrige Inhalte Dritter übernehmen. Verweise auf Produkte, Dienste, Prozesse oder andere Informationen anhand von Markennamen, Warenzeichen, Herstellern, Anbietern oder auf andere Weise stellen keine direkte oder implizite Billigung, Unterstützung, Empfehlung oder Zugehörigkeit durch BANDAI NAMCO dar, sofern dies nicht ausdrücklich von BANDAI NAMCO angegeben wird.</text>
+<text id="511021">15. 	GEWÄHRLEISTUNGSAUSSCHLUSS: SIE BESTÄTIGEN UND STIMMEN ZU, DASS BANDAI NAMCO UND SEINE LIZENZGEBER UND LIEFERANTEN WEDER FÜR ETWAIGE VIREN ODER ANDERE DEAKTIVIERENDE FUNKTIONEN VERANTWORTLICH ODER HAFTBAR SIND, DIE IHREN ZUGRIFF AUF DAS SPIEL ODER IHRE NUTZUNG DES SPIELS BEEINTRÄCHTIGEN KÖNNEN, NOCH FÜR JEDWEDE INKOMPATIBILITÄT ZWISCHEN DEM SPIEL, ANDEREN DIENSTEN UND HARDWARE. DAS SPIEL UND ALLE ANDEREN DIENSTE WERDEN IM VORLIEGENDEN ZUSTAND BEREITGESTELLT. AUSSER WIE HIERIN GEGEBENENFALLS BESCHRIEBEN, LEHNEN BANDAI NAMCO UND SEINE LIZENZGEBER UND LIEFERANTEN AUSDRÜCKLICH ALLE GEWÄHRLEISTUNGEN ODER BEDINGUNGEN JEGLICHER ART AB (OB AUSDRÜCKLICH ODER STILLSCHWEIGEND UND AUFGRUND VON GESETZ ODER SONSTIGEM), DARUNTER SÄMTLICHE STILLSCHWEIGENDEN GEWÄHRLEISTUNGEN DER NICHTVERLETZUNG, DER MARKTFÄHIGKEIT ODER DER EIGNUNG FÜR EINEN BESTIMMTEN ZWECK.
+In einigen Rechtsgebieten ist weder die Ablehnung stillschweigender Bestimmungen noch der Ausschluss oder die Beschränkung von Gewährleistungen in Verträgen mit Verbrauchern erlaubt, sodass einige oder alle der Haftungsausschlüsse in diesem Abschnitt gegebenenfalls nicht für Sie gelten.
+
+Wenn sich ihr Wohnsitz in Australien befindet, gilt zusätzlich zu den vorstehend genannten Bestimmungen in diesem Abschnitt die folgende Formulierung für Sie:
+Dieser Abschnitt 15 beabsichtigt nicht, irgendwelche verpflichtenden oder gesetzlichen Verbraucherrechte oder -rechtsbehelfe zu beschränken oder zu beschneiden, die gemäß den Gesetzen Ihres Rechtsgebietes gelten. Soweit gesetzlich zulässig, werden die Bedingungen und Gewährleistungen gemäß Anlage 2 des Competition and Consumer Act 2010 (Cth) (das australische Verbrauchergesetz) in vollem Umfang von der vorliegenden Vereinbarung ausgeschlossen, und soweit sie nicht ausgeschlossen werden können, stimmen Sie zu, dass die Haftung von BANDAI NAMCO auf Folgendes beschränkt und diese Beschränkung der Haftung von BANDAI NAMCO fair und angemessen ist:
+(i)	die erneute Bereitstellung des Spiels oder
+(ii)	die Zahlung der Kosten für die erneute Bereitstellung des Spiels.
+
+Wenn sich ihr Wohnsitz in Deutschland befindet, gilt zusätzlich zu den vorstehend genannten Bestimmungen in diesem Abschnitt die folgende zusätzliche Formulierung für Sie:
+Soweit irgendwelche Dienstleistungen gegen eine Gebühr bereitgestellt werden, trifft Folgendes zu: BANDAI NAMCO gewährleistet, dass das Spiel im Wesentlichen wie in den geltenden Dokumenten oder der Produktbeschreibung beschrieben funktioniert. Im Falle eines Mangels stellt BANDAI NAMCO eine Nacherfüllung bereit, indem es innerhalb eines angemessenen Zeitraums entweder den Mangel beseitigt (z. B. durch die Bereitstellung eines Patches) oder eine neue Version der Dienstleistung bereitstellt, die den Mangel nicht aufweist, unter Gewährung von mindestens drei Nacherfüllungsversuchen. Schlägt die Nacherfüllung endgültig fehl, können Sie Ihre sonstigen gesetzlichen Rechte ausüben, vorausgesetzt jedoch, dass die verschuldensunabhängige Haftung von BANDAI NAMCO für anfängliche Mängel gemäß § 536a Abs. 1 BGB in jedem Fall ausgeschlossen ist.</text>
+<text id="511022">16. 	INTERNET: SIE ERKENNEN AN UND STIMMEN ZU, DASS BANDAI NAMCO NICHT VERANTWORTLICH ODER HAFTBAR IST FÜR ETWAIGE VERZÖGERUNGEN ODER AUSFÄLLE, DIE SIE UNTER UMSTÄNDEN BEI DEM RICHTIGEN ODER ZEITGERECHTEN EINLEITEN, ABWICKELN ODER ABSCHLIESSEN VON ÜBERTRAGUNGEN ODER TRANSAKTIONEN IN VERBINDUNG MIT DEM SPIEL ERLEBEN. Darüber hinaus kann BANDAI NAMCO nicht versprechen und gibt nicht das Versprechen ab, dass Sie in der Lage sein werden, immer auf die Online-, Mehrspieler- oder herunterladbaren Elemente des Spiels zuzugreifen, wann Sie möchten, und es kann längere Zeiträume geben, in denen Sie nicht auf diese Elemente des Spiels zugreifen können. BANDAI NAMCO stellt keinen durchgehenden, mängelfreien, sicheren oder virenfreien Betrieb etwaiger Online-, Mehrspieler- oder herunterladbarer Elemente des Spiels und keinen unterbrechungsfreien Betrieb sowie keine unterbrechungsfreie Verfügbarkeit irgendwelcher bestimmter Server sicher.</text>
+<text id="511023">17. 	HAFTUNGSBESCHRÄNKUNG: AUSSER FÜR (1) TOD ODER KÖRPERVERLETZUNG INFOLGE VON FAHRLÄSSIGKEIT SEITENS BANDAI NAMCO, (2) BETRUG ODER ARGLISTIGE TÄUSCHUNG SEITENS BANDAI NAMCO, (3) VORSÄTZLICHE HANDLUNGEN ODER GROBE FAHRLÄSSIGKEIT SEITENS BANDAI NAMCO, (4) VERLUST ODER ZERSTÖRUNG VON PRIVATEM SACHVERMÖGEN INFOLGE DER NUTZUNG DES SPIELS UND (5) SÄMTLICHE SONSTIGE HAFTUNG, DIE NICHT DURCH ANWENDBARE GESETZE BESCHRÄNKT ODER AUSGESCHLOSSEN WERDEN KANN, HAFTEN BANDAI NAMCO ODER DESSEN TOCHTERUNTERNEHMEN, VERBUNDENE UNTERNEHMEN, LEITENDE ANGESTELLTE, MITARBEITER, BEAUFTRAGTE UND ANDERE PARTNER UND LIEFERANTEN IN KEINEM FALL FÜR IRGENDWELCHE MITTELBAREN SCHÄDEN, BESONDEREN SCHÄDEN, FOLGE- ODER STRAFSCHÄDEN ODER BELIEBIGEN ANDEREN SCHÄDEN, DARUNTER ENTGANGENE NUTZUNG UND ENTGANGENER GEWINN, OB AUFGRUND VON VERTRAG, UNERLAUBTER HANDLUNG (FAHRLÄSSIGKEIT EINGESCHLOSSEN) ODER SONSTIGEM, DIE SICH AUS DER NUTZUNG BZW. DER UNMÖGLICHKEIT DER NUTZUNG DES SPIELS ODER DER INHALTE, DIE IN DEM SPIEL ENTHALTEN SIND ODER AUF DIE ÜBER DAS SPIEL ZUGEGRIFFEN WIRD, ODER DEM VERSÄUMNIS, SUPPORT-DIENSTE BEREITZUSTELLEN, ERGEBEN ODER DAMIT IN VERBINDUNG STEHEN. IM FALL VON LEICHTER FAHRLÄSSIGKEIT ODER EINEM LEICHTEN VERSTOSS GEGEN DIE GRUNDLEGENDEN VERPFLICHTUNGEN VON BANDAI NAMCO GEMÄSS DER VORLIEGENDEN VEREINBARUNG IST DIE HAFTUNG VON BANDAI NAMCO AUF UNMITTELBARE UND VORHERSEHBARE VON IHNEN ERLITTENE SCHÄDEN BESCHRÄNKT. DIE GESAMTHAFTUNG VON BANDAI NAMCO, OB AUFGRUND VON VERTRAG, GEWÄHRLEISTUNG, UNERLAUBTER HANDLUNG, PRODUKTHAFTUNG, GEFÄHRDUNGSHAFTUNG, VERSTOSS GEGEN GEISTIGES EIGENTUM ODER EINEM SONSTIGEN RECHTSGRUND, INFOLGE ODER IN VERBINDUNG MIT DER NUTZUNG BZW. DER UNMÖGLICHKEIT DER NUTZUNG DES SPIELS ODER IN VERBINDUNG MIT DIESEN BESTIMMUNGEN ÜBERSTEIGT IN KEINEM FALL EINHUNDERT DOLLAR (100 $) ODER, FALLS HÖHER, DEN BETRAG, DEN SIE AN BANDAI NAMCO FÜR IHRE NUTZUNG DES SPIELS GEZAHLT HABEN. DIESER ABSCHNITT 17 STELLT KEINE BESCHRÄNKUNG VORGESCHRIEBENER ODER GESETZLICHER GARANTIEN DAR, DIE GEMÄSS DEN GESETZEN IHRES RECHTSGEBIETES NICHT VERTRAGLICH BESCHRÄNKT WERDEN KÖNNEN.</text>
+<text id="511024">18. 	STREITBEILEGUNG:
+DIESER ABSCHNITT 18 GILT NUR FÜR SIE, WENN SICH IHR WOHNSITZ IN NORD-, MITTEL- ODER SÜDAMERIKA AUSSERHALB DER VEREINIGTEN STAATEN BEFINDET.
+
+Wenn sich Ihr Wohnsitz in einem Land Amerikas außerhalb der Vereinigten Staaten von Amerika befindet, können entweder Sie oder BNEA mit der vorherigen schriftlichen Einwilligung der anderen Partei etwaige Streitigkeiten, die mit der vorliegenden Vereinbarung oder dem Spiel in Verbindung stehen oder sich daraus ergeben, an ein alternatives Streitbeilegungsverfahren (wie z. B. Vergleich oder Schlichtung) verweisen. Unbeschadet des Vorstehenden halten die Bestimmungen der vorliegenden Vereinbarung Sie nicht davon ab: (i) etwaige Streitigkeiten oder Ansprüche, die gegebenenfalls diesem Abschnitt 18 unterliegen, beliebigen Bundes-, bundesstaatlichen oder lokalen Regierungsbehörden vorzulegen, die, falls gesetzlich zulässig, in Ihrem Namen um Abhilfemaßnahmen von BNEA nachsuchen; (ii) etwaige Ansprüche gegen BNEA, die nicht schiedsfähig sind oder für die ein Schiedsverfahren durch anwendbares Gesetz untersagt oder beschränkt ist, vor ein beliebiges zuständiges Gericht zu bringen; oder (iii) etwaige Ansprüche vor ein Gericht für geringfügige Forderungen zu bringen, gemäß den Beschränkungen und Anforderungen dieses Gerichts für geringfügige Forderungen in dem jeweiligen Rechtsgebiet.</text>
+<text id="511025">19. 	STREITBEILEGUNG:
+DIESER ABSCHNITT 19 GILT FÜR SIE NUR, WENN SICH IHR WOHNSITZ IN DEN VEREINIGTEN STAATEN BEFINDET.
+
+Wenn sich Ihr Wohnsitz in den Vereinigten Staaten von Amerika befindet, stimmen Sie und BNEA, indem Sie die Bestimmungen der vorliegenden Vereinbarung akzeptieren, zu: (i) bestimmte Streitigkeiten durch ein obligatorisches, verbindliches Schiedsverfahren, wie in Abschnitt 19(a) und jedem Unterabschnitt davon festgelegt, beizulegen (in ihrer Gesamtheit als „Schiedsvereinbarung“ bezeichnet); und (ii) gemäß Abschnitt 19(b) (der „Sammelklagenverzicht“) ausdrücklich auf das Recht auf ein Schwurgerichtsverfahren oder die Beteiligung an einer gegen die andere Partei erhobene Sammelklage zu verzichten; es sei denn, (iii) Sie üben Ihr Recht auf Rücktritt von der Schiedsvereinbarung und/oder dem Sammelklagenverzicht aus, wie in Abschnitt 19(c) dargelegt.
+a)	OBLIGATORISCHES, VERBINDLICHES SCHIEDSVERFAHREN: SOWEIT DURCH ANWENDBARES GESETZ ERLAUBT, (i) STIMMEN SIE UND BNEA ZU, ALLE STREITIGKEITEN UND ANSPRÜCHE ZWISCHEN IHNEN UND BNEA ANHAND VERBINDLICHER SCHIEDSVERFAHREN GEMÄSS DEM FEDERAL ARBITRATION ACT BEIZULEGEN, DARUNTER (AUSSER WIE AUSDRÜCKLICH IN ABSCHNITT 19.a.iii FESTGELEGT) SÄMTLICHE STREITIGKEITEN ODER ANSPRÜCHE BASIEREND AUF RECHTSGRUNDLAGEN ZU VERTRAGSVERLETZUNG, SCHULDHAFTER VERLETZUNG, RECHTSVERSTÖSSEN, BETRUG, UNLAUTEREM WETTBEWERB, DATENSCHUTZRECHTEN, TÄUSCHUNG ODER IRGENDEINER SONSTIGEN RECHTSGRUNDLAGE, DIE SICH GEGEBENENFALLS AUS EINEM BELIEBIGEN ASPEKT DER BEZIEHUNG ZWISCHEN IHNEN UND BNEA, EINER BELIEBIGEN BESTIMMUNG ODER VORSCHRIFT DER VORLIEGENDEN VEREINBARUNG ODER IHREM ZUGRIFF AUF DAS SPIEL BZW. IHRER NUTZUNG DES SPIELS ERGIBT ODER DAMIT IN VERBINDUNG STEHT (JEWEILS ALS „ANSPRUCH“ BEZEICHNET); (ii) VERZICHTEN SIE UND BNEA AUSDRÜCKLICH UND UNWIDERRUFLICH AUF JEGLICHES RECHT, ETWAIGE ANSPRÜCHE VOR GERICHT GELTEND ZU MACHEN ODER ETWAIGE ANSPRÜCHE VOR EINEN RICHTER ODER VOR GESCHWORENE ZU BRINGEN; (iii) STRENGEN SIE UND BNEA KEIN GRUPPEN- ODER REPRÄSENTATIVSCHIEDSVERFAHREN GEGEN DIE ANDERE PARTEI AN ODER BETEILIGEN SICH DARAN, AUCH WENN DIES GEMÄSS DEM FEDERAL ARBITRATION ACT ZULÄSSIG IST; UND (iv) VERSUCHEN SIE UND BNEA NICHT, IRGENDWELCHE SCHIEDSVERFAHREN HINSICHTLICH ETWAIGER ANSPRÜCHE IHRERSEITS ODER SEITENS BNEA MIT EINER BELIEBIGEN KLAGE ODER EINEM BELIEBIGEN SCHIEDSVERFAHREN, DIE VON EINEM ODER GEGEN EINEN BELIEBIGEN DRITTEN ANGESTRENGT WERDEN, ZUSAMMENZULEGEN ODER ZU KOMBINIEREN, OHNE DIE AUSDRÜCKLICHE SCHRIFTLICHE EINWILLIGUNG DERARTIGER DRITTER UND BEIDER PARTEIEN DER VORLIEGENDEN VEREINBARUNG EINZUHOLEN. SOFERN SIE KEINE ORDNUNGSGEMÄSSE RÜCKTRITTSMITTEILUNG ÜBERMITTELN (UNTER STRIKTER EINHALTUNG VON ABSCHNITT 19(C)), STIMMEN SIE UND BNEA ZU, DASS SÄMTLICHE GEGEN DIE ANDERE PARTEI VORGEBRACHTEN ANSPRÜCHE AUSSCHLIESSLICH MITTELS OBLIGATORISCHER, VERBINDLICHER SCHIEDSVERFAHREN ABGEWICKELT WERDEN. 
+i)	Informelle Streitbeilegung im Vorfeld eines Schiedsverfahrens: Sie und BNEA stimmen zu, vor dem Beginn eines Schiedsverfahrens wegen etwaiger Ansprüche gemäß der vorliegenden Schiedsvereinbarung nach Treu und Glauben angemessene Bemühungen zu unternehmen, sämtliche Streitigkeiten oder Ansprüche zwischen Ihnen und BNEA informell beizulegen. Die Partei, die eine solche Streitigkeit oder einen solchen Anspruch geltend machen möchte, lässt der anderen Partei eine schriftliche Mitteilung zukommen, in der die Art und die Grundlage dieser Streitigkeit oder dieses Anspruchs beschrieben und die nachgesuchte Abhilfe bestimmt wird. Alle derartigen schriftlichen Mitteilungen an BNEA müssen per Post an folgende Anschrift gesendet werden: BANDAI NAMCO Entertainment America Inc., Attn: Legal &amp; Business Affairs Department, 2051 Mission College Blvd., Santa Clara, CA 95054, USA. Falls Sie und BNEA sich nicht innerhalb von 30 Tagen nach Erhalt der schriftlichen Mitteilung auf eine Beilegung der Streitigkeit oder des Anspruchs einigen, kann die Partei, die die Streitigkeit oder den Anspruch gelten machen möchte, im Rahmen der vorliegenden Schiedsvereinbarung eine Schiedsklage gegen die andere vorbringen.
+ii)	Schiedsverfahren: Das Schiedsverfahren ist ein rechtsverbindlicher Prozess, mit dem eine Partei um Abhilfemaßnahmen von einer anderen Partei nachsuchen oder Rechtsbehelfe gegen eine andere Partei einlegen kann und der einer vor einem Gericht erhobenen Klage ähnlich ist, jedoch im Allgemeinen die Auferlegung von weniger strikten Verfahrensformalitäten mit sich bringt, vor einem externen, neutralen Schiedsrichter (statt vor einem Richter oder einem Geschworenengericht) stattfindet, eine stärkere Begrenzung der Beweisermittlung und eine potenzielle Verringerung der Rechtskosten für jede Partei mit sich bringt sowie beschränkter Prüfung durch Gerichte unterliegt. Das Verfahren zur Schlichtung etwaiger Ansprüche gemäß der vorliegenden Schiedsvereinbarung unterliegt den Commercial Arbitration Rules der American Arbitration Association („AAA“) und, sofern zutreffend, den Supplementary Procedures for Consumer Related Disputes der AAA, die beide unter http://www.adr.org abrufbar sind. Unbeschadet des Vorstehenden stimmen Sie und BNEA der Durchführung sämtlicher Schiedsverfahren in englischer Sprache zu, genehmigen die elektronische Übermittlung von Dokumenten und erlauben die Teilnahme per Telefon, Telefonkonferenz oder persönlich an einem in beiderseitigem Einvernehmen festgelegten Ort.
+iii)	Ausgeschlossene Ansprüche: Unbeschadet des Vorstehenden halten die Bestimmungen der vorliegenden Vereinbarung Sie oder BNEA nicht davon ab: (i) etwaige Ansprüche beliebigen Bundes-, bundesstaatlichen oder lokalen Regierungsbehörden vorzulegen, die über die staatliche Befugnis und Rechtszuständigkeit verfügen, in Ihrem Namen oder im Namen von BNEA um Abhilfemaßnahmen von der anderen Partei nachzusuchen; (ii) etwaige Ansprüche vor ein Gericht für geringfügige Forderungen zu bringen, gemäß den Beschränkungen und Anforderungen dieses Gerichts für geringfügige Forderungen in dem jeweiligen Rechtsgebiet.
+iv)	Teilnichtigkeit der Schiedsvereinbarung: Sie und BNEA stimmen zu, dass keine Vorschrift der vorliegenden Schiedsvereinbarung gegen Sie oder BNEA durchsetzbar ist und alle Ansprüche den nachfolgenden Abschnitten 20(a) und 21(a) unterliegen, falls entweder: (i) ein zuständiges Gericht abschließend entscheidet, dass eine Bestimmung oder eine Vorschrift der vorliegenden Schiedsvereinbarung nicht durchsetzbar, durch geltendes Gesetz untersagt oder auf etwaige Ansprüche nicht anwendbar ist; oder (ii) Sie eine ordnungsgemäße Rücktrittsmitteilung (unter Einhaltung von Abschnitt 19(c)) übermitteln, worin Sie Ihre Entscheidung für den Rücktritt von der vorliegenden Schiedsvereinbarung zum Ausdruck bringen.
+b)	SAMMELKLAGENVERZICHT: FALLS SICH IHR WOHNSITZ IN DEN VEREINIGTEN STAATEN VON AMERIKA BEFINDET, STIMMEN SIE UND BNEA, INDEM SIE DIE BESTIMMUNGEN DER VORLIEGENDEN VEREINBARUNG AKZEPTIEREN, ZU: (I) DASS SICH JEDER ANSPRUCH NUR AUF SIE UND BNEA BEZIEHT UND NUR IM RAHMEN EINES INDIVIDUELLEN SCHIEDSVERFAHRENS (ODER EINES INDIVIDUELLEN GERICHTSVERFAHRENS MIT BLICK AUF GEMÄSS ABSCHNITT 19.a.iii VON DER SCHIEDSVEREINBARUNG AUSGENOMMENE ANSPRÜCHE) UND NICHT ALS SAMMELKLAGE ODER ANDERE FORM EINER REPRÄSENTATIVKLAGE GELTEND GEMACHT WIRD; (ii) DASS SIE UND BNEA AUF SÄMTLICHE RECHTE AUF EINREICHUNG ODER BETEILIGUNG AN EINER SAMMELKLAGE ODER AUF DAS NACHSUCHEN UM ABHILFEMASSNAHMEN AUF DER BASIS EINER SAMMEL- ODER REPRÄSENTATIVKLAGE VERZICHTEN, UND (iii) DASS DER SCHIEDSRICHTER (ODER DAS GERICHT MIT BLICK AUF GEMÄSS ABSCHNITT 19.a.iii VON DER SCHIEDSVEREINBARUNG AUSGENOMMENE ANSPRÜCHE) NUR EINE INDIVIDUELLE SCHLICHTUNG (ODER EIN INDIVIDUELLES GERICHTSVERFAHREN MIT BLICK AUF GEMÄSS ABSCHNITT 19.a.iii VON DER SCHIEDSVEREINBARUNG AUSGENOMMENE ANSPRÜCHE) DURCHFÜHREN KANN, NICHT MEHR ALS DIE ANSPRÜCHE EINER EINZELPERSON ZUSAMMENLEGEN UND NICHT DEN VORSITZ ÜBER IRGENDEINE FORM VON REPRÄSENTATIV- ODER SAMMELVERFAHREN IN VERBINDUNG MIT DERARTIGEN ANSPRÜCHEN FÜHREN KANN. SOFERN SIE KEINE ORDNUNGSGEMÄSSE RÜCKTRITTSMITTEILUNG (WIE IN ABSCHNITT 19(C) BESCHRIEBEN) ÜBERMITTELN, STIMMEN SIE UND BNEA ZU, DASS JEDER NUR IN SEINER INDIVIDUELLEN EIGENSCHAFT UND NICHT ALS KLÄGER ODER SAMMELKLÄGER IN EINEM ALS SAMMEL- ODER REPRÄSENTATIVVERFAHREN BEZEICHNETEN VERFAHREN ANSPRÜCHE GEGEN DEN JEWEILS ANDEREN GELTEND MACHEN KANN.
+i)	Teilnichtigkeit des Sammelklagenverzichts: Sie und BNEA stimmen zu, dass keine Vorschrift des vorliegenden Sammelklagenverzichts gegen Sie oder BNEA durchsetzbar ist und alle Ansprüche den nachfolgenden Abschnitten 20(a) und 21(a) unterliegen, falls entweder: (i) ein zuständiges Gericht abschließend entscheidet, dass eine Bestimmung oder eine Vorschrift des vorliegenden Sammelklagenverzichts nicht durchsetzbar, durch geltendes Gesetz untersagt oder auf etwaige Ansprüche nicht anwendbar ist, oder (ii) Sie eine angemessene Rücktrittsmitteilung (unter Einhaltung von Abschnitt 19(c)) abgeben, worin Sie sich für den Rücktritt von dem vorliegenden Sammelklagenverzicht entschieden haben. In keinem Fall ist die Teilnichtigkeit des Sammelklagenverzichts als Einwilligung Ihrerseits oder seitens BNA zur Beteiligung an einer Sammelklage oder einem Sammelschiedsverfahren auszulegen oder anzusehen.
+c)	RÜCKTRITTSVERFAHREN: Sie haben das Recht, von der vorstehenden Schiedsvereinbarung und dem vorstehenden Sammelklagenverzicht zurückzutreten und nicht daran gebunden zu sein, indem Sie eine schriftliche Mitteilung über Ihre Entscheidung, von der Schiedsvereinbarung und/oder dem Sammelklagenverzicht (die „Rücktrittserklärung“) zurückzutreten, unter strikter Einhaltung der folgenden Anforderungen von Abschnitt 19.c.i bis 19.c.iii absenden:
+i)	Form und Anschrift: Ihre Rücktrittsmitteilung muss an folgende Anschrift gesendet werden: BANDAI NAMCO Entertainment America Inc., Attn: Legal &amp; Business Affairs Department, 2051 Mission College Blvd., Santa Clara, CA 95054, USA, und die Sendung muss entweder per (i) frankiertem Einschreiben mit Rückschein oder (ii) Übernachtkurierdienst (wie Federal Express) erfolgen.
+ii)	Frist: Sofern das geltende Recht keinen längeren Zeitraum vorsieht, muss Ihre Rücktrittsmitteilung unter Einhaltung folgender Fristen abgestempelt (bei Versand per Post) oder aufgegeben (bei Versand per Übernachtkurierdienst) werden: (i) innerhalb von 30 Tagen ab dem Kauf Ihres Exemplars des Spiels; oder (ii) falls kein Kauf getätigt wurde, innerhalb von 30 Tagen ab dem Datum, an dem Sie zum ersten Mal auf das Spiel zugegriffen oder Ihr Exemplar des Spiels genutzt haben.
+iii)	Erforderliche Informationen: Ihre Rücktrittsmitteilung muss Folgendes enthalten: (i) den Titel des spezifischen Spiels, auf das Ihre Rücktrittserklärung Anwendung finden soll; (ii) Ihren Vor- und Nachnamen; (iii) Ihre Anschrift; (iv) Ihre Telefonnummer; (v) Ihre E-Mail-Adresse; (vi) die Angabe, ob Sie ein registrierter Benutzer des Spiels oder beliebiger anderer BNEA-Produkte oder -Dienstleistungen sind, sowie alle Ihre Benutzernamen für das Spiel und die anderen BNEA-Produkte und -Dienstleistungen; und (vii) eine Erklärung, dass Sie der Schiedsvereinbarung und/oder dem Sammelklagenverzicht nicht zustimmen. BNEA ist berechtigt, die in der Rücktrittsmitteilung enthaltenen vorstehend genannten Informationen dazu zu nutzen, um Ihren Rücktritt von der Schiedsvereinbarung und/oder dem Sammelklagenverzicht (wie zutreffend) zu erfassen, zu bearbeiten, aufrechtzuerhalten und zu verwalten; die Nutzung zu Zwecken der Vermarktung ist jedoch ausgeschlossen.
+iv)	Wirkung einer ordnungsgemäßen Rücktrittsmitteilung: Erfüllt Ihre Rücktrittsmitteilung alle der vorstehend genannten Anforderungen, gilt für Sie und BNEA, dass Sie beide mit Blick auf die vorliegende Vereinbarung gemäß Ihrer Erklärung in der Rücktrittsmitteilung von der Schiedsvereinbarung und/oder dem Sammelklagenverzicht zurückgetreten sind. Die Übermittlung einer gültigen Rücktrittsmitteilung gilt nur für Ansprüche, die sich aus dem darin benannten Spiel und der darin benannten Vereinbarung ergeben, die zwischen BNEA und der in der Rücktrittserklärung benannten Person besteht.
+v)	Wirkung einer nicht ordnungsgemäßen Rücktrittsmitteilung: Wenn Sie eine Rücktrittserklärung übermitteln, die jedwede der in den Abschnitten 19.c.i bis 19.c.iii dargelegten Anforderungen nicht erfüllt, sind Sie und BNEA an die Schiedsvereinbarung und den Sammelklagenverzicht gebunden, die in der vorliegenden Vereinbarung enthalten sind.</text>
+<text id="511026">20. 	GELTENDES RECHT:
+Soweit durch geltendes Recht vorgeschrieben, unterliegen alle Bestimmungen und Vorschriften dieser Vereinbarung allen geltenden, verpflichtenden Gesetzen und sind gemäß diesen auszulegen, auch wenn sie nicht mit dem in diesem Abschnitt 20 dargelegten geltenden Recht übereinstimmen, und in keinem Fall schließt die Anwendung, die Auslegung oder die Durchsetzung der Bestimmungen der vorliegenden Vereinbarung gemäß jeglicher Gerichtsstandsgesetze, die in diesem Abschnitt 20 vorgesehen sind, irgendwelche Ihrer Rechte als Verbraucher gemäß geltenden Verbraucherschutzgesetzen aus oder beschränkt diese auf andere Weise. Bitte beachten Sie, dass Ihr Handeln zudem anderen lokalen, bundesstaatlichen, nationalen und internationalen Gesetzen unterliegen kann. Die Parteien stimmen zu, dass das UN-Kaufrechtsabkommen auf jegliche Streitigkeiten oder Transaktionen, die sich aus der vorliegenden Vereinbarung ergeben, keine Anwendung findet.
+a)	Falls sich Ihr Wohnsitz in Nord-, Mittel- oder Südamerika befindet:
+Die Anwendung, Auslegung oder Durchsetzung der Bestimmungen der vorliegenden Vereinbarung unterliegen den Gesetzen des Bundesstaates Kalifornien, ausgenommen dessen Kollisionsnormen.
+b)	Falls sich Ihr Wohnsitz in Asien (mit Ausnahme von Japan) befindet:
+Sämtliche Streitigkeiten zwischen den Parteien, die sich aus oder in Verbindung mit der vorliegenden Vereinbarung ergeben, unterliegen der vorliegenden Vereinbarung und dem Recht Singapurs, unter Ausschluss sämtlicher kollisionsrechtlicher Vorschriften, die gegebenenfalls die Anwendung des Rechts eines anderen Rechtsgebiets vorsehen.
+c)	Falls sich Ihr Wohnsitz an einem anderen Ort befindet:
+Sämtliche Streitigkeiten zwischen den Parteien, die sich aus oder in Verbindung mit der vorliegenden Vereinbarung ergeben, unterliegen der vorliegenden Vereinbarung und französischem Recht, unter Ausschluss sämtlicher kollisionsrechtlicher Vorschriften, die gegebenenfalls die Anwendung des Rechts eines anderen Rechtsgebiets vorsehen.</text>
+<text id="511027">21. 	GERICHTSSTAND:
+a)	Falls sich Ihr Wohnsitz in Nord-, Mittel- oder Südamerika befindet:
+Sie und BNEA stimmen ausdrücklich zu, dass für sämtliche sich aus der vorliegenden Vereinbarung und/oder Ihrer Nutzung des Spiels ergebenden oder damit in Verbindung stehenden Ansprüche und Streitigkeiten, die nicht der Schiedsvereinbarung in vorstehendem Abschnitt 19 unterliegen, der ausschließliche Gerichtsstand für derartige Ansprüche oder Klagen die einzelstaatlichen oder Bundesgerichte von Santa Clara County, Kalifornien, sind, und Sie ausdrücklich der Ausübung persönlicher Zuständigkeit dieser Gerichte zustimmen.
+b)	Falls sich Ihr Wohnsitz in Asien (mit Ausnahme von Japan) befindet:
+Über sämtliche Streitigkeiten zwischen den Parteien, die sich aus oder in Verbindung mit der vorliegenden Vereinbarung ergeben, entscheiden die staatlichen Gerichte von Singapur, und Sie und BNE Asia erkennen die ausschließliche Zuständigkeit dieses Gerichts an.
+c)	Falls sich Ihr Wohnsitz an einem anderen Ort befindet:
+Über sämtliche Streitigkeiten zwischen den Parteien, die sich aus der vorliegenden Vereinbarung ergeben oder damit in Verbindung stehen, entscheidet das Handelsgericht von Lyon, und Sie und BNEE erkennen die persönliche Zuständigkeit dieses Gerichts an.</text>
+<text id="511028">22. 	BEGÜNSTIGTE DRITTE: Sämtliche Personen oder Körperschaften, die keine Partei der vorliegenden Vereinbarung sind, sind nicht kraft Gesetz zur Durchsetzung irgendwelcher Bestimmungen der vorliegenden Vereinbarung berechtigt, egal, ob diese Person oder Körperschaft namentlich genannt wird. Nichts in diesem Abschnitt wirkt sich auf die Rechte irgendwelcher zulässigen Abtretungsempfänger der vorliegenden Vereinbarung aus.</text>
+<text id="511029">23. 	VERSCHIEDENES: Die vorliegende Vereinbarung stellt die gesamte Vereinbarung zwischen Ihnen und BANDAI NAMCO mit Blick auf die Nutzung des Spiels dar. Wird eine beliebige Bestimmung der vorliegenden Vereinbarung für ungültig oder nicht durchsetzbar befunden, bleibt der Rest der Vereinbarung für die verbleibende Laufzeit, oder wie ansonsten in Abschnitt 7(d) dargelegt, in vollem Umfang in Kraft, es sei denn, diese Bestimmung entzieht der Vereinbarung ihre wesentlichen Verpflichtungen. Sie dürfen die vorliegende Vereinbarung oder jedwede darin enthaltenen Rechte gemäß der Vereinbarung nicht ohne die vorherige schriftliche Einwilligung von BANDAI NAMCO abtreten, und sämtliche Abtretungsversuche ohne Einwilligung sind nichtig. Vorbehaltlich der vorstehenden Beschränkung ist die vorliegende Vereinbarung voll verbindlich für uns und unsere jeweiligen Nachfolger und Abtretungsempfänger, wirkt zu Gunsten von uns und unseren jeweiligen Nachfolgern und Abtretungsempfängern sowie ist von uns und unseren jeweiligen Nachfolgern und Abtretungsempfänger durchsetzbar. Das Versäumnis von BANDAI NAMCO, irgendwelche Rechte oder Bestimmungen der vorliegenden Vereinbarung auszuüben oder durchzusetzen, stellt keinen Verzicht auf diese Rechte oder Bestimmungen dar. Die Abschnittsüberschriften in der vorliegenden Vereinbarung dienen nur zur besseren Orientierung und haben keine rechtliche oder vertragliche Wirkung.</text>
+<text id="511030">Um sich mit BNEA in Verbindung zu setzen, wenden Sie sich bitte unter https://www.bandainamcoent.com/support an den Kundendienst von BNEA oder wenden Sie sich schriftlich an BNEA unter: BANDAI NAMCO Entertainment America Inc., 2051 Mission College Blvd., Santa Clara, CA 95054, USA.
+Um sich mit BNEE in Verbindung zu setzen, wenden Sie sich bitte über den BNEE-Kundendienst unter http://www.bandainamcoent.eu/support oder BANDAI NAMCO Entertainment Europe S.A.S., 49/51 rue des Docks, CS 90618 – 69258 LYON CEDEX 09 – Frankreich an BNEE.
+Um sich mit BNE Asia in erbindung zu setzen, wenden Sie sich bitte über den BNE Asia-Kundendienst unter https://www.bandainamcoent.com.sg/support.</text>
+<text id="519999">no translation needed</text>
+<text id="520000">no translation needed</text>
+<text id="520001">no translation needed</text>
+<text id="520002">no translation needed</text>
+<text id="520003">no translation needed</text>
+<text id="520004">no translation needed</text>
+<text id="520005">no translation needed</text>
+<text id="520006">no translation needed</text>
+<text id="520007">no translation needed</text>
+<text id="520008">no translation needed</text>
+<text id="520099">no translation needed</text>
+<text id="520100">no translation needed</text>
+<text id="520101">no translation needed</text>
+<text id="520102">no translation needed</text>
+<text id="520103">no translation needed</text>
+<text id="520104">no translation needed</text>
+<text id="520105">no translation needed</text>
+<text id="520106">no translation needed</text>
+<text id="520107">no translation needed</text>
+<text id="520108">no translation needed</text>
+<text id="520999">DARK SOULS™: REMASTERED DATENSCHUTZERKLÄRUNG</text>
+<text id="521000">BANDAI NAMCO ENTERTAINMENT INC.
+DATENSCHUTZERKLÄRUNG</text>
+<text id="521001">Zuletzt aktualisiert: 20. Juni 2017</text>
+<text id="521002">Diese Datenschutzerklärung gibt Aufschluss darüber, wie BANDAI NAMCO Entertainment Inc., Ihre personenbezogenen Daten sammelt, verwendet und weitergibt, wenn Sie unsere Websites, Spiele, mobilen Anwendungen und anderen Online-Produkte und -Dienste (zusammen „Dienste“) benutzen oder auf andere Weise mit uns in Verbindung treten. Diese Datenschutzerklärung gilt nur für die Daten, die wir in Bezug auf die Benutzer unserer Dienste sammeln.</text>
+<text id="521003">Wir können diese Datenschutzerklärung von Zeit zu Zeit ändern. Im Falle von Änderungen teilen wir Ihnen dies durch Änderung des Datums oben auf der Datenschutzerklärung mit und weisen Sie in einigen Fällen zusätzlich (etwa durch Hinzufügung einer Erklärung auf der Homepage unserer Dienste oder Übersendung einer Mitteilung an Sie) darauf hin. Wenn Sie mit den Änderungen nicht einverstanden sind, sehen Sie bitte davon ab, unsere Dienste zu nutzen oder uns Ihre persönlichen Daten anderweitig zur Verfügung zu stellen. Wir empfehlen Ihnen, diese Datenschutzerklärung durchzulesen, wenn Sie auf die Dienste zugreifen, um sich über unsere Datenschutzpraktiken sowie die Ihnen zum Schutz Ihrer Privatsphäre zur Verfügung stehenden Möglichkeiten auf dem Laufenden zu halten.</text>
+<text id="521004">I. 	Sammlung von Daten</text>
+<text id="521005">Von Ihnen zur Verfügung gestellte Daten</text>
+<text id="521006">Wir sammeln Daten, die Sie uns direkt zur Verfügung stellen. Wir sammeln z. B. Daten, wenn Sie ein Konto erstellen, mit anderen Benutzern interagieren, den Kundendienst in Anspruch nehmen, sich für den Erhalt von Newslettern registrieren, an Umfragen teilnehmen oder anderweitig mit uns kommunizieren. Zu den von uns gesammelten Daten gehören Ihr Benutzername, Ihr Passwort, Ihre E-Mail-Adresse und andere von Ihnen zur Verfügung gestellte Daten.</text>
+<text id="521007">Informationen, die wir über das Netzwerk der Hardware sammeln</text>
+<text id="521008">Informationsart: Konto-ID, Online-ID</text>
+<text id="521009">Sammlungszweck: Konto-Verwaltung</text>
+<text id="521010">An wen die Daten weitergegeben werden dürfen: FromSoftware, Inc.</text>
+<text id="521011">Speicherort: Japan</text>
+<text id="521012">Bei Ihrer Verwendung der Dienste automatisch gesammelte Daten</text>
+<text id="521013">Jedes Mal, wenn Sie auf die Dienste zugreifen oder diese verwenden, erfassen wir automatisch Informationen über Sie. Dazu gehören:</text>
+<text id="521014">	Nutzungsdaten: Wir sammeln Informationen hinsichtlich Ihrer Verwendung unserer Dienste, wie u.a. Gaming Service-ID, abgeschlossene Level, Spielergebnisse, Verweilzeit bei unseren Diensten sowie andere Informationen zum Spielverlauf.</text>
+<text id="521015">	Log-Informationen: Wir protokollieren Informationen hinsichtlich Ihrer Verwendung unserer Dienste, einschließlich Browsertyp und Sprache, Zugriffszeiten, aufgerufene Seiten, Ihre IP-Adresse und die Website, von der aus Sie zu unseren Diensten gewechselt sind.</text>
+<text id="521016">	Hardware-Informationen: Wir können Informationen zu dem Computer bzw. Gerät sammeln, mit dem Sie auf unsere Dienste zugreifen, einschließlich Hardware-Modell, Betriebssystem und -version, Browser, MAC-Adresse, IP-Adresse, und andere vom Betriebssystem Ihres Geräts zur Verfügung gestellte Unique Device Identifier (UDI).</text>
+<text id="521017">	Mithilfe von Cookies und anderen Tracking-Technologien gesammelte Informationen: Wir sammeln Daten mithilfe verschiedener Techniken, u.a. auch indem wir Cookies an Ihren Computer oder Ihr Mobilgerät senden. Cookies sind kleine Dateien, die auf der Festplatte Ihres Computers oder im Gerätespeicher abgelegt werden und uns dazu dienen, unsere Dienste und Ihr Nutzungserlebnis zu verbessern, indem wir herausfinden, welche Bereiche und Funktionen unserer Dienste beliebt sind, und Besuche zu zählen. Wir verwenden die folgenden Cookies:</text>
+<text id="521018">o	Unbedingt notwendige Cookies. Diese Cookies sind für den Betrieb unserer Website erforderlich. Dazu gehören z. B. Cookies, die es Ihnen ermöglichen, sich in geschützte Bereiche unserer Website einzuloggen.</text>
+<text id="521019">o	Analyse-/Performance-Cookies. Mithilfe dieser Cookies können wir Besucher erkennen und zählen und nachverfolgen, wie sich Besucher bei der Benutzung unserer Website bewegen. Das wiederum hilft uns, die Funktionsweise unserer Website zu verbessern, indem wir z. B. dafür sorgen, dass Besucher das Gesuchte leichter finden.</text>
+<text id="521020">o	Funktionalitäts-Cookies. Diese Cookies werden eingesetzt, damit wir Sie bei der Rückkehr zu unserer Website erkennen. So können wir unsere Inhalte für Sie individualisieren, Sie persönlich begrüßen und uns Ihre Vorlieben (wie etwa Ihre Sprachwahl oder Region) merken.</text>
+<text id="521021">Darüber hinaus können wir Daten mithilfe von Web Beacons (auch „Zählpixel“ genannt) sammeln. Anders als Cookies werden Web Beacons unsichtbar in Websites eingebettet und lassen sich nicht durch Ihren Browser deaktivieren oder steuern. Weitere Informationen zu Cookies und deren Deaktivierung finden Sie im Abschnitt „Ihre Wahl“ unten.</text>
+<text id="521022">Aus anderen Quellen gesammelte Informationen</text>
+<text id="521023">Wir können außerdem Daten aus anderen Quellen sammeln, insofern sie zur Bereitstellung unserer Dienste erforderlich sind, und sie mit im Rahmen unserer Dienste gesammelten Informationen kombinieren. In allen anderen Fällen werden wir Ihre Genehmigung einholen, um personenbezogene Daten von Dritten zu sammeln, zu speichern und zu verwenden. So können wir z. B. Spielrangfolge und Erfolgsstatus von Ihrer Spielanwendung auf Ihrer Konsole oder Ihrem Mobil-Betriebssystem erfassen. Wenn Sie In-App-Käufe vornehmen, können wir zusätzlich Informationen über Sie vom Provider des Betriebssystems Ihres Gerätes einholen, wenn dieser die Käufe für Sie bearbeitet. Wir weisen Sie darauf hin, dass uns die Betriebssystemanbieter keine Angaben zu Ihrer Zahlungsmethode zur Verfügung stellen.</text>
+<text id="521024">II. 	Nutzung der Daten</text>
+<text id="521025">Wir (oder ein für uns tätiger Auftragsverarbeiter) können Informationen über Sie jeweils zu den folgenden Zwecken und über den zur Erreichung dieser Zwecke erforderlichen Zeitraum sammeln, speichern und verwerten:</text>
+<text id="521026">	Bereitstellung, Wartung und Verbesserung unserer Dienste;</text>
+<text id="521027">	Bereitstellung und Lieferung der von Ihnen angeforderten Produkte und Dienste, Bearbeitung von Transaktionen und Übermittlung damit verbundener Informationen an Sie;</text>
+<text id="521028">	Ihre Registrierung für ein Konto für unsere Dienste und Unterstützung bei der Verwaltung Ihres Kontos;</text>
+<text id="521029">	Wiederherstellung von Spielverlaufsinformationen in Bezug auf ein bestimmtes Spiel, das zuvor gelöscht und dann auf demselben Gerät noch einmal installiert wurde;</text>
+<text id="521030">	Beantwortung Ihrer Kommentare, Fragen und Anforderungen sowie Kundendienstbereitstellung;</text>
+<text id="521031">	Versendung technischer Mitteilungen, Updates, Sicherheitswarnungen und Support- und verwaltungstechnischer Nachrichten an Sie;</text>
+<text id="521032">	Kommunikation mit Ihnen über Produkte, Dienste, Angebote, Aktionen, Belohnungen und Events von BNEI und anderen sowie Übermittlung von Nachrichten, Informationen und anderen Marketingmaterialien, von denen wir glauben, dass sie für Sie von Interesse sind;</text>
+<text id="521033">	Beobachtung und Analyse von Trends, Nutzung und Aktivitäten im Zusammenhang mit unseren Diensten;</text>
+<text id="521034">	Bearbeitung und Lieferung von Wettbewerbsbeiträgen und Preisen aus BNEI-Verkaufsförderungsaktionen;</text>
+<text id="521035">	Individualisierung und Verbesserung der Dienste und In-Service-Bereitstellung von Werbung, Inhalten oder Funktionen, die Benutzerprofil oder -interessen entsprechen;</text>
+<text id="521036">	Verlinkung oder Kombination mit Informationen anderer, um uns ein besseres Verständnis Ihrer Anforderungen zu ermöglichen und Ihnen einen besseren Service bereitzustellen;</text>
+<text id="521037">	Aufdeckung, Ermittlung und/oder Verhütung betrügerischer, unbefugter oder rechtswidriger Aktivitäten;</text>
+<text id="521038">	Zu sämtlichen sonstigen Zwecken, die für uns erforderlich oder zulässig sind, um unsere rechtlichen und behördlichen Auflagen zu erfüllen; und</text>
+<text id="521039">	Zu sämtlichen sonstigen Zwecken, zu denen Sie die Informationen vorgelegt haben.</text>
+<text id="521040">III. 	Informationsaustausch</text>
+<text id="521041">Ihre personenbezogenen Daten werden von uns nicht an Dritte weitergegeben, verkauft, übertragen oder anderweitig ausgetauscht, es sei denn, dies ist für die Bereitstellung unserer Produkte oder Dienste erforderlich, entspricht anderweitig dieser Datenschutzerklärung oder ist gesetzlich zulässig bzw. Sie haben uns Ihre ausdrückliche Genehmigung dazu erteilt. Im Sinne der vorgenannten Verpflichtung ist die Weitergabe von Sie betreffenden Informationen wie folgt oder wie anderweitig in dieser Datenschutzerklärung ausgeführt möglich:</text>
+<text id="521042">	An andere Benutzer, falls Sie sich für die Teilnahme an den interaktiven Bereichen unserer Dienste wie Community-Foren entscheiden (wobei die Verwendung personenbezogener Daten (wie Ihrem vollständigen Vor- und Nachnamen) als Benutzername in unseren Diensten streng untersagt ist);</text>
+<text id="521043">	An unsere Mitarbeiter, Partner, verbundene Unternehmen, Anbieter, Berater und andere Serviceprovider, die Zugang zu solchen Daten benötigen, um in unserem Auftrag Arbeiten auszuführen (darunter z. B. Zahlungsabwickler, Webhosting-Dienste oder Anbieter von Diensten für die Speicherung und Verarbeitung von Informationen);</text>
+<text id="521044">	Im Rahmen eines gerichtlichen Verfahrens oder auf eine Informationsanfrage hin, sofern die Angabe solcher Informationen mit den geltenden Gesetzen, Verordnungen und Vorschriften vereinbar bzw. von diesen vorgeschrieben ist (darunter z. B. Regierungs- oder Regulierungsbehörden, Strafverfolgungsbehörden oder Gerichte);</text>
+<text id="521045">	Falls wir hinreichenden Grund zu der Annahme haben, dass Ihre Handlungen unserem Benutzervertrag bzw. unseren Richtlinien widersprechen, oder um die Rechte, das Eigentum und die Sicherheit von BNEI, unseren Benutzern oder anderen zu schützen;</text>
+<text id="521046">	Im Zusammenhang mit einem Unternehmenszusammenschluss, einem Verkauf von Vermögenswerten, der Finanzierung oder dem Erwerb der Gesamtheit oder eines Teils unseres Unternehmens an ein anderes Unternehmen; und</text>
+<text id="521047">	Mit Ihrem Einverständnis bzw. auf Ihre Weisung hin.</text>
+<text id="521048">Wir können darüber hinaus aggregierte oder anonymisierte Informationen weitergeben, bei denen eine persönliche Identifizierung nicht möglich ist.</text>
+<text id="521049">IV. 	 Von Dritten bereitgestellte Werbe- und Analysedienste</text>
+<text id="521050">Wir können anderen gestatten, Analysedienste für uns zu erbringen und Werbung im Rahmen unserer Dienste zu platzieren. Diese Drittorganisationen können Technologien zur automatischen Erfassung von Informationen bezüglich Ihres Geräts und Ihrer Nutzung unserer Dienste einsetzen, wie z. B. IP-Adresse, Geräte-ID, Verweildauer auf den Seiten innerhalb unserer Dienste und von unseren Diensten aus angeklickte Links. Diese Informationen können von uns und anderen verwendet werden, um u.a. die Funktionsweise unserer Dienste zu gewährleisten und zu analysieren und kontextbezogene oder gezielte Werbung einzublenden, die für Sie von Interesse sein könnte. Die Nutzung Ihrer Daten seitens dieser Dritten wird von deren jeweiligen Datenschutzrichtlinien abgedeckt, und wir kontrollieren die Datenschutzpraktiken Dritter nicht und sind nicht dafür verantwortlich.</text>
+<text id="521051">V. 	Social-Sharing-Funktion</text>
+<text id="521052">Die Dienste können Social-Sharing-Funktionen oder andere integrierte Tools umfassen, mit deren Hilfe Sie die im Rahmen der Dienste vorgenommenen Handlungen mit anderen sozialen Medien teilen können und umgekehrt. Die Verwendung dieser Funktionen erlaubt es Ihnen, bestimmte persönliche Informationen mit Ihren Freunden oder der Öffentlichkeit zu teilen, je nachdem, welche Einstellungen Sie bei dem Drittanbieter der Social-Sharing-Funktion gewählt haben. Weitere Informationen zum Zweck und Umfang der Datensammlung und -bearbeitung im Zusammenhang mit Social-Sharing-Funktionen entnehmen Sie bitte den Datenschutzrichtlinien der Drittanbieter, die diese Funktionen bereitstellen.</text>
+<text id="521053">VI. 	Sicherheit</text>
+<text id="521054">Wir ergreifen angemessene technische und organisatorische Vorkehrungen, um für den Schutz der auf Sie bezogenen Daten vor Verlust, Diebstahl, Missbrauch und unbefugtem Zugriff, Weitergabe, Veränderung und Vernichtung zu sorgen. Da jedoch die Sicherheit von Internetübermittlungen nicht gewährleistet werden kann, können wir die Sicherheit von personenbezogenen Daten, die Sie über das Internet an uns übertragen, nicht gewährleisten.</text>
+<text id="521055">VII. 	Speicherung und Löschung von Daten</text>
+<text id="521056">Alle gesammelten Daten werden in unseren Datenzentren in Japan gespeichert. Die Speicherung und Löschung personenbezogener Daten erfolgt unter Einhaltung der Datenschutzbestimmungen. Alle Daten, die nicht mehr für die oben genannten Zwecke benötigt werden, werden anonymisiert oder gelöscht, sofern ihre weitere Aufbewahrung nicht gesetzlich vorgeschrieben ist.</text>
+<text id="521057">VIII. 	Internationale Übermittlungen</text>
+<text id="521058">Von uns gesammelte, Sie betreffende personenbezogene Daten werden in der Regel in Japan übertragen, gespeichert und bearbeitet.
+Wir weisen Sie darauf hin, dass eine Übermittlung an Standorte außerhalb Ihres Landes stattfinden kann, die u. U. nicht das gleiche Datenschutzniveau wie die Gesetze Ihres Landes bieten. Unsere Sammlung, Speicherung und Verwendung Ihrer personenbezogenen Daten unterliegen jedoch auch weiterhin der vorliegenden Datenschutzerklärung, und falls wir Ihre personenbezogenen Daten an im Ausland ansässige Dritte übermitteln, ergreifen wir den Umständen angemessene Schritte, um sicherzustellen, dass diese in Übereinstimmung mit der vorliegenden Datenschutzerklärung verwendet werden. Sie bestätigen, dass Sie, indem Sie uns Ihre persönlichen Daten zur Verfügung stellen, einer derartigen Übermittlung ins Ausland zustimmen. Durch die Einwilligung zu einer derartigen Übermittlung bestätigen Sie, dass, soweit gesetzlich zulässig, BNEI nicht für eine etwaige Verletzung Ihrer Datenschutzrechte durch den ausländischen Empfänger haftbar ist und Sie in einem solchen Fall keine Rechtsbehelfe gegen BNEI einlegen können.</text>
+<text id="521059">IX. 	Websites Dritter</text>
+<text id="521060">Diese Website enthält Links zu anderen, von Dritten betriebenen Websites. Wir weisen Sie darauf hin, dass diese Datenschutzerklärung nur für die personenbezogenen Daten gilt, die wir über diese Website sammeln, und dass wir keine Haftung für personenbezogene Daten übernehmen, die Dritte u. U. über diese Website sammeln, speichern und nutzen. Sie sollten die Datenschutzrichtlinien der Websites, die Sie besuchen, immer sorgfältig zu Kenntnis nehmen.</text>
+<text id="521061">X. 	Ihre Wahl</text>
+<text id="521062">Cookies</text>
+<text id="521063">Die meisten Webbrowser sind so eingestellt, dass sie Cookies automatisch akzeptieren. Wenn Sie das nicht möchten, können Sie Ihren Browser normalerweise jedoch so einstellen, dass Browser-Cookies gelöscht oder zurückgewiesen werden. Weitere Informationen aus unabhängiger Quelle zu einer Reihe von Fragen bezüglich Cookies und wie Sie Ihre Browser-Einstellungen ändern können, finden Sie auf http://www.allaboutcookies.org/ge/.</text>
+<text id="521064">Steuerung von Cookies</text>
+<text id="521065">Generell können Sie alle bereits auf Ihrem Computer gespeicherten Cookies löschen. Außerdem lassen sich die meisten Browser so einstellen, dass sie Cookies deaktivieren. Dazu müssen Sie Ihre Browser-Einstellungen ändern. Im Hilfebereich Ihres Browers finden Sie Informationen zur Verwaltung von Cookies. Gegebenenfalls müssen Sie bei jedem Besuch der Website eine manuelle Einstellung Ihrer Präferenzen vornehmen. Die Verwaltung von Cookies kann dazu führen, dass Sie keinen Zugang zu bestimmten Funktionen oder Leistungen der Website haben. Informationen bezüglich der Verwaltung der Cookie-Optionen in Ihren Browser-Einstellungen finden Sie auf http://www.allaboutcookies.org/ge/cookies-verwalten/.
+Das Löschen bzw. Zurückweisen von Browser-Cookies hat u. U. keine Auswirkungen auf von Dritten im Zusammenhang mit unseren Diensten eingerichtete Flash-Cookies. Informationen zum Löschen oder Deaktivieren von Flash-Cookies finden Sie auf http://www.macromedia.com/support/documentation/de/flashplayer/help/help02.html.
+Bitte beachten Sie, dass das Löschen oder Zurückweisen von Cookies Auswirkungen auf die Verfügbarkeit und Funktionsfähigkeit unserer Dienste haben könnte.</text>
+<text id="521066">Verkaufsfördernde Kommunikationen</text>
+<text id="521067">Werbemitteilungen können wir Ihnen nur mit Ihrer vorherigen Einwilligung (Opt-in) senden. Sie können Ihre Einwilligung zum Erhalt solcher Mitteilung jederzeit zurückziehen, indem Sie den Anweisungen in der jeweiligen Mitteilung folgen. Falls Sie Ihre Einwilligung zurückziehen, können wir Ihnen weiterhin transaktions- oder vertragsbezogene Mitteilungen senden, die jedoch nur die laufende Geschäftsbeziehung und keine Verkaufsförderung zum Inhalt haben dürfen.</text>
+<text id="521068">Zugriffsrechte</text>
+<text id="521069">Sie und Ihr gesetzlicher Vormund, falls Sie minderjährig sind, haben in Bezug auf personenbezogene Daten, die wir zu Ihrer Person halten, die folgenden Rechte:</text>
+<text id="521070">	Das Recht zur Einsicht bzw. der Aufforderung an uns, Ihnen Kopien personenbezogener Daten, die wir jeweils in Bezug auf Sie halten, zur Verfügung zu stellen, wobei jeweils eine gesetzlich vorgeschriebene Gebühr zahlbar ist;</text>
+<text id="521071">	Das Recht, uns aufzufordern, veraltete oder falsche personenbezogene Daten, die wir in Bezug auf Sie halten, kostenlos zu aktualisieren bzw. richtig zu stellen;</text>
+<text id="521072">	Das Recht, uns aufzufordern, keine personenbezogenen Daten mehr zu sammeln, zu bearbeiten oder zu verwenden, oder personenbezogene Daten, die wir in Bezug auf Sie halten, zu vernichten, mit der Maßgabe, dass wir die Aufforderung, falls gesetzlich dazu verpflichtet, ablehnen können;</text>
+<text id="521073">	Das Recht, Einspruch gegen eine rechtswidrige Bearbeitung personenbezogener Daten, die wir in Bezug auf Sie halten, zu erheben; und</text>
+<text id="521074">	Das Recht, sich gegen den Erhalt von Marketing-Kommunikationen zu entscheiden, die wir (bzw. ein Dritter, an den wir Ihre personenbezogenen Daten mit Ihrer Einwilligung weitergegeben haben) Ihnen senden können.</text>
+<text id="521075">Bitte richten Sie entsprechende Anforderungen an: ppolicy@bandainamcoent.co.jp.</text>
+<text id="521076">Falls Sie eine BANDAI NAMCO ID haben und Ihr Konto aufrufen oder löschen möchten, melden Sie sich bei Ihrer BANDAI NAMCO ID an und folgen Sie den Anweisungen auf https://www.bandainamcoid.com/portal/resign. Sobald Ihr Konto gelöscht ist, können Sie auf die BANDAI NAMCO ID-Services nicht mehr zugreifen.</text>
+<text id="521077">Falls Sie es ablehnen, Ihre personenbezogenen Daten zur Verfügung zu stellen, oder uns auffordern, personenbezogene Daten zu löschen bzw. nicht mehr zu sammeln, können Sie damit ggfs. nicht mehr alle bzw. bestimmte Teile unserer Dienste benutzen.</text>
+<text id="521078">XI. 	Beschwerden</text>
+<text id="521079">Falls Sie Bedenken haben, dass Ihre persönlichen Daten womöglich kompromittiert wurden oder Sie Beschwerde bezüglich der Handhabung Ihrer persönlichen Daten einlegen möchten, wenden Sie sich bitte mit einer Beschreibung der Art Ihrer Beschwerde unter ppolicy@bandainamcoent.co.jp an uns. Wir werden Ihre Beschwerde prüfen und sind bemüht, Ihnen innerhalb eines angemessenen Zeitraums nach Eingang eine Antwort zukommen zu lassen.</text>
+<text id="521080">Falls Sie nach Erhalt unserer Antwort weiterhin der Ansicht sind, dass Ihre Datenschutzbeschwerde nicht geklärt wurde, können Sie diese vor einer zuständigen Regulierungs- oder Regierungsbehörde in Ihrem Rechtsgebiet vorbringen.</text>
+<text id="521081">XII. 	Kontakt</text>
+<text id="521082">Falls Sie Fragen bezüglich dieser Datenschutzerklärung haben, kontaktieren Sie uns unter:
+BANDAI NAMCO Entertainment Inc.
+Attn: Contact for Personal Information Matter
+5-37-8 Shiba
+Minato-ku, Tokyo 108-0014
+Japan
++81-3-6744-6112 (Telefon)
+ppolicy@bandainamcoent.co.jp</text>
+<text id="599999">no translation needed</text>
+<text id="600000">no translation needed</text>
+<text id="600001">no translation needed</text>
+<text id="600002">no translation needed</text>
+<text id="600003">no translation needed</text>
+<text id="600004">no translation needed</text>
+<text id="600005">no translation needed</text>
+<text id="600006">no translation needed</text>
+<text id="600007">no translation needed</text>
+<text id="600008">no translation needed</text>
+<text id="600009">no translation needed</text>
+<text id="600010">no translation needed</text>
+<text id="600011">no translation needed</text>
+<text id="600012">no translation needed</text>
+<text id="600013">no translation needed</text>
+<text id="600014">no translation needed</text>
+<text id="600999">DARK SOULS™: REMASTERED ENDBENUTZERLIZENZVEREINBARUNG</text>
+<text id="601000">BANDAI NAMCO ENTERTAINMENT
+ENDBENUTZERLIZENZVEREINBARUNG</text>
+<text id="601001">Letzte Aktualisierung: 19. Dezember 2017</text>
+<text id="601002">BITTE LESEN SIE DIESE VEREINBARUNG SORGFÄLTIG DURCH. INDEM SIE UNSERE SPIELE ODER DIENSTE NUTZEN ODER DARAUF ZUGREIFEN, ERKENNEN SIE ALLE IN DIESER VEREINBARUNG BESCHRIEBENEN SOWIE DURCH BEZUGNAHME ENTHALTENEN BESTIMMUNGEN ALS VERBINDLICH AN. FALLS SIE NICHT ALL DIESEN BESTIMMUNGEN ZUSTIMMEN, NUTZEN SIE UNSERE SPIELE ODER DIENSTE NICHT UND GREIFEN SIE NICHT DARAUF ZU.</text>
+<text id="601003">DIESE VEREINBARUNG ENTHÄLT U. A. EINE SCHIEDSVERFAHRENSKLAUSEL (ABSCHNITT 19(a)) UND EINE SAMMELKLAGENVERZICHTSKLAUSEL (ABSCHNITT 19(b)), DIE NICHT FÜR SIE GELTEN, WENN SICH IHR WOHNSITZ AUSSERHALB DER VEREINIGTEN STAATEN BEFINDET.</text>
+<text id="601004">Wenn sich Ihr Wohnsitz in Deutschland befindet, gelten spezifische Klauseln für Sie. (Siehe Abschnitte 7 und 15 für Einzelheiten.)
+Wenn sich Ihr Wohnsitz in der Europäischen Union befindet, gilt eine spezifische Klausel für Sie. (Siehe Abschnitt 10 für Einzelheiten.)
+Wenn sich Ihr Wohnsitz in Australien befindet, gilt eine spezifische Klausel für Sie. (Siehe Abschnitt 15 für Einzelheiten.)
+Wenn sich Ihr Wohnsitz in Nord-, Mittel- oder Südamerika (mit Ausnahme der USA) befindet, gilt eine spezifische Klausel für Sie. (Siehe Abschnitt 18 für Einzelheiten.)
+Wenn sich Ihr Wohnsitz in den Vereinigten Staaten befindet, gilt eine spezifische Klausel für Sie. (Siehe Abschnitt 19 für Einzelheiten.)</text>
+<text id="601005">Diese Endbenutzerlizenzvereinbarung (diese „Vereinbarung“) ist ein Vertrag zwischen Ihnen und entweder BANDAI NAMCO Entertainment Inc. („BNEI“), BANDAI NAMCO Entertainment America Inc. („BNEA“), BANDAI NAMCO Entertainment Europe S.A.S. („BNEE“) oder BANDAI NAMCO Entertainment Asia Pte Ltd. („BNE Asia“) (in allen Fällen „BANDAI NAMCO“, „uns“, „wir“ oder „unser“) und gilt für Ihren Zugriff auf und Ihre Nutzung des Spiels, in dem diese Vereinbarung enthalten ist (oder das oben genannte Spiel, falls Sie diese Vereinbarung online lesen), einschließlich und ohne Beschränkung auf jegliche Mehrspieler-, Online- oder herunterladbaren Teile des Spiels und jegliche das Spiel betreffenden schriftlichen oder elektronischen Dokumentationen oder Inhalte (das „Spiel“). Das Spiel wird lizenziert, nicht verkauft, und diese Vereinbarung überträgt keinerlei Rechtsansprüche oder Eigentumsrechte am Spiel oder an Kopien des Spiels. Diese Vereinbarung ändert in keiner Weise die Bestimmungen oder Bedingungen anderer Vereinbarungen, die Sie möglicherweise mit BANDAI NAMCO für andere Produkte oder Dienste eingegangen sind. Etwaige Änderungen, Erweiterungen oder Streichungen der Vereinbarung Ihrerseits sind nicht zulässig und werden von BANDAI NAMCO hiermit ausdrücklich zurückgewiesen.</text>
+<text id="601006">Zusätzliche von uns vorgegebene Bestimmungen (insbesondere bezüglich veröffentlichter Gebühren, Abrechnungsverfahren und Regeln von Werbeaktionen) können für besondere Funktionalitäten und Funktionen gelten, die Teil des Spiels sind. Sofern nicht anders angegeben, sind alle zusätzlich anwendbaren Bestimmungen durch Bezugnahme Bestandteil dieser Vereinbarung. Im Fall eines Konflikts zwischen dieser Vereinbarung und etwaigen zusätzlichen Bestimmungen gelten die zusätzlichen Bestimmungen für solche besonderen Funktionalitäten und Funktionen.</text>
+<text id="601007">1. 	VERTRAGSPARTNER: Die Körperschaft von BANDAI NAMCO, mit der Sie eine Vertragsbeziehung eingehen, richtet sich nach Ihrem Wohnort. Wenn sich Ihr Wohnsitz in Nord-, Mittel- oder Südamerika befindet, gilt diese Vereinbarung zwischen Ihnen und BNEA. Wenn sich Ihr Wohnsitz in Asien (mit Ausnahme von Japan) befindet, gilt diese Vereinbarung zwischen Ihnen und BNE Asia. Wenn sich Ihr Wohnsitz an einem anderen Ort befindet, gilt diese Vereinbarung zwischen Ihnen und BNEE.</text>
+<text id="601008">2. 	DATENSCHUTZ: Daten, die über dieses Spiel gesammelt werden, werden von BNEI in Japan gespeichert. Weitere Informationen darüber, wie wir solche Daten sammeln, nutzen und weitergeben, finden Sie in der Datenschutzrichtlinie von BNEI, die nach dieser Vereinbarung angezeigt wird.</text>
+<text id="601009">3. 	VORAUSSETZUNGEN FÜR DIE LIZENZGEWÄHRUNG: Die in dieser Vereinbarung enthaltenen Lizenzen sind ausdrücklich an nachfolgende Klauseln sowie Ihre vollständige Einhaltung aller anderen in dieser Vereinbarung festgelegten Bestimmungen und Bedingungen gebunden:
+a)	Sie gelten gemäß der Rechtslage an Ihrem Wohnort als volljährig. Wenn Sie gemäß der Rechtslage an Ihrem Wohnort nicht als volljährig gelten, muss ein Elternteil oder Erziehungsberechtigter diese Vereinbarung sowie alle anwendbaren zusätzlichen Bestimmungen als verbindlich anerkennen.
+b)	Sie stimmen zu, alle Bestimmungen in dieser Vereinbarung sowie etwaige zusätzliche für das Spiel anwendbare Bestimmungen einzuhalten.
+c)	Ihr Zugriff auf das Spiel und Ihre Nutzung des Spiels unterliegen bestimmten Sicherheitsmaßnahmen, insbesondere der Registrierung des Spiels mit einer Seriennummer, einem fortwährenden Internetzugang und der Anerkennung bestimmter Funktionen für die Sicherheit und die digitale Rechteverwaltung. Falls Sie solche Sicherheitsmaßnahmen nicht akzeptieren oder vollständig umsetzen, kann Ihre Nutzung des Spiels ganz oder teilweise beeinträchtigt werden.
+d)	Ihr Zugriff auf das Spiel und Ihre Nutzung des Spiels erfolgen unter Einhaltung aller anwendbaren lokalen, bundesstaatlichen, nationalen und internationalen Gesetze und Vorschriften.
+e)	Ihr Zugriff auf das Spiel und Ihre Nutzung des Spiels erfolgen nur auf lokalen Geräten, auf denen gültig lizenzierte Kopien der Betriebssysteme laufen, für die das Spiel konzipiert wurde (die „Hardware“).
+f)	Sie haben alle für die Hardware anwendbaren Bestimmungen und Bedingungen akzeptiert und halten diese ein, einschließlich aller Bestimmungen solcher Plattformen in Bezug auf Bezahlvorgänge.</text>
+<text id="601010">4. 	EINGESCHRÄNKTE BENUTZERLIZENZ:
+a)	Vorbehaltlich der Bestimmungen dieser Vereinbarung und Ihrer Einhaltung derselben gewähren wir Ihnen eine nicht exklusive, nicht übertragbare, beschränkte Lizenz zur Nutzung des Spiels für den Zeitraum der Vereinbarung in Ihrem Wohnsitzland, auf Hardware, die Sie besitzen oder exklusiv kontrollieren, und ausschließlich gemäß den anwendbaren Nutzungsvorschriften oder Nutzungsbedingungen (sofern vorhanden) der jeweiligen Plattform. Alle Aktualisierungen, Ergänzungen oder Erweiterungen des Originalspiels unterliegen dieser Vereinbarung, sofern solchen Aktualisierungen keine separaten Lizenzbestimmungen beigefügt sind.
+b)	Das Vorstehende beschreibt die Gesamtheit Ihrer Rechte in Bezug auf das Spiel, und wir behalten alle Rechte in und an dem Spiel, die Ihnen nicht ausdrücklich in dieser Vereinbarung gewährt werden. Ohne Einschränkung des Vorstehenden werden Sie keine der folgenden Handlungen ausführen, oder Dritte ermächtigen oder ihnen erlauben, diese Handlungen auszuführen: (i) das Spiel vertreiben, kopieren, lizenzieren, verleihen oder verkaufen (sofern dies nicht ausdrücklich durch diese Lizenz oder durch anwendbare Nutzungsvorschriften der jeweiligen Plattform erlaubt ist); (ii) das Spiel für andere Zwecke als Ihren persönlichen, nichtkommerziellen Gebrauch verwenden; (iii) den Quelltext des Spiels rekonstruieren, dekompilieren, zerlegen oder versuchen, diesen zu entdecken; (iv) das Spiel modifizieren, verändern oder daraus abgeleitete Werke entwickeln; (v) Hinweise auf Urheberrechts-, Marken- oder andere Eigentumsrechte auf oder in dem Spiel entfernen, ändern oder unkenntlich machen; (vi) das Spiel für Zwecke verwenden, für die es nicht konzipiert wurde; (vii) das Spiel auf Hardware nutzen, die Sie nicht besitzen oder exklusiv kontrollieren; (viii) Sicherheitsmaßnahmen im Spiel umgehen oder versuchen, diese zu umgehen; oder (ix) versuchen, Ihre Region unkenntlich zu machen oder zu verbergen, wenn Sie auf Onlinefunktionen des Spiels zugreifen.</text>
+<text id="601011">5. 	EIGENTUMSVERHÄLTNISSE: Das Spiel sowie alle Inhalte (mit Ausnahme von Nutzerinhalten, wie nachfolgend definiert) und andere Materialien, die im Spiel oder durch das Spiel verfügbar sind (insbesondere das BANDAI NAMCO-Logo und alle Designs, Texte, Grafiken, Bilder, Informationen, Daten, Software, Audiodateien, Spielwährung, virtuellen Gegenstände und anderen Dateien sowie deren Auswahl und Anordnung), sind Eigentum von BANDAI NAMCO oder seinen Lizenzgebern und werden durch Urheberrechte und andere Gesetze und Verträge zum geistigen Eigentum geschützt. Ungeachtet etwaiger anderslautender in dieser Vereinbarung enthaltener Bestimmungen stimmen Sie zu, dass Sie keinerlei Eigentumsrechte oder Rechtsansprüche an jedweden Inhalten haben, die im Spiel vorhanden sind, insbesondere nicht an Spielwährung und virtuellen Gegenständen.</text>
+<text id="601012">6. 	DAUER:
+a)	Vorbehaltlich Ihrer Erfüllung der in Abschnitt 3 festgelegten Voraussetzungen bleibt diese Vereinbarung in vollem Umfang in Kraft, während Sie das Spiel nutzen. Diese Vereinbarung kann von jeder Partei jederzeit, mit oder ohne Angabe von Gründen, nach angemessener Vorankündigung aufgehoben werden. Sie können diese Vereinbarung aufheben, indem Sie sämtliche in Ihrem Besitz, Ihrer Verwahrung oder Ihrer Verfügungsgewalt befindlichen Kopien des Spiels löschen oder vernichten. BANDAI NAMCO ist weder Ihnen noch irgendwelchen Dritten gegenüber haftbar für die Beendigung Ihrer Nutzung des Spiels.
+b)	Unbeschadet sonstiger Rechte von BANDAI NAMCO gilt: Sollten Sie die Bestimmungen und Bedingungen dieser Vereinbarung nicht einhalten, behält BANDAI NAMCO sich das Recht vor, Ihre Lizenz an dem Spiel unverzüglich zu beschränken, auszusetzen oder zu beenden.
+c)	Nach Kündigung dieser Vereinbarung (i) erlischt Ihre Lizenz am Spiel unverzüglich; und (ii) haben Sie kein Recht auf Erstattung irgendwelcher Gebühren, einschließlich nicht in Anspruch genommener Gebühren (sofern vorhanden), mit Ausnahme erworbener Spielwährung, die gemäß dem anwendbaren Recht erstattet wird.
+d)	Die Abschnitte 4(b), 5, 6(d), 8, 11 und 14–23 behalten auch nach Beendigung dieser Vereinbarung ihre Gültigkeit.</text>
+<text id="601013">7. 	ÄNDERUNGEN: BANDAI NAMCO behält sich das Recht vor, diese Vereinbarung jederzeit, aus jedwedem Grund und nach BANDAI NAMCOs alleinigem Ermessen zu ändern oder zu modifizieren. Falls BANDAI NAMCO Änderungen an dieser Vereinbarung vornimmt, werden wir solche Änderungen einen Monat im Voraus ankündigen, z. B. in Form einer Benachrichtigung über das Spiel. Durch Ihre fortwährende Nutzung des Spiels nach dem Datum des Inkrafttretens solcher Änderungen bestätigen Sie Ihre Zustimmung zu der überarbeiteten Vereinbarung.
+
+Wenn sich Ihr Wohnsitz in Deutschland befindet, gilt zusätzlich zu den vorstehend genannten Bestimmungen in diesem Abschnitt die folgende Formulierung für Sie:
+
+BANDAI NAMCO behält sich das Recht vor, diese Vereinbarung jederzeit und aus jedwedem Grund zu ändern oder zu modifizieren, mit Ausnahme der Bestimmungen, die die wesentlichen Vertragspflichten der Parteien hierunter festlegen. Die wesentlichen Vertragspflichten der Parteien werden nicht geändert wie in diesem Abschnitt beschrieben. BANDAI NAMCO wird Sie über jede angedachte Modifizierung dieser Vereinbarung in Kenntnis setzen, Ihnen die angedachte neue Version dieser Vereinbarung zukommen lassen und Sie über das Datum benachrichtigen, an dem die neue Vereinbarung in Kraft treten wird. Alle Änderungen erfordern eine schriftliche Vorankündigung (E-Mail genügt), die sechs Wochen im Voraus erfolgen muss. Falls Sie die jeweiligen Modifizierungen nicht ausdrücklich innerhalb eines Zeitraums von sechs Wochen nach Inkrafttreten der neuen Vereinbarung ablehnen, wird dies als Ihre Zustimmung zu den Modifizierungen der Vereinbarung ausgelegt. In der besagten Ankündigung angedachter Modifizierungen wird BANDAI NAMCO Sie ausdrücklich und spezifisch auf das Recht hinweisen, innerhalb eines Zeitraums von sechs Wochen Einspruch einzulegen, sowie auf die Konsequenzen für den Fall, dass Sie die angedachten Modifizierungen nicht ausdrücklich zurückweisen.</text>
+<text id="601014">8. 	MODIFIZIERUNG DES SPIELS: BANDAI NAMCO behält sich das Recht vor, das Spiel oder jedwede seiner Funktionen oder Elemente nach angemessener Vorankündigung oder (in Notfällen oder falls absolut erforderlich) ohne Vorankündigung zu modifizieren oder vorübergehend oder dauerhaft einzustellen. Sie stimmen zu, dass BANDAI NAMCO für keinerlei Modifizierung, Aussetzung oder Einstellung des Spiels oder jedweder seiner Elemente haftbar ist.</text>
+<text id="601015">9. 	SPIELINTERNE WÄHRUNG UND VIRTUELLE GEGENSTÄNDE:
+a)	BANDAI NAMCO kann Ihnen die Möglichkeit bieten, (i) eine beschränkte Lizenz zur Nutzung spielinterner Währung zu erwerben („erworbene Spielwährung“); (ii) eine beschränkte Lizenz zur Nutzung spielinterner Währung zu verdienen, indem Sie im Spiel bestimmte Aufgaben absolvieren (zusammen mit der erworbenen Spielwährung „Spielwährung“ genannt); und/oder (iii) eine beschränkte Lizenz für virtuelle Güter und Dienstleistungen, die von BANDAI NAMCO im Spiel verfügbar gemacht werden („virtuelle Gegenstände“), zu verdienen und/oder mit Spielwährung zu erwerben. Falls BANDAI NAMCO die Möglichkeit bietet, solche Lizenzen zu erwerben oder zu verdienen, gewährt BANDAI NAMCO Ihnen eine nicht exklusive, nicht übertragbare, widerrufliche und beschränkte Berechtigung und Lizenz, solche Spielwährung oder virtuellen Gegenstände (wie zutreffend) für Ihren persönlichen, nichtkommerziellen Gebrauch ausschließlich im Spiel zu nutzen, vorbehaltlich der Bestimmungen dieser Vereinbarung und Ihrer Einhaltung derselben.
+b)	Spielwährung kann nur gegen virtuelle Gegenstände zur Nutzung im Spiel eingelöst werden, und weder Spielwährung noch virtuelle Gegenstände können bei BANDAI NAMCO oder irgendeiner anderen Person oder Körperschaft gegen Geld, gegen Dinge mit Geldwert oder gegen irgendwelche monetären Gegenwerte eingetauscht werden, sofern durch anwendbare Gesetze nichts anderes vorgeschrieben ist. Spielwährung und virtuelle Gegenstände haben keinen Gegenwert in realer Währung und stellen keinen Ersatz für reale Währung dar. Weder BANDAI NAMCO noch irgendeine andere Person oder Körperschaft ist verpflichtet, Spielwährung oder virtuelle Gegenstände gegen irgendetwas von Wert einzutauschen, insbesondere gegen reale Währung. Sie erkennen an und stimmen zu, dass BANDAI NAMCO jederzeit Handlungen durchführen kann, die spielinterne Attribute oder den wahrgenommenen Wert von Spielwährung bzw. virtuellen Gegenständen beeinflussen können, sofern dies nicht durch anwendbares Recht untersagt ist. BANDAI NAMCO kann nach alleinigem Ermessen die Menge an Spielwährung beschränken, die erworben, verdient oder eingelöst werden kann.
+c)	Alle Käufe erworbener Spielwährung sind endgültig und unter keinen Umständen erstattungsfähig, übertragbar oder umtauschbar, sofern durch anwendbare Gesetze nichts anderes vorgeschrieben ist.  Mit Ausnahme des Kaufpreises für erworbene Spielwährung und bestimmte virtuelle Gegenstände erhebt BANDAI NAMCO keine Gebühren für den Zugriff auf oder die Nutzung bzw. Nichtnutzung von Spielwährung und virtuellen Gegenständen.
+d)	Sie dürfen Spielwährung oder virtuelle Gegenstände nicht übertragen, verkaufen, verschenken, tauschen, handeln, leasen, unterlizenzieren oder verleihen, sofern dies nicht im Spiel und mit ausdrücklicher Genehmigung von BANDAI NAMCO geschieht. Sofern in dieser Vereinbarung nicht anders geregelt wird, hält und behält BANDAI NAMCO alle Eigentumsrechte, Rechtsansprüche und Interessen an Spielwährung und virtuellen Gegenständen.
+e)	Die hierunter gewährten Rechte an Spielwährung und virtuellen Gegenständen enden mit der Beendigung dieser Vereinbarung gemäß Abschnitt 6, sofern durch diese Vereinbarung nichts anderes vorgegeben ist.</text>
+<text id="601016">10. 	RÜCKTRITTSRECHT: Wenn sich Ihr Wohnsitz in einem Mitgliedstaat der Europäischen Union befindet, haben Sie bestimmte Rücktrittsrechte beim Kauf von Spielwährung oder virtuellen Gegenständen mit realer Währung. Sie verzichten jedoch ausdrücklich auf Ihr Rücktrittsrecht, sobald die Leistung des Dienstes einsetzt, wenn Ihrem Konto Zugriff auf die Spielwährung oder virtuellen Gegenstände gewährt wird. Sie stimmen zu, dass (i) der Download von Spielwährung oder virtuellen Gegenständen unmittelbar nach dem Kauf beginnt; und (ii) Sie Ihr Rücktrittsrecht einbüßen, sobald der Kaufvorgang abgeschlossen ist.</text>
+<text id="601017">11. 	BENUTZERINHALTE: Indem Sie jegliche Art von Kommunikation, Information, geistigem Eigentum, Material, Nachrichten, Fotos, Grafiken, Videos, URLs und anderen Elementen oder Inhalten im Spiel posten („Benutzerinhalte“), gewähren Sie BANDAI NAMCO im Rahmen anwendbarer lokaler Gesetze hiermit für die Gesamtdauer des anwendbaren rechtlichen Schutzes geistiger Eigentumsrechte eine nicht exklusive, gebührenfreie, komplett übertragbare und unterlizenzierbare weltweite Lizenz, die Benutzerinhalte im Zusammenhang mit dem Spiel und zugehörigen Produkten und Diensten zu nutzen. Dies umfasst die Rechte, Benutzerinhalte zu reproduzieren, zu kopieren, zu adaptieren, zu modifizieren, darzubieten, als Grundlage abgeleiteter Werke zu verwenden, darzustellen, zu veröffentlichen, zu senden, zu übertragen oder anderweitig zu nutzen, zu vertreiben, zu vermarkten und der Öffentlichkeit mitzuteilen, durch alle derzeit bekannten oder zukünftig entwickelten Mittel und Medien, ohne weitere Benachrichtigung oder Vergütung jeglicher Art an Sie. Insofern anwendbare Gesetze es erlauben, verzichten Sie hiermit auf jegliche moralischen Rechte der Urheberschaft, Veröffentlichung, Reputation oder Nennung bezüglich der Nutzung und Auswertung solcher Elemente durch BANDAI NAMCO und andere Spieler im Zusammenhang mit dem Spiel sowie mit zugehörigen Produkten und Diensten im Rahmen anwendbarer Gesetze. Die Gewährung dieser Lizenz an BANDAI NAMCO überdauert jegliche Kündigung oder Auflösung dieser Vereinbarung.</text>
+<text id="601018">12. 	ONLINE-VERHALTEN: Außer im Fall vorsätzlichen Verschuldens oder grober Fahrlässigkeit durch BANDAI NAMCO ist BANDAI NAMCO nicht verantwortlich oder haftbar für das Verhalten von Benutzern, ungeachtet dessen, ob ein solches Verhalten mit dem Zugriff auf das Spiel oder mit der Nutzung des Spiels in Zusammenhang steht. BANDAI NAMCO kann jederzeit Ihren Zugriff auf das Spiel aussetzen oder beenden, wenn Sie gegen die Bestimmungen dieses Abschnitts 12 oder gegen andere Bestimmungen oder Bedingungen dieser Vereinbarung verstoßen. BANDAI NAMCO kann (z. B. in Reaktion auf eine Forderung eines Urheberrechtsinhabers) alle Benutzerinhalte prüfen, die ins oder im Spiel hochgeladen, veröffentlicht, gespeichert oder dargestellt wurden (nachfolgend als „gepostet“ bezeichnet); im Fall von Benutzerinhalten, die als Teil einer Privatnachricht geteilt wurden, wird BANDAI NAMCO solche Inhalte nicht durchsehen oder prüfen, wenn nicht mindestens eine Partei der Kommunikation ihr Einverständnis gewährt hat (z. B. indem die Partei BANDAI NAMCO die Nachricht als anstößig meldet). BANDAI NAMCO behält sich das Recht vor, jedwede Benutzerinhalte zu löschen oder sich zu weigern, sie online zu stellen. Obwohl BANDAI NAMCO im Spiel gepostete Benutzerinhalte nicht regelmäßig durchsieht, bearbeitet oder überwacht, behält sich BANDAI NAMCO das Recht vor, nach absolut freiem Ermessen jedwede Benutzerinhalte zu entfernen, durchzusehen oder zu bearbeiten, die über das Spiel gepostet werden, wenn BANDAI NAMCO nach vernünftigem Ermessen feststellt, dass solche Benutzerinhalte gegen diese Vereinbarung und/oder die Rechte Dritter, anwendbare Gesetze, Verordnungen oder Vorschriften verstoßen. Sie dürfen das Spiel nicht nutzen, wenn Sie zuvor suspendiert oder aus dem Spiel entfernt wurden. Sie sind allein verantwortlich für jedwede Benutzerinhalte, die Sie posten oder an andere Benutzer oder Dritte übertragen. Insbesondere stimmen Sie zu, dass Sie im Zusammenhang mit dem Spiel keine der folgenden Handlungen durchführen, versuchen oder beauftragen werden:
+
+a)	Benutzerinhalte posten, die gesetzeswidrig, verleumderisch, diffamierend, beleidigend, obszön, pornografisch, unanständig, vulgär, anzüglich, eindeutig sexuell, belästigend, bedrohend, missbräuchlich, hetzerisch oder betrügerisch sind; oder die Persönlichkeits- oder Öffentlichkeitsrechte verletzen; oder die illegale oder asoziale Aktivitäten fördern oder ermutigen (einschließlich Hacking); oder die Rassismus, Fanatismus, Hass, Körperverletzung oder andere Schädigungen gegen jedwede Gruppe oder Individuen fördern; oder die anderweitig zu beanstanden sind;
+b)	Benutzerinhalte posten, die gegen jedwede Patente, Marken, Geschäftsgeheimnisse, Urheberrechte oder anderen geistigen Rechte oder Eigentumsrechte jedweder Person oder Körperschaft verstoßen;
+c)	sich an kommerziellen Aktivitäten oder Verkaufstätigkeiten beteiligen, einschließlich der Übertragung kommerzieller Werbung oder Aufrufe;
+d)	persönliche Daten über jedwede Person (einschließlich Sie selbst) eingeben, veröffentlichen oder verbreiten;
+e)	sich als eine andere Person oder Körperschaft ausgeben, einschließlich Vertreter, Forenleiter, Leiter, Hosts, Mitarbeiter oder Beauftragte von BANDAI NAMCO; oder Ihre Verbindung mit einer Person oder Körperschaft falsch angeben oder anderweitig irreführend darstellen;
+f)	das Spiel oder den normalen Fluss des Gameplays oder der Dialoge beeinträchtigen oder unterbrechen; oder vulgäre oder beleidigende Ausdrucksweisen verwenden; oder übermäßig „schreien“ (z. B. durch ausschließliches Verwenden von Großbuchstaben); oder spammen; oder jedwede anderen disruptiven oder lästigen Methoden anwenden, die andere Nutzer des Spiels stören können;
+g)	jedwede Bugs, Fehler oder Designschwächen nutzen oder ausnutzen, um unberechtigten Zugriff auf das Spiel zu erhalten, um sich unfaire Vorteile gegenüber anderen Spielern zu verschaffen, oder um zu schummeln oder unerlaubte Exploits im Zusammenhang mit dem Spiel zu nutzen (insbesondere durch Zugriff auf Teile des Spiels, für die Sie keine Zugriffsberechtigung besitzen, und durch die Nutzung von Bots, Emulatoren oder anderen unerlaubten Fremdwerkzeugen);
+h)	irgendetwas tun, das die Fähigkeit anderer Nutzer einschränkt, das Spiel im Einklang mit seinen Regeln zu genießen, oder das BANDAI NAMCO oder den Plattformanbieter beim Versuch, das Spiel für das Vergnügen aller Nutzer aufrechtzuerhalten, erheblich finanziell belastet oder behindert;
+i)	sich während des Onlinespielens vorsätzlich vom Netzwerk trennen oder sich mehrfach vorsätzlich von einem bestimmten Spieler besiegen lassen, um dessen Rang oder Siegesquote im Spiel zu verbessern;
+j)	virtuelle Gegenstände oder Spielwährung außerhalb des Spiels handeln, verkaufen oder anderweitig übertragen oder versuchen, sie zu übertragen;
+k)	anderweitig gegen die Bestimmungen dieser Vereinbarung oder gegen von BANDAI NAMCO kommunizierte Richtlinien verstoßen; oder Haftungsfälle für BANDAI NAMCO verursachen.</text>
+<text id="601019">13. 	RICHTLINIEN ZUM URHEBERRECHT: Urheberrechtsinhaber oder Beauftragte von Urheberrechtsinhabern, die der Ansicht sind, dass etwas im Spiel gegen die in ihrem Besitz oder unter ihrer Kontrolle befindlichen Urheberrechte verstößt, können einen solchen Verstoß unserem designierten Urheberrechtsbeauftragten melden wie nachfolgend beschrieben. Die Bearbeitung Ihrer Meldung kann beschleunigt werden, indem Sie die Informationen und Angaben bereitstellen, die im US-amerikanischen Gesetz 17 U.S.C. §512(c)(3) aufgeführt sind. Die Erfüllung dieser Satzung ist keine Vorbedingung für die Verstoßmeldung, mit Ausnahme von Urheberrechtsinhabern in den Vereinigten Staaten. Jede Person, die in einer Meldung wissentlich fälschlicherweise behauptet, dass bestimmtes Material oder eine bestimmte Aktivität einen Verstoß darstelle, kann für Schäden haftbar gemacht werden (einschließlich Kosten und Anwaltsgebühren), die bei uns oder dem vorgeblichen Rechtsverletzer entstehen, wenn wir auf Grundlage einer solchen Falschdarstellung das beanstandete Material oder die Aktivität entfernen oder den Zugriff darauf deaktivieren. BANDAI NAMCO hat eine Richtlinie eingeführt, laut der bei entsprechenden Umständen und im alleinigen Ermessen von BANDAI NAMCO Nutzer gesperrt werden, die wiederholt gegen geistige Eigentumsrechte Dritter verstoßen haben. BANDAI NAMCO kann jedoch auch den Zugriff von Nutzern auf das Spiel begrenzen oder sperren, die nur ein Mal (und nicht wiederholt) gegen geistige Eigentumsrechte Dritter verstoßen.
+
+BANDAI NAMCO Entertainment Inc.
+Attn: Copyright Agent
+5-37-8 Shiba, Minato-ku,
+Tokyo 108-0014
+Japan
+Tel.: +81-3-6744-6112
+Fax: +81-3-6866-0577
+copyrightagent@bandainamcoent.co.jp</text>
+<text id="601020">14. 	INHALTE DRITTER: Durch das Spiel können Ihnen Inhalte von allen Nutzern, Werbetreibenden und anderen Dritten zugänglich gemacht werden. Da wir Inhalte Dritter nicht kontrollieren, stimmen Sie zu, dass wir (außer im Fall vorsätzlichen Verschuldens oder grober Fahrlässigkeit durch BANDAI NAMCO) für keinerlei Inhalte Dritter verantwortlich sind; dass wir keine Garantien bezüglich der Richtigkeit oder Qualität von Informationen in Inhalten Dritter gewähren; und dass wir keine Verantwortung für unbeabsichtigte, anstößige, unzutreffende, irreführende oder gesetzeswidrige Inhalte Dritter übernehmen. Verweise auf Produkte, Dienste, Prozesse oder andere Informationen anhand von Markennamen, Warenzeichen, Herstellern, Anbietern oder auf andere Weise stellen keine direkte oder implizite Billigung, Unterstützung, Empfehlung oder Zugehörigkeit durch BANDAI NAMCO dar, sofern dies nicht ausdrücklich von BANDAI NAMCO angegeben wird.</text>
+<text id="601021">15. 	GEWÄHRLEISTUNGSAUSSCHLUSS: SIE BESTÄTIGEN UND STIMMEN ZU, DASS BANDAI NAMCO UND SEINE LIZENZGEBER UND LIEFERANTEN WEDER FÜR ETWAIGE VIREN ODER ANDERE DEAKTIVIERENDE FUNKTIONEN VERANTWORTLICH ODER HAFTBAR SIND, DIE IHREN ZUGRIFF AUF DAS SPIEL ODER IHRE NUTZUNG DES SPIELS BEEINTRÄCHTIGEN KÖNNEN, NOCH FÜR JEDWEDE INKOMPATIBILITÄT ZWISCHEN DEM SPIEL, ANDEREN DIENSTEN UND HARDWARE. DAS SPIEL UND ALLE ANDEREN DIENSTE WERDEN IM VORLIEGENDEN ZUSTAND BEREITGESTELLT. AUSSER WIE HIERIN GEGEBENENFALLS BESCHRIEBEN, LEHNEN BANDAI NAMCO UND SEINE LIZENZGEBER UND LIEFERANTEN AUSDRÜCKLICH ALLE GEWÄHRLEISTUNGEN ODER BEDINGUNGEN JEGLICHER ART AB (OB AUSDRÜCKLICH ODER STILLSCHWEIGEND UND AUFGRUND VON GESETZ ODER SONSTIGEM), DARUNTER SÄMTLICHE STILLSCHWEIGENDEN GEWÄHRLEISTUNGEN DER NICHTVERLETZUNG, DER MARKTFÄHIGKEIT ODER DER EIGNUNG FÜR EINEN BESTIMMTEN ZWECK.
+In einigen Rechtsgebieten ist weder die Ablehnung stillschweigender Bestimmungen noch der Ausschluss oder die Beschränkung von Gewährleistungen in Verträgen mit Verbrauchern erlaubt, sodass einige oder alle der Haftungsausschlüsse in diesem Abschnitt gegebenenfalls nicht für Sie gelten.
+
+Wenn sich ihr Wohnsitz in Australien befindet, gilt zusätzlich zu den vorstehend genannten Bestimmungen in diesem Abschnitt die folgende Formulierung für Sie:
+Dieser Abschnitt 15 beabsichtigt nicht, irgendwelche verpflichtenden oder gesetzlichen Verbraucherrechte oder -rechtsbehelfe zu beschränken oder zu beschneiden, die gemäß den Gesetzen Ihres Rechtsgebietes gelten. Soweit gesetzlich zulässig, werden die Bedingungen und Gewährleistungen gemäß Anlage 2 des Competition and Consumer Act 2010 (Cth) (das australische Verbrauchergesetz) in vollem Umfang von der vorliegenden Vereinbarung ausgeschlossen, und soweit sie nicht ausgeschlossen werden können, stimmen Sie zu, dass die Haftung von BANDAI NAMCO auf Folgendes beschränkt und diese Beschränkung der Haftung von BANDAI NAMCO fair und angemessen ist:
+(i)	die erneute Bereitstellung des Spiels oder
+(ii)	die Zahlung der Kosten für die erneute Bereitstellung des Spiels.
+
+Wenn sich ihr Wohnsitz in Deutschland befindet, gilt zusätzlich zu den vorstehend genannten Bestimmungen in diesem Abschnitt die folgende zusätzliche Formulierung für Sie:
+Soweit irgendwelche Dienstleistungen gegen eine Gebühr bereitgestellt werden, trifft Folgendes zu: BANDAI NAMCO gewährleistet, dass das Spiel im Wesentlichen wie in den geltenden Dokumenten oder der Produktbeschreibung beschrieben funktioniert. Im Falle eines Mangels stellt BANDAI NAMCO eine Nacherfüllung bereit, indem es innerhalb eines angemessenen Zeitraums entweder den Mangel beseitigt (z. B. durch die Bereitstellung eines Patches) oder eine neue Version der Dienstleistung bereitstellt, die den Mangel nicht aufweist, unter Gewährung von mindestens drei Nacherfüllungsversuchen. Schlägt die Nacherfüllung endgültig fehl, können Sie Ihre sonstigen gesetzlichen Rechte ausüben, vorausgesetzt jedoch, dass die verschuldensunabhängige Haftung von BANDAI NAMCO für anfängliche Mängel gemäß § 536a Abs. 1 BGB in jedem Fall ausgeschlossen ist.</text>
+<text id="601022">16. 	INTERNET: SIE ERKENNEN AN UND STIMMEN ZU, DASS BANDAI NAMCO NICHT VERANTWORTLICH ODER HAFTBAR IST FÜR ETWAIGE VERZÖGERUNGEN ODER AUSFÄLLE, DIE SIE UNTER UMSTÄNDEN BEI DEM RICHTIGEN ODER ZEITGERECHTEN EINLEITEN, ABWICKELN ODER ABSCHLIESSEN VON ÜBERTRAGUNGEN ODER TRANSAKTIONEN IN VERBINDUNG MIT DEM SPIEL ERLEBEN. Darüber hinaus kann BANDAI NAMCO nicht versprechen und gibt nicht das Versprechen ab, dass Sie in der Lage sein werden, immer auf die Online-, Mehrspieler- oder herunterladbaren Elemente des Spiels zuzugreifen, wann Sie möchten, und es kann längere Zeiträume geben, in denen Sie nicht auf diese Elemente des Spiels zugreifen können. BANDAI NAMCO stellt keinen durchgehenden, mängelfreien, sicheren oder virenfreien Betrieb etwaiger Online-, Mehrspieler- oder herunterladbarer Elemente des Spiels und keinen unterbrechungsfreien Betrieb sowie keine unterbrechungsfreie Verfügbarkeit irgendwelcher bestimmter Server sicher.</text>
+<text id="601023">17. 	HAFTUNGSBESCHRÄNKUNG: AUSSER FÜR (1) TOD ODER KÖRPERVERLETZUNG INFOLGE VON FAHRLÄSSIGKEIT SEITENS BANDAI NAMCO, (2) BETRUG ODER ARGLISTIGE TÄUSCHUNG SEITENS BANDAI NAMCO, (3) VORSÄTZLICHE HANDLUNGEN ODER GROBE FAHRLÄSSIGKEIT SEITENS BANDAI NAMCO, (4) VERLUST ODER ZERSTÖRUNG VON PRIVATEM SACHVERMÖGEN INFOLGE DER NUTZUNG DES SPIELS UND (5) SÄMTLICHE SONSTIGE HAFTUNG, DIE NICHT DURCH ANWENDBARE GESETZE BESCHRÄNKT ODER AUSGESCHLOSSEN WERDEN KANN, HAFTEN BANDAI NAMCO ODER DESSEN TOCHTERUNTERNEHMEN, VERBUNDENE UNTERNEHMEN, LEITENDE ANGESTELLTE, MITARBEITER, BEAUFTRAGTE UND ANDERE PARTNER UND LIEFERANTEN IN KEINEM FALL FÜR IRGENDWELCHE MITTELBAREN SCHÄDEN, BESONDEREN SCHÄDEN, FOLGE- ODER STRAFSCHÄDEN ODER BELIEBIGEN ANDEREN SCHÄDEN, DARUNTER ENTGANGENE NUTZUNG UND ENTGANGENER GEWINN, OB AUFGRUND VON VERTRAG, UNERLAUBTER HANDLUNG (FAHRLÄSSIGKEIT EINGESCHLOSSEN) ODER SONSTIGEM, DIE SICH AUS DER NUTZUNG BZW. DER UNMÖGLICHKEIT DER NUTZUNG DES SPIELS ODER DER INHALTE, DIE IN DEM SPIEL ENTHALTEN SIND ODER AUF DIE ÜBER DAS SPIEL ZUGEGRIFFEN WIRD, ODER DEM VERSÄUMNIS, SUPPORT-DIENSTE BEREITZUSTELLEN, ERGEBEN ODER DAMIT IN VERBINDUNG STEHEN. IM FALL VON LEICHTER FAHRLÄSSIGKEIT ODER EINEM LEICHTEN VERSTOSS GEGEN DIE GRUNDLEGENDEN VERPFLICHTUNGEN VON BANDAI NAMCO GEMÄSS DER VORLIEGENDEN VEREINBARUNG IST DIE HAFTUNG VON BANDAI NAMCO AUF UNMITTELBARE UND VORHERSEHBARE VON IHNEN ERLITTENE SCHÄDEN BESCHRÄNKT. DIE GESAMTHAFTUNG VON BANDAI NAMCO, OB AUFGRUND VON VERTRAG, GEWÄHRLEISTUNG, UNERLAUBTER HANDLUNG, PRODUKTHAFTUNG, GEFÄHRDUNGSHAFTUNG, VERSTOSS GEGEN GEISTIGES EIGENTUM ODER EINEM SONSTIGEN RECHTSGRUND, INFOLGE ODER IN VERBINDUNG MIT DER NUTZUNG BZW. DER UNMÖGLICHKEIT DER NUTZUNG DES SPIELS ODER IN VERBINDUNG MIT DIESEN BESTIMMUNGEN ÜBERSTEIGT IN KEINEM FALL EINHUNDERT DOLLAR (100 $) ODER, FALLS HÖHER, DEN BETRAG, DEN SIE AN BANDAI NAMCO FÜR IHRE NUTZUNG DES SPIELS GEZAHLT HABEN. DIESER ABSCHNITT 17 STELLT KEINE BESCHRÄNKUNG VORGESCHRIEBENER ODER GESETZLICHER GARANTIEN DAR, DIE GEMÄSS DEN GESETZEN IHRES RECHTSGEBIETES NICHT VERTRAGLICH BESCHRÄNKT WERDEN KÖNNEN.</text>
+<text id="601024">18. 	STREITBEILEGUNG:
+DIESER ABSCHNITT 18 GILT NUR FÜR SIE, WENN SICH IHR WOHNSITZ IN NORD-, MITTEL- ODER SÜDAMERIKA AUSSERHALB DER VEREINIGTEN STAATEN BEFINDET.
+
+Wenn sich Ihr Wohnsitz in einem Land Amerikas außerhalb der Vereinigten Staaten von Amerika befindet, können entweder Sie oder BNEA mit der vorherigen schriftlichen Einwilligung der anderen Partei etwaige Streitigkeiten, die mit der vorliegenden Vereinbarung oder dem Spiel in Verbindung stehen oder sich daraus ergeben, an ein alternatives Streitbeilegungsverfahren (wie z. B. Vergleich oder Schlichtung) verweisen. Unbeschadet des Vorstehenden halten die Bestimmungen der vorliegenden Vereinbarung Sie nicht davon ab: (i) etwaige Streitigkeiten oder Ansprüche, die gegebenenfalls diesem Abschnitt 18 unterliegen, beliebigen Bundes-, bundesstaatlichen oder lokalen Regierungsbehörden vorzulegen, die, falls gesetzlich zulässig, in Ihrem Namen um Abhilfemaßnahmen von BNEA nachsuchen; (ii) etwaige Ansprüche gegen BNEA, die nicht schiedsfähig sind oder für die ein Schiedsverfahren durch anwendbares Gesetz untersagt oder beschränkt ist, vor ein beliebiges zuständiges Gericht zu bringen; oder (iii) etwaige Ansprüche vor ein Gericht für geringfügige Forderungen zu bringen, gemäß den Beschränkungen und Anforderungen dieses Gerichts für geringfügige Forderungen in dem jeweiligen Rechtsgebiet.</text>
+<text id="601025">19. 	STREITBEILEGUNG:
+DIESER ABSCHNITT 19 GILT FÜR SIE NUR, WENN SICH IHR WOHNSITZ IN DEN VEREINIGTEN STAATEN BEFINDET.
+
+Wenn sich Ihr Wohnsitz in den Vereinigten Staaten von Amerika befindet, stimmen Sie und BNEA, indem Sie die Bestimmungen der vorliegenden Vereinbarung akzeptieren, zu: (i) bestimmte Streitigkeiten durch ein obligatorisches, verbindliches Schiedsverfahren, wie in Abschnitt 19(a) und jedem Unterabschnitt davon festgelegt, beizulegen (in ihrer Gesamtheit als „Schiedsvereinbarung“ bezeichnet); und (ii) gemäß Abschnitt 19(b) (der „Sammelklagenverzicht“) ausdrücklich auf das Recht auf ein Schwurgerichtsverfahren oder die Beteiligung an einer gegen die andere Partei erhobene Sammelklage zu verzichten; es sei denn, (iii) Sie üben Ihr Recht auf Rücktritt von der Schiedsvereinbarung und/oder dem Sammelklagenverzicht aus, wie in Abschnitt 19(c) dargelegt.
+a)	OBLIGATORISCHES, VERBINDLICHES SCHIEDSVERFAHREN: SOWEIT DURCH ANWENDBARES GESETZ ERLAUBT, (i) STIMMEN SIE UND BNEA ZU, ALLE STREITIGKEITEN UND ANSPRÜCHE ZWISCHEN IHNEN UND BNEA ANHAND VERBINDLICHER SCHIEDSVERFAHREN GEMÄSS DEM FEDERAL ARBITRATION ACT BEIZULEGEN, DARUNTER (AUSSER WIE AUSDRÜCKLICH IN ABSCHNITT 19.a.iii FESTGELEGT) SÄMTLICHE STREITIGKEITEN ODER ANSPRÜCHE BASIEREND AUF RECHTSGRUNDLAGEN ZU VERTRAGSVERLETZUNG, SCHULDHAFTER VERLETZUNG, RECHTSVERSTÖSSEN, BETRUG, UNLAUTEREM WETTBEWERB, DATENSCHUTZRECHTEN, TÄUSCHUNG ODER IRGENDEINER SONSTIGEN RECHTSGRUNDLAGE, DIE SICH GEGEBENENFALLS AUS EINEM BELIEBIGEN ASPEKT DER BEZIEHUNG ZWISCHEN IHNEN UND BNEA, EINER BELIEBIGEN BESTIMMUNG ODER VORSCHRIFT DER VORLIEGENDEN VEREINBARUNG ODER IHREM ZUGRIFF AUF DAS SPIEL BZW. IHRER NUTZUNG DES SPIELS ERGIBT ODER DAMIT IN VERBINDUNG STEHT (JEWEILS ALS „ANSPRUCH“ BEZEICHNET); (ii) VERZICHTEN SIE UND BNEA AUSDRÜCKLICH UND UNWIDERRUFLICH AUF JEGLICHES RECHT, ETWAIGE ANSPRÜCHE VOR GERICHT GELTEND ZU MACHEN ODER ETWAIGE ANSPRÜCHE VOR EINEN RICHTER ODER VOR GESCHWORENE ZU BRINGEN; (iii) STRENGEN SIE UND BNEA KEIN GRUPPEN- ODER REPRÄSENTATIVSCHIEDSVERFAHREN GEGEN DIE ANDERE PARTEI AN ODER BETEILIGEN SICH DARAN, AUCH WENN DIES GEMÄSS DEM FEDERAL ARBITRATION ACT ZULÄSSIG IST; UND (iv) VERSUCHEN SIE UND BNEA NICHT, IRGENDWELCHE SCHIEDSVERFAHREN HINSICHTLICH ETWAIGER ANSPRÜCHE IHRERSEITS ODER SEITENS BNEA MIT EINER BELIEBIGEN KLAGE ODER EINEM BELIEBIGEN SCHIEDSVERFAHREN, DIE VON EINEM ODER GEGEN EINEN BELIEBIGEN DRITTEN ANGESTRENGT WERDEN, ZUSAMMENZULEGEN ODER ZU KOMBINIEREN, OHNE DIE AUSDRÜCKLICHE SCHRIFTLICHE EINWILLIGUNG DERARTIGER DRITTER UND BEIDER PARTEIEN DER VORLIEGENDEN VEREINBARUNG EINZUHOLEN. SOFERN SIE KEINE ORDNUNGSGEMÄSSE RÜCKTRITTSMITTEILUNG ÜBERMITTELN (UNTER STRIKTER EINHALTUNG VON ABSCHNITT 19(C)), STIMMEN SIE UND BNEA ZU, DASS SÄMTLICHE GEGEN DIE ANDERE PARTEI VORGEBRACHTEN ANSPRÜCHE AUSSCHLIESSLICH MITTELS OBLIGATORISCHER, VERBINDLICHER SCHIEDSVERFAHREN ABGEWICKELT WERDEN. 
+i)	Informelle Streitbeilegung im Vorfeld eines Schiedsverfahrens: Sie und BNEA stimmen zu, vor dem Beginn eines Schiedsverfahrens wegen etwaiger Ansprüche gemäß der vorliegenden Schiedsvereinbarung nach Treu und Glauben angemessene Bemühungen zu unternehmen, sämtliche Streitigkeiten oder Ansprüche zwischen Ihnen und BNEA informell beizulegen. Die Partei, die eine solche Streitigkeit oder einen solchen Anspruch geltend machen möchte, lässt der anderen Partei eine schriftliche Mitteilung zukommen, in der die Art und die Grundlage dieser Streitigkeit oder dieses Anspruchs beschrieben und die nachgesuchte Abhilfe bestimmt wird. Alle derartigen schriftlichen Mitteilungen an BNEA müssen per Post an folgende Anschrift gesendet werden: BANDAI NAMCO Entertainment America Inc., Attn: Legal &amp; Business Affairs Department, 2051 Mission College Blvd., Santa Clara, CA 95054, USA. Falls Sie und BNEA sich nicht innerhalb von 30 Tagen nach Erhalt der schriftlichen Mitteilung auf eine Beilegung der Streitigkeit oder des Anspruchs einigen, kann die Partei, die die Streitigkeit oder den Anspruch gelten machen möchte, im Rahmen der vorliegenden Schiedsvereinbarung eine Schiedsklage gegen die andere vorbringen.
+ii)	Schiedsverfahren: Das Schiedsverfahren ist ein rechtsverbindlicher Prozess, mit dem eine Partei um Abhilfemaßnahmen von einer anderen Partei nachsuchen oder Rechtsbehelfe gegen eine andere Partei einlegen kann und der einer vor einem Gericht erhobenen Klage ähnlich ist, jedoch im Allgemeinen die Auferlegung von weniger strikten Verfahrensformalitäten mit sich bringt, vor einem externen, neutralen Schiedsrichter (statt vor einem Richter oder einem Geschworenengericht) stattfindet, eine stärkere Begrenzung der Beweisermittlung und eine potenzielle Verringerung der Rechtskosten für jede Partei mit sich bringt sowie beschränkter Prüfung durch Gerichte unterliegt. Das Verfahren zur Schlichtung etwaiger Ansprüche gemäß der vorliegenden Schiedsvereinbarung unterliegt den Commercial Arbitration Rules der American Arbitration Association („AAA“) und, sofern zutreffend, den Supplementary Procedures for Consumer Related Disputes der AAA, die beide unter http://www.adr.org abrufbar sind. Unbeschadet des Vorstehenden stimmen Sie und BNEA der Durchführung sämtlicher Schiedsverfahren in englischer Sprache zu, genehmigen die elektronische Übermittlung von Dokumenten und erlauben die Teilnahme per Telefon, Telefonkonferenz oder persönlich an einem in beiderseitigem Einvernehmen festgelegten Ort.
+iii)	Ausgeschlossene Ansprüche: Unbeschadet des Vorstehenden halten die Bestimmungen der vorliegenden Vereinbarung Sie oder BNEA nicht davon ab: (i) etwaige Ansprüche beliebigen Bundes-, bundesstaatlichen oder lokalen Regierungsbehörden vorzulegen, die über die staatliche Befugnis und Rechtszuständigkeit verfügen, in Ihrem Namen oder im Namen von BNEA um Abhilfemaßnahmen von der anderen Partei nachzusuchen; (ii) etwaige Ansprüche vor ein Gericht für geringfügige Forderungen zu bringen, gemäß den Beschränkungen und Anforderungen dieses Gerichts für geringfügige Forderungen in dem jeweiligen Rechtsgebiet.
+iv)	Teilnichtigkeit der Schiedsvereinbarung: Sie und BNEA stimmen zu, dass keine Vorschrift der vorliegenden Schiedsvereinbarung gegen Sie oder BNEA durchsetzbar ist und alle Ansprüche den nachfolgenden Abschnitten 20(a) und 21(a) unterliegen, falls entweder: (i) ein zuständiges Gericht abschließend entscheidet, dass eine Bestimmung oder eine Vorschrift der vorliegenden Schiedsvereinbarung nicht durchsetzbar, durch geltendes Gesetz untersagt oder auf etwaige Ansprüche nicht anwendbar ist; oder (ii) Sie eine ordnungsgemäße Rücktrittsmitteilung (unter Einhaltung von Abschnitt 19(c)) übermitteln, worin Sie Ihre Entscheidung für den Rücktritt von der vorliegenden Schiedsvereinbarung zum Ausdruck bringen.
+b)	SAMMELKLAGENVERZICHT: FALLS SICH IHR WOHNSITZ IN DEN VEREINIGTEN STAATEN VON AMERIKA BEFINDET, STIMMEN SIE UND BNEA, INDEM SIE DIE BESTIMMUNGEN DER VORLIEGENDEN VEREINBARUNG AKZEPTIEREN, ZU: (I) DASS SICH JEDER ANSPRUCH NUR AUF SIE UND BNEA BEZIEHT UND NUR IM RAHMEN EINES INDIVIDUELLEN SCHIEDSVERFAHRENS (ODER EINES INDIVIDUELLEN GERICHTSVERFAHRENS MIT BLICK AUF GEMÄSS ABSCHNITT 19.a.iii VON DER SCHIEDSVEREINBARUNG AUSGENOMMENE ANSPRÜCHE) UND NICHT ALS SAMMELKLAGE ODER ANDERE FORM EINER REPRÄSENTATIVKLAGE GELTEND GEMACHT WIRD; (ii) DASS SIE UND BNEA AUF SÄMTLICHE RECHTE AUF EINREICHUNG ODER BETEILIGUNG AN EINER SAMMELKLAGE ODER AUF DAS NACHSUCHEN UM ABHILFEMASSNAHMEN AUF DER BASIS EINER SAMMEL- ODER REPRÄSENTATIVKLAGE VERZICHTEN, UND (iii) DASS DER SCHIEDSRICHTER (ODER DAS GERICHT MIT BLICK AUF GEMÄSS ABSCHNITT 19.a.iii VON DER SCHIEDSVEREINBARUNG AUSGENOMMENE ANSPRÜCHE) NUR EINE INDIVIDUELLE SCHLICHTUNG (ODER EIN INDIVIDUELLES GERICHTSVERFAHREN MIT BLICK AUF GEMÄSS ABSCHNITT 19.a.iii VON DER SCHIEDSVEREINBARUNG AUSGENOMMENE ANSPRÜCHE) DURCHFÜHREN KANN, NICHT MEHR ALS DIE ANSPRÜCHE EINER EINZELPERSON ZUSAMMENLEGEN UND NICHT DEN VORSITZ ÜBER IRGENDEINE FORM VON REPRÄSENTATIV- ODER SAMMELVERFAHREN IN VERBINDUNG MIT DERARTIGEN ANSPRÜCHEN FÜHREN KANN. SOFERN SIE KEINE ORDNUNGSGEMÄSSE RÜCKTRITTSMITTEILUNG (WIE IN ABSCHNITT 19(C) BESCHRIEBEN) ÜBERMITTELN, STIMMEN SIE UND BNEA ZU, DASS JEDER NUR IN SEINER INDIVIDUELLEN EIGENSCHAFT UND NICHT ALS KLÄGER ODER SAMMELKLÄGER IN EINEM ALS SAMMEL- ODER REPRÄSENTATIVVERFAHREN BEZEICHNETEN VERFAHREN ANSPRÜCHE GEGEN DEN JEWEILS ANDEREN GELTEND MACHEN KANN.
+i)	Teilnichtigkeit des Sammelklagenverzichts: Sie und BNEA stimmen zu, dass keine Vorschrift des vorliegenden Sammelklagenverzichts gegen Sie oder BNEA durchsetzbar ist und alle Ansprüche den nachfolgenden Abschnitten 20(a) und 21(a) unterliegen, falls entweder: (i) ein zuständiges Gericht abschließend entscheidet, dass eine Bestimmung oder eine Vorschrift des vorliegenden Sammelklagenverzichts nicht durchsetzbar, durch geltendes Gesetz untersagt oder auf etwaige Ansprüche nicht anwendbar ist, oder (ii) Sie eine angemessene Rücktrittsmitteilung (unter Einhaltung von Abschnitt 19(c)) abgeben, worin Sie sich für den Rücktritt von dem vorliegenden Sammelklagenverzicht entschieden haben. In keinem Fall ist die Teilnichtigkeit des Sammelklagenverzichts als Einwilligung Ihrerseits oder seitens BNA zur Beteiligung an einer Sammelklage oder einem Sammelschiedsverfahren auszulegen oder anzusehen.
+c)	RÜCKTRITTSVERFAHREN: Sie haben das Recht, von der vorstehenden Schiedsvereinbarung und dem vorstehenden Sammelklagenverzicht zurückzutreten und nicht daran gebunden zu sein, indem Sie eine schriftliche Mitteilung über Ihre Entscheidung, von der Schiedsvereinbarung und/oder dem Sammelklagenverzicht (die „Rücktrittserklärung“) zurückzutreten, unter strikter Einhaltung der folgenden Anforderungen von Abschnitt 19.c.i bis 19.c.iii absenden:
+i)	Form und Anschrift: Ihre Rücktrittsmitteilung muss an folgende Anschrift gesendet werden: BANDAI NAMCO Entertainment America Inc., Attn: Legal &amp; Business Affairs Department, 2051 Mission College Blvd., Santa Clara, CA 95054, USA, und die Sendung muss entweder per (i) frankiertem Einschreiben mit Rückschein oder (ii) Übernachtkurierdienst (wie Federal Express) erfolgen.
+ii)	Frist: Sofern das geltende Recht keinen längeren Zeitraum vorsieht, muss Ihre Rücktrittsmitteilung unter Einhaltung folgender Fristen abgestempelt (bei Versand per Post) oder aufgegeben (bei Versand per Übernachtkurierdienst) werden: (i) innerhalb von 30 Tagen ab dem Kauf Ihres Exemplars des Spiels; oder (ii) falls kein Kauf getätigt wurde, innerhalb von 30 Tagen ab dem Datum, an dem Sie zum ersten Mal auf das Spiel zugegriffen oder Ihr Exemplar des Spiels genutzt haben.
+iii)	Erforderliche Informationen: Ihre Rücktrittsmitteilung muss Folgendes enthalten: (i) den Titel des spezifischen Spiels, auf das Ihre Rücktrittserklärung Anwendung finden soll; (ii) Ihren Vor- und Nachnamen; (iii) Ihre Anschrift; (iv) Ihre Telefonnummer; (v) Ihre E-Mail-Adresse; (vi) die Angabe, ob Sie ein registrierter Benutzer des Spiels oder beliebiger anderer BNEA-Produkte oder -Dienstleistungen sind, sowie alle Ihre Benutzernamen für das Spiel und die anderen BNEA-Produkte und -Dienstleistungen; und (vii) eine Erklärung, dass Sie der Schiedsvereinbarung und/oder dem Sammelklagenverzicht nicht zustimmen. BNEA ist berechtigt, die in der Rücktrittsmitteilung enthaltenen vorstehend genannten Informationen dazu zu nutzen, um Ihren Rücktritt von der Schiedsvereinbarung und/oder dem Sammelklagenverzicht (wie zutreffend) zu erfassen, zu bearbeiten, aufrechtzuerhalten und zu verwalten; die Nutzung zu Zwecken der Vermarktung ist jedoch ausgeschlossen.
+iv)	Wirkung einer ordnungsgemäßen Rücktrittsmitteilung: Erfüllt Ihre Rücktrittsmitteilung alle der vorstehend genannten Anforderungen, gilt für Sie und BNEA, dass Sie beide mit Blick auf die vorliegende Vereinbarung gemäß Ihrer Erklärung in der Rücktrittsmitteilung von der Schiedsvereinbarung und/oder dem Sammelklagenverzicht zurückgetreten sind. Die Übermittlung einer gültigen Rücktrittsmitteilung gilt nur für Ansprüche, die sich aus dem darin benannten Spiel und der darin benannten Vereinbarung ergeben, die zwischen BNEA und der in der Rücktrittserklärung benannten Person besteht.
+v)	Wirkung einer nicht ordnungsgemäßen Rücktrittsmitteilung: Wenn Sie eine Rücktrittserklärung übermitteln, die jedwede der in den Abschnitten 19.c.i bis 19.c.iii dargelegten Anforderungen nicht erfüllt, sind Sie und BNEA an die Schiedsvereinbarung und den Sammelklagenverzicht gebunden, die in der vorliegenden Vereinbarung enthalten sind.</text>
+<text id="601026">20. 	GELTENDES RECHT:
+Soweit durch geltendes Recht vorgeschrieben, unterliegen alle Bestimmungen und Vorschriften dieser Vereinbarung allen geltenden, verpflichtenden Gesetzen und sind gemäß diesen auszulegen, auch wenn sie nicht mit dem in diesem Abschnitt 20 dargelegten geltenden Recht übereinstimmen, und in keinem Fall schließt die Anwendung, die Auslegung oder die Durchsetzung der Bestimmungen der vorliegenden Vereinbarung gemäß jeglicher Gerichtsstandsgesetze, die in diesem Abschnitt 20 vorgesehen sind, irgendwelche Ihrer Rechte als Verbraucher gemäß geltenden Verbraucherschutzgesetzen aus oder beschränkt diese auf andere Weise. Bitte beachten Sie, dass Ihr Handeln zudem anderen lokalen, bundesstaatlichen, nationalen und internationalen Gesetzen unterliegen kann. Die Parteien stimmen zu, dass das UN-Kaufrechtsabkommen auf jegliche Streitigkeiten oder Transaktionen, die sich aus der vorliegenden Vereinbarung ergeben, keine Anwendung findet.
+a)	Falls sich Ihr Wohnsitz in Nord-, Mittel- oder Südamerika befindet:
+Die Anwendung, Auslegung oder Durchsetzung der Bestimmungen der vorliegenden Vereinbarung unterliegen den Gesetzen des Bundesstaates Kalifornien, ausgenommen dessen Kollisionsnormen.
+b)	Falls sich Ihr Wohnsitz in Asien (mit Ausnahme von Japan) befindet:
+Sämtliche Streitigkeiten zwischen den Parteien, die sich aus oder in Verbindung mit der vorliegenden Vereinbarung ergeben, unterliegen der vorliegenden Vereinbarung und dem Recht Singapurs, unter Ausschluss sämtlicher kollisionsrechtlicher Vorschriften, die gegebenenfalls die Anwendung des Rechts eines anderen Rechtsgebiets vorsehen.
+c)	Falls sich Ihr Wohnsitz an einem anderen Ort befindet:
+Sämtliche Streitigkeiten zwischen den Parteien, die sich aus oder in Verbindung mit der vorliegenden Vereinbarung ergeben, unterliegen der vorliegenden Vereinbarung und französischem Recht, unter Ausschluss sämtlicher kollisionsrechtlicher Vorschriften, die gegebenenfalls die Anwendung des Rechts eines anderen Rechtsgebiets vorsehen.</text>
+<text id="601027">21. 	GERICHTSSTAND:
+a)	Falls sich Ihr Wohnsitz in Nord-, Mittel- oder Südamerika befindet:
+Sie und BNEA stimmen ausdrücklich zu, dass für sämtliche sich aus der vorliegenden Vereinbarung und/oder Ihrer Nutzung des Spiels ergebenden oder damit in Verbindung stehenden Ansprüche und Streitigkeiten, die nicht der Schiedsvereinbarung in vorstehendem Abschnitt 19 unterliegen, der ausschließliche Gerichtsstand für derartige Ansprüche oder Klagen die einzelstaatlichen oder Bundesgerichte von Santa Clara County, Kalifornien, sind, und Sie ausdrücklich der Ausübung persönlicher Zuständigkeit dieser Gerichte zustimmen.
+b)	Falls sich Ihr Wohnsitz in Asien (mit Ausnahme von Japan) befindet:
+Über sämtliche Streitigkeiten zwischen den Parteien, die sich aus oder in Verbindung mit der vorliegenden Vereinbarung ergeben, entscheiden die staatlichen Gerichte von Singapur, und Sie und BNE Asia erkennen die ausschließliche Zuständigkeit dieses Gerichts an.
+c)	Falls sich Ihr Wohnsitz an einem anderen Ort befindet:
+Über sämtliche Streitigkeiten zwischen den Parteien, die sich aus der vorliegenden Vereinbarung ergeben oder damit in Verbindung stehen, entscheidet das Handelsgericht von Lyon, und Sie und BNEE erkennen die persönliche Zuständigkeit dieses Gerichts an.</text>
+<text id="601028">22. 	BEGÜNSTIGTE DRITTE: Sämtliche Personen oder Körperschaften, die keine Partei der vorliegenden Vereinbarung sind, sind nicht kraft Gesetz zur Durchsetzung irgendwelcher Bestimmungen der vorliegenden Vereinbarung berechtigt, egal, ob diese Person oder Körperschaft namentlich genannt wird. Nichts in diesem Abschnitt wirkt sich auf die Rechte irgendwelcher zulässigen Abtretungsempfänger der vorliegenden Vereinbarung aus.</text>
+<text id="601029">23. 	VERSCHIEDENES: Die vorliegende Vereinbarung stellt die gesamte Vereinbarung zwischen Ihnen und BANDAI NAMCO mit Blick auf die Nutzung des Spiels dar. Wird eine beliebige Bestimmung der vorliegenden Vereinbarung für ungültig oder nicht durchsetzbar befunden, bleibt der Rest der Vereinbarung für die verbleibende Laufzeit, oder wie ansonsten in Abschnitt 7(d) dargelegt, in vollem Umfang in Kraft, es sei denn, diese Bestimmung entzieht der Vereinbarung ihre wesentlichen Verpflichtungen. Sie dürfen die vorliegende Vereinbarung oder jedwede darin enthaltenen Rechte gemäß der Vereinbarung nicht ohne die vorherige schriftliche Einwilligung von BANDAI NAMCO abtreten, und sämtliche Abtretungsversuche ohne Einwilligung sind nichtig. Vorbehaltlich der vorstehenden Beschränkung ist die vorliegende Vereinbarung voll verbindlich für uns und unsere jeweiligen Nachfolger und Abtretungsempfänger, wirkt zu Gunsten von uns und unseren jeweiligen Nachfolgern und Abtretungsempfängern sowie ist von uns und unseren jeweiligen Nachfolgern und Abtretungsempfänger durchsetzbar. Das Versäumnis von BANDAI NAMCO, irgendwelche Rechte oder Bestimmungen der vorliegenden Vereinbarung auszuüben oder durchzusetzen, stellt keinen Verzicht auf diese Rechte oder Bestimmungen dar. Die Abschnittsüberschriften in der vorliegenden Vereinbarung dienen nur zur besseren Orientierung und haben keine rechtliche oder vertragliche Wirkung.</text>
+<text id="601030">Um sich mit BNEA in Verbindung zu setzen, wenden Sie sich bitte unter https://www.bandainamcoent.com/support an den Kundendienst von BNEA oder wenden Sie sich schriftlich an BNEA unter: BANDAI NAMCO Entertainment America Inc., 2051 Mission College Blvd., Santa Clara, CA 95054, USA.
+Um sich mit BNEE in Verbindung zu setzen, wenden Sie sich bitte über den BNEE-Kundendienst unter http://www.bandainamcoent.eu/support oder BANDAI NAMCO Entertainment Europe S.A.S., 49/51 rue des Docks, CS 90618 – 69258 LYON CEDEX 09 – Frankreich an BNEE.
+Um sich mit BNE Asia in erbindung zu setzen, wenden Sie sich bitte über den BNE Asia-Kundendienst unter https://www.bandainamcoent.com.sg/support.</text>
+<text id="609999">no translation needed</text>
+<text id="610000">no translation needed</text>
+<text id="610001">no translation needed</text>
+<text id="610002">no translation needed</text>
+<text id="610003">no translation needed</text>
+<text id="610004">no translation needed</text>
+<text id="610005">no translation needed</text>
+<text id="610006">no translation needed</text>
+<text id="610007">no translation needed</text>
+<text id="610008">no translation needed</text>
+<text id="610099">no translation needed</text>
+<text id="610100">no translation needed</text>
+<text id="610101">no translation needed</text>
+<text id="610102">no translation needed</text>
+<text id="610103">no translation needed</text>
+<text id="610104">no translation needed</text>
+<text id="610105">no translation needed</text>
+<text id="610106">no translation needed</text>
+<text id="610107">no translation needed</text>
+<text id="610108">no translation needed</text>
+<text id="610999">DARK SOULS™: REMASTERED DATENSCHUTZERKLÄRUNG</text>
+<text id="611000">BANDAI NAMCO ENTERTAINMENT INC.
+DATENSCHUTZERKLÄRUNG</text>
+<text id="611001">Zuletzt aktualisiert: 20. Juni 2017</text>
+<text id="611002">Diese Datenschutzerklärung gibt Aufschluss darüber, wie BANDAI NAMCO Entertainment Inc., Ihre personenbezogenen Daten sammelt, verwendet und weitergibt, wenn Sie unsere Websites, Spiele, mobilen Anwendungen und anderen Online-Produkte und -Dienste (zusammen „Dienste“) benutzen oder auf andere Weise mit uns in Verbindung treten. Diese Datenschutzerklärung gilt nur für die Daten, die wir in Bezug auf die Benutzer unserer Dienste sammeln.</text>
+<text id="611003">Wir können diese Datenschutzerklärung von Zeit zu Zeit ändern. Im Falle von Änderungen teilen wir Ihnen dies durch Änderung des Datums oben auf der Datenschutzerklärung mit und weisen Sie in einigen Fällen zusätzlich (etwa durch Hinzufügung einer Erklärung auf der Homepage unserer Dienste oder Übersendung einer Mitteilung an Sie) darauf hin. Wenn Sie mit den Änderungen nicht einverstanden sind, sehen Sie bitte davon ab, unsere Dienste zu nutzen oder uns Ihre persönlichen Daten anderweitig zur Verfügung zu stellen. Wir empfehlen Ihnen, diese Datenschutzerklärung durchzulesen, wenn Sie auf die Dienste zugreifen, um sich über unsere Datenschutzpraktiken sowie die Ihnen zum Schutz Ihrer Privatsphäre zur Verfügung stehenden Möglichkeiten auf dem Laufenden zu halten.</text>
+<text id="611004">I. 	Sammlung von Daten</text>
+<text id="611005">Von Ihnen zur Verfügung gestellte Daten</text>
+<text id="611006">Wir sammeln Daten, die Sie uns direkt zur Verfügung stellen. Wir sammeln z. B. Daten, wenn Sie ein Konto erstellen, mit anderen Benutzern interagieren, den Kundendienst in Anspruch nehmen, sich für den Erhalt von Newslettern registrieren, an Umfragen teilnehmen oder anderweitig mit uns kommunizieren. Zu den von uns gesammelten Daten gehören Ihr Benutzername, Ihr Passwort, Ihre E-Mail-Adresse und andere von Ihnen zur Verfügung gestellte Daten.</text>
+<text id="611007">Informationen, die wir über das Netzwerk der Hardware sammeln</text>
+<text id="611008">Informationsart: Konto-ID, Online-ID</text>
+<text id="611009">Sammlungszweck: Konto-Verwaltung</text>
+<text id="611010">An wen die Daten weitergegeben werden dürfen: FromSoftware, Inc.</text>
+<text id="611011">Speicherort: Japan</text>
+<text id="611012">Bei Ihrer Verwendung der Dienste automatisch gesammelte Daten</text>
+<text id="611013">Jedes Mal, wenn Sie auf die Dienste zugreifen oder diese verwenden, erfassen wir automatisch Informationen über Sie. Dazu gehören:</text>
+<text id="611014">	Nutzungsdaten: Wir sammeln Informationen hinsichtlich Ihrer Verwendung unserer Dienste, wie u.a. Gaming Service-ID, abgeschlossene Level, Spielergebnisse, Verweilzeit bei unseren Diensten sowie andere Informationen zum Spielverlauf.</text>
+<text id="611015">	Log-Informationen: Wir protokollieren Informationen hinsichtlich Ihrer Verwendung unserer Dienste, einschließlich Browsertyp und Sprache, Zugriffszeiten, aufgerufene Seiten, Ihre IP-Adresse und die Website, von der aus Sie zu unseren Diensten gewechselt sind.</text>
+<text id="611016">	Hardware-Informationen: Wir können Informationen zu dem Computer bzw. Gerät sammeln, mit dem Sie auf unsere Dienste zugreifen, einschließlich Hardware-Modell, Betriebssystem und -version, Browser, MAC-Adresse, IP-Adresse, und andere vom Betriebssystem Ihres Geräts zur Verfügung gestellte Unique Device Identifier (UDI).</text>
+<text id="611017">	Mithilfe von Cookies und anderen Tracking-Technologien gesammelte Informationen: Wir sammeln Daten mithilfe verschiedener Techniken, u.a. auch indem wir Cookies an Ihren Computer oder Ihr Mobilgerät senden. Cookies sind kleine Dateien, die auf der Festplatte Ihres Computers oder im Gerätespeicher abgelegt werden und uns dazu dienen, unsere Dienste und Ihr Nutzungserlebnis zu verbessern, indem wir herausfinden, welche Bereiche und Funktionen unserer Dienste beliebt sind, und Besuche zu zählen. Wir verwenden die folgenden Cookies:</text>
+<text id="611018">o	Unbedingt notwendige Cookies. Diese Cookies sind für den Betrieb unserer Website erforderlich. Dazu gehören z. B. Cookies, die es Ihnen ermöglichen, sich in geschützte Bereiche unserer Website einzuloggen.</text>
+<text id="611019">o	Analyse-/Performance-Cookies. Mithilfe dieser Cookies können wir Besucher erkennen und zählen und nachverfolgen, wie sich Besucher bei der Benutzung unserer Website bewegen. Das wiederum hilft uns, die Funktionsweise unserer Website zu verbessern, indem wir z. B. dafür sorgen, dass Besucher das Gesuchte leichter finden.</text>
+<text id="611020">o	Funktionalitäts-Cookies. Diese Cookies werden eingesetzt, damit wir Sie bei der Rückkehr zu unserer Website erkennen. So können wir unsere Inhalte für Sie individualisieren, Sie persönlich begrüßen und uns Ihre Vorlieben (wie etwa Ihre Sprachwahl oder Region) merken.</text>
+<text id="611021">Darüber hinaus können wir Daten mithilfe von Web Beacons (auch „Zählpixel“ genannt) sammeln. Anders als Cookies werden Web Beacons unsichtbar in Websites eingebettet und lassen sich nicht durch Ihren Browser deaktivieren oder steuern. Weitere Informationen zu Cookies und deren Deaktivierung finden Sie im Abschnitt „Ihre Wahl“ unten.</text>
+<text id="611022">Aus anderen Quellen gesammelte Informationen</text>
+<text id="611023">Wir können außerdem Daten aus anderen Quellen sammeln, insofern sie zur Bereitstellung unserer Dienste erforderlich sind, und sie mit im Rahmen unserer Dienste gesammelten Informationen kombinieren. In allen anderen Fällen werden wir Ihre Genehmigung einholen, um personenbezogene Daten von Dritten zu sammeln, zu speichern und zu verwenden. So können wir z. B. Spielrangfolge und Erfolgsstatus von Ihrer Spielanwendung auf Ihrer Konsole oder Ihrem Mobil-Betriebssystem erfassen. Wenn Sie In-App-Käufe vornehmen, können wir zusätzlich Informationen über Sie vom Provider des Betriebssystems Ihres Gerätes einholen, wenn dieser die Käufe für Sie bearbeitet. Wir weisen Sie darauf hin, dass uns die Betriebssystemanbieter keine Angaben zu Ihrer Zahlungsmethode zur Verfügung stellen.</text>
+<text id="611024">II. 	Nutzung der Daten</text>
+<text id="611025">Wir (oder ein für uns tätiger Auftragsverarbeiter) können Informationen über Sie jeweils zu den folgenden Zwecken und über den zur Erreichung dieser Zwecke erforderlichen Zeitraum sammeln, speichern und verwerten:</text>
+<text id="611026">	Bereitstellung, Wartung und Verbesserung unserer Dienste;</text>
+<text id="611027">	Bereitstellung und Lieferung der von Ihnen angeforderten Produkte und Dienste, Bearbeitung von Transaktionen und Übermittlung damit verbundener Informationen an Sie;</text>
+<text id="611028">	Ihre Registrierung für ein Konto für unsere Dienste und Unterstützung bei der Verwaltung Ihres Kontos;</text>
+<text id="611029">	Wiederherstellung von Spielverlaufsinformationen in Bezug auf ein bestimmtes Spiel, das zuvor gelöscht und dann auf demselben Gerät noch einmal installiert wurde;</text>
+<text id="611030">	Beantwortung Ihrer Kommentare, Fragen und Anforderungen sowie Kundendienstbereitstellung;</text>
+<text id="611031">	Versendung technischer Mitteilungen, Updates, Sicherheitswarnungen und Support- und verwaltungstechnischer Nachrichten an Sie;</text>
+<text id="611032">	Kommunikation mit Ihnen über Produkte, Dienste, Angebote, Aktionen, Belohnungen und Events von BNEI und anderen sowie Übermittlung von Nachrichten, Informationen und anderen Marketingmaterialien, von denen wir glauben, dass sie für Sie von Interesse sind;</text>
+<text id="611033">	Beobachtung und Analyse von Trends, Nutzung und Aktivitäten im Zusammenhang mit unseren Diensten;</text>
+<text id="611034">	Bearbeitung und Lieferung von Wettbewerbsbeiträgen und Preisen aus BNEI-Verkaufsförderungsaktionen;</text>
+<text id="611035">	Individualisierung und Verbesserung der Dienste und In-Service-Bereitstellung von Werbung, Inhalten oder Funktionen, die Benutzerprofil oder -interessen entsprechen;</text>
+<text id="611036">	Verlinkung oder Kombination mit Informationen anderer, um uns ein besseres Verständnis Ihrer Anforderungen zu ermöglichen und Ihnen einen besseren Service bereitzustellen;</text>
+<text id="611037">	Aufdeckung, Ermittlung und/oder Verhütung betrügerischer, unbefugter oder rechtswidriger Aktivitäten;</text>
+<text id="611038">	Zu sämtlichen sonstigen Zwecken, die für uns erforderlich oder zulässig sind, um unsere rechtlichen und behördlichen Auflagen zu erfüllen; und</text>
+<text id="611039">	Zu sämtlichen sonstigen Zwecken, zu denen Sie die Informationen vorgelegt haben.</text>
+<text id="611040">III. 	Informationsaustausch</text>
+<text id="611041">Ihre personenbezogenen Daten werden von uns nicht an Dritte weitergegeben, verkauft, übertragen oder anderweitig ausgetauscht, es sei denn, dies ist für die Bereitstellung unserer Produkte oder Dienste erforderlich, entspricht anderweitig dieser Datenschutzerklärung oder ist gesetzlich zulässig bzw. Sie haben uns Ihre ausdrückliche Genehmigung dazu erteilt. Im Sinne der vorgenannten Verpflichtung ist die Weitergabe von Sie betreffenden Informationen wie folgt oder wie anderweitig in dieser Datenschutzerklärung ausgeführt möglich:</text>
+<text id="611042">	An andere Benutzer, falls Sie sich für die Teilnahme an den interaktiven Bereichen unserer Dienste wie Community-Foren entscheiden (wobei die Verwendung personenbezogener Daten (wie Ihrem vollständigen Vor- und Nachnamen) als Benutzername in unseren Diensten streng untersagt ist);</text>
+<text id="611043">	An unsere Mitarbeiter, Partner, verbundene Unternehmen, Anbieter, Berater und andere Serviceprovider, die Zugang zu solchen Daten benötigen, um in unserem Auftrag Arbeiten auszuführen (darunter z. B. Zahlungsabwickler, Webhosting-Dienste oder Anbieter von Diensten für die Speicherung und Verarbeitung von Informationen);</text>
+<text id="611044">	Im Rahmen eines gerichtlichen Verfahrens oder auf eine Informationsanfrage hin, sofern die Angabe solcher Informationen mit den geltenden Gesetzen, Verordnungen und Vorschriften vereinbar bzw. von diesen vorgeschrieben ist (darunter z. B. Regierungs- oder Regulierungsbehörden, Strafverfolgungsbehörden oder Gerichte);</text>
+<text id="611045">	Falls wir hinreichenden Grund zu der Annahme haben, dass Ihre Handlungen unserem Benutzervertrag bzw. unseren Richtlinien widersprechen, oder um die Rechte, das Eigentum und die Sicherheit von BNEI, unseren Benutzern oder anderen zu schützen;</text>
+<text id="611046">	Im Zusammenhang mit einem Unternehmenszusammenschluss, einem Verkauf von Vermögenswerten, der Finanzierung oder dem Erwerb der Gesamtheit oder eines Teils unseres Unternehmens an ein anderes Unternehmen; und</text>
+<text id="611047">	Mit Ihrem Einverständnis bzw. auf Ihre Weisung hin.</text>
+<text id="611048">Wir können darüber hinaus aggregierte oder anonymisierte Informationen weitergeben, bei denen eine persönliche Identifizierung nicht möglich ist.</text>
+<text id="611049">IV. 	 Von Dritten bereitgestellte Werbe- und Analysedienste</text>
+<text id="611050">Wir können anderen gestatten, Analysedienste für uns zu erbringen und Werbung im Rahmen unserer Dienste zu platzieren. Diese Drittorganisationen können Technologien zur automatischen Erfassung von Informationen bezüglich Ihres Geräts und Ihrer Nutzung unserer Dienste einsetzen, wie z. B. IP-Adresse, Geräte-ID, Verweildauer auf den Seiten innerhalb unserer Dienste und von unseren Diensten aus angeklickte Links. Diese Informationen können von uns und anderen verwendet werden, um u.a. die Funktionsweise unserer Dienste zu gewährleisten und zu analysieren und kontextbezogene oder gezielte Werbung einzublenden, die für Sie von Interesse sein könnte. Die Nutzung Ihrer Daten seitens dieser Dritten wird von deren jeweiligen Datenschutzrichtlinien abgedeckt, und wir kontrollieren die Datenschutzpraktiken Dritter nicht und sind nicht dafür verantwortlich.</text>
+<text id="611051">V. 	Social-Sharing-Funktion</text>
+<text id="611052">Die Dienste können Social-Sharing-Funktionen oder andere integrierte Tools umfassen, mit deren Hilfe Sie die im Rahmen der Dienste vorgenommenen Handlungen mit anderen sozialen Medien teilen können und umgekehrt. Die Verwendung dieser Funktionen erlaubt es Ihnen, bestimmte persönliche Informationen mit Ihren Freunden oder der Öffentlichkeit zu teilen, je nachdem, welche Einstellungen Sie bei dem Drittanbieter der Social-Sharing-Funktion gewählt haben. Weitere Informationen zum Zweck und Umfang der Datensammlung und -bearbeitung im Zusammenhang mit Social-Sharing-Funktionen entnehmen Sie bitte den Datenschutzrichtlinien der Drittanbieter, die diese Funktionen bereitstellen.</text>
+<text id="611053">VI. 	Sicherheit</text>
+<text id="611054">Wir ergreifen angemessene technische und organisatorische Vorkehrungen, um für den Schutz der auf Sie bezogenen Daten vor Verlust, Diebstahl, Missbrauch und unbefugtem Zugriff, Weitergabe, Veränderung und Vernichtung zu sorgen. Da jedoch die Sicherheit von Internetübermittlungen nicht gewährleistet werden kann, können wir die Sicherheit von personenbezogenen Daten, die Sie über das Internet an uns übertragen, nicht gewährleisten.</text>
+<text id="611055">VII. 	Speicherung und Löschung von Daten</text>
+<text id="611056">Alle gesammelten Daten werden in unseren Datenzentren in Japan gespeichert. Die Speicherung und Löschung personenbezogener Daten erfolgt unter Einhaltung der Datenschutzbestimmungen. Alle Daten, die nicht mehr für die oben genannten Zwecke benötigt werden, werden anonymisiert oder gelöscht, sofern ihre weitere Aufbewahrung nicht gesetzlich vorgeschrieben ist.</text>
+<text id="611057">VIII. 	Internationale Übermittlungen</text>
+<text id="611058">Von uns gesammelte, Sie betreffende personenbezogene Daten werden in der Regel in Japan übertragen, gespeichert und bearbeitet.
+Wir weisen Sie darauf hin, dass eine Übermittlung an Standorte außerhalb Ihres Landes stattfinden kann, die u. U. nicht das gleiche Datenschutzniveau wie die Gesetze Ihres Landes bieten. Unsere Sammlung, Speicherung und Verwendung Ihrer personenbezogenen Daten unterliegen jedoch auch weiterhin der vorliegenden Datenschutzerklärung, und falls wir Ihre personenbezogenen Daten an im Ausland ansässige Dritte übermitteln, ergreifen wir den Umständen angemessene Schritte, um sicherzustellen, dass diese in Übereinstimmung mit der vorliegenden Datenschutzerklärung verwendet werden. Sie bestätigen, dass Sie, indem Sie uns Ihre persönlichen Daten zur Verfügung stellen, einer derartigen Übermittlung ins Ausland zustimmen. Durch die Einwilligung zu einer derartigen Übermittlung bestätigen Sie, dass, soweit gesetzlich zulässig, BNEI nicht für eine etwaige Verletzung Ihrer Datenschutzrechte durch den ausländischen Empfänger haftbar ist und Sie in einem solchen Fall keine Rechtsbehelfe gegen BNEI einlegen können.</text>
+<text id="611059">IX. 	Websites Dritter</text>
+<text id="611060">Diese Website enthält Links zu anderen, von Dritten betriebenen Websites. Wir weisen Sie darauf hin, dass diese Datenschutzerklärung nur für die personenbezogenen Daten gilt, die wir über diese Website sammeln, und dass wir keine Haftung für personenbezogene Daten übernehmen, die Dritte u. U. über diese Website sammeln, speichern und nutzen. Sie sollten die Datenschutzrichtlinien der Websites, die Sie besuchen, immer sorgfältig zu Kenntnis nehmen.</text>
+<text id="611061">X. 	Ihre Wahl</text>
+<text id="611062">Cookies</text>
+<text id="611063">Die meisten Webbrowser sind so eingestellt, dass sie Cookies automatisch akzeptieren. Wenn Sie das nicht möchten, können Sie Ihren Browser normalerweise jedoch so einstellen, dass Browser-Cookies gelöscht oder zurückgewiesen werden. Weitere Informationen aus unabhängiger Quelle zu einer Reihe von Fragen bezüglich Cookies und wie Sie Ihre Browser-Einstellungen ändern können, finden Sie auf http://www.allaboutcookies.org/ge/.</text>
+<text id="611064">Steuerung von Cookies</text>
+<text id="611065">Generell können Sie alle bereits auf Ihrem Computer gespeicherten Cookies löschen. Außerdem lassen sich die meisten Browser so einstellen, dass sie Cookies deaktivieren. Dazu müssen Sie Ihre Browser-Einstellungen ändern. Im Hilfebereich Ihres Browers finden Sie Informationen zur Verwaltung von Cookies. Gegebenenfalls müssen Sie bei jedem Besuch der Website eine manuelle Einstellung Ihrer Präferenzen vornehmen. Die Verwaltung von Cookies kann dazu führen, dass Sie keinen Zugang zu bestimmten Funktionen oder Leistungen der Website haben. Informationen bezüglich der Verwaltung der Cookie-Optionen in Ihren Browser-Einstellungen finden Sie auf http://www.allaboutcookies.org/ge/cookies-verwalten/.
+Das Löschen bzw. Zurückweisen von Browser-Cookies hat u. U. keine Auswirkungen auf von Dritten im Zusammenhang mit unseren Diensten eingerichtete Flash-Cookies. Informationen zum Löschen oder Deaktivieren von Flash-Cookies finden Sie auf http://www.macromedia.com/support/documentation/de/flashplayer/help/help02.html.
+Bitte beachten Sie, dass das Löschen oder Zurückweisen von Cookies Auswirkungen auf die Verfügbarkeit und Funktionsfähigkeit unserer Dienste haben könnte.</text>
+<text id="611066">Verkaufsfördernde Kommunikationen</text>
+<text id="611067">Werbemitteilungen können wir Ihnen nur mit Ihrer vorherigen Einwilligung (Opt-in) senden. Sie können Ihre Einwilligung zum Erhalt solcher Mitteilung jederzeit zurückziehen, indem Sie den Anweisungen in der jeweiligen Mitteilung folgen. Falls Sie Ihre Einwilligung zurückziehen, können wir Ihnen weiterhin transaktions- oder vertragsbezogene Mitteilungen senden, die jedoch nur die laufende Geschäftsbeziehung und keine Verkaufsförderung zum Inhalt haben dürfen.</text>
+<text id="611068">Zugriffsrechte</text>
+<text id="611069">Sie und Ihr gesetzlicher Vormund, falls Sie minderjährig sind, haben in Bezug auf personenbezogene Daten, die wir zu Ihrer Person halten, die folgenden Rechte:</text>
+<text id="611070">	Das Recht zur Einsicht bzw. der Aufforderung an uns, Ihnen Kopien personenbezogener Daten, die wir jeweils in Bezug auf Sie halten, zur Verfügung zu stellen, wobei jeweils eine gesetzlich vorgeschriebene Gebühr zahlbar ist;</text>
+<text id="611071">	Das Recht, uns aufzufordern, veraltete oder falsche personenbezogene Daten, die wir in Bezug auf Sie halten, kostenlos zu aktualisieren bzw. richtig zu stellen;</text>
+<text id="611072">	Das Recht, uns aufzufordern, keine personenbezogenen Daten mehr zu sammeln, zu bearbeiten oder zu verwenden, oder personenbezogene Daten, die wir in Bezug auf Sie halten, zu vernichten, mit der Maßgabe, dass wir die Aufforderung, falls gesetzlich dazu verpflichtet, ablehnen können;</text>
+<text id="611073">	Das Recht, Einspruch gegen eine rechtswidrige Bearbeitung personenbezogener Daten, die wir in Bezug auf Sie halten, zu erheben; und</text>
+<text id="611074">	Das Recht, sich gegen den Erhalt von Marketing-Kommunikationen zu entscheiden, die wir (bzw. ein Dritter, an den wir Ihre personenbezogenen Daten mit Ihrer Einwilligung weitergegeben haben) Ihnen senden können.</text>
+<text id="611075">Bitte richten Sie entsprechende Anforderungen an: ppolicy@bandainamcoent.co.jp.</text>
+<text id="611076">Falls Sie eine BANDAI NAMCO ID haben und Ihr Konto aufrufen oder löschen möchten, melden Sie sich bei Ihrer BANDAI NAMCO ID an und folgen Sie den Anweisungen auf https://www.bandainamcoid.com/portal/resign. Sobald Ihr Konto gelöscht ist, können Sie auf die BANDAI NAMCO ID-Services nicht mehr zugreifen.</text>
+<text id="611077">Falls Sie es ablehnen, Ihre personenbezogenen Daten zur Verfügung zu stellen, oder uns auffordern, personenbezogene Daten zu löschen bzw. nicht mehr zu sammeln, können Sie damit ggfs. nicht mehr alle bzw. bestimmte Teile unserer Dienste benutzen.</text>
+<text id="611078">XI. 	Beschwerden</text>
+<text id="611079">Falls Sie Bedenken haben, dass Ihre persönlichen Daten womöglich kompromittiert wurden oder Sie Beschwerde bezüglich der Handhabung Ihrer persönlichen Daten einlegen möchten, wenden Sie sich bitte mit einer Beschreibung der Art Ihrer Beschwerde unter ppolicy@bandainamcoent.co.jp an uns. Wir werden Ihre Beschwerde prüfen und sind bemüht, Ihnen innerhalb eines angemessenen Zeitraums nach Eingang eine Antwort zukommen zu lassen.</text>
+<text id="611080">Falls Sie nach Erhalt unserer Antwort weiterhin der Ansicht sind, dass Ihre Datenschutzbeschwerde nicht geklärt wurde, können Sie diese vor einer zuständigen Regulierungs- oder Regierungsbehörde in Ihrem Rechtsgebiet vorbringen.</text>
+<text id="611081">XII. 	Kontakt</text>
+<text id="611082">Falls Sie Fragen bezüglich dieser Datenschutzerklärung haben, kontaktieren Sie uns unter:
+BANDAI NAMCO Entertainment Inc.
+Attn: Contact for Personal Information Matter
+5-37-8 Shiba
+Minato-ku, Tokyo 108-0014
+Japan
++81-3-6744-6112 (Telefon)
+ppolicy@bandainamcoent.co.jp</text>
+<text id="20001000">Vom Herrscher der Welt getrennt.
+Rückkehr in deine Welt.</text>
+<text id="20001001">Die Netzwerkverbindung ist instabil.
+Spielsitzung wird beendet.</text>
+<text id="20001002">Die Verbindung zu Steam wurde 
+unterbrochen. Online-Modus 
+wird verlassen ...</text>
+<text id="20001003">Spielsitzung konnte nicht erstellt werden.</text>
+<text id="20001004">Beitritt zur Spielsitzung nicht möglich.</text>
+<text id="20001005">Die Verbindung zu Steam wurde 
+unterbrochen. Online-Modus 
+wird verlassen ...</text>
+<text id="20001006">%null%</text>
+<text id="20001007">%null%</text>
+<text id="20001008">%null%</text>
+<text id="20001009">%null%</text>
+<text id="20001010">Es wurde eine Veränderung im 
+angemeldeten Profil festgestellt. 
+Die Spiel-Sitzung wird verlassen ...</text>
+<text id="20001011">Du kannst das Spiel nicht fortsetzen, weil du dich
+in einer Xbox LIVE Party Spielsitzung befindest.
+Du kehrst jetzt zum Hauptmenü zurück ...</text>
+<text id="20001012">%null%</text>
+<text id="20001013">%null%</text>
+<text id="20001014">%null%</text>
+<text id="20001015">Die Verbindung zum anderen Spieler ist abgebrochen.
+Du kehrst nun zum Titelbildschirm zurück.</text>
+<text id="20001016">%null%</text>
+<text id="20001017">Deine Bildfrequenz liegt unterhalb
+der Online-Anforderung.
+Du kehrst zum Titelbildschirm zurück.</text>
+<text id="20001999">Netzwerk-Einstellungen</text>
+<text id="20002000">Netzwerk-Einstellungen</text>
+<text id="20002001">%null%</text>
+<text id="20002002">Spielersuche-Passwort</text>
+<text id="20002003">%null%</text>
+<text id="20002004">%null%</text>
+<text id="20002005">Regionen-Spielersuche</text>
+<text id="20002006">Starteinstellung</text>
+<text id="20002007">Ranglisten-Registrierung</text>
+<text id="20002100">Lokal</text>
+<text id="20002101">Global</text>
+<text id="20002102">Charaktername</text>
+<text id="20002103">Profilname</text>
+<text id="20002104">Online</text>
+<text id="20002105">Offline</text>
+<text id="20002106">Online starten</text>
+<text id="20002107">Offline starten</text>
+<text id="20002200">&lt;?networkValue01?&gt;</text>
+<text id="20002201">&lt;?networkValue02?&gt;</text>
+<text id="20002202">&lt;?networkValue03?&gt;</text>
+<text id="20002203">&lt;?networkValue04?&gt;</text>
+<text id="20002204">&lt;?networkValue05?&gt;</text>
+<text id="30001000">Keine DARK SOULS™: REMASTERED-Disc erkannt.
+Bitte DARK SOULS™: REMASTERED-Disc einlegen.</text>
+<text id="30001001">%null%</text>
+<text id="30001002">%null%</text>
+<text id="30001003">%null%</text>
+<text id="30001004">%null%</text>
+<text id="30001005">%null%</text>
+<text id="30001006">%null%</text>
+<text id="30001007">%null%</text>
+<text id="30001008">%null%</text>
+<text id="30001009">%null%</text>
+<text id="30001010">Dieses Spiel benötigt DirectX 9.
+Bitte DirectX 9 zum Spielen installieren.</text>
+<text id="30001011">%null%</text>
+<text id="30001012">%null%</text>
+<text id="30001013">%null%</text>
+<text id="30001014">%null%</text>
+<text id="30001015">%null%</text>
+<text id="30001016">%null%</text>
+<text id="30001017">%null%</text>
+<text id="30001018">%null%</text>
+<text id="30001019">%null%</text>
+<text id="30001020">Dieser Computer verwendet eine ältere Windows-Version.
+Bitte zum Spielen mindestens Version xxx installieren.</text>
+<text id="30001021">%null%</text>
+<text id="30001022">%null%</text>
+<text id="30001023">%null%</text>
+<text id="30001024">%null%</text>
+<text id="30001025">%null%</text>
+<text id="30001026">%null%</text>
+<text id="30001027">%null%</text>
+<text id="30001028">%null%</text>
+<text id="30001029">%null%</text>
+<text id="30001030">Die Anwendung wurde bereits gestartet.</text>
+<text id="30001031">%null%</text>
+<text id="30001032">%null%</text>
+<text id="30001033">%null%</text>
+<text id="30001034">%null%</text>
+<text id="30001035">%null%</text>
+<text id="30001036">%null%</text>
+<text id="30001037">%null%</text>
+<text id="30001038">%null%</text>
+<text id="30001039">%null%</text>
+<text id="30001040">Das System erfüllt nicht die Mindestanforderung für DirectX 11 / Shader Model 5.0 GPU zum Ausführen der Anwendung.</text>
+<text id="30001041">%null%</text>
+<text id="30001042">%null%</text>
+<text id="30001043">%null%</text>
+<text id="30001044">%null%</text>
+<text id="30001045">%null%</text>
+<text id="30001046">%null%</text>
+<text id="30001047">%null%</text>
+<text id="30001048">%null%</text>
+<text id="30001049">%null%</text>
+<text id="30001050">Das System erfüllt nicht die Mindestanforderungen an Arbeitsspeicher zum Ausführen der Anwendung.</text>
+<text id="30002000">Fehler beim Lesen der Spieldaten.
+Spiel wird beendet.</text>
+<text id="30003099">PC-Einstellungen</text>
+<text id="30003100">PC-Einstellungen</text>
+<text id="30003101">Bildschirm</text>
+<text id="30003102">Auflösung</text>
+<text id="30003103">V-Sync</text>
+<text id="30003104">Anzeigemodus</text>
+<text id="30003105">FPS-Display</text>
+<text id="30003106">Qualität</text>
+<text id="30003107">Anti-Aliasing</text>
+<text id="30003108">Bewegungsunschärfe</text>
+<text id="30003109">Frequenz</text>
+<text id="30003110">Tiefenschärfe</text>
+<text id="30003111">Umgeb.-Verdeckung</text>
+<text id="30003130">&lt;?pcenvValue01?&gt;</text>
+<text id="30003131">&lt;?pcenvValue02?&gt;</text>
+<text id="30003132">&lt;?pcenvValue03?&gt;</text>
+<text id="30003133">&lt;?pcenvValue04?&gt;</text>
+<text id="30003134">&lt;?pcenvValue05?&gt;</text>
+<text id="30003135">&lt;?pcenvValue06?&gt;</text>
+<text id="30003136">&lt;?pcenvValue07?&gt;</text>
+<text id="30003137">&lt;?pcenvValue08?&gt;</text>
+<text id="30003138">&lt;?pcenvValue09?&gt;</text>
+<text id="30003139">&lt;?pcenvValue10?&gt;</text>
+<text id="30003140">&lt;?pcenvValue11?&gt;</text>
+<text id="30003141">&lt;?pcenvValue12?&gt;</text>
+<text id="30003142">&lt;?pcenvValue13?&gt;</text>
+<text id="30003143">&lt;?pcenvValue14?&gt;</text>
+<text id="30003200">EIN</text>
+<text id="30003201">AUS</text>
+<text id="30003202">Hz</text>
+<text id="30003203">x</text>
+<text id="30003204">Bit</text>
+<text id="30003205">&lt;?pcenvInitValue01?&gt;</text>
+<text id="30003206">&lt;?pcenvInitValue02?&gt;</text>
+<text id="30003207">&lt;?pcenvInitValue03?&gt;</text>
+<text id="30003208">&lt;?pcenvInitValue04?&gt;</text>
+<text id="30003209">AUS</text>
+<text id="30003210">FXAA</text>
+<text id="30003211">FXAA Hoch</text>
+<text id="30003212">TXAA</text>
+<text id="30003213">SMAA</text>
+<text id="30003214">Fade-out</text>
+<text id="30003215">Vollbild</text>
+<text id="30003216">Rahmenlos</text>
+<text id="30003217">Fenstermodus</text>
+<text id="30003218">%null%</text>
+<text id="30003219">%null%</text>
+<text id="30003220">&lt;?pcenvInitValue05?&gt;</text>
+<text id="30003221">&lt;?pcenvInitValue06?&gt;</text>
+<text id="30003222">&lt;?pcenvInitValue07?&gt;</text>
+<text id="30003223">&lt;?pcenvInitValue08?&gt;</text>
+<text id="30003224">&lt;?pcenvInitValue09?&gt;</text>
+<text id="30003225">&lt;?pcenvInitValue10?&gt;</text>
+<text id="30003226">&lt;?pcenvInitValue11?&gt;</text>
+<text id="30003227">&lt;?pcenvInitValue12?&gt;</text>
+<text id="30003228">&lt;?pcenvInitValue13?&gt;</text>
+<text id="30003229">&lt;?pcenvInitValue14?&gt;</text>
+<text id="30004000">&lt;?systemDlgButton01?&gt;</text>
+<text id="30004001">&lt;?systemDlgButton02?&gt;</text>
+<text id="30004002">&lt;?systemDlgButton03?&gt;</text>
+<text id="30004003">&lt;?systemDlgButton04?&gt;</text>
+<text id="30004004">&lt;?systemDlgButton05?&gt;</text>
+<text id="30004005">&lt;?systemDlgButton06?&gt;</text>
+<text id="30004080">Tastatur &amp; Maus Alt</text>
+<text id="30004081">%null%</text>
+<text id="30004082">%null%</text>
+<text id="30004083">%null%</text>
+<text id="30004084">%null%</text>
+<text id="30004085">%null%</text>
+<text id="30004086">%null%</text>
+<text id="30004087">%null%</text>
+<text id="30004088">%null%</text>
+<text id="30004089">Tasteneinstellungen</text>
+<text id="30004090">Tasteneinstellungen</text>
+<text id="30004091">Eingabegerät</text>
+<text id="30004092">Tastatur &amp; Maus</text>
+<text id="30004093">XInput-Controller</text>
+<text id="30004094">DirectInput-Controller</text>
+<text id="30004095">Xbox One Wireless Controller</text>
+<text id="30004096">PlayStation®4-Controller</text>
+<text id="30004097">%null%</text>
+<text id="30004098">%null%</text>
+<text id="30004099">%null%</text>
+<text id="30004100">Laufen (vor)</text>
+<text id="30004101">Laufen (zurück)</text>
+<text id="30004102">Laufen (rechts)</text>
+<text id="30004103">Laufen (links)</text>
+<text id="30004104">Gehen</text>
+<text id="30004105">%null%</text>
+<text id="30004106">%null%</text>
+<text id="30004107">%null%</text>
+<text id="30004108">%null%</text>
+<text id="30004109">%null%</text>
+<text id="30004110">Kamera nach oben</text>
+<text id="30004111">Kamera nach unten</text>
+<text id="30004112">Kamera nach rechts</text>
+<text id="30004113">Kamera nach links</text>
+<text id="30004114">Zielfixierung/Kamera zurücksetzen</text>
+<text id="30004115">%null%</text>
+<text id="30004116">%null%</text>
+<text id="30004117">%null%</text>
+<text id="30004118">%null%</text>
+<text id="30004119">%null%</text>
+<text id="30004120">Wechsel Waffe R</text>
+<text id="30004121">Wechsel Waffe L</text>
+<text id="30004122">Wechsel Gegenstand</text>
+<text id="30004123">Wechsel Zauber</text>
+<text id="30004124">%null%</text>
+<text id="30004125">%null%</text>
+<text id="30004126">%null%</text>
+<text id="30004127">%null%</text>
+<text id="30004128">%null%</text>
+<text id="30004129">%null%</text>
+<text id="30004130">Aktion Waffe R (Angriff)</text>
+<text id="30004131">Aktion Waffe R (Schwerer Angriff)</text>
+<text id="30004132">Aktion Waffe L (Block)</text>
+<text id="30004133">Aktion Waffe L (Parade)</text>
+<text id="30004134">%null%</text>
+<text id="30004135">%null%</text>
+<text id="30004136">%null%</text>
+<text id="30004137">%null%</text>
+<text id="30004138">%null%</text>
+<text id="30004139">%null%</text>
+<text id="30004140">Benutzen</text>
+<text id="30004141">Sprint/Rolle/Rückschritt</text>
+<text id="30004142">Aktion</text>
+<text id="30004143">Einhand-/Zweihandgriff</text>
+<text id="30004144">Springen</text>
+<text id="30004145">%null%</text>
+<text id="30004146">%null%</text>
+<text id="30004147">%null%</text>
+<text id="30004148">%null%</text>
+<text id="30004149">%null%</text>
+<text id="30004150">Menü öffnen</text>
+<text id="30004151">Gestenmenü öffnen</text>
+<text id="30004152">Guide öffnen</text>
+<text id="30004153">%null%</text>
+<text id="30004154">%null%</text>
+<text id="30004155">%null%</text>
+<text id="30004156">%null%</text>
+<text id="30004157">%null%</text>
+<text id="30004158">%null%</text>
+<text id="30004159">%null%</text>
+<text id="30004160">Auswahl (hoch)</text>
+<text id="30004161">Auswahl (runter)</text>
+<text id="30004162">Auswahl (links)</text>
+<text id="30004163">Auswahl (rechts)</text>
+<text id="30004164">Bestätigen</text>
+<text id="30004165">Abbrechen</text>
+<text id="30004166">Statuswechsel usw.</text>
+<text id="30004167">Anzeigenwechsel/Ausrüstung entfernen</text>
+<text id="30004168">Menü wechseln (R)</text>
+<text id="30004169">Menü wechseln (L)</text>
+<text id="30004170">Scrollen (hoch)</text>
+<text id="30004171">Scrollen (runter)</text>
+<text id="30004172">Erläuterung</text>
+<text id="30004200">Bewegung</text>
+<text id="30004201">Kamera</text>
+<text id="30004202">Ausrüstung</text>
+<text id="30004203">Aktionen</text>
+<text id="30004204">Menüanzeige</text>
+<text id="30004205">Menüsteuerung</text>
+<text id="30004206">Bew. und Kamera</text>
+<text id="30004207">Gameplay</text>
+<text id="30004208">Menüs</text>
+<text id="30004209">Änderungen speichern</text>
+<text id="30004210">Änderungen nicht speichern</text>
+<text id="30004211">Menü wird verlassen – Änderungen speichern?</text>
+<text id="30004212">Eingabe bereits zugewiesen. Neu zuweisen?</text>
+<text id="40000000">&lt;?keyCategory?&gt;</text>
+<text id="40000001">&lt;?keyController?&gt;</text>
+<text id="40000002">%null%</text>
+<text id="40000003">%null%</text>
+<text id="40000004">%null%</text>
+<text id="40000005">%null%</text>
+<text id="40000006">%null%</text>
+<text id="40000007">%null%</text>
+<text id="40000008">%null%</text>
+<text id="40000009">%null%</text>
+<text id="40000010">&lt;?keyAction1?&gt;</text>
+<text id="40000011">&lt;?keyAction2?&gt;</text>
+<text id="40000012">&lt;?keyAction3?&gt;</text>
+<text id="40000013">&lt;?keyAction4?&gt;</text>
+<text id="40000014">&lt;?keyAction5?&gt;</text>
+<text id="40000015">&lt;?keyAction6?&gt;</text>
+<text id="40000016">&lt;?keyAction7?&gt;</text>
+<text id="40000017">&lt;?keyAction8?&gt;</text>
+<text id="40000018">&lt;?keyAction9?&gt;</text>
+<text id="40000019">&lt;?keyAction10?&gt;</text>
+<text id="40000020">&lt;?key1?&gt;</text>
+<text id="40000021">&lt;?key2?&gt;</text>
+<text id="40000022">&lt;?key3?&gt;</text>
+<text id="40000023">&lt;?key4?&gt;</text>
+<text id="40000024">&lt;?key5?&gt;</text>
+<text id="40000025">&lt;?key6?&gt;</text>
+<text id="40000026">&lt;?key7?&gt;</text>
+<text id="40000027">&lt;?key8?&gt;</text>
+<text id="40000028">&lt;?key9?&gt;</text>
+<text id="40000029">&lt;?key10?&gt;</text>
+<text id="40000030">&lt;?keyDefault1?&gt;</text>
+<text id="40000031">&lt;?keyDefault2?&gt;</text>
+<text id="40000032">&lt;?keyDefault3?&gt;</text>
+<text id="40000033">&lt;?keyDefault4?&gt;</text>
+<text id="40000034">&lt;?keyDefault5?&gt;</text>
+<text id="40000035">&lt;?keyDefault6?&gt;</text>
+<text id="40000036">&lt;?keyDefault7?&gt;</text>
+<text id="40000037">&lt;?keyDefault8?&gt;</text>
+<text id="40000038">&lt;?keyDefault9?&gt;</text>
+<text id="40000039">&lt;?keyDefault10?&gt;</text>
+<text id="40001001">Linkskl.</text>
+<text id="40001002">Rechtskl.</text>
+<text id="40001003">%null%</text>
+<text id="40001004">L.</text>
+<text id="40001005">R.</text>
+<text id="40001006">(Num-Bl.)</text>
+<text id="40001007">+</text>
+<text id="40001008">Rückt.</text>
+<text id="40001009">Tab</text>
+<text id="40001010">%null%</text>
+<text id="40001011">%null%</text>
+<text id="40001012">%null%</text>
+<text id="40001013">Eingabet.</text>
+<text id="40001014">%null%</text>
+<text id="40001015">%null%</text>
+<text id="40001016">Umsch.</text>
+<text id="40001017">Strg</text>
+<text id="40001018">Alt</text>
+<text id="40001019">%null%</text>
+<text id="40001020">Feststell.</text>
+<text id="40001021">%null%</text>
+<text id="40001022">%null%</text>
+<text id="40001023">%null%</text>
+<text id="40001024">%null%</text>
+<text id="40001025">%null%</text>
+<text id="40001026">%null%</text>
+<text id="40001027">Esc</text>
+<text id="40001028">%null%</text>
+<text id="40001029">%null%</text>
+<text id="40001030">%null%</text>
+<text id="40001031">%null%</text>
+<text id="40001032">Leert.</text>
+<text id="40001033">Bild hoch</text>
+<text id="40001034">Bild runt.</text>
+<text id="40001035">Ende</text>
+<text id="40001036">Start</text>
+<text id="40001037">←</text>
+<text id="40001038">↑</text>
+<text id="40001039">→</text>
+<text id="40001040">↓</text>
+<text id="40001041">%null%</text>
+<text id="40001042">%null%</text>
+<text id="40001043">%null%</text>
+<text id="40001044">%null%</text>
+<text id="40001045">Einfg</text>
+<text id="40001046">Entf</text>
+<text id="40001047">%null%</text>
+<text id="40001048">0</text>
+<text id="40001049">1</text>
+<text id="40001050">2</text>
+<text id="40001051">3</text>
+<text id="40001052">4</text>
+<text id="40001053">5</text>
+<text id="40001054">6</text>
+<text id="40001055">7</text>
+<text id="40001056">8</text>
+<text id="40001057">9</text>
+<text id="40001058">%null%</text>
+<text id="40001059">%null%</text>
+<text id="40001060">%null%</text>
+<text id="40001061">%null%</text>
+<text id="40001062">%null%</text>
+<text id="40001063">%null%</text>
+<text id="40001064">%null%</text>
+<text id="40001065">A</text>
+<text id="40001066">B</text>
+<text id="40001067">C</text>
+<text id="40001068">D</text>
+<text id="40001069">E</text>
+<text id="40001070">F</text>
+<text id="40001071">G</text>
+<text id="40001072">H</text>
+<text id="40001073">I</text>
+<text id="40001074">J</text>
+<text id="40001075">K</text>
+<text id="40001076">L</text>
+<text id="40001077">M</text>
+<text id="40001078">N</text>
+<text id="40001079">O</text>
+<text id="40001080">P</text>
+<text id="40001081">Q</text>
+<text id="40001082">R</text>
+<text id="40001083">S</text>
+<text id="40001084">T</text>
+<text id="40001085">U</text>
+<text id="40001086">V</text>
+<text id="40001087">W</text>
+<text id="40001088">X</text>
+<text id="40001089">Y</text>
+<text id="40001090">Z</text>
+<text id="40001101">Umsch. + Linkskl.</text>
+<text id="40001102">Umsch. + Rechtskl.</text>
+<text id="40001165">Umschalttaste + A</text>
+<text id="40001166">Umschalttaste + B</text>
+<text id="40001167">Umschalttaste + C</text>
+<text id="40001168">Umschalttaste + D</text>
+<text id="40001169">Umschalttaste + E</text>
+<text id="40001170">Umschalttaste + F</text>
+<text id="40001171">Umschalttaste + G</text>
+<text id="40001172">Umschalttaste + H</text>
+<text id="40001173">Umschalttaste + I</text>
+<text id="40001174">Umschalttaste + J</text>
+<text id="40001175">Umschalttaste + K</text>
+<text id="40001176">Umschalttaste + L</text>
+<text id="40001177">Umschalttaste + M</text>
+<text id="40001178">Umschalttaste + N</text>
+<text id="40001179">Umschalttaste + O</text>
+<text id="40001180">Umschalttaste + P</text>
+<text id="40001181">Umschalttaste + Q</text>
+<text id="40001182">Umschalttaste + R</text>
+<text id="40001183">Umschalttaste + S</text>
+<text id="40001184">Umschalttaste + T</text>
+<text id="40001185">Umschalttaste + U</text>
+<text id="40001186">Umschalttaste + V</text>
+<text id="40001187">Umschalttaste + W</text>
+<text id="40001188">Umschalttaste + X</text>
+<text id="40001189">Umschalttaste + Y</text>
+<text id="40001190">Umschalttaste + Z</text>
+<text id="40002001">L.Strg+W</text>
+<text id="40002002">L.Strg+S</text>
+<text id="40002003">L.Strg+D</text>
+<text id="40002004">L.Strg+A</text>
+<text id="40002005">L.Umsch.</text>
+<text id="40002006">L.Alt</text>
+</entries>
+</fmg>

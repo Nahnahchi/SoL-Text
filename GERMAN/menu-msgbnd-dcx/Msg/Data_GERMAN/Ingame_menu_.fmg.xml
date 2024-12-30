@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls1</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="110000">Inventar</text>
+<text id="110001">Ausrüstung</text>
+<text id="110002">%null%</text>
+<text id="110003">Status</text>
+<text id="110004">%null%</text>
+<text id="110005">Optionen</text>
+<text id="110006">Einstellungen</text>
+<text id="110007">Helligkeit</text>
+<text id="111010">Ablegen</text>
+<text id="111011">Reihenfolge ändern</text>
+<text id="111012">Reihenfolge zurücks.</text>
+<text id="111013">Benutzen</text>
+<text id="111014">Auswahl benutzen</text>
+<text id="112000">Schutz</text>
+<text id="112001">Kopf</text>
+<text id="112002">Brust</text>
+<text id="112003">Hände</text>
+<text id="112004">Beine</text>
+<text id="112005">%null%</text>
+<text id="112006">%null%</text>
+<text id="112007">%null%</text>
+<text id="112008">%null%</text>
+<text id="112009">%null%</text>
+<text id="112010">Waffen</text>
+<text id="112011">Rechte Hand</text>
+<text id="112012">Linke Hand</text>
+<text id="112013">Pfeil</text>
+<text id="112014">Bolzen</text>
+<text id="112015">%null%</text>
+<text id="112016">%null%</text>
+<text id="112017">%null%</text>
+<text id="112018">%null%</text>
+<text id="112019">%null%</text>
+<text id="112020">Ring</text>
+<text id="112021">%null%</text>
+<text id="112022">%null%</text>
+<text id="112023">%null%</text>
+<text id="112024">%null%</text>
+<text id="112025">%null%</text>
+<text id="112026">%null%</text>
+<text id="112027">%null%</text>
+<text id="112028">%null%</text>
+<text id="112029">%null%</text>
+<text id="112030">Nutzgegenst.</text>
+<text id="114000">Steuerung</text>
+<text id="114001">%null%</text>
+<text id="114002">X-Achse</text>
+<text id="114003">Y-Achse</text>
+<text id="114004">Kamerageschwind.</text>
+<text id="114005">%null%</text>
+<text id="114006">&lt;?sysmsg@114006?&gt;</text>
+<text id="114007">Auto-Zielerf.</text>
+<text id="114008">Wandmeidung</text>
+<text id="114100">Anzeige</text>
+<text id="114101">Blut zeigen</text>
+<text id="114102">Untertitel</text>
+<text id="114103">Helligkeit</text>
+<text id="114104">HUD</text>
+<text id="114105">UI-Skalierung</text>
+<text id="114106">%null%</text>
+<text id="114107">%null%</text>
+<text id="114108">%null%</text>
+<text id="114109">%null%</text>
+<text id="114110">Helligk. anpassen, bis Flamme</text>
+<text id="114111">sichtbar &amp; Drache unsichtbar ist</text>
+<text id="114200">Ton</text>
+<text id="114201">%null%</text>
+<text id="114202">Musik</text>
+<text id="114203">Effekte</text>
+<text id="114204">Stimmen</text>
+<text id="114250">&lt;?platmsg@10005?&gt;</text>
+<text id="114251">Bestenliste-Eintrag</text>
+<text id="114252">Maus</text>
+<text id="114253">Mausempfindlichkeit</text>
+<text id="114254">Kamerageschw. X</text>
+<text id="114255">Kamerageschw. Y</text>
+<text id="114300">Zurücksetzen</text>
+<text id="114301">OK</text>
+<text id="114400">EIN</text>
+<text id="114401">AUS</text>
+<text id="114402">%null%</text>
+<text id="114403">%null%</text>
+<text id="114404">Normal</text>
+<text id="114405">Umgekehrt</text>
+<text id="114406">%null%</text>
+<text id="114407">Mild</text>
+<text id="114430">Duell</text>
+<text id="114431">Kampf vorbereiten</text>
+<text id="114432">Einführung</text>
+<text id="114433">Mann gegen Mann.
+Erreiche im Zeitlimit die meisten Kills.
+Einsatz des Estus-Flakons nicht erlaubt.</text>
+<text id="114434">Spielersuche nach Passwort</text>
+<text id="114435">Kein Passwort</text>
+<text id="114436">Passwort für Kampf bearbeiten. Tritt nur gegen Spieler
+mit demselben PW an.</text>
+<text id="114437">Kampf beitreten</text>
+<text id="114438">Betritt einen Kampf und suche nach Gegnern.</text>
+<text id="114439">Kampf mit aktuellen Einstellungen beitreten?</text>
+<text id="114440">Teamkampf</text>
+<text id="114441">Kampfformat</text>
+<text id="114442">2-gegen-2</text>
+<text id="114443">3-gegen-3</text>
+<text id="114444">Die Kämpfer werden in zwei Teams aufgeteilt.
+Erreiche im Zeitlimit die meisten Kills.
+Beschränkter Einsatz des Estus-Flakons.</text>
+<text id="114445">Passwort gilt für</text>
+<text id="114446">Bevorzugtes Team</text>
+<text id="114447">Alle</text>
+<text id="114448">Nur verbündetes Team</text>
+<text id="114449">Team A</text>
+<text id="114450">Team B</text>
+<text id="114451">Zur Teamauswahl im Teamkampf,
+wenn ein Passwort gilt.</text>
+<text id="114452">Wähle einen Teamkampftyp.</text>
+<text id="114453">Legt fest, ob dies für beide Teams oder nur das verbündete Team gilt.</text>
+<text id="114454">Verbündetes Team nutzt dein Passwort,
+Gegnerteam nutzt ein anderes.</text>
+<text id="114455">Deathmatch</text>
+<text id="114456">4-Spieler-Deathmatch</text>
+<text id="114457">6-Spieler-Deathmatch</text>
+<text id="114458">Jeder kämpft für sich.
+Erreiche im Zeitlimit die meisten Kills.
+Beschränkter Einsatz des Estus-Flakons.</text>
+<text id="114459">Bitte warte, bis alle Kämpfer beigetreten sind.</text>
+<text id="114460">Alle Kämpfer anwesend.
+Weiter zur Arena.</text>
+<text id="114461">Netzwerk</text>
+<text id="114462">Abbruch</text>
+<text id="114463">Netzwerkeinstellungen</text>
+<text id="114464">Regionsübergreifendes Spiel</text>
+<text id="114465">Sichtbarkeit des Rufsymbols</text>
+<text id="114466">Starteinstellung</text>
+<text id="114467">Spielersuche EIN</text>
+<text id="114468">Spielersuche AUS</text>
+<text id="114469">Uneingeschränkt</text>
+<text id="114470">Eingeschränkt</text>
+<text id="114471">Offline spielen</text>
+<text id="114472">Online spielen</text>
+<text id="114473">Steuerung initialisieren</text>
+<text id="114474">Spiel im Online- oder Offlinemodus beginnen.</text>
+<text id="114475">Spielersuche abbrechen</text>
+<text id="114476">Wähle einen Kampftyp.</text>
+<text id="114477">Passwort für Probekampf bearbeiten. Tritt nur gegen Spieler
+mit demselben PW an.</text>
+<text id="114478">Beliebig</text>
+<text id="114479">Verbündetes und Gegnerteam nutzen
+dasselbe zuvor ausgewählte Passwort.</text>
+<text id="114480">Regionsübergreifende Spielersuche (de)aktivieren.</text>
+<text id="114481">Spielersuche nach Spielern mit gleichem Passwort (de)aktivieren.</text>
+<text id="114482">Schränke die Sichtbarkeit deines Rufsymbols in
+feindlichen Phantomwelten ein.</text>
+<text id="114483">amiibo</text>
+<text id="114484">Belegung A-/B-Knopf</text>
+<text id="114485">amiibo nutzen</text>
+<text id="114486">amiibo kann nicht genutzt werden</text>
+<text id="114487">Bitte Steuerungseinstellungen ändern</text>
+<text id="114488">Änderungen übernehmen</text>
+<text id="114489">Standardeinstellungen</text>
+<text id="114490">Belegung X-/Y-Knopf</text>
+<text id="114491">Helligkeit ändern</text>
+<text id="114492">Netzwerk-Einstellungen ändern</text>
+<text id="114493">Partie beenden</text>
+<text id="114494">Halte &lt;?startAction?&gt; nach dem Freischalten dieser Einstellung gedrückt 
+und berühre mit dem amiibo den NFC-Kontaktpunkt, um dein amiibo zu verwenden.</text>
+<text id="114495">So nutzt du ein amiibo</text>
+<text id="114496">Die amiibo-Daten sind beschädigt.
+Den amiibo mit den auf dieser Konsole gespeicherten Daten wiederherstellen?</text>
+<text id="114497">%null%</text>
+<text id="114498">%null%</text>
+<text id="114499">%null%</text>
+<text id="114500">Bester Kämpfer: &lt;?mvpName?&gt;</text>
+<text id="115000">Optionen</text>
+<text id="115001">%null%</text>
+<text id="115002">Partie beenden</text>
+<text id="115003">%null%</text>
+<text id="115004">Helligkeit</text>
+<text id="115005">%null%</text>
+<text id="115006">Steuerung</text>
+<text id="127000">Herbeirufen</text>
+<text id="127001">Vorwärts deuten</text>
+<text id="127002">Hurra!</text>
+<text id="127003">Verbeugung</text>
+<text id="127004">Freude</text>
+<text id="127005">Schulterzucken</text>
+<text id="127006">Winken</text>
+<text id="127007">Gelobt sei die Sonne</text>
+<text id="127008">Nach oben zeigen</text>
+<text id="127009">Nach unten zeigen</text>
+<text id="127010">Himmelwärts blicken</text>
+<text id="127011">Na, sieh mal an!</text>
+<text id="127012">Kniefall</text>
+<text id="127013">Tiefe Verbeugung</text>
+<text id="127014">Gebet</text>
+<text id="127200">Gesten-Menü</text>
+<text id="141000">Phantom zurückschicken</text>
+<text id="141001">&lt;?conclusion?&gt;:OK　&lt;?cancel?&gt;:ABBRUCH</text>
+</entries>
+</fmg>

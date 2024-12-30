@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls1</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="2">%null%</text>
+<text id="100">Havels Ring</text>
+<text id="101">Roter Tränensteinring</text>
+<text id="102">Finstermondklingen-Ring</text>
+<text id="103">Katzen-Eid-Ring</text>
+<text id="104">Cloranthie-Ring</text>
+<text id="105">Flammen-Steinplattenring</text>
+<text id="106">Donner-Steinplattenring</text>
+<text id="107">Zauber-Steinplattenring</text>
+<text id="108">Gefleckter Steinplattenring</text>
+<text id="109">Blutbissring</text>
+<text id="110">Giftbissring</text>
+<text id="111">Winzwesenring</text>
+<text id="112">%null%</text>
+<text id="113">Fluchbissring</text>
+<text id="114">Weißer Séance-Ring</text>
+<text id="115">Wappenring Brüllender Drache</text>
+<text id="116">Dusk-Kronenring</text>
+<text id="117">Hornissenring</text>
+<text id="118">%null%</text>
+<text id="119">Falkenring</text>
+<text id="120">Hartstahlring</text>
+<text id="121">Goldener Schlangenring</text>
+<text id="122">Silberner Schlangenring</text>
+<text id="123">Wappenring Ruhender Drache</text>
+<text id="124">Ring des Nebels</text>
+<text id="125">Verrosteter Eisenring</text>
+<text id="126">Ring der Opferung</text>
+<text id="127">Seltener Ring der Opferung</text>
+<text id="128">Dunkler Holzmaserring</text>
+<text id="129">%null%</text>
+<text id="130">Ring der Sonnenprinzessin</text>
+<text id="131">%null%</text>
+<text id="132">%null%</text>
+<text id="133">Ring der Geißelung</text>
+<text id="134">Ring der Blinden Geister</text>
+<text id="135">%null%</text>
+<text id="136">%null%</text>
+<text id="137">Alter Hexenring</text>
+<text id="138">Bund des Artorias</text>
+<text id="139">Orangener verkohlter Ring</text>
+<text id="140">Ring der Vertreibung</text>
+<text id="141">Wappenring Lauernder Drache</text>
+<text id="142">Ring des Bösen Auges</text>
+<text id="143">Schutz-Ring der Gunst</text>
+<text id="144">Löwenring</text>
+<text id="145">Östlicher Holzmaserring</text>
+<text id="146">Wolfsring</text>
+<text id="147">Blauer Tränensteinring</text>
+<text id="148">Ring des Sonnenerstgeborenen</text>
+<text id="149">Finstermond-Séance-Ring</text>
+<text id="150">Ring des Unheils</text>
+</entries>
+</fmg>

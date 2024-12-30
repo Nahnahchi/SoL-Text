@@ -1,0 +1,1712 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls1</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="10000">Typischer Helm der Ritter von Catarina.
+
+Aufgrund seiner Zwiebelform wird er außerhalb
+Catarinas zum Verdruss der stolzen Ritter oft
+verspottet. Doch die kunstvoll geschmiedete
+kurvige Form ist zum Parieren exzellent
+geeignet.</text>
+<text id="11000">Typische Rüstung der Ritter von Catarina.
+
+Aufgrund ihrer Zwiebelform wird sie außerhalb
+Catarinas zum Verdruss der stolzen Ritter oft
+verspottet. Doch die kunstvoll geschmiedete
+kurvige Form ist zum Parieren exzellent
+geeignet.</text>
+<text id="12000">Typische Stulpen der Ritter von Catarina.
+
+Aufgrund ihrer Zwiebelform werden sie
+außerhalb Catarinas zum Verdruss der stolzen
+Ritter oft verspottet. Doch die kunstvoll
+geschmiedete kurvige Form ist zum Parieren
+exzellent geeignet.</text>
+<text id="13000">Typische Gamaschen der Ritter von Catarina.
+
+Aufgrund ihrer Zwiebelform werden sie
+außerhalb Catarinas zum Verdruss der stolzen
+Ritter oft verspottet. Doch die kunstvoll
+geschmiedete kurvige Form ist zum Parieren
+exzellent geeignet.</text>
+<text id="20000">Der Helm von Leeroy, dem Paladin
+der Katakomben.
+
+Vor vielen, vielen Jahren erwuchs dem
+Weißen Pfad sein erster Untoter, ein Paladin
+in goldener Rüstung. Mit dem legendären
+Schätzen Grant und Sanctus zog Leeroy ins 
+Götterland Lordran und begann so die erste 
+Untoten-Mission des Weißen Pfades.</text>
+<text id="21000">Die Rüstung von Leeroy, dem Paladin
+der Katakomben.
+
+Vor vielen, vielen Jahren erwuchs dem
+Weißen Pfad sein erster Untoter, ein Paladin
+in goldener Rüstung. Mit dem legendären
+Schatz Grant zog Leeroy ins Götterland
+Lordran und begann so die erste Untoten-
+Mission des Weißen Pfades.</text>
+<text id="22000">Die Stulpen von Leeroy, dem Paladin
+der Katakomben.
+
+Vor vielen, vielen Jahren erwuchs dem
+Weißen Pfad sein erster Untoter, ein Paladin
+in goldener Rüstung. Mit dem legendären
+Schätzen Grant und Sanctus zog Leeroy ins 
+Götterland Lordran und begann so die erste 
+Untoten-Mission des Weißen Pfades.</text>
+<text id="23000">Die Gamaschen von Leeroy, dem Paladin
+der Katakomben.
+
+Vor vielen, vielen Jahren erwuchs dem
+Weißen Pfad sein erster Untoter, ein Paladin
+in goldener Rüstung. Mit dem legendären
+Schätzen Grant und Sanctus zog Leeroy ins 
+Götterland Lordran und begann so die erste 
+Untoten-Mission des Weißen Pfades.</text>
+<text id="40000">Die Maske der Geister der Finsternis, der
+in der Dunkelheit versunkenen ehemaligen
+Ritter Neu-Londos.
+
+Es heißt, die Schädelmaske eines Geists der
+Finsternis sei teilweise mit seinem Gesicht
+verschmolzen.</text>
+<text id="41000">Die Rüstung der Geister der Finsternis, der
+in der Dunkelheit versunkenen ehemaligen
+Ritter Neu-Londos.
+
+Ihre Rüstung verwandelte sich, doch sie blieb
+ein Symbol der Diener der Dunkelheit und
+ihrer diabolischen Kunst des Lebensraubs.</text>
+<text id="42000">Die Stulpen der Geister der Finsternis, der
+in der Dunkelheit versunkenen ehemaligen
+Ritter Neu-Londos.
+
+Ihre Stulpen verwandelten sich, doch sie
+blieben ein Symbol der Diener der Dunkelheit
+und ihrer diabolischen Kunst des Lebensraubs.</text>
+<text id="43000">Die Gamaschen der Geister der Finsternis, der
+in der Dunkelheit versunkenen ehemaligen
+Ritter Neu-Londos.
+
+Ihre Gamaschen verwandelten sich, doch sie
+blieben ein Symbol der Diener der Dunkelheit
+und ihrer diabolischen Kunst des Lebensraubs.</text>
+<text id="50000">Diese Kapuze wird von Banditen getragen,
+die Bergdörfer plündern und Reisende
+überfallen.
+
+Schützt vor der sengenden Sonne, Staub
+und Sand und hilft einem, in der Hitze des
+Gefechts Freund und Feind zu unterscheiden.</text>
+<text id="51000">Diese Rüstung wird von Banditen getragen,
+die Bergdörfer plündern und Reisende
+überfallen.
+
+Das über Stoff und Leder angebrachte Metall
+sorgt für Mobilität und Sicherheit.</text>
+<text id="52000">Diese Stulpen werden von Banditen getragen,
+die Bergdörfer plündern und Reisende
+überfallen.
+
+Das über Stoff und Leder angebrachte Metall
+sorgt für Mobilität und Sicherheit.</text>
+<text id="53000">Diese Hose wird von Banditen getragen,
+die Bergdörfer plündern und Reisende
+überfallen.
+
+Das über Stoff und Leder angebrachte Metall
+sorgt für Mobilität und Sicherheit.</text>
+<text id="60000">Von den Spionen eines östlichen Landes
+getragene Maske aus schwarzem Stoff.
+So gestaltet, dass sie ihre einzigartige
+Kampfkunst nicht behindert.
+
+Die größere Mobilität geht zwar auf Kosten
+der Schutzwirkung, doch bietet sie u. a.
+Resistenz gegen Blutungen und Gift – dies
+hat wohl mit ihrem Tätigkeitsfeld zu tun.</text>
+<text id="61000">Von den Spionen eines östlichen Landes
+getragener schwarzer Stoffmantel. So
+gestaltet, dass er ihre einzigartige
+Kampfkunst nicht behindert.
+
+Die größere Mobilität geht zwar auf Kosten
+der Schutzwirkung, doch bietet er u. a.
+Resistenz gegen Blutungen und Gift – dies
+hat wohl mit dem Dasein als Spion zu tun.</text>
+<text id="62000">Von den Spionen eines östlichen Landes
+getragene schwarze Stoffstulpen. So
+gestaltet, dass sie ihre einzigartige
+Kampfkunst nicht behindern.
+
+Die größere Mobilität geht zwar auf Kosten
+der Schutzwirkung, doch bieten sie u. a.
+Resistenz gegen Blutungen und Gift – dies
+hat wohl mit dem Dasein als Spion zu tun.</text>
+<text id="63000">Von den Spionen eines östlichen Landes
+getragene schwarze Stoffgamaschen. So
+gestaltet, dass sie ihre einzigartige
+Kampfkunst nicht behindern.
+
+Die größere Mobilität geht zwar auf Kosten
+der Schutzwirkung, doch bieten sie u. a.
+Resistenz gegen Blutungen und Gift – dies
+hat wohl mit dem Dasein als Spion zu tun.</text>
+<text id="70000">Der Helm des Schwarzeisen-Tarkus, einen für
+seine Stärke bekannten Ritter. 
+
+Aus speziellem unbeschichtetem Eisen
+angefertigt bietet er hohen Schutz, speziell 
+bei Feuerangriffen, aber er ist so schrecklich
+schwer, dass ihn kaum ein anderer außer 
+Tarkus höchstselbst tragen kann.</text>
+<text id="71000">Die Rüstung des Schwarzeisen-Tarkus, einen für
+seine Stärke bekannten Ritter. 
+
+Aus speziellem unbeschichtetem Eisen
+angefertigt bietet sie hohen Schutz, speziell 
+bei Feuerangriffen, aber sie ist so schrecklich
+schwer, dass sie kaum ein anderer außer 
+Tarkus höchstselbst tragen kann.</text>
+<text id="72000">Die Stulpen des Schwarzeisen-Tarkus, einen 
+für seine Stärke bekannten Ritter. 
+
+Aus speziellem schwarzem Eisen angefertigt 
+bieten sie hohen Schutz, speziell bei 
+Feuerangriffen, aber sie sind so schrecklich
+schwer, dass sie kaum ein anderer außer 
+Tarkus höchstselbst tragen kann.</text>
+<text id="73000">Die Gamaschen des Schwarzeisen-Tarkus, 
+einen für seine Stärke bekannten Ritter. 
+
+Aus speziellem schwarzem Eisen angefertigt 
+bieten sie hohen Schutz, speziell bei 
+Feuerangriffen, aber sie sind so schrecklich
+schwer, dass sie kaum ein anderer außer 
+Tarkus höchstselbst tragen kann.</text>
+<text id="80000">Der Helm des Henkers Smough, Hüter der
+Kathedrale in der verlassenen Stadt Anor
+Londo. Kann zwar von Menschen getragen
+werden, aber nicht ohne größere Probleme.
+
+Er bietet einen mächtigen Schutz vor 
+Niederschlägen, kann aber aufgrund
+seines Gewichts nur von wenigen
+Menschen getragen werden.</text>
+<text id="81000">Die Rüstung des Henkers Smough, Hüter der
+Kathedrale in der verlassenen Stadt Anor
+Londo. Kann zwar von Menschen getragen
+werden, aber nicht ohne größere Probleme.
+
+Er bietet einen mächtigen Schutz vor 
+Niederschlägen, kann aber aufgrund
+seines Gewichts nur von wenigen
+Menschen getragen werden.</text>
+<text id="82000">Die Stulpen des Henkers Smough, des Hüters
+der Kathedrale in der verlassenen Stadt
+Anor Londo.
+
+Er bietet einen mächtigen Schutz vor 
+Niederschlägen, kann aber aufgrund
+seines Gewichts nur von wenigen
+Menschen getragen werden.</text>
+<text id="83000">Die Gamaschen des Henkers Smough, des Hüters
+der Kathedrale in der verlassenen Stadt
+Anor Londo.
+
+Er bietet einen mächtigen Schutz vor 
+Niederschlägen, kann aber aufgrund
+seines Gewichts nur von wenigen
+Menschen getragen werden.</text>
+<text id="90000">Der Helm der Kanalisierer: Zauberer, die
+Seath dem Schuppenlosen dienen. Sechs in
+zwei vertikalen Reihen angeordnete Augen
+gleichen Seaths fehlendes Sehvermögen
+aus.
+
+Die schwerste Schutzausrüstung für Zauberer.
+Von Magie durchtränkt.</text>
+<text id="91000">Die Robe der Kanalisierer: Zauberer, die
+Seath dem Schuppenlosen dienen. Selbst als
+er dem Wahnsinn verfiel, zogen die "Häscher",
+wie man sie weithin nannte, aus in ferne
+Lande, um brauchbare Menschenexemplare zu
+finden.
+
+Die schwerste Schutzausrüstung für Zauberer.
+Von Magie durchtränkt.</text>
+<text id="92000">Die Stulpen der Kanalisierer: Zauberer, die
+Seath dem Schuppenlosen dienen. Selbst als
+er dem Wahnsinn verfiel, zogen die "Häscher",
+wie man sie weithin nannte, aus in ferne
+Lande, um brauchbare Menschenexemplare
+zu finden.
+
+Die schwerste Schutzausrüstung für Zauberer.
+Von Magie durchtränkt.</text>
+<text id="93000">Das Lendentuch der Kanalisierer: Zauberer,
+die Seath dem Schuppenlosen dienen. Selbst
+als er dem Wahnsinn verfiel, zogen die
+"Häscher", wie man sie weithin nannte, aus in
+ferne Lande, um brauchbare Menschenexemplare
+zu finden.
+
+Die schwerste Schutzausrüstung für Zauberer.
+Von Magie durchtränkt.</text>
+<text id="100000">Der Helm von Lautrec dem Aufgenommenen.
+Symbol der Liebe der Göttin Fina.
+
+In seiner Einsamkeit schwor er allem ab, da
+er sich der Liebe der Göttin gewiss war.</text>
+<text id="101000">Die Rüstung von Lautrec dem Aufgenommenen.
+Symbol der Liebe der Göttin Fina.
+
+Sie ist umschlungen von den Armen der Göttin,
+als wolle sie den Träger in ihre Gemeinschaft
+aufnehmen.</text>
+<text id="102000">Die Stulpen von Lautrec dem Aufgenommenen.
+Symbol der Liebe der Göttin Fina.
+
+In seiner Einsamkeit schwor er allem ab, da
+er sich der Liebe der Göttin gewiss war.</text>
+<text id="103000">Die Gamaschen von Lautrec dem Aufgenommenen.
+Symbol der Liebe der Göttin Fina.
+
+In seiner Einsamkeit schwor er allem ab, da
+er sich der Liebe der Göttin gewiss war.</text>
+<text id="110000">Ein bizarrer Helm des alten Landes Zena,
+der Heimat des seltsamen Händlers Domhnall.
+
+Angeblich symbolisieren die beiden Hörner
+Weisheit.</text>
+<text id="111000">Eine bizarre Rüstung des alten Landes Zena,
+der Heimat des seltsamen Händlers Domnhall.
+
+Angeblich symbolisieren die diversen
+Medaillen Ruhm.</text>
+<text id="112000">Bizarre Stulpen des alten Landes Zena,
+der Heimat des seltsamen Händlers Domhnall.
+
+Angeblich symbolisieren die goldenen
+Armreife einen Überwinder.</text>
+<text id="113000">Bizarre Stiefel des alten Landes Zena,
+der Heimat des seltsamen Händlers Domnhall.
+
+Die eingearbeiteten Silberringe symbolisieren
+einen Erkunder.</text>
+<text id="120000">Der moosbedeckte Helm des Steinritters,
+des Verteidigers des Finsterwurz-Gartens.
+
+Der Steinritter ist ein Produkt alter Magie.
+Dieser Helm ist zwar auch von Zauberkraft
+durchtränkt, doch er ist unfassbar schwer.</text>
+<text id="121000">Die moosbedeckte Rüstung des Steinritters,
+des Verteidigers des Finsterwurz-Gartens.
+
+Der Steinritter ist ein Produkt alter Magie.
+Diese Rüstung ist zwar auch von Zauberkraft
+durchtränkt, doch sie ist unfassbar schwer.</text>
+<text id="122000">Die moosbedeckten Stulpen des Steinritters,
+des Verteidigers des Finsterwurz-Gartens.
+
+Der Steinritter ist ein Produkt alter Magie.
+Diese Stulpen sind zwar auch von Zauberkraft
+durchtränkt, doch sie sind unfassbar schwer.</text>
+<text id="123000">Die moosbedeckten Gamaschen des Steinritters,
+des Verteidigers des Finsterwurz-Gartens.
+
+Der Steinritter ist ein Produkt alter Magie.
+Die Gamaschen sind zwar auch von Zauberkraft
+durchtränkt, doch sie sind unfassbar schwer.</text>
+<text id="130000">
+Kristallisierter Helm, getragen von einem hohlen Ritter,
+der teilweise kristallisiert war.
+
+Die Macht der Kristalle gewährt einen hohen Verteidigungswert.</text>
+<text id="131000">
+Kristallisierte Rüstung, getragen von einem hohlen Ritter,
+der teilweise kristallisiert war.
+
+Die Macht der Kristalle gewährt einen hohen Verteidigungswert.</text>
+<text id="132000">
+Kristallisierte Stulpen, getragen von einem hohlen Ritter,
+der teilweise kristallisiert war.
+
+Die Macht der Kristalle gewährt einen hohen Verteidigungswert.</text>
+<text id="133000">
+Kristallisierte Gamaschen, getragen von einem hohlen Ritter,
+der teilweise kristallisiert war.
+
+Die Macht der Kristalle gewährt einen hohen Verteidigungswert.</text>
+<text id="140000">Die Maske der Zauberer, die Neu-Londo unter
+den Wassermassen begruben, um die Geister
+der Finsternis und die in die Dunkelheit hin-
+abgestiegenen Vier Könige hinter einem Siegel
+wegzusperren.
+Ein Symbol ihrer Entschlossenheit, das Siegel
+nie mehr zu brechen, und ihrer Buße für alle
+Geopferten. Zwei der drei gaben Neu-Londo
+jedoch, ihrer Aufgabe müde, auf.</text>
+<text id="141000">Die Robe der Zauberer, die Neu-Londo unter
+den Wassermassen begruben, um die Geister
+der Finsternis und die in die Dunkelheit hin-
+abgestiegenen Vier Könige hinter einem Siegel
+wegzusperren.
+
+Einst waren die Siegler als Heiler bekannt,
+symbolisiert vom leuchtenden Purpur.</text>
+<text id="142000">Die Handschuhe der Zauberer, die Neu-Londo
+unter den Wassermassen begruben, um die
+Geister der Finsternis und die in die Dunkel-
+heit hinabgestiegenen Vier Könige hinter
+einem Siegel wegzusperren.
+
+Einst waren die Siegler als Heiler bekannt,
+symbolisiert vom leuchtenden Purpur.</text>
+<text id="143000">Das Lendentuch der Zauberer, die Neu-Londo
+unter den Wassermassen begruben, um die
+Geister der Finsternis und die in die Dunkel-
+heit hinabgestiegenen Vier Könige hinter
+einem Siegel wegzusperren.
+
+Einst waren die Siegler als Heiler bekannt,
+symbolisiert vom leuchtenden Purpur.</text>
+<text id="150000">Von den der Sündengöttin
+Velka dienenden Predigern getragene Maske.
+
+Die Prediger lauschen den Beichten der
+Sünder und mahnen zur Besinnung, um
+des Seelenheils willen. Ihre Masken
+symbolisieren die Abwendung von allen
+weltlichen Gelüsten.</text>
+<text id="151000">Von den der Sündengöttin
+Velka dienenden Predigern getragene Robe.
+
+Es heißt, den ausnahmslos schwarzen
+Gewändern der Prediger wohne Velkas
+mystische Macht inne, wodurch sie gegen
+Zauber aller Art resistent seien.</text>
+<text id="152000">Von den der Sündengöttin Velka dienenden
+Predigern getragene Manschette.
+
+Es heißt, den ausnahmslos schwarzen
+Gewändern der Prediger wohne Velkas
+mystische Macht inne, wodurch sie gegen
+Zauber aller Art resistent seien.</text>
+<text id="153000">Von den der Sündengöttin Velka dienenden
+Predigern getragene Strumpfhose.
+
+Es heißt, den ausnahmslos schwarzen
+Gewändern der Prediger wohne Velkas
+mystische Macht inne, wodurch sie gegen
+Zauber aller Art resistent seien.</text>
+<text id="160000">Der Helm des Sonnenlicht-Ritters Solaire
+von Astora. Er ist zwar von hoher Qualität,
+besitzt aber keine nennenswerten Kräfte.
+
+Solaires erstaunliche Brillanz beruhte
+offenbar allein auf seinem harten Training,
+denn seine Ausrüstung ist mitnichten
+außergewöhnlich.</text>
+<text id="161000">Die Rüstung des Sonnenlicht-Ritters Solaire
+von Astora. Sie ist zwar von hoher Qualität,
+besitzt aber keine nennenswerten Kräfte.
+
+Solaires erstaunliche Brillanz beruhte
+offenbar allein auf seinem harten Training,
+denn seine Ausrüstung ist mitnichten
+außergewöhnlich.</text>
+<text id="162000">Die Armreife des Sonnenlicht-Ritters Solaire
+von Astora. Sie sind zwar von hoher Qualität,
+besitzen aber keine nennenswerten Kräfte.
+
+Solaires erstaunliche Brillanz beruhte
+offenbar allein auf seinem harten Training,
+denn seine Ausrüstung ist mitnichten
+außergewöhnlich.</text>
+<text id="163000">Die Gamaschen des Sonnenlicht-Ritters Solaire
+von Astora. Sie sind zwar von hoher Qualität,
+besitzen aber keine nennenswerten Kräfte.
+
+Solaires erstaunliche Brillanz beruhte
+offenbar allein auf seinem harten Training,
+denn seine Ausrüstung ist mitnichten
+außergewöhnlich.</text>
+<text id="170000">Ein Kettenhelm aus ineinander verhakten
+schmalen Ringen. Leicht zu fertigen und daher
+in der Welt der Menschen häufig anzutreffen.
+Nicht sonderlich schwer, bietet guten Schutz.
+
+Ritter mögen protzige Rüstung bevorzugen
+- doch den Kriegern auf dem Schlachtfeld
+ist alles recht, was sie am Leben erhält.</text>
+<text id="171000">Eine Kettenrüstung aus ineinander verhakten
+schmalen Ringen. Leicht zu fertigen und daher
+in der Welt der Menschen häufig anzutreffen.
+Nicht sonderlich schwer, bietet guten Schutz.
+
+Ritter mögen protzige Rüstung bevorzugen
+- doch den Kriegern auf dem Schlachtfeld
+ist alles recht, was sie am Leben erhält.</text>
+<text id="172000">Stulpen aus weichem Leder.
+Ein häufig zum Schutz verwendetes
+Ausrüstungsteil.</text>
+<text id="173000">Kettengamaschen aus ineinander verhakten
+schmalen Ringen. Leicht zu fertigen und daher
+in der Welt der Menschen häufig anzutreffen.
+Nicht sonderlich schwer, bietet guten Schutz.
+
+Ritter mögen protzige Rüstung bevorzugen
+- doch den Kriegern auf dem Schlachtfeld
+ist alles recht, was sie am Leben erhält.</text>
+<text id="180000">Von den für ihre Unbeugsamkeit im Kampf
+berühmten Kriegerklerikern des Weißen Pfades
+getragener Helm.
+
+Da er von erheblichem Gewicht und Ausmaß
+ist, wirkt sein Träger ungewöhnlich groß. </text>
+<text id="181000">Von den für ihre Unbeugsamkeit im Kampf
+berühmten Kriegerklerikern des Weißen Pfades
+getragene Rüstung.
+
+Da sie von erheblichem Gewicht und Ausmaß
+ist, wirkt ihr Träger ungewöhnlich groß. </text>
+<text id="182000">Von den für ihre Unbeugsamkeit im Kampf
+berühmten Kriegerklerikern des Weißen Pfades
+getragene Stulpen.
+
+Da sie von erheblichem Gewicht und Ausmaß
+sind, wirkt ihr Träger ungewöhnlich groß. </text>
+<text id="183000">Von den für ihre Unbeugsamkeit im Kampf
+berühmten Kriegerklerikern des Weißen Pfades
+getragene Gamaschen.
+
+Da sie von erheblichem Gewicht und Ausmaß
+sind, wirkt ihr Träger ungewöhnlich groß. </text>
+<text id="190000">Ein widerlicher Parasit, der im Verlorenen
+Izalith haust. Vollkommen bewegungsunfähig,
+aber lebendig.
+
+Da er, auf dem Kopf getragen, gleißendes
+Licht verströmt, nennt man ihn auch
+Sonnenlicht-Made.</text>
+<text id="200000">Helm des Dornenritters Kirk, des
+gefürchteten Geists der Finsternis. Ein
+dichtes Dorngestrüpp wächst auf seiner
+Oberfläche.
+
+Der passende Gegenstand für den mörderischen
+Kirk - denn schon indem man ihn einfach nur
+trägt und eine Rolle ausführt, kann man den
+Gegnern Schaden zufügen.</text>
+<text id="201000">Rüstung des Dornenritters Kirk, des
+gefürchteten Geists der Finsternis.
+Ein dichtes Dorngestrüpp wächst auf
+ihrer Oberfläche.
+
+Der passende Gegenstand für den mörderischen
+Kirk - denn schon indem man sie einfach nur
+trägt und eine Rolle ausführt, kann man den
+Gegnern Schaden zufügen.</text>
+<text id="202000">Stulpen des Dornenritters Kirk, des
+gefürchteten Geists der Finsternis.
+Ein dichtes Dorngestrüpp wächst auf
+ihrer Oberfläche.
+
+Der passende Gegenstand für den mörderischen
+Kirk - denn schon indem man sie einfach nur
+trägt und eine Rolle ausführt, kann man den
+Gegnern Schaden zufügen.</text>
+<text id="203000">Gamaschen des Dornenritters Kirk, des
+gefürchteten Geists der Finsternis. Ein
+dichtes Dorngestrüpp wächst auf ihrer
+Oberfläche.
+
+Der passende Gegenstand für den mörderischen
+Kirk - denn schon indem man sie einfach nur
+trägt und eine Rolle ausführt, kann man den
+Gegnern Schaden zufügen.</text>
+<text id="210000">Ein robuster Eisenhelm.
+Ein sehr häufig verwendetes Ausrüstungsteil,
+das für passablen Schutz sorgt.
+
+Es ist ratsam, sich mit einem robusten
+Kopfschutz gegen Pfeile und andere physische
+Gefahren zu wappnen.</text>
+<text id="211000">Eine Rüstung aus dickem Leder.
+Ein sehr häufig verwendetes Ausrüstungsteil,
+das für passablen Schutz sorgt.</text>
+<text id="212000">Stulpen aus dickem Leder.
+Ein sehr häufig verwendetes Ausrüstungsteil,
+das für passablen Schutz sorgt.</text>
+<text id="213000">Stiefel aus dickem Leder.
+Ein sehr häufig verwendetes Ausrüstungsteil,
+das für passablen Schutz sorgt.</text>
+<text id="220000">Von den wahren Zauberern der Vinheimer
+Drachenschule getragener Hut.
+
+Die meisten erfüllt ihre Ausbildung an
+der Akademie mit Stolz, und so verachten
+sie alle, die sich nicht an die Kleidungs-
+vorschriften für Zauberer halten.</text>
+<text id="221000">Von den wahren Zauberern der Vinheimer
+Drachenschule getragener Umhang.
+
+Die meisten erfüllt ihre Ausbildung an
+der Akademie mit Stolz, und so verachten
+sie alle, die sich nicht an die Kleidungs-
+vorschriften für Zauberer halten.</text>
+<text id="222000">Von den wahren Zauberern der Vinheimer
+Drachenschule getragene Stulpen.
+
+Die meisten erfüllt ihre Ausbildung an
+der Akademie mit Stolz, und so verachten
+sie alle, die sich nicht an die Kleidungs-
+vorschriften für Zauberer halten.</text>
+<text id="223000">Von den wahren Zauberern der Vinheimer
+Drachenschule getragene Stiefel.
+
+Die meisten erfüllt ihre Ausbildung an
+der Akademie mit Stolz, und so verachten
+sie alle, die sich nicht an die Kleidungs-
+vorschriften für Zauberer halten.</text>
+<text id="230000">Von den Pyromanten des Großen Sumpfes
+getragene Kapuze. Sie wirkt ramponiert,
+ist aber in Wahrheit recht robust.
+
+Ihre Kleidung schützt sie im Hinterland,
+in das sie vertrieben wurden, sehr gut vor
+Gift, Feuer und anderen Kräften der Natur.</text>
+<text id="231000">Von den Pyromanten des Großen Sumpfes
+getragene Robe. Sie wirkt ramponiert,
+ist aber in Wahrheit recht robust.
+
+Ihre Kleidung schützt sie im Hinterland,
+in das sie vertrieben wurden, sehr gut vor
+Gift, Feuer und anderen Kräften der Natur.</text>
+<text id="232000">Von den Pyromanten des Großen Sumpfes
+getragene Manschette. Sie wirkt ramponiert,
+ist aber in Wahrheit recht robust.
+
+Ihre Kleidung schützt sie im Hinterland,
+in das sie vertrieben wurden, sehr gut vor
+Gift, Feuer und anderen Kräften der Natur.</text>
+<text id="233000">Stiefel aus dickem Leder.
+
+Da die Pyromanten gezwungen sind, durch raue
+Felder und tückische Sümpfe zu ziehen, sind ihre
+Stiefel enorm widerstandsfähig, mit beinahe
+undurchdringlichen Sohlen.</text>
+<text id="240000">Breitkrempiger Hut des heldenhaften
+Bogenschützen Pharis.
+
+Obwohl er ein Mensch war, stand Pharis als
+erfolgreicher Bogenschütze auf einer Stufe
+mit dem Falkenauge Gough, einem der Vier
+Ritter von Fürst Gwyn. Bei Kindern erfreut
+sich sein Hut großer Beliebtheit.</text>
+<text id="241000">Rüstung aus weichem Leder.
+Ein häufig zum Schutz verwendetes
+Ausrüstungsteil.</text>
+<text id="242000">Handschuhe aus weichem Leder.
+Ein häufig zum Schutz verwendetes
+Ausrüstungsteil.</text>
+<text id="243000">Stiefel aus weichem Leder.
+Ein häufig zum Schutz verwendetes
+Ausrüstungsteil.</text>
+<text id="250000">Von den in Alabaster gehüllten Hütern der
+Gemälde in Anor Londo getragene Kapuze.
+Bietet sehr guten Schutz gegen Magie.
+
+Seit Äonen bewachen sie die Großen Gemälde
+von Ariamis und reichen ihre Pflichten an
+ihre Nachfahren weiter. Doch an den Grund
+dafür erinnert sich niemand mehr. </text>
+<text id="251000">Von den in Alabaster gehüllten Hütern
+der Gemälde in Anor Londo getragene Robe.
+Bietet sehr guten Schutz gegen Magie.
+
+Seit Äonen bewachen sie die Großen Gemälde
+von Ariamis und reichen ihre Pflichten an
+ihre Nachfahren weiter. Doch an den Grund
+dafür erinnert sich niemand mehr. </text>
+<text id="252000">Von den in Alabaster gehüllten Hütern der
+Gemälde in Anor Londo getragene Handschuhe.
+Bieten sehr guten Schutz gegen Magie.
+
+Seit Äonen bewachen sie die Großen Gemälde
+von Ariamis und reichen ihre Pflichten an
+ihre Nachfahren weiter. Doch an den Grund
+dafür erinnert sich niemand mehr. </text>
+<text id="253000">Von den in Alabaster gehüllten Hütern der
+Gemälde in Anor Londo getragenes Lendentuch.
+Bietet sehr guten Schutz gegen Magie.
+
+Seit Äonen bewachen sie die Großen Gemälde
+von Ariamis und reichen ihre Pflichten an
+ihre Nachfahren weiter. Doch an den Grund
+dafür erinnert sich niemand mehr. </text>
+<text id="270000">Der Helm des Drachentöters Ornstein,
+der die Kathedrale in der vergessenen
+Stadt Anor Londo bewacht.
+
+Ornstein gilt als Anführer der Vier Ritter.
+Sein goldener Löwenhelm ist durchtränkt von
+der Macht der Blitze und bietet daher guten
+Schutz gegen diese.</text>
+<text id="271000">Die Rüstung des Drachentöters Ornstein,
+der die Kathedrale in der vergessenen
+Stadt Anor Londo bewacht.
+
+Ornstein gilt als Anführer der Vier Ritter.
+Seine goldene Löwenrüstung ist durchtränkt
+von der Macht der Blitze und bietet daher
+guten Schutz gegen diese.</text>
+<text id="272000">Die Stulpen des Drachentöters Ornstein,
+der die Kathedrale in der vergessenen
+Stadt Anor Londo bewacht.
+
+Ornstein gilt als Anführer der Vier Ritter.
+Seine goldenen Löwenstulpen sind durchtränkt
+von der Macht der Blitze und bieten daher
+guten Schutz gegen diese.</text>
+<text id="273000">Die Gamaschen des Drachentöters Ornstein,
+der die Kathedrale in der vergessenen
+Stadt Anor Londo bewacht.
+
+Ornstein gilt als Anführer der Vier Ritter.
+Seine goldenen Löwengamaschen sind durch-
+tränkt von der Macht der Blitze und bieten
+daher guten Schutz gegen diese.</text>
+<text id="280000">Ein typischer Helm eines östlichen Landes.
+
+Dieser kunstvoll gefertigte Helm bietet
+exzellenten Schutz, insbesondere gegen
+Hieb-Angriffe, eine der größten Gefahren
+in Schlachten im Osten.</text>
+<text id="281000">Eine typische Rüstung eines östlichen Landes.
+
+Diese kunstvoll gefertigte Rüstung bietet
+exzellenten Schutz, insbesondere gegen
+Hieb-Angriffe, eine der größten Gefahren
+in Schlachten im Osten.</text>
+<text id="282000">Typische Stulpen eines östlichen Landes.
+
+Diese kunstvoll gefertigten Stulpen bieten
+exzellenten Schutz, insbesondere gegen
+Hieb-Angriffe, eine der größten Gefahren
+in Schlachten im Osten.</text>
+<text id="283000">Typische Gamaschen eines östlichen Landes.
+
+Diese kunstvoll gefertigten Gamaschen bieten
+exzellenten Schutz, insbesondere gegen
+Hieb-Angriffe, eine der größten Gefahren
+in Schlachten im Osten.</text>
+<text id="290000">Geheimnisvolles Objekt, das einst der Gelbe
+König Jeremiah trug, der legendäre Verbannte.
+Niemand weiß, woher es stammt.
+
+Der hochwertige Stoff fühlt sich sehr weich
+an, doch das grelle Gelb der Krone schmerzt
+dem Auge. Zudem ist sie offenkundig viel zu
+groß.</text>
+<text id="291000">Geheimnisvolles Objekt, das einst der Gelbe
+König Jeremiah trug, der legendäre Verbannte.
+Niemand weiß, woher es stammt.
+
+Es mag beschädigt sein, doch sein grelles
+Gelb schmerzt dem Auge wie eh und je.</text>
+<text id="292000">Geheimnisvolle Objekte, die einst der Gelbe
+König Jeremiah trug, der legendäre Verbannte.
+Niemand weiß, woher sie stammen.
+
+Sie mögen beschädigt sein, doch ihr grelles
+Gelb schmerzt dem Auge wie eh und je.</text>
+<text id="293000">Geheimnisvolles Objekt, das einst der Gelbe
+König Jeremiah trug, der legendäre Verbannte.
+Niemand weiß, woher es stammt.
+
+Es mag beschädigt sein, doch sein grelles
+Gelb schmerzt dem Auge wie eh und je.</text>
+<text id="300000">Eine Sündermaske.
+
+Sünder verbergen ihr Gesicht, dämpfen
+ihre Stimme und suchen Zuflucht in den
+Schatten. Allzu großen Schutz bietet
+die Maske nicht.</text>
+<text id="301000">Diese aus glattem schwarzem Leder gefertigte
+Rüstung ist äußerst geräuscharm - ideal für
+alle, die sich im Schatten verstecken.
+
+Das Leder selbst ist dick und bietet recht
+passablen Schutz.</text>
+<text id="302000">Diese aus glattem schwarzem Leder gefertigten
+Handschuhe sind äußerst geräuscharm - ideal
+für alle, die sich im Schatten verstecken.
+
+Das Leder selbst ist dick und bietet recht
+passablen Schutz.</text>
+<text id="303000">Diese aus glattem schwarzem Leder gefertigten
+Stiefel sind äußerst geräuscharm - ideal für
+alle, die sich im Schatten verstecken.
+
+Das Leder selbst ist dick und bietet recht
+passablen Schutz.</text>
+<text id="310000">Ein markanter Hut, wie ihn nur die Priester
+des Weißen Pfades in Thorolund tragen.
+
+Seine Aufgabe besteht darin, ihre Stellung
+innerhalb der Hierarchie anzuzeigen. Im
+Lande Lordran ist er nahezu bedeutungslos.</text>
+<text id="311000">Eine von Geistlichen getragene Robe, die
+zwar unscheinbar wirkt, aber mit ihrem festen
+Stoff Regen abhält und den Körper wärmt.
+
+Wer mit den Lehren der Kirche unzufrieden
+ist, der muss seinen Glauben auf die Probe
+stellen, indem er eine spirituelle Reise
+unternimmt. Ein Selbstreinigungs-Ritual
+des Weißen Pfades.</text>
+<text id="312000">Dicke, robuste Handschuhe für Reisende auf
+ausgedehnten Wanderschaften.</text>
+<text id="313000">Eine von Geistlichen getragene Hose, die
+zwar unscheinbar wirkt, aber mit ihrem festen
+Stoff Regen abhält und den Körper wärmt.
+
+Wer mit den Lehren der Kirche unzufrieden
+ist, der muss seinen Glauben auf die Probe
+stellen, indem er eine spirituelle Reise
+unternimmt. Ein Selbstreinigungs-Ritual
+des Weißen Pfades.</text>
+<text id="320000">Der Helm der Schwarzen Ritter, die Lordran
+heimsuchen.
+
+Als Fürst Gwyn sich aufmachte, die Flamme
+zu binden, folgten ihm die Ritter. Doch sie
+verbrannten in der neu entfachten Flamme zu
+Asche und ziehen seither als körperlose
+Geister durch die Welt.</text>
+<text id="321000">Die Rüstung der Schwarzen Ritter, die Lordran
+heimsuchen.
+
+Als Fürst Gwyn sich aufmachte, die Flamme
+zu binden, folgten ihm die Ritter. Doch sie
+verbrannten in der neu entfachten Flamme zu
+Asche und ziehen seither als körperlose
+Geister durch die Welt.</text>
+<text id="322000">Die Stulpen der Schwarzen Ritter, die Lordran
+heimsuchen.
+
+Als Fürst Gwyn sich aufmachte, die Flamme
+zu binden, folgten ihm die Ritter. Doch sie
+verbrannten in der neu entfachten Flamme zu
+Asche und ziehen seither als körperlose
+Geister durch die Welt.</text>
+<text id="323000">Die Gamaschen der Schwarzen Ritter, die
+Lordran heimsuchen.
+
+Als Fürst Gwyn sich aufmachte, die Flamme
+zu binden, folgten ihm die Ritter. Doch sie
+verbrannten in der neu entfachten Flamme zu
+Asche und ziehen seither als körperlose
+Geister durch die Welt.</text>
+<text id="330000">Spezielle Zauberkrone, die Dusk, der
+Prinzessin von Oolacile, bei ihrer Geburt
+gewährt wurde.
+
+Ihr Träger wird mit vielerlei Magie gesegnet,
+die Macht und Wirksamkeit seiner Zauber
+erhöht. Der durch Zauberangriffe erlittene
+Schaden steigt aber ebenfalls.</text>
+<text id="331000">Ein Gewand des alten, versunkenen Landes
+Oolacile aus elfenbeinfarbener Seide. Es
+weist aufwändige Stickereien auf und ist
+von uralter Zauberkraft durchtränkt.
+
+Da es nicht für die Schlacht geschaffen
+wurde, darf man von ihm keinen physischen
+Schutz erwarten.</text>
+<text id="332000">Handschuhe des alten, versunkenen Landes
+Oolacile aus elfenbeinfarbener Seide. Sie
+weisen aufwändige Stickereien auf und sind
+von uralter Zauberkraft durchtränkt.
+
+Da sie nicht für die Schlacht geschaffen
+wurden, darf man von ihnen keinen physischen
+Schutz erwarten.</text>
+<text id="333000">Ein Rock des alten, versunkenen Landes
+Oolacile aus elfenbeinfarbener Seide. Er
+weist aufwändige Stickereien auf und ist
+von uralter Zauberkraft durchtränkt.
+
+Da er nicht für die Schlacht geschaffen
+wurde, darf man von ihm keinen physischen
+Schutz erwarten.</text>
+<text id="340000">Der Hut der abtrünnigen Hexe Beatrice.
+
+Fast alle Zauberwirker, die einen Stab
+verwenden, lernten auf der Drachenschule,
+doch Beatrice gehört zu den Ausnahmen. Sie
+stellte sich dem Abgrund, überlebt diese
+Prüfung jedoch nicht.</text>
+<text id="341000">Der Umhang der abtrünnigen Hexe Beatrice.
+
+Fast alle Zauberwirker, die Beschleuniger
+verwenden, lernten auf der Drachenschule,
+doch Beatrice gehört zu den Ausnahmen. Sie
+stellte sich dem Abgrund, überlebte diese
+Prüfung jedoch nicht.</text>
+<text id="342000">Die Handschuhe der abtrünnigen Hexe Beatrice.
+
+Fast alle Zauberwirker, die Beschleuniger
+verwenden, lernten auf der Drachenschule,
+doch Beatrice gehört zu den Ausnahmen. Sie
+stellte sich dem Abgrund, überlebte diese
+Prüfung jedoch nicht.</text>
+<text id="343000">Der Rock der abtrünnigen Hexe Beatrice.
+
+Fast alle Zauberwirker, die Beschleuniger
+verwenden, lernten auf der Drachenschule,
+doch Beatrice gehört zu den Ausnahmen. Sie
+stellte sich dem Abgrund, überlebte diese
+Prüfung jedoch nicht.</text>
+<text id="350000">Der Helm eines namenlosen Ritters,
+vielleicht eines Elite-Ritters von Astora.
+
+Seine Untoten-Mission war er zwar nicht
+geneigt aufzugeben, doch er fiel im Asyl der
+Untoten und wurde zur Hülle.</text>
+<text id="351000">Die Rüstung eines namenlosen Ritters,
+vielleicht eines Elite-Ritters von Astora.
+Darauf weist zumindest das Feuerabwehr-
+Wappen auf dem blauen Wappenrock hin.
+
+Seine Untoten-Mission war er zwar nicht
+geneigt aufzugeben, doch er fiel im Asyl der
+Untoten und wurde zur Hülle.</text>
+<text id="352000">Die Stulpen eines namenlosen Ritters,
+vielleicht eines Elite-Ritters von Astora.
+
+Seine Untoten-Mission war er zwar nicht
+geneigt aufzugeben, doch er fiel im Asyl der
+Untoten und wurde zur Hülle.</text>
+<text id="353000">Die Gamaschen eines namenlosen Ritters,
+vielleicht eines Elite-Ritters von Astora.
+
+Seine Untoten-Mission war er zwar nicht
+geneigt aufzugeben, doch er fiel im Asyl der
+Untoten und wurde zur Hülle.</text>
+<text id="360000">Die Kapuze eines ziellos Umherreisenden.
+Ihr robustes Leder schützt vor Wind und Regen.</text>
+<text id="361000">Der Mantel eines ziellos Umherreisenden.
+Gefertigt aus robustem, gestepptem Leder.
+
+Wandert man durch die Lande, so sind Kämpfe
+unvermeidbar, doch dieser Mantel bietet
+einen gewissen Schutz.</text>
+<text id="362000">Die Manschette eines ziellos Umherreisenden.
+Ihr robustes Leder schützt die Hände.</text>
+<text id="363000">Die Stiefel eines ziellos Umherreisenden.
+Mit ihrem robusten Leder sind sie auf
+langen Reisen ein Muss.</text>
+<text id="370000">Von den Magieschmieden, die an der Vinheimer
+Drachenschule lernten, getragener Hut.
+
+Magieschmiede erlernen ihr Handwerk gemein-
+sam mit den Zauberern. Doch sie wenden ihre
+Zauberkräfte an, indem sie Waffen mit
+magischer Glut schmieden.</text>
+<text id="371000">Von den Magieschmieden, die an der Vinheimer
+Drachenschule lernten, getragener Mantel.
+
+Magieschmiede erlernen ihr Handwerk gemein-
+sam mit den Zauberern. Doch sie wenden ihre
+Zauberkräfte an, indem sie Waffen mit
+magischer Glut schmieden.</text>
+<text id="372000">Von den Magieschmieden, die an der Vinheimer
+Drachenschule lernten, getragene Stulpen.
+
+Magieschmiede erlernen ihr Handwerk gemein-
+sam mit den Zauberern. Doch sie wenden ihre
+Zauberkräfte an, indem sie Waffen mit
+magischer Glut schmieden.</text>
+<text id="373000">Von den Magieschmieden, die an der Vinheimer
+Drachenschule lernten, getragene Stiefel.
+
+Magieschmiede erlernen ihr Handwerk gemein-
+sam mit den Zauberern. Doch sie wenden ihre
+Zauberkräfte an, indem sie Waffen mit
+magischer Glut schmieden.</text>
+<text id="380000">Der riesige Hut des großen Zauberers Logan.
+Da der Hut sein Gesicht vollständig verbarg,
+nannte man ihn auch "Spitzhut Logan".
+
+Logan liebte das Alleinsein und schützte
+sich mit dem Hut vor Lärm und Blicken, um
+sich auf seine Gedanken zu konzentrieren.
+Besondere Zauberkräfte besitzt er aber nicht.</text>
+<text id="381000">Die von Spitzhut Logan getragene Robe.
+Angeblich stammt sie aus seiner Lehrzeit an
+der Drachenschule, doch mittlerweile ist sie
+so abgewetzt, dass niemand zu sagen vermag,
+wie sie einst aussah.
+
+Logan, dem sein Aussehen recht gleichgültig
+war, legte sie gewiss selten ab. </text>
+<text id="382000">Die Handschuhe von Spitzhut Logan.
+Von den gewöhnlichen Handschuhen
+Reisender nicht zu unterscheiden.</text>
+<text id="383000">Die Stiefel von Spitzhut Logan.
+Von den gewöhnlichen Stiefeln
+Reisender nicht zu unterscheiden.</text>
+<text id="390000">Der Helm eines niederen Ritters. Dank
+der Rillenstruktur bietet er trotz des
+dünnen Metalls zusätzlichen Schutz.</text>
+<text id="391000">Die Rüstung eines niederen Ritters. Dank
+der Rillenstruktur bietet sie trotz des
+dünnen Metalls zusätzlichen Schutz.</text>
+<text id="392000">Die Stulpen eines niederen Ritters. Dank
+der Rillenstruktur bieten sie trotz des
+dünnen Metalls zusätzlichen Schutz.</text>
+<text id="393000">Die Gamaschen eines niederen Ritters. Dank
+der Rillenstruktur bieten sie trotz des
+dünnen Metalls zusätzlichen Schutz.</text>
+<text id="400000">Von der Feuerhüterin des Feuerbandschreins
+getragen.
+
+Einst war dies angeblich die weiße
+Kapuze einer Magd, doch Rauch und Asche
+von Leuchtfeuern haben sie mit der Zeit
+geschwärzt.</text>
+<text id="401000">Von der Feuerhüterin des Feuerbandschreins
+getragen.
+
+Einst war dies angeblich die weiße
+Robe einer Magd, doch Rauch und Asche
+von Leuchtfeuern haben sie mit der Zeit
+geschwärzt.</text>
+<text id="402000">Von der Feuerhüterin des Feuerbandschreins
+getragen.
+
+Einst waren dies angeblich die weißen
+Handschuhe einer Magd, doch Rauch und
+Asche von Leuchtfeuern haben sie mit
+der Zeit geschwärzt.</text>
+<text id="403000">Von der Feuerhüterin des Feuerbandschreins
+getragen.
+
+Einst war dies angeblich der weiße Rock
+einer Magd, doch sein wahres Wesen liegt
+unter Blutspritzern verborgen. Vielleicht
+wurde der Vorbesitzer verstümmelt, um eine
+Flucht zu verhindern?</text>
+<text id="410000">Die weiße Kapuze der reisenden Mägde.
+Unabhängig von ihrem Rang ist sie Teil
+ihrer Tracht.
+
+Sie ist weich und von guter Qualität, aber
+da sie kaum Schutz bietet, ist sie für die
+Schlacht eher ungeeignet.</text>
+<text id="411000">Die weiße Robe der reisenden Mägde.
+Unabhängig von ihrem Rang ist sie Teil
+ihrer Tracht.
+
+Sie ist weich und von guter Qualität, aber
+da sie kaum Schutz bietet, ist sie für die
+Schlacht eher ungeeignet.</text>
+<text id="412000">Die weißen Handschuhe der reisenden Mägde.
+Unabhängig von ihrem Rang sind sie Teil
+ihrer Tracht.
+
+Sie sind weich und von guter Qualität, aber
+da sie kaum Schutz bieten, sind sie für die
+Schlacht eher ungeeignet.</text>
+<text id="413000">Der weiße Rock der reisenden Mägde.
+Unabhängig von ihrem Rang ist er Teil
+ihrer Tracht.
+
+Er ist weich und von guter Qualität, aber
+da er kaum Schutz bietet, ist er für die
+Schlacht eher ungeeignet.</text>
+<text id="420000">Der Helm der Silberritter, die Anor Londo
+bewachen.
+
+Als Fürst Gwyn auszog, die Flamme zu binden,
+spalteten sich seine Ritter in zwei Gruppen.
+Die Silberritter verblieben im Dienste ihrer
+Göttin in der vergessenen Hauptstadt.</text>
+<text id="421000">Die Rüstung der Silberritter, die Anor Londo
+bewachen.
+
+Als Fürst Gwyn auszog, die Flamme zu binden,
+spalteten sich seine Ritter in zwei Gruppen.
+Die Silberritter verblieben im Dienste ihrer
+Göttin in der vergessenen Hauptstadt.</text>
+<text id="422000">Die Stulpen der Silberritter, die Anor
+Londo bewachen.
+
+Als Fürst Gwyn auszog, die Flamme zu binden,
+spalteten sich seine Ritter in zwei Gruppen.
+Die Silberritter verblieben im Dienste ihrer
+Göttin in der vergessenen Hauptstadt.</text>
+<text id="423000">Die Gamaschen der Silberritter, die Anor
+Londo bewachen.
+
+Als Fürst Gwyn auszog, die Flamme zu binden,
+spalteten sich seine Ritter in zwei Gruppen.
+Die Silberritter verblieben im Dienste ihrer
+Göttin in der vergessenen Hauptstadt.</text>
+<text id="440000">Der von Havels Steinkriegern getragene,
+aus Stein gemeißelte Helm. So gewaltig sein
+Gewicht ist, so stark ist der Schutz, den er
+bietet.
+
+Havels Krieger wichen nie zurück und
+verweigerten sich keiner Schlacht. Wer
+ihnen begegnete, wurde zerstampft.</text>
+<text id="441000">Die von Havels Steinkriegern getragene,
+aus Stein gemeißelte Rüstung. So gewaltig ihr
+Gewicht ist, so stark ist der Schutz, den sie
+bietet.
+
+Havels Krieger wichen nie zurück und
+verweigerten sich keiner Schlacht. Wer
+ihnen begegnete, wurde zerstampft.</text>
+<text id="442000">Die von Havels Steinkriegern getragenen,
+aus Stein gemeißelten Stulpen. So gewaltig
+ihr Gewicht ist, so stark ist der Schutz, den
+sie bieten.
+
+Havels Krieger wichen nie zurück und
+verweigerten sich keiner Schlacht. Wer
+ihnen begegnete, wurde zerstampft.</text>
+<text id="443000">Die von Havels Steinkriegern getragenen,
+aus Stein gemeißelten Gamaschen. So gewaltig
+ihr Gewicht ist, so stark ist der Schutz, den
+sie bieten.
+
+Havels Krieger wichen nie zurück und
+verweigerten sich keiner Schlacht. Wer
+ihnen begegnete, wurde zerstampft.</text>
+<text id="450000">Der Helm der Finstermondritterin, der
+Feuerhüterin von Anor Londo.
+Als Untote besuchte sie die Finstersonne
+Wendelin im Mausoleum der Gewundenen
+Tiefen, wurde zu einer Finstermondklinge
+und verpflichtete sich, die Flamme zu hüten.
+Seinerzeit erhielt sie diesen Helm. Er hilft
+ihr bei der Jagd auf Schuldige und verbirgt
+ihr garstiges Aussehen.</text>
+<text id="451000">Die Rüstung der Finstermondritterin, der
+Feuerhüterin von Anor Londo.
+Als Untote besuchte sie die Finstersonne
+Wendelin im Mausoleum der Gewundenen
+Tiefen, wurde zu einer Finstermondklinge
+und verpflichtete sich, die Flamme zu hüten.
+Seinerzeit erhielt sie diese Rüstung. Sie
+hilft ihr bei der Jagd auf Schuldige und
+verbirgt ihr garstiges Aussehen.</text>
+<text id="452000">Die Stulpen der Finstermondritterin, der
+Feuerhüterin von Anor Londo.
+Als Untote besuchte sie die Finstersonne
+Wendelin im Mausoleum der Gewundenen
+Tiefen, wurde zu einer Finstermondklinge
+und verpflichtete sich, die Flamme zu hüten.
+Seinerzeit erhielt sie diese Stulpen. Sie
+helfen ihr bei der Jagd auf Schuldige und
+verbergen ihr garstiges Aussehen.</text>
+<text id="453000">Die Gamaschen der Finstermondritterin, der
+Feuerhüterin von Anor Londo.
+Als Untote besuchte sie die Finstersonne
+Wendelin im Mausoleum der Gewundenen
+Tiefen, wurde zu einer Finstermondklinge
+und verpflichtete sich, die Flamme zu hüten.
+Seinerzeit erhielt sie diese Gamaschen. Sie
+helfen ihr bei der Jagd auf Schuldige und
+verbergen ihr garstiges Aussehen.</text>
+<text id="460000">Von der Hexe Quelana von Izalith, Urmutter
+der Pyromantie und Tochter des Chaos,
+getragen.
+
+Diese schwarze Goldsaum-Kapuze trug sie
+schon vor dem Zeitalter des Feuers. Sie
+bietet sehr gute Resistenz gegen Feuer, Gift
+und andere Gefahren.</text>
+<text id="461000">Von der Hexe Quelana von Izalith, Urmutter
+der Pyromantie und Tochter des Chaos,
+getragen.
+
+Diesen schwarzen Goldsaum-Umhang trug sie
+schon vor dem Zeitalter des Feuers. Er bietet
+sehr gute Resistenz gegen Feuer, Gift und
+andere Gefahren.</text>
+<text id="462000">Von der Hexe Quelana von Izalith, Urmutter
+der Pyromantie und Tochter des Chaos,
+getragen.
+
+Diese schwarzen Goldsaum-Handschuhe trug
+sie schon vor dem Zeitalter des Feuers. Sie
+bieten sehr gute Resistenz gegen Feuer, Gift
+und andere Gefahren.</text>
+<text id="463000">Von der Hexe Quelana von Izalith, Urmutter
+der Pyromantie und Tochter des Chaos,
+getragen.
+
+Diesen Goldsaum-Rock trug sie schon vor dem
+Zeitalter des Feuers. Er bietet unter anderem
+sehr gute Resistenz gegen Feuer, Gift und
+andere Gefahren.</text>
+<text id="470000">Der Kopf des Eisengolems, Hüter von Sens
+alter Festung und Schlächter der Helden,
+die sich nach Anor Londo wagten.
+
+Ohne sein Kernstück ist er nur ein Eisen-
+klumpen. Er kann als massive Schutzausrüstung
+genutzt werden, doch sein enormes Gewicht
+behindert die Ausdauer-Regeneration.</text>
+<text id="471000">Der Körper des Eisengolems, Hüter von Sens
+alter Festung und Schlächter der Helden,
+die sich nach Anor Londo wagten.
+
+Ohne sein Kernstück ist er nur ein Eisen-
+klumpen. Er kann als massive Schutzausrüstung
+genutzt werden, doch sein enormes Gewicht
+behindert die Ausdauer-Regeneration.</text>
+<text id="472000">Die Arme des Eisengolems, Hüter von Sens
+alter Festung und Schlächter der Helden,
+die sich nach Anor Londo wagten.
+
+Ohne sein Kernstück sind sie kaum mehr als
+bloße Eisenklumpen. Sie können als massive
+Schutzausrüstung genutzt werden, doch ihr
+enormes Gewicht behindert die Ausdauer-
+Regeneration.</text>
+<text id="473000">Die Beine des Eisengolems, Hüter von Sens
+alter Festung und Schlächter der Helden,
+die sich nach Anor Londo wagten.
+
+Ohne sein Kernstück sind sie kaum mehr als
+bloße Eisenklumpen. Sie können als massive
+Schutzausrüstung genutzt werden, doch ihr
+enormes Gewicht behindert die Ausdauer-
+Regeneration.</text>
+<text id="480000">Von Hüllensoldaten getragener Helm. So alt
+und ramponiert er auch sein mag - das
+verwendete Eisen macht ihn ziemlich robust.
+
+Es ist ratsam, sich mit einem robusten
+Kopfschutz gegen Pfeile und andere physische
+Gefahren zu wappnen.</text>
+<text id="481000">Von Hüllensoldaten getragene Rüstung. So alt
+und ramponiert sie auch sein mag - das
+verwendete Eisen macht sie ziemlich robust.</text>
+<text id="482000">Soldaten-Handschuhe</text>
+<text id="483000">Von Hüllensoldaten getragenes Lendentuch.
+So ramponiert, dass es seinen Zweck kaum
+noch zu erfüllen vermag.</text>
+<text id="490000">Der Helm der als schwerbewaffnet und gut
+gepanzert bekannten Ritter von Berenike.
+
+Viele der einst als Mächtigste der Mächtigen
+geltenden Ritter von Berenike wurden zu
+Untoten und zogen nach Lordran. Doch ihre
+Reise war erfolglos, sie wurden zu Hüllen und
+somit zu einer Gefahr für alle Untoten.</text>
+<text id="491000">Die Rüstung der als schwerbewaffnet und gut
+gepanzert bekannten Ritter von Berenike.
+
+Viele der einst als Mächtigste der Mächtigen
+geltenden Ritter von Berenike wurden zu
+Untoten und zogen nach Lordran. Doch ihre
+Reise war erfolglos, sie wurden zu Hüllen und
+somit zu einer Gefahr für alle Untoten.</text>
+<text id="492000">Die Stulpen der als schwerbewaffnet und gut
+gepanzert bekannten Ritter von Berenike.
+
+Viele der einst als Mächtigste der Mächtigen
+geltenden Ritter von Berenike wurden zu
+Untoten und zogen nach Lordran. Doch ihre
+Reise war erfolglos, sie wurden zu Hüllen und
+somit zu einer Gefahr für alle Untoten.</text>
+<text id="493000">Die Gamaschen der als schwerbewaffnet und gut
+gepanzert bekannten Ritter von Berenike.
+
+Viele der einst als Mächtigste der Mächtigen
+geltenden Ritter von Berenike wurden zu
+Untoten und zogen nach Lordran. Doch ihre
+Reise war erfolglos, sie wurden zu Hüllen und
+somit zu einer Gefahr für alle Untoten.</text>
+<text id="500000">Von diebischen Hüllen getragene Kapuze.
+Sie soll das Antlitz des Schuldigen
+verbergen.</text>
+<text id="501000">Von diebischen Hüllen getragene Lederrüstung.
+Sie dämpft die Geräusche des Trägers und
+hilft ihm, sich im Schatten zu verbergen.</text>
+<text id="502000">Diebes-Handschuhe</text>
+<text id="503000">Von diebischen Hüllen getragene Strumpfhose.
+Sie dämpft die Geräusche des Trägers und
+hilft ihm, sich im Schatten zu verbergen.</text>
+<text id="510000">Der von den Rittern des alten Königreichs
+Balder getragene, aus dicken Eisenplatten
+gefertigter Helm.
+
+Balder war die Heimat des Ritterkönigs
+Rendal, doch es ging zugrunde, als unzählige
+Untote auftauchten.</text>
+<text id="511000">Die von den Rittern des alten Königreichs
+Balder getragene, aus dicken Eisenplatten
+gefertigte Rüstung.
+
+Balder war die Heimat des Ritterkönigs
+Rendal, doch es ging zugrunde, als unzählige
+Untote auftauchten.</text>
+<text id="512000">Die von den Rittern des alten Königreichs
+Balder getragenen, aus dicken Eisenplatten
+gefertigten Stulpen.
+
+Balder war die Heimat des Ritterkönigs
+Rendal, doch es ging zugrunde, als unzählige
+Untote auftauchten.</text>
+<text id="513000">Die von den Rittern des alten Königreichs
+Balder getragenen, aus dicken Eisenplatten
+gefertigten Gamaschen.
+
+Balder war die Heimat des Ritterkönigs
+Rendal, doch es ging zugrunde, als unzählige
+Untote auftauchten.</text>
+<text id="520000">Von Hüllenkriegern getragener Helm, zwar
+aus Eisen gefertigt, aber alt, beschädigt
+und verschlissen.
+
+Es ist ratsam, sich mit einem robusten
+Kopfschutz gegen Pfeile und andere physische
+Gefahren zu wappnen.</text>
+<text id="521000">Von Hüllenkriegern getragene Rüstung.
+Aus dickem, mittlerweile verschlissenem
+Leder gefertigt.</text>
+<text id="522000">Krieger-Handschuhe</text>
+<text id="523000">Von Hüllenkriegern getragenes Lendentuch.
+Es ist derart beschädigt, dass es seinen
+Zweck kaum noch erfüllt.</text>
+<text id="530000">Der Helm de Riesenwächter von Anor Londo.
+
+Er wurde aus altem Blech gefertigt und
+schützt auch gegen nicht-physische Angriffe.
+Wegen seiner gewaltigen Ausmaße ist er für
+Menschen jedoch außerordentlich schwer. Daher
+behindert er die Ausdauer-Regeneration.</text>
+<text id="531000">Die Rüstung der Riesenwächter von Anor
+Londo.
+
+Sie wurde aus altem Blech gefertigt und
+schützt auch gegen nicht-physische Angriffe.
+Wegen ihrer gewaltigen Ausmaße ist sie für
+Menschen jedoch außerordentlich schwer. Daher
+behindert sie die Ausdauer-Regeneration.</text>
+<text id="532000">Die Stulpen der Riesenwächter von Anor
+Londo.
+
+Sie wurden aus altem Blech gefertigt und
+schützen auch gegen nicht-physische Angriffe.
+Wegen ihrer gewaltigen Ausmaße sind sie für
+Menschen jedoch außerordentlich schwer. Daher
+behindern sie die Ausdauer-Regeneration.</text>
+<text id="533000">Die Gamaschen der Riesenwächter von Anor
+Londo.
+
+Sie wurden aus altem Blech gefertigt und
+schützen auch gegen nicht-physische Angriffe.
+Wegen ihrer gewaltigen Ausmaße sind sie für
+Menschen jedoch außerordentlich schwer. Daher
+behindern sie die Ausdauer-Regeneration.</text>
+<text id="540000">Die Krone der Finstersonne Wendelin, des
+Hüters der vergessenen Stadt Anor Londo.
+
+Diese Götterkrone verlangt ihrem Träger
+unermesslichen Willen ab, doch sie ist von
+der Macht des Finstermondes durchtränkt,
+die alle Magie verstärkt. Das Abbild der
+Sonne steht für Wendelins tiefe Verehrung
+der Sonne.</text>
+<text id="541000">Die Robe der Finstersonne Wendelin, des
+Hüters der vergessenen Stadt Anor Londo.
+
+Des Mondes Macht wohnte in Wendelin, und
+so wurde er als eine Tochter herangezogen.
+Sein magisches Gewand ist hauchdünn und
+bietet kaum physischen Schutz.</text>
+<text id="542000">Die Handschuhe der Finstersonne Wendelin, des
+Hüters der vergessenen Stadt Anor Londo.
+
+Des Mondes Macht wohnte in Wendelin, und so
+wurde er als eine Tochter herangezogen. Sein
+magisches Gewand ist hauchdünn und bietet
+kaum physischen Schutz.</text>
+<text id="543000">Das Lendentuch der Finstersonne Wendelin, des
+Hüters der vergessenen Stadt Anor Londo.
+
+Des Mondes Macht wohnte in Wendelin, und so
+wurde er als eine Tochter herangezogen. Sein
+magisches Gewand ist hauchdünn und bietet
+kaum physischen Schutz.</text>
+<text id="550000">Die Krone des Aschefürsten Gwyn, der die
+Erste Flamme band.
+
+Fürst Gwyn, der Träger der ultimativen Seele,
+teilte seine Macht unter den Seinen auf, ehe
+er die Flamme band. Seine Krone jedoch be-
+hielt er, vielleicht um ein Herrschaftssymbol
+zu bewahren - denn ihrer wahren Macht war
+sie beraubt.</text>
+<text id="551000">Die Robe des Aschefürsten Gwyn, der die
+Erste Flamme band.
+
+Fürst Gwyn, der Träger der ultimativen Seele,
+teilte seine Macht unter den Seinen auf, ehe
+er die Flamme band. Als er hinfortging, hin-
+terließ er lediglich Großschwert, Gewandung
+mit Schmuck und eine aller Macht beraubte Krone.</text>
+<text id="552000">Die Armreife des Aschefürsten Gwyn, der die
+Erste Flamme band.
+
+Fürst Gwyn, der Träger der ultimativen Seele,
+teilte seine Macht unter den Seinen auf, ehe
+er die Flamme band. Als er hinfortging, hin-
+terließ er lediglich Großschwert, Gewandung
+mit Schmuck und eine aller Macht beraubte Krone.</text>
+<text id="553000">Die Fußketten des Aschefürsten Gwyn, der die
+Erste Flamme band.
+
+Fürst Gwyn, der Träger der ultimativen Seele,
+teilte seine Macht unter den Seinen auf, ehe
+er die Flamme band. Als er hinfortging, hin-
+terließ er lediglich Großschwert, Gewandung
+mit Schmuck und eine aller Macht beraubte Krone.</text>
+<text id="560000">Ein blutbefleckter Flickenbeutel, der von
+der in den Tiefen hausenden, menschenver-
+tilgenden Untoten-Köchin getragen wird. Er
+verfügt über zwei behelfsmäßig hineinge-
+schnittene Gucklöcher.
+
+Erstaunlich weich und bequem zu tragen,
+aber als Schutzausrüstung vermutlich so gut
+wie wertlos.</text>
+<text id="570000">Einer Schatzkiste ähnelnder Monsterkopf.
+Dieser einstmalige Gott gilt als Schandsymbol
+eines vergessenen Clans, der verbannt wurde,
+da er der Sünde der Habgier schuldig war.
+
+Verbessert leicht die Seelenaufnahme und das
+Auffinden von Objekten - man muss jedoch den
+Fluch in Kauf nehmen.</text>
+<text id="580000">Der Helm von Vamos, dem Skelett-Schmied
+der Katakomben. Er ist teilweise aus Gold
+gefertigt und gewährt hohe Gesamtresistenz.
+
+Angeblich entstammt die Krone einem alten
+Königshaus. Doch Vamos, der als Einziger die
+Wahrheit kannte, ist auf ewig verstummt.</text>
+<text id="590000">Eine der drei Masken des Feuerrades, des
+Nekromanten, der des Grabesfürsten Macht
+stahl und in den Katakomben herrscht.
+
+Mit dieser Maske, die dem tapferen Vater
+gehört, lässt sich die Last, die man tragen
+kann, leicht erhöhen.</text>
+<text id="600000">Eine der drei Masken des Feuerrades, des
+Nekromanten, der des Grabesfürsten Macht
+stahl und in den Katakomben herrscht.
+
+Diese Maske, die der gütigen Mutter gehört,
+erhöht die Zahl der TP geringfügig.</text>
+<text id="610000">Eine der drei Masken des Feuerrades, des
+Nekromanten, der des Grabesfürsten Macht
+stahl und in den Katakomben herrscht.
+
+Diese Maske, die dem einfältigen Sprössling
+gehört, erhöht das Tempo der Ausdauer-
+Regeneration ein wenig.</text>
+<text id="620000">Der abgetrennte Kopf des vollständig
+gepanzerten Reißkeilers, vom Jäger als
+Zeichen seines Triumphes mitgenommen, so, wie
+die Götter es dereinst mit dem Kopf des alten
+Drachens taten.
+
+Kann als erstaunlich solide Schutzausrüstung
+auf dem Kopf getragen werden. Auch ein
+Angriff mit den Reißzähnen ist möglich.</text>
+<text id="630000">Der Helm des Gargoyles, eines verzauberten
+Geschöpfs, das die Glocke des Erweckens im
+Turm der Kirche der Untoten bewachte.
+
+Da Gargoyle-Haut von Natur aus robust ist,
+diente der Bronzehelm lediglich der Zierde.
+Man kann nur wenig Schutz von ihm erwarten.</text>
+<text id="640000">Der von den geheimen Zauberern der Vinheimer
+Drachenschule getragene Hut.
+
+Sie arbeiten insgeheim mit klangbasierten
+Zaubern und geben sich nie zu erkennen.</text>
+<text id="641000">Der von den geheimen Zauberern der Vinheimer
+Drachenschule getragene Umhang.
+
+Sie arbeiten insgeheim mit klangbasierten
+Zaubern und geben sich nie zu erkennen.</text>
+<text id="642000">Die von den geheimen Zauberern der Vinheimer
+Drachenschule getragenen Stulpen.
+
+Sie arbeiten insgeheim mit klangbasierten
+Zaubern und geben sich nie zu erkennen.</text>
+<text id="643000">Die von den geheimen Zauberern der Vinheimer
+Drachenschule getragenen Stiefel.
+
+Sie arbeiten insgeheim mit klangbasierten
+Zaubern und geben sich nie zu erkennen.</text>
+<text id="650000">Helm, der von den für ihre Unbeugsamkeit
+im Kampf berühmten Kriegerklerikern des
+Weißen Pfades getragen wurde.
+
+Die schwarzen Helme gehörten jenen
+Kriegerklerikern, die auf Missionen
+entsandt worden waren. Viele von ihnen
+hatten einen hohen geistlichen Rang inne.</text>
+<text id="651000">Rüstung, die von den für ihre Unbeugsamkeit
+im Kampf berühmten Kriegerklerikern des
+Weißen Pfades getragen wurde.
+
+Die schwarzen Rüstungen gehörten jenen
+Kriegerklerikern, die auf Missionen
+entsandt worden waren. Viele von ihnen
+hatten einen hohen geistlichen Rang inne.</text>
+<text id="652000">Stulpen, die von den für ihre Unbeugsamkeit
+im Kampf berühmten Kriegerklerikern des
+Weißen Pfades getragen wurden.
+
+Die schwarzen Stulpen gehörten jenen
+Kriegerklerikern, die auf Missionen
+entsandt worden waren. Viele von ihnen
+hatten einen hohen geistlichen Rang inne.</text>
+<text id="653000">Gamaschen, die von den für ihre Unbeugsamkeit
+im Kampf berühmten Kriegerklerikern des
+Weißen Pfades getragen wurden.
+
+Die schwarzen Gamaschen gehörten jenen
+Kriegerklerikern, die auf Missionen
+entsandt worden waren. Viele von ihnen
+hatten einen hohen geistlichen Rang inne.</text>
+<text id="660000">Helm des Abgrundschreiters Artorias,
+einer der vier Ritter des Fürsten Gwyn.
+
+Der Zustand des Helms lässt den Tod seines
+Trägers vermuten. Er ist von der Finsternis
+des Abgrunds zerfressen und seine blaue
+Quaste, einst ein Ruhmeszeichen, ist nunmehr
+modrig und verfault.</text>
+<text id="661000">Rüstung des Abgrundschreiters Artorias,
+einer der vier Ritter des Fürsten Gwyn.
+
+Der Zustand der Rüstung lässt den Tod ihres
+Trägers vermuten. Sie ist von der Finsternis
+des Abgrunds zerfressen und ihr blauer
+Umhang, einst ein Ruhmeszeichen, ist nunmehr
+modrig und verfault.</text>
+<text id="662000">Stulpen des Abgrundschreiters Artorias,
+einer der vier Ritter des Fürsten Gwyn.
+
+Der Zustand der Stulpen lässt den Tod ihres
+Trägers vermuten. Sie sind von der Finsternis
+des Abgrunds zerfressen, wodurch sie nur
+noch unzureichend Schutz bieten.</text>
+<text id="663000">Gamaschen des Abgrundschreiters Artorias,
+einer der vier Ritter des Fürsten Gwyn.
+
+Der Zustand der Gamaschen lässt den Tod ihres
+Trägers vermuten. Sie sind von der Finsternis
+des Abgrunds zerfressen, wodurch sie nur
+noch unzureichend Schutz bieten.</text>
+<text id="670000">Maske der Fürstenklinge Ciaran,
+einer der vier Ritter des Fürsten Gwyn.
+
+Alle Fürstenklingen trugen solche Zyklopenmasken,
+doch Ciaran war besonders versessen darauf, sie
+als Zeichen der Ehre zu gewinnen. Die Maske ist
+aus Porzellan gefertigt und von elfenbeinfarbenen
+Locken umrahmt.</text>
+<text id="671000">Robe der Fürstenklinge Ciaran,
+einer der vier Ritter des Fürsten Gwyn.
+
+Alle Fürstenklingen trugen solche Roben.
+Diese tödliche Frau tanzte gewandt durch die
+Schleier der Finsternis, webte Goldfäden durch
+die Nachtluft und pflanzte Visionen des Terrors
+in die Gedanken.</text>
+<text id="672000">Handschuhe der Fürstenklinge Ciaran,
+einer der vier Ritter des Fürsten Gwyn.
+
+Alle Fürstenklingen trugen solche Handschuhe.
+Diese tödliche Frau tanzte gewandt durch die
+Schleier der Finsternis, webte Goldfäden durch
+die Nachtluft und pflanzte Visionen des Terrors
+in die Gedanken.</text>
+<text id="673000">Lendentuch der Fürstenklinge Ciaran,
+einer der vier Ritter des Fürsten Gwyn.
+
+Alle Fürstenklingen trugen solche Lendentücher.
+Diese tödliche Frau tanzte gewandt durch die
+Schleier der Finsternis, webte Goldfäden durch
+die Nachtluft und pflanzte Visionen des Terrors
+in die Gedanken.</text>
+<text id="680000">Helm von Adlerauge Gough, einer der vier Ritter
+des Fürsten Gwyn.
+Erhalten als Auszeichnung für seine Ritterehre.
+
+Der Helm wurde speziell für den ehrenwerten Ritter
+Adlerauge Gough gefertigt, doch die Sehschlitze wurden
+von jenen, die Gough für einen brutalen Riesen hielten,
+mit Baumharz verklebt.</text>
+<text id="681000">Rüstung von Adlerauge Gough, einer der vier Ritter
+des Fürsten Gwyn.
+
+Die Rüstung stammt aus Goughs Tagen als
+Drachentöter. Das Medaillon mit dem Wappen
+des Fürsten und die Schulterplatten aus Drachenknochen
+sind ein Zeichen höchster Ehre.</text>
+<text id="682000">Stulpen von Adlerauge Gough, einer der vier Ritter
+des Fürsten Gwyn.
+
+Erhalten als Zeichen seiner Ehre.
+Gefertigt aus ähnlichem Material wie die Stulpen
+der Silbernen Ritter.</text>
+<text id="683000">Gamaschen von Adlerauge Gough, einer der vier Ritter
+des Fürsten Gwyn.
+
+Erhalten als Zeichen seiner Ehre.
+Gefertigt aus ähnlichem Material wie die Gamaschen
+der Silbernen Ritter.</text>
+<text id="690000">Helm der Steinernen Ritter, die über den
+Mausoleumswald wachen.
+
+Die Steinernen Ritter sind durch Magie erweckte
+Golems und ihre verzauberten Helme sind
+bedrückend schwer.</text>
+<text id="691000">Rüstung der Steinernen Ritter, die über den
+Mausoleumswald wachen.
+
+Die Steinernen Ritter sind durch Magie erweckte
+Golems und ihre verzauberten Rüstungen sind
+bedrückend schwer.</text>
+<text id="692000">Stulpen der Steinernen Ritter, die über den
+Mausoleumswald wachen.
+
+Die Steinernen Ritter sind durch Magie erweckte
+Golems und ihre verzauberten Stulpen sind
+bedrückend schwer.</text>
+<text id="693000">Stulpen der Steinernen Ritter, die über den
+Mausoleumswald wachen.
+
+Die Steinernen Ritter sind durch Magie erweckte
+Golems und ihre verzauberten Stulpen sind
+bedrückend schwer.</text>
+<text id="700000">Schwarzer Hut des Prächtigen Chesters,
+ein geheimnisvoller Mann der Vergangenheit.
+
+Dem Träger dieses Huts steht permanent ein
+verschmitztes Grinsen im Gesicht.
+Das ist der Fluch Chesters!</text>
+<text id="701000">Schwarzer, langer  Lederumhang des Prächtigen Chesters,
+ein geheimnisvoller Mann der Vergangenheit.
+
+Der hervorragend genähte, sehr elegante Umhang
+ermöglicht es dem Träger, sich leise und unauffällig
+zu bewegen.</text>
+<text id="702000">Lederhandschuhe des Prächtigen Chesters,
+ein geheimnisvoller Mann der Vergangenheit.
+
+Die Handschuhe haben keine besondere Eigenschaft,
+sind aber von überragender Qualität.</text>
+<text id="703000">Schwarze Lederhose des Prächtigen Chesters,
+ein geheimnisvoller Mann der Vergangenheit.
+
+Diese hervorragend gefertigte Hose ist mit
+Silberschmuck in verschiedenen Größen verziert
+und mit Beinhaltern für Armbrustbolzen ausgestattet.</text>
+<text id="710000">Der Kopf eines Bewohners von Oolacile, dessen
+Menschlichkeit verrücktspielte, als ihn die
+Finsternis von Manus, dem Vater des Abgrunds,
+umfing.
+
+Der aufgeblähte Kopf ist rissig und zwischen den Rissen
+befinden sich unzählige kleine, rote Augäpfel.
+Mit seinem harten Schädel und dem matschig-weichen
+Inneren würde ihn niemand bei gesundem Verstand
+aufsetzen.</text>
+<text id="720000">Der Kopf eines Bewohners von Oolacile, dessen
+Menschlichkeit verrücktspielte, als ihn die
+Finsternis von Manus, dem Vater des Abgrunds,
+umfing.
+
+Der aufgeblähte Kopf ist rissig und zwischen den Rissen
+befinden sich unzählige kleine, rote Augäpfel.
+Überall quellen Hirnreste hervor. Da der Kopf wohl
+einem Magier gehörte, birgt er offensichtlich noch
+Zauberkräfte.</text>
+<text id="900000">Kopf</text>
+<text id="901000">Körper</text>
+<text id="902000">Arme</text>
+<text id="903000">Beine</text>
+<text id="950000">Keine Reise-Ausrüstung / Kopf</text>
+<text id="951000">Keine Reise-Ausrüstung / Körper</text>
+<text id="952000">Keine Reise-Ausrüstung / Arme</text>
+<text id="953000">Keine Reise-Ausrüstung / Beine</text>
+<text id="1000000">Ein Geheimritual der Apostel der Transzendenz
+verwandelt Köpfe in Drachenköpfe. In diesem
+Zustand kann man mithilfe von Drachenkopf-
+steinen Drachenhauch verströmen.
+
+Durch die Verwandlung in einen alten Drachen
+wollen die Drachenapostel die Beschränktheit
+des Lebens überwinden. Nur der Tod kann diese
+Verwandlung rückgängig machen. </text>
+<text id="1001000">Ein Geheimritual der Apostel der Transzendenz
+verwandelt Körper in Drachenkörper. In diesem
+Zustand kann man mithilfe von Drachenkörper-
+steinen ein Drachengrollen ausstoßen.
+
+Durch die Verwandlung in einen alten Drachen
+wollen die Drachenapostel die Beschränktheit
+des Lebens überwinden. Nur der Tod kann diese
+Verwandlung rückgängig machen. </text>
+<text id="1002000">Ein Geheimritual der Apostel der Transzendenz
+verwandelt Arme in Drachenarme. Mithilfe von
+Drachenkörpersteinen kann man dann ein
+Drachengrollen ausstoßen und messerscharfe
+Krallen führen.
+Durch die Verwandlung in einen alten Drachen
+wollen die Drachenapostel die Beschränktheit
+des Lebens überwinden. Nur der Tod kann die
+Verwandlung rückgängig machen. </text>
+<text id="1003000">Ein Geheimritual der Apostel der Transzendenz
+verwandelt Beine in Drachenbeine. In diesem
+Zustand kann man mithilfe von Drachenkörper-
+steinen ein Drachengrollen ausstoßen.
+
+Durch die Verwandlung in einen alten Drachen
+wollen die Drachenapostel die Beschränktheit
+des Lebens überwinden. Nur der Tod kann diese
+Verwandlung rückgängig machen. </text>
+<text id="1010000">Ein Eier auf dem Rücken tragender Parasit
+hat dieses Ei auf den Kopf gepflanzt.
+
+Der Albtraum beginnt mit einem leichten
+Jucken auf dem Kopf. Und schon bald saugt
+der Parasit die Seelen getöteter Feinde auf.
+
+Mit einem Eibeseitiger kannst du es
+entfernen.</text>
+</entries>
+</fmg>

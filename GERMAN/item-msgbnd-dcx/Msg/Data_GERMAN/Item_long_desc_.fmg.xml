@@ -1,0 +1,2455 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls1</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="100">Onlinespiel-Objekt
+Hinterlässt Rufsymbol
+Anrufungen sind als Hülle nicht möglich
+
+Lass dich über dein Symbol als Phantom in
+eine andere Welt rufen und besiege den
+Gebiets-Boss, um Menschlichkeit zu erhalten.
+In Lordran ist der Lauf der Zeit gestört, und
+mithilfe des Weißen Symbol-Specksteins können
+Untote einander helfen.</text>
+<text id="101">Onlinespiel-Objekt
+Hinterlässt Invasionssymbol
+Hüllen können das Objekt nicht benutzen
+
+Lass dich als Finstergeist in eine andere
+Welt rufen, besiege den Rufer und erhalte
+Menschlichkeit.
+Einige Geister der Finsternis widersetzen
+sich dem Abstieg in die Finsternis. An sie
+richtet sich der Rote Symbol-Speckstein.</text>
+<text id="102">Onlinespiel-Objekt
+Invasion einer anderen Welt
+Wer einen Eid geleistet hat, kann das
+Objekt benutzen - Hüllen nicht.
+Besiege den Herrscher der Welt, in die du
+eingedrungen bist, um Menschlichkeit zu erhalten.
+Kaathes Geister der Finsternis verwenden
+diese Kugel, um Menschlichkeit zu finden
+und tiefer in die Finsternis abzusteigen.
+Vielleicht sind sie menschlicher als wir?</text>
+<text id="103">Der Schwarze Kristall, schon lange ein Symbol
+des Abschieds, ist reserviert für verbannte 
+Untote
+Er schickt Phantome zurück in ihre Heimat 
+- oder dich in deine
+
+Hüte dich vor wankelmütigem Umgang mit diesem
+Objekt, wenn du Beziehungen pflegen möchtest.</text>
+<text id="104">%null%</text>
+<text id="105">%null%</text>
+<text id="106">Onlinespiel-Objekt
+Nachricht verfassen/ansehen/bewerten
+
+Nachrichten werden in andere Welten
+übermittelt und dort bewertet. Du kannst
+Nachrichten Anderer ebenfalls bewerten.
+In Lordran ist der Lauf der Zeit gestört.
+Über Nachrichten können die Untoten ein-
+ander helfen oder hinters Licht führen.</text>
+<text id="107">%null%</text>
+<text id="108">Onlinespiel-Objekt
+Prüft Liste angeklagter Spieler
+
+Die Sündengöttin Velka führt die Liste der
+Schuldigen, die den Göttern oder ihren Eiden
+den Respekt verweigert haben und sich eines
+Tages dem Zorn der Finstermondklingen stellen
+müssen. </text>
+<text id="109">Onlinespiel-Objekt
+Lockt Phantome aus anderen Welten an
+Wer einen Eid geleistet hat, kann das
+Objekt benutzen - Hüllen nicht.
+Die grässlichen Augen des Todes verbreiten
+Unheil in benachbarten Welten. Werden
+Phantome in eine Welt gelockt, können sie
+dort zu Opfern werden und den Augen des Todes
+zu weiterem Wachstum verhelfen. So breitet
+sich das Verderben weiter aus.</text>
+<text id="110">%null%</text>
+<text id="111">Onlinespiel-Objekt
+Invasion einer anderen Welt
+Hüllen können das Objekt nicht benutzen
+
+Besiege den Herrscher der Welt, in die du
+eingedrungen bist, um Menschlichkeit zu
+erhalten. Mithilfe des Geborstenen Roten 
+Augapfels erhalten die Spieler vorübergehend 
+diese eigentlich nur Kaathes Geistern der
+Finsternis zustehende Fähigkeit.</text>
+<text id="112">Onlinespiel-Objekt
+Prüft Liste der Diener der Töchter des Chaos
+
+Der Eiträger Eingyi führt diese Liste all
+jener, die seiner Herrin, einer Tochter des
+Chaos, dienen. Eingyis Lob verdient sich, wer
+genug Menschlichkeit darbietet, um das Leid
+seiner Herrin zu lindern.
+Doch was ist Eingyis Lob wirklich wert?</text>
+<text id="113">Onlinespiel-Objekt
+Invasion der Welt eines Spielers im Buch der
+Schuldigen
+Wer einen Eid geleistet hat, kann das
+Objekt benutzen.
+Überwältigt Spieler für Andenken der Vergeltung
+Diese mystischen Kugeln werden Finstermond-
+klingen gewährt, jenen Rittern, die der
+Finstersonne Wendelin dienen, damit sie im
+Dienste der Götter Rache üben können.</text>
+<text id="114">Onlinespiel-Objekt
+Finde einen Spieler, der eine Drachenschuppe
+erhalten hat, dringe in seine Welt ein und plündere sie
+Wer einen Eid geleistet hat, kann das
+Objekt benutzen.
+Eine Kunst der Apostel der Transzendenz, die
+die alten Drachen anbeten. Alles Leben ist
+verwundbar, dies gilt auch für die feurigen
+Götter. Die Apostel streben nach einer
+anderen, das Leben überwindenden Seinsebene.</text>
+<text id="115">Mystische, bei der Leiche eines Hüters
+gefundene Kugel
+
+Dringe in die Welt des Mörders der
+Feuerhüterin ein, besiege den Übeltäter und
+hole die Seele der Feuerhüterin zurück.
+Das Schwarze Auge wacht stets über Anor
+Londo, die Götterstadt.</text>
+<text id="116">Dringe in die Welt des Verräters Shiva ein
+
+Dringe in Shivas Welt ein, überwältige ihn
+und hole die Chaosklinge.
+Doch das Schwarze Auge hat den Fokus
+verloren, und nun wanken seine Kräfte
+furchterfüllt. Wo mag der Verräter Shiva
+bloß stecken?</text>
+<text id="117">Das Finsterzeichen kennzeichnet verfluchte Untote.
+Jene, welche damit versehen wurden, werden nach 
+dem Tod wiedergeboren und werden eines Tages 
+ihren Verstand verlieren und zur Hülle werden
+
+Tod aktiviert das Finsterzeichen, dessen Träger es 
+zum Leuchtfeuer seiner letzten Rast zurück bringt. 
+Alle Seelen und Menschlichkeit geht dabei verloren.</text>
+<text id="118">Onlinespiel-Objekt
+Verlässt Kampf des Stoizismus
+(Spiel endet, wenn der Host das Spiel verlässt)
+
+Der Sieg in diesem Kampf führte einst ins uralte
+Anor Londo, doch selbst in Abwesenheit des
+Aufsehers ist Kapitulation ein Schande.
+Im Namen der Ehre eines Kriegers solltest
+du diesen Kristall nicht leichtfertig verwenden.</text>
+<text id="200">Untote schätzen diese unscheinbaren Flakons
+Fülle sie an Leuchtfeuern mit Estus
+- dies füllt deine TP
+
+Die Estus-Flakons stehen mit den Feuerhütern
+in Verbindung. Die Finstersagen lauten so: 
+Des Hüters Seele im Smaragd-Flakon
+Ihr Leben steht im Dienst der Flamme Schutz
+Und selbst ihr Tod dem Schutze weiter nutzt</text>
+<text id="201">Untote schätzen diese unscheinbaren Flakons
+Fülle sie an Leuchtfeuern mit Estus
+- dies füllt deine TP
+
+Die Estus-Flakons stehen mit den Feuerhütern
+in Verbindung. Die Finstersagen lauten so: 
+Des Hüters Seele im Smaragd-Flakon
+Ihr Leben steht im Dienst der Flamme Schutz
+Und selbst ihr Tod dem Schutze weiter nutzt</text>
+<text id="202">Untote schätzen diese unscheinbaren Flakons
+Fülle sie an Leuchtfeuern mit Estus
+- dies füllt deine TP
+
+Die Estus-Flakons stehen mit den Feuerhütern
+in Verbindung. Die Finstersagen lauten so: 
+Des Hüters Seele im Smaragd-Flakon
+Ihr Leben steht im Dienst der Flamme Schutz
+Und selbst ihr Tod dem Schutze weiter nutzt</text>
+<text id="203">Untote schätzen diese unscheinbaren Flakons
+Fülle sie an Leuchtfeuern mit Estus
+- dies füllt deine TP
+
+Die Estus-Flakons stehen mit den Feuerhütern
+in Verbindung. Die Finstersagen lauten so: 
+Des Hüters Seele im Smaragd-Flakon
+Ihr Leben steht im Dienst der Flamme Schutz
+Und selbst ihr Tod dem Schutze weiter nutzt</text>
+<text id="204">Untote schätzen diese unscheinbaren Flakons
+Fülle sie an Leuchtfeuern mit Estus
+- dies füllt deine TP
+
+Die Estus-Flakons stehen mit den Feuerhütern
+in Verbindung. Die Finstersagen lauten so: 
+Des Hüters Seele im Smaragd-Flakon
+Ihr Leben steht im Dienst der Flamme Schutz
+Und selbst ihr Tod dem Schutze weiter nutzt</text>
+<text id="205">Untote schätzen diese unscheinbaren Flakons
+Fülle sie an Leuchtfeuern mit Estus
+- dies füllt deine TP
+
+Die Estus-Flakons stehen mit den Feuerhütern
+in Verbindung. Die Finstersagen lauten so: 
+Des Hüters Seele im Smaragd-Flakon
+Ihr Leben steht im Dienst der Flamme Schutz
+Und selbst ihr Tod dem Schutze weiter nutzt</text>
+<text id="206">Untote schätzen diese unscheinbaren Flakons
+Fülle sie an Leuchtfeuern mit Estus
+- dies füllt deine TP
+
+Die Estus-Flakons stehen mit den Feuerhütern
+in Verbindung. Die Finstersagen lauten so: 
+Des Hüters Seele im Smaragd-Flakon
+Ihr Leben steht im Dienst der Flamme Schutz
+Und selbst ihr Tod dem Schutze weiter nutzt</text>
+<text id="207">Untote schätzen diese unscheinbaren Flakons
+Fülle sie an Leuchtfeuern mit Estus
+- dies füllt deine TP
+
+Die Estus-Flakons stehen mit den Feuerhütern
+in Verbindung. Die Finstersagen lauten so: 
+Des Hüters Seele im Smaragd-Flakon
+Ihr Leben steht im Dienst der Flamme Schutz
+Und selbst ihr Tod dem Schutze weiter nutzt</text>
+<text id="208">Untote schätzen diese unscheinbaren Flakons
+Fülle sie an Leuchtfeuern mit Estus
+- dies füllt deine TP
+
+Die Estus-Flakons stehen mit den Feuerhütern
+in Verbindung. Die Finstersagen lauten so: 
+Des Hüters Seele im Smaragd-Flakon
+Ihr Leben steht im Dienst der Flamme Schutz
+Und selbst ihr Tod dem Schutze weiter nutzt</text>
+<text id="209">Untote schätzen diese unscheinbaren Flakons
+Fülle sie an Leuchtfeuern mit Estus
+- dies füllt deine TP
+
+Die Estus-Flakons stehen mit den Feuerhütern
+in Verbindung. Die Finstersagen lauten so: 
+Des Hüters Seele im Smaragd-Flakon
+Ihr Leben steht im Dienst der Flamme Schutz
+Und selbst ihr Tod dem Schutze weiter nutzt</text>
+<text id="210">Untote schätzen diese unscheinbaren Flakons
+Fülle sie an Leuchtfeuern mit Estus
+- dies füllt deine TP
+
+Die Estus-Flakons stehen mit den Feuerhütern
+in Verbindung. Die Finstersagen lauten so: 
+Des Hüters Seele im Smaragd-Flakon
+Ihr Leben steht im Dienst der Flamme Schutz
+Und selbst ihr Tod dem Schutze weiter nutzt</text>
+<text id="211">Untote schätzen diese unscheinbaren Flakons
+Fülle sie an Leuchtfeuern mit Estus
+- dies füllt deine TP
+
+Die Estus-Flakons stehen mit den Feuerhütern
+in Verbindung. Die Finstersagen lauten so: 
+Des Hüters Seele im Smaragd-Flakon
+Ihr Leben steht im Dienst der Flamme Schutz
+Und selbst ihr Tod dem Schutze weiter nutzt</text>
+<text id="212">Untote schätzen diese unscheinbaren Flakons
+Fülle sie an Leuchtfeuern mit Estus
+- dies füllt deine TP
+
+Die Estus-Flakons stehen mit den Feuerhütern
+in Verbindung. Die Finstersagen lauten so: 
+Des Hüters Seele im Smaragd-Flakon
+Ihr Leben steht im Dienst der Flamme Schutz
+Und selbst ihr Tod dem Schutze weiter nutzt</text>
+<text id="213">Untote schätzen diese unscheinbaren Flakons
+Fülle sie an Leuchtfeuern mit Estus
+- dies füllt deine TP
+
+Die Estus-Flakons stehen mit den Feuerhütern
+in Verbindung. Die Finstersagen lauten so: 
+Des Hüters Seele im Smaragd-Flakon
+Ihr Leben steht im Dienst der Flamme Schutz
+Und selbst ihr Tod dem Schutze weiter nutzt</text>
+<text id="214">Untote schätzen diese unscheinbaren Flakons
+Fülle sie an Leuchtfeuern mit Estus
+- dies füllt deine TP
+
+Die Estus-Flakons stehen mit den Feuerhütern
+in Verbindung. Die Finstersagen lauten so: 
+Des Hüters Seele im Smaragd-Flakon
+Ihr Leben steht im Dienst der Flamme Schutz
+Und selbst ihr Tod dem Schutze weiter nutzt</text>
+<text id="215">Untote schätzen diese unscheinbaren Flakons
+Fülle sie an Leuchtfeuern mit Estus
+- dies füllt deine TP
+
+Die Estus-Flakons stehen mit den Feuerhütern
+in Verbindung. Die Finstersagen lauten so: 
+Des Hüters Seele im Smaragd-Flakon
+Ihr Leben steht im Dienst der Flamme Schutz
+Und selbst ihr Tod dem Schutze weiter nutzt</text>
+<text id="216">%null%</text>
+<text id="217">%null%</text>
+<text id="218">%null%</text>
+<text id="219">%null%</text>
+<text id="220">In den Silberanhänger ist das Wappen
+von Artorias eingraviert.
+
+Er ist ein uralter Schatz aus Anor Londo und wurde
+Artorias verliehen, weil er sich dem Abgrund stellte.
+
+Der Anhänger schützt vor der Finsternis des Abgrunds,
+besonders in ihrer magischen Form.</text>
+<text id="221">%null%</text>
+<text id="222">%null%</text>
+<text id="223">%null%</text>
+<text id="224">%null%</text>
+<text id="225">%null%</text>
+<text id="226">%null%</text>
+<text id="227">%null%</text>
+<text id="228">%null%</text>
+<text id="229">%null%</text>
+<text id="230">Ein großer, medizinischer Pilz von Elizabeth,
+Wächterin des Mausoleums.
+
+Wenn der Pilz gegessen wird, kräftigt er den Körper,
+und heilt kurzzeitig viele TP.
+
+Seine enorme Wirkung kann für einen Krieger
+den Unterschied zwischen Leben und Tod bedeuten.</text>
+<text id="231">%null%</text>
+<text id="232">%null%</text>
+<text id="233">%null%</text>
+<text id="234">%null%</text>
+<text id="235">%null%</text>
+<text id="236">%null%</text>
+<text id="237">%null%</text>
+<text id="238">%null%</text>
+<text id="239">%null%</text>
+<text id="240">Heiliges Wasser der Göttin Gwynevere
+Stellt TP vollständig wieder her und
+hebt alle Beeinträchtigungen auf
+
+Gwynevere, die Göttin des Sonnenlichts und
+Tochter des großen Seelenfürsten Gwyn, wird
+von allen als Symbol der Großzügigkeit und
+Fruchtbarkeit verehrt.</text>
+<text id="260">Grünes, blumenförmiges Kraut
+Beschleunigt vorübergehend die Ausdauer-
+Regeneration
+
+Dieses ungewöhnlich bittere und scharfe Kraut
+wird bisweilen in rauen Mengen geerntet, ist
+für gewöhnlich jedoch eine in Wassernähe
+gedeihende Einjahrespflanze.</text>
+<text id="261">%null%</text>
+<text id="262">%null%</text>
+<text id="263">%null%</text>
+<text id="264">%null%</text>
+<text id="265">%null%</text>
+<text id="266">%null%</text>
+<text id="267">%null%</text>
+<text id="268">%null%</text>
+<text id="269">%null%</text>
+<text id="270">Roter Medizinmoosklumpen
+Verringert Blutungszunahme
+
+Angriffe mit scharfen Klingen oder Stacheln
+lösen eine stetig steigende Blutung aus, was
+letztlich hohen Schaden verursachen kann.
+Nutze dieses Moos, bevor es zu spät ist.</text>
+<text id="271">Lila Medizinmoosklumpen
+Verringert Giftansammlung, heilt Vergiftungen
+
+Gift baut sich im Körper auf. Bricht es aus,
+verursacht es einen bestimmten Zeitraum lang
+allmählichen Schaden. Gift kann qualvoll sein
+- also solltest du bei Aufenthalt in einem
+betroffenen Gebiet immer die nötige Menge
+dieser Moosklumpen dabei haben.</text>
+<text id="272">Kräftiger Medizinmoosklumpen mit Blume
+Verringert Gift und Toxin, stellt Status
+wieder her
+Toxin ist eine gefährlichere Form von Gift,
+die rasch zum Tod führt.
+
+Moosklumpen ohne Blume wirken nicht gegen
+Toxin, und ein Mangel an solchen Moosklumpen
+könnte zu einem vorzeitigen Ableben führen.</text>
+<text id="273">%null%</text>
+<text id="274">Aschfarbener Stein, der Schädel enthält
+Geheimer Schatz von Arstor, Graf von Carim
+Reduziert Fluchsteigerung und hebt Flüche auf
+
+Menschen sind Flüchen gegenüber hilflos - sie
+können ihre Wirkung lediglich umlenken. Der
+Läuterungsstein hebt Flüche nicht auf, er
+zieht sie nur auf sich. Der Stein war einst
+eine Person oder ein Wesen.</text>
+<text id="275">Bittersaure Kastanie
+Entfernt ein Parasitenei aus dem Körper
+
+Die Eiträger haben sich entschieden, der
+Flamme des Chaos zu dienen. Die Eier
+symbolisieren diese selbstlose Entscheidung.
+
+Diese Kastanien sind naturgemäß verboten,
+unter bestimmten Umständen jedoch gestattet.</text>
+<text id="276">%null%</text>
+<text id="277">%null%</text>
+<text id="278">%null%</text>
+<text id="279">%null%</text>
+<text id="280">Leicht verzaubertes Goldpulver
+Repariert die in der rechten Hand
+ausgerüstete Waffe
+
+Der Einsatz einer Waffe senkt ihre
+Haltbarkeit und macht sie langsam ineffektiv.
+Da keine Reparaturkiste vonnöten ist, eignet
+sich Reparaturpulver gut dazu, im Kampf
+Reparaturen durchzuführen.</text>
+<text id="281">%null%</text>
+<text id="282">%null%</text>
+<text id="283">%null%</text>
+<text id="284">%null%</text>
+<text id="285">%null%</text>
+<text id="286">%null%</text>
+<text id="287">%null%</text>
+<text id="288">%null%</text>
+<text id="289">%null%</text>
+<text id="290">Wurfmesser
+Wird als Projektilwaffe verwendet
+
+Im Vergleich zu Pfeilen haben Wurfmesser zwar
+nur eine begrenzte Reichweite und Präzision,
+aber dafür ermöglichen sie einen raschen und
+unkomplizierten Distanzangriff.
+Untote, die über keinen Distanzangriff
+verfügen, sollten sich Wurfmesser zulegen. </text>
+<text id="291">Wurfmesser
+Mit Gift beschichtet
+
+Im Vergleich zu Pfeilen haben Wurfmesser zwar
+nur eine begrenzte Reichweite und Präzision,
+aber dafür ermöglichen sie einen raschen und
+unkomplizierten Distanzangriff.
+Wird ein Feind vergiftet, erleidet er eine
+Zeit lang fortwährend Schaden.</text>
+<text id="292">Mit schwarzem Pulver gefüllte Porzellanvase
+Explodiert und fügt Feuerschaden zu
+
+Recht mächtige Distanzwaffe, insbesondere in
+Situationen, die nach Feuerschaden verlangen.
+Auf niedrigeren Stufen ein wertvolles Objekt.
+Viele Krieger erweitern damit ihr Strategie-
+Repertoire.</text>
+<text id="293">Scheußliche Fäkalien
+Steigert, auf Feinde geworfen, ihre Toxizität
+- deine eigene allerdings auch.
+
+Einen Gegner zu toxifizieren, fügt ihm eine
+Zeit lang hohen Schaden zu, und ein Feind mit
+niedrigen TP wird rasch vergehen. Angesichts
+des Gestanks ist es allerdings nicht leicht,
+dieses Objekt mit sich zu führen.</text>
+<text id="294">Ein Schädel mit sanft wabernden Seelen
+Wird er geworfen, zerschellen die Seelen und
+werden verstreut, so dass bestimmte Feinde
+angelockt werden.
+
+Seelen sind konzentriertes Leben, und die
+lebenshungrigen Untoten werden von ihrer
+Energie geködert. Wirkt nicht bei allen
+Feinden.</text>
+<text id="295">%null%</text>
+<text id="296">Von den Ritter-Klerikern des Allvaters Lloyd
+zur Untotenjagd genutzter Talisman
+Blockiert bedingt die Estus-Regeneration
+
+In der Außenwelt gelten Untote als verflucht,
+und Lloyds Ritter-Kleriker werden wegen ihrer
+Untotenjagden gerühmt. Mit diesem gesegneten
+Talisman können sie Untote bekämpfen, ohne
+Regeneration befürchten zu müssen.</text>
+<text id="297">Schwarze, mit schwarzem Pulver gefüllte
+Porzellanurne
+Explodiert und fügt Feuerschaden zu
+
+Mächtige Distanzwaffe, insbesondere in
+Situationen, die nach Feuerschaden verlangen.
+Vor allem auf niedrigeren Stufen ein sehr
+wertvolles Objekt.
+Schwarze Feuerbomben sind besonders stark.</text>
+<text id="310">Schwarzes, kohleartiges Harz
+Fügt der Waffe der rechten Hand Feuer hinzu
+
+Die Waffe richtet kurze Zeit Feuerschaden
+an. Effektiv vor allem gegen körperliche
+Kreaturen und Untote, da sie instinktiv
+Angst vor dem Feuer haben.</text>
+<text id="311">Seltenes Harz, das goldene Funken versprüht
+Fügt der Waffe der rechten Hand Blitz hinzu
+
+Die Waffe richtet seltenen Blitzschaden an
+und kann so effektiv gegen Ziele eingesetzt
+werden, die gegen Magie und Feuer resistent
+sind. Äußerst effektiv gegen Feinde der
+Drachengattung.</text>
+<text id="312">Körperteil eines Fluchopfers
+Zeitweiliger Fluch ermöglicht Kampf gegen
+Geister
+
+Gegen Geister, also verfluchte Wesen, kann
+man nur kämpfen, wenn man selbst auch
+verflucht ist. Und die sicherste (wenn auch
+übelste) Methode, verflucht zu werden, ist
+es, einem Toten einen Körperteil abzutrennen.</text>
+<text id="313">Faules, giftig gewordenes Harz
+Fügt der Waffe der rechten Hand Gift hinzu
+
+Treffer mit dieser Waffe bauen den Giftwert
+des Feindes auf. Wird der Feind vergiftet,
+erleidet er eine Zeit lang Schaden.</text>
+<text id="314">%null%</text>
+<text id="315">%null%</text>
+<text id="330">Zu weißer Asche gewordenes Knochenstück
+Kehrt zum letzten zur Rast genutzten
+Leuchtfeuer zurück
+
+Die Knochen der Untoten nähren die
+Leuchtfeuer. In seltenen Fällen verzaubert
+der starke Wille ihrer ehemaligen Besitzer,
+Leuchtfeuer aufzusuchen, die Knochen mit dem
+Instinkt, nach Hause zurückzukehren.</text>
+<text id="350">Seltener, winziger, schwarzer, an Leichen
+gefundener Schemen
+Dafür erhältst du 1 Menschlichkeitspunkt
+
+Dieses schwarze Etwas wird Menschlichkeit
+genannt - doch über sein wahres Wesen weiß
+man wenig. Wenn die Seele der Quell allen
+Lebens ist, wodurch zeichnet sich dann
+Menschlichkeit aus?</text>
+<text id="370">Ein Kiesel, der eine herrliche Wechselaura
+aus sieben Farben und einer höchst raren
+achten Farbe verströmt
+Der Regenbogenstein ist ohne besondere
+Fähigkeiten, kann aber als Wegesmarkierung
+dienen und zur Höhenmessung von Klippen
+geworfen werden. Verursacht seine Landung
+einen lauten Knall, ist ein Sturz von der
+Klippe mit Sicherheit tödlich.</text>
+<text id="371">Aus Blech gefertigtes Fernglas
+Rückt Entferntes näher
+
+Dieses hochentwickelte Gerät wurde von
+einem berühmten Handwerker aus Astora
+gefertigt. Es hat zwar nur einen Nutzen,
+aber dafür viele Einsatzmöglichkeiten.
+Der Wert dieses Fernglases hängt wesentlich
+von der Fantasie seines Besitzers ab.</text>
+<text id="372">Vom Bischof der Sündengöttin Velka verkauftes
+Papier
+Widerruft einen Eid, ohne zu sündigen
+
+Ein Eid ist ein zutiefst heiliges Bündnis und
+für gewöhnlich nicht verhandelbar. Doch so es
+die Umstände erfordern, macht selbst Göttin
+Velka eine Ausnahme.</text>
+<text id="373">Vom Bischof der Sündengöttin Velka verkauftes
+Papier
+Wirst du von einem Eindringling getötet,
+kannst du sein Verbrechen damit melden.
+
+Der angeklagte Spieler wird einer Liste
+bedauerlicher Seelen hinzugefügt, die sich
+eines Tages dem Zorn der Finstermondklingen
+stellen müssen.</text>
+<text id="374">Blutverschmiertes Schrumpfohr
+Vom Überwältigten Schuldiger stammendes
+Andenken
+Wer die Götter verhöhnt, den strafen die
+Finstermondklingen; und nehmen dies
+als Beweis ihres Triumphs. Die ohrlosen
+Leichen bleiben zurück als Mahnung, die
+Götter zu fürchten und zu achten. Dies
+ist der ewige Wille der Finstersonne.</text>
+<text id="375">Eine Medaille mit eingraviertem Sonnensymbol
+Diese ultimative Ehrung wird jenen gewährt,
+die den Sonnenlichtkrieger herbeirufen und
+ein Ziel meistern.
+Das Symbol repräsentiert Fürst Gwyns
+Erstgeborenen, der seinen Götterstatus verlor
+und aus den Annalen getilgt wurde. Doch der
+alte Kriegsgott wacht nach wie vor penibel
+über seine Krieger.</text>
+<text id="376">Einfaches Amulett ohne Wirkung
+
+Doch auf beschwerlichen Reisen zählen
+schöne Erinnerungen besonders.</text>
+<text id="377">Von Macht der Drachen durchdrungener Stein
+Teil des Apostelrituals der alten Drachen
+Du erhältst einen Drachenkopf und verströmst
+Drachenhauch.
+Mit der Verwandlung in einen alten Drachen
+streben die Drachenapostel nach der Über-
+windung des Lebens. Dieses Ritual stellt nur
+einen der Schritte dar, und kann bis zum Tode
+nicht rückgängig gemacht werden.</text>
+<text id="378">Von Macht der Drachen durchdrungener Stein
+Teil des Apostelrituals der alten Drachen
+Du erhältst einen Drachenkörper und grollst
+wie ein Drache.
+Mit der Verwandlung in einen alten Drachen
+streben die Drachenapostel nach der Über-
+windung des Lebens. Dieses Ritual stellt nur
+einen der Schritte dar, und kann bis zum Tode
+nicht rückgängig gemacht werden.</text>
+<text id="379">%null%</text>
+<text id="380">Wertloser Abfall
+
+Wer töricht genug ist, diesen mit sich
+herumzuschleppen, sollte dringend Hilfe
+suchen.</text>
+<text id="381">Kupfermünze mit der Abbildung des Alten
+McLoyf, Gott der Medizin und des Tranks
+
+Selbst den wertvollsten Münzen der Menschen-
+welt kommt in Lordran nur geringer Wert zu,
+da man dort in Seelen bezahlt.
+Jene, die von der Rückkehr in die Außenwelt
+träumen, tragen gerne diese Münzen bei sich.</text>
+<text id="382">Silbermünze mit der Abbildung des legendären
+Ritterkönigs Rendal
+
+Selbst den wertvollsten Münzen der Menschen-
+welt kommt in Lordran nur geringer Wert zu,
+da man dort in Seelen bezahlt.
+Jene, die von der Rückkehr in die Außenwelt
+träumen, tragen gerne diese Münzen bei sich.</text>
+<text id="383">Goldmünze mit der Abbildung des Allvaters
+Lloyd und seines weißen Glorienscheins
+
+Selbst den wertvollsten Münzen der Menschen-
+welt kommt in Lordran nur geringer Wert zu,
+da man dort in Seelen bezahlt.
+Jene, die von der Rückkehr in die Außenwelt
+träumen, tragen gerne diese Münzen bei sich.</text>
+<text id="384">Eine merkwürdige Puppe mit seltsamem Kleid
+
+Ein Schrecken, der keinen Platz in dieser Welt 
+fand, klammerte sich fest an dieses Spielzeug 
+und wurde letztendlich in eine kalte, einsame 
+Welt hineingezogen.</text>
+<text id="385">Onlinespiel-Objekt
+Getrocknete Finger mit mehreren Knöcheln.
+
+Verbessert die Verbindung mit anderen Welten,
+erlaubt die Beschwörung eines dritten Phantoms,
+beschwört aber auch einen weiteren Finstergeist.
+Lässt die Beschwörung eines Finstergeists früher
+auftreten. Mit Vorsicht anzuwenden.</text>
+<text id="386">%null%</text>
+<text id="387">%null%</text>
+<text id="388">%null%</text>
+<text id="389">%null%</text>
+<text id="390">Seele der Aschemaid, der Feuerhüterin des
+Feuerband-Schreins
+
+Feuerhüterseelen ziehen Menschlichkeit an,
+und in ihrem Inneren, unter einer dünnen
+Hautschicht, wimmelt es nur so vor Mensch-
+lichkeit. Wurde die Aschemaid ob einer
+Missetat oder auf eigenen Wunsch in dieses
+finstere Verließ gesperrt?</text>
+<text id="391">Seele der Finstermondritterin, der
+Feuerhüterin von Anor Londo
+
+Feuerhüterseelen ziehen Menschlichkeit an,
+und in ihrem Inneren, unter einer dünnen
+Hautschicht, wimmelt es nur so vor Mensch-
+lichkeit. Ihre Messingrüstung dient dazu 
+ihre gespenstische Gestalt zu verbergen.</text>
+<text id="392">Seele einer Tochter des Chaos, der
+Feuerhüterin von Quelaags Sphäre
+
+Feuerhüterseelen ziehen Menschlichkeit an,
+und in ihrem Inneren, unter einer dünnen
+Hautschicht, wimmelt es nur so vor Mensch-
+lichkeit.
+Die unzähligen Eier, die auftauchten, waren
+ihr Wiegen winziger Menschlichkeit.</text>
+<text id="393">Seele einer lang vergessenen Feuerhüterin.
+Jede Feuerhüterin ist eine Verkörperung
+ihres Leuchtfeuers und zieht die ihr
+dargebotene Menschlichkeit an. Da unendliche 
+Menschlichkeit an ihrer Seele zehrt, kann 
+sie die Macht der Estus-Flakons steigern. 
+Ein verstärkter Estus-Flakon birgt dichteren 
+Estus, was eine Zunahme an regenerierten 
+TP mit sich bringt.</text>
+<text id="394">Seele einer lang vergessenen Feuerhüterin.
+Jede Feuerhüterin ist eine Verkörperung
+ihres Leuchtfeuers und zieht die ihr
+dargebotene Menschlichkeit an. Da unendliche 
+Menschlichkeit an ihrer Seele zehrt, kann 
+sie die Macht der Estus-Flakons steigern. 
+Ein verstärkter Estus-Flakon birgt dichteren 
+Estus, was eine Zunahme an regenerierten 
+TP mit sich bringt.</text>
+<text id="395">Seele einer lang vergessenen Feuerhüterin.
+Jede Feuerhüterin ist eine Verkörperung
+ihres Leuchtfeuers und zieht die ihr
+dargebotene Menschlichkeit an. Da unendliche 
+Menschlichkeit an ihrer Seele zehrt, kann 
+sie die Macht der Estus-Flakons steigern. 
+Ein verstärkter Estus-Flakon birgt dichteren 
+Estus, was eine Zunahme an regenerierten 
+TP mit sich bringt.</text>
+<text id="396">Seele einer lang vergessenen Feuerhüterin.
+Jede Feuerhüterin ist eine Verkörperung
+ihres Leuchtfeuers und zieht die ihr
+dargebotene Menschlichkeit an. Da unendliche 
+Menschlichkeit an ihrer Seele zehrt, kann 
+sie die Macht der Estus-Flakons steigern. 
+Ein verstärkter Estus-Flakon birgt dichteren 
+Estus, was eine Zunahme an regenerierten 
+TP mit sich bringt.</text>
+<text id="397">%null%</text>
+<text id="398">%null%</text>
+<text id="399">%null%</text>
+<text id="400">Seele eines verlorenen und längst zur Hülle
+gewordenen Untoten
+
+Mit ihr kannst du Seelen erhalten.
+Seelen sind der Quell allen Lebens, und
+selbst als Untoter oder gar als Hülle strebt
+ein jeder nach ihnen.</text>
+<text id="401">Seele eines verlorenen und längst zur Hülle
+gewordenen Untoten
+
+Mit ihr kannst du Seelen erhalten.
+Seelen sind der Quell allen Lebens, und
+selbst als Untoter oder gar als Hülle strebt
+ein jeder nach ihnen.</text>
+<text id="402">Seele eines verlorenen und längst zur Hülle
+gewordenen Untoten
+
+Mit ihr kannst du Seelen erhalten.
+Seelen sind der Quell allen Lebens, und
+selbst als Untoter oder gar als Hülle strebt
+ein jeder nach ihnen.</text>
+<text id="403">Seele eines verlorenen und längst zur Hülle
+gewordenen untoten Kriegers
+
+Mit ihr kannst du viele Seelen erhalten.
+Seelen sind der Quell allen Lebens, und
+selbst als Untoter oder gar als Hülle strebt
+ein jeder nach ihnen.</text>
+<text id="404">Seele eines verlorenen und längst zur Hülle
+gewordenen untoten Ritters
+
+Mit ihr kannst du viele Seelen erhalten.
+Seelen sind der Quell allen Lebens, und
+selbst als Untoter oder gar als Hülle strebt
+ein jeder nach ihnen.</text>
+<text id="405">Seele eines verlorenen und längst zur Hülle
+gewordenen untoten Ritters
+
+Mit ihr kannst du viele Seelen erhalten.
+Seelen sind der Quell allen Lebens, und
+selbst als Untoter oder gar als Hülle strebt
+ein jeder nach ihnen.</text>
+<text id="406">Seele eines ehrenwerten und längst zur Hülle
+gewordenen untoten Kriegers
+
+Mit ihr kannst du eine Menge Seelen erhalten.
+Seelen sind der Quell allen Lebens, und
+selbst als Untoter oder gar als Hülle strebt
+ein jeder nach ihnen.</text>
+<text id="407">Seele eines ehrenwerten und längst zur Hülle
+gewordenen untoten Kriegers
+
+Mit ihr kannst du eine Menge Seelen erhalten.
+Seelen sind der Quell allen Lebens, und
+selbst als Untoter oder gar als Hülle strebt
+ein jeder nach ihnen.</text>
+<text id="408">Seele eines ehrenwerten und längst zur Hülle
+gewordenen untoten Helden
+
+Mit ihr kannst du eine Menge Seelen erhalten.
+Seelen sind der Quell allen Lebens, und
+selbst als Untoter oder gar als Hülle strebt
+ein jeder nach ihnen.</text>
+<text id="409">Seele eines legendären und längst zur Hülle
+gewordenen Helden
+
+Mit ihr kannst du eine riesige Menge Seelen
+erhalten.
+Seelen sind der Quell allen Lebens, und
+selbst als Untoter oder gar als Hülle strebt
+ein jeder nach ihnen.</text>
+<text id="500">Seltener, winziger, schwarzer, an Leichen
+gefundener Schemen
+Du erhälst 1 Menschlichkeitspunkt und kannst 
+eine große Menge an TP wiederherstellen
+
+Dieses schwarze Etwas wird Menschlichkeit
+genannt - doch über sein wahres Wesen weiß
+man wenig. Wenn die Seele der Quell allen
+Lebens ist, wodurch zeichnet sich dann
+Menschlichkeit aus?</text>
+<text id="501">Seltener, winziger, schwarzer, bei Leichen
+gefundener Schemen
+Äußerst ungewöhnliche Doppel-Menschlichkeit
+Du erhälst 2 Menschlichkeitspunkte und kannst
+eine große Menge TP wiederherstellen
+
+Dieses schwarze Etwas wird Menschlichkeit
+genannt - doch über sein wahres Wesen weiß
+man wenig. Wenn die Seele der Quell allen
+Lebens ist, wodurch zeichnet sich dann
+Menschlichkeit aus?</text>
+<text id="502">%null%</text>
+<text id="503">%null%</text>
+<text id="504">%null%</text>
+<text id="505">%null%</text>
+<text id="506">%null%</text>
+<text id="507">%null%</text>
+<text id="508">%null%</text>
+<text id="509">%null%</text>
+<text id="510">Ein von Gough in Gefangenschaft aus einem
+Urbaum geschnitzte Maske. In jede Schnitzerei
+legte Gough eine Emotion, was ihm dabei half,
+seine persönliche Erleuchtung zu erlangen.
+Wenn die Maske in ihrer Ruhe gestört wird,
+spricht sie und drückt die Emotion, die in
+ihr liegt, aus.
+
+Diese Maske sagt "Hallo". Erkennst du die
+Freundlichkeit in ihren Augen?</text>
+<text id="511">Ein von Gough in Gefangenschaft aus einem
+Urbaum geschnitzte Maske. In jede Schnitzerei
+legte Gough eine Emotion, was ihm dabei half,
+seine persönliche Erleuchtung zu erlangen.
+Wenn die Maske in ihrer Ruhe gestört wird,
+spricht sie und drückt die Emotion, die in
+ihr liegt, aus.
+
+Diese Maske sagt "Danke“. Erkennst du die
+Dankbarkeit in ihren Augen?</text>
+<text id="512">Ein von Gough in Gefangenschaft aus einem
+Urbaum geschnitzte Maske. In jede Schnitzerei
+legte Gough eine Emotion, was ihm dabei half,
+seine persönliche Erleuchtung zu erlangen.
+Wenn die Maske in ihrer Ruhe gestört wird,
+spricht sie und drückt die Emotion, die in
+ihr liegt, aus.
+
+Diese Maske sagt "Sehr gut!“. Erkennst du die
+Zufriedenheit in ihren Augen?</text>
+<text id="513">Ein von Gough in Gefangenschaft aus einem
+Urbaum geschnitzte Maske. In jede Schnitzerei
+legte Gough eine Emotion, was ihm dabei half,
+seine persönliche Erleuchtung zu erlangen.
+Wenn die Maske in ihrer Ruhe gestört wird,
+spricht sie und drückt die Emotion, die in
+ihr liegt, aus.
+
+Diese Maske sagt "Verzeihung“. Erkennst du die
+Reue in ihren Augen?</text>
+<text id="514">Ein von Gough in Gefangenschaft aus einem
+Urbaum geschnitzte Maske. In jede Schnitzerei
+legte Gough eine Emotion, was ihm dabei half,
+seine persönliche Erleuchtung zu erlangen.
+Wenn die Maske in ihrer Ruhe gestört wird,
+spricht sie und drückt die Emotion, die in
+ihr liegt, aus.
+
+Diese Maske sagt "Helft mir!“. Erkennst du die
+Verzweiflung in ihren Augen?</text>
+<text id="700">Die Seele von Quelaag, einer einstmaligen
+Tochter der Hexe von Izalith, die mittler-
+weile jedoch ein Chaosdämon ist
+
+Besondere Wesen haben besondere Seelen.
+Quelaags Seele weist sämtliche Aspekte des
+Chaos auf. Mit ihr kannst du eine große Menge
+Seelen erhalten oder eine einzigartige Waffe
+fertigen.</text>
+<text id="701">Die Seele des Großen Grauen Wolfes Sif, der
+das Grab des Abgrundschreiters Artorias hütet
+
+Besondere Wesen haben besondere Seelen. Mit
+der Seele von Sif, der das göttliche Ritter-
+schwert erbte, kannst du eine große Menge
+Seelen erhalten oder eine einzigartige Waffe
+fertigen.</text>
+<text id="702">Die Seele des großen Sonnenlicht- und
+Aschefürsten Gwyn, der die Erste Flamme band
+
+Fürst Gwyn übergab den Großteil seiner Macht
+den Göttern und brannte als Asche für die
+Erste Flamme. Doch seine Seele ist außer-
+ordentlich mächtig.</text>
+<text id="703">Die Seele, die dem Eisengolem, dem Hüter
+von Sens Festung und vielfachem Heldentöter
+von Anor Londo als Kernstück dient
+
+Ursprünglich ein Knochen eines immerwährenden
+Drachens. Mit diesem Objekt kannst du eine
+große Menge Seelen erhalten oder eine einzig-
+artige Waffe fertigen.</text>
+<text id="704">Die Seele von Ornstein, dem Drachentöter-
+Ritter und Hüter der verlorenen Kathedrale
+von Anor Londo
+Besondere Wesen besitzen besondere Seelen.
+Fürst Gwyn gewährte diese Seele jenen vier
+Rittern, denen er am meisten vertraute.
+Mit diesem Objekt kannst du eine große Menge
+Seelen erhalten oder eine einzigartige Waffe
+fertigen.</text>
+<text id="705">Die Seele des mystischen, den
+Finsterwurzgarten durchflatternden
+Mondlicht-Schmetterlings
+Besondere Wesen besitzen besondere Seelen.
+Die Schmetterlings-Seele ist eine Schöpfung
+Seaths des Schuppenlosen.
+Mit diesem Objekt kannst du eine große Menge
+Seelen erhalten oder eine einzigartige Waffe
+fertigen.</text>
+<text id="706">Die Seele des Henkers Smough, des Hüters der
+verlorenen Kathedrale von Anor Londo
+
+Besondere Wesen besitzen besondere Seelen.
+Mit der Seele des schauderhaft gutgelaunten
+Henkers kannst du eine große Menge Seelen er-
+halten oder eine einzigartige Waffe fertigen.</text>
+<text id="707">Die Seele des in der gemalten Welt von
+Ariamis gefangenen Mischwesens Priscilla
+
+Besondere Wesen besitzen besondere Seelen.
+Mit der Seele dieses Mischwesens, dieser
+Antithese allen Lebens, kannst du eine große 
+Anzahl Seelen erhalten oder eine einzig-
+artige Waffe fertigen.</text>
+<text id="708">Die Seele der Finstersonne Wendelin,
+des Gottes der Finstersonne und Hüters
+des verlassenen Anor Londo
+
+Besondere Wesen besitzen besondere Seelen.
+Mit der Seele von Gwyns Letztgeborenem kannst
+du eine große Menge Seelen erhalten oder eine
+einzigartige Waffe fertigen.</text>
+<text id="709">Die Seele des weißen, geflügelten Löwen,
+der über das Mausoleum wachte und die
+Ausbreitung der Finsternis fürchtete.
+
+Der Wächter besaß auch andere Eigenschaften
+als die eines Löwen und war somit kein
+gewöhnliches Tier, sondern eher eine
+Art Dämon.</text>
+<text id="710">Die Seele des Ritters Artorias, der
+im Dienste von Fürst Gwyn stand und
+von dem Abgrund verschlungen wurde.
+
+Die Legende, der zufolge Artorias den
+Abgrund zurückgedrängt hat, ist nur
+zur Hälfte wahr.
+Es scheint, als wäre er besiegt und
+seine Ehre gerettet worden – und zwar
+von einem unbekannten Helden, der
+der wahre Bezwinger des Abgrunds ist.</text>
+<text id="711">Die Seele von Manus, dem Vater des Abgrunds.
+Diese außergewöhnliche Seele ist eine
+Ansammlung reiner Menschlichkeit.
+
+Der alte Manus war einst ein Mensch, bis
+er seine Menschlichkeit verlor und zum
+Vater des Abgrunds wurde. Auch dann noch
+suchte er ewig nach seinem zerstörten Anhänger.</text>
+<text id="800">Zur Waffenumwandlung erforderliche Glut
+Eine große Glut von hoher Qualität
+Wird von den Schmieden von Astora bearbeitet
+
+Zur Umwandlung von Standardwaffen +5.
+Ermöglicht Verstärkung auf +10.
+Eine Standardwaffe +5 kann auch zu einer
+Kruden Waffe umgewandelt werden. Krude 
+Waffen können auf +5 verstärkt werden.</text>
+<text id="801">Zur Waffenumwandlung erforderliche Glut
+Eine riesige Glut von bester Qualität
+Wird von den Schmieden von Astora bearbeitet
+
+Zur Umwandlung von Standardwaffen (+10).
+Ermöglicht Verstärkung auf +15, ähnlich den
+legendärsten Waffen.</text>
+<text id="802">Zur Waffenumwandlung erforderliche Glut
+Von Seath dem Schuppenlosen gefertigte
+Kristall-Glut, wird nur von des Riesengottes
+Schmieden bearbeitet
+Wandelt eine Standardwaffe (+10) zu einer
+Kristallwaffe um. Eine Kristallwaffe kann auf
++5 verstärkt werden. Kristallwaffen sind
+mächtig, aber zerbrechlich und irreparabel,
+wenn sie zerbrochen sind.</text>
+<text id="803">%null%</text>
+<text id="804">%null%</text>
+<text id="805">%null%</text>
+<text id="806">Zur Waffenumwandlung erforderliche Glut
+Zauber-Glut, eine Form der Magie
+Wird nur von Vinheimer Magieschmieden
+bearbeitet
+
+Wandelt Zauberwaffen (+5) um.
+Ermöglicht Verstärkung auf +10, die
+mächtigste Stufe für Zauberwaffen.</text>
+<text id="807">Zur Waffenumwandlung erforderliche Glut
+Blaue Glut, eine Form der Magie
+Wird nur von Vinheimer Magieschmieden
+bearbeitet
+Wandelt eine Zauberwaffe (+5) zu einer ver-
+zauberten Waffe um. Die verzauberte Waffe
+kann auf +5 verstärkt werden. Verzauberte Waffen
+richten Zauberschaden an und werden durch 
+Intelligenz gesteigert.</text>
+<text id="808">Zur Waffenumwandlung erforderliche Glut
+Göttliche Glut gehört der Kirche und ist
+für göttliche Schmiede bestimmt.
+Wandelt eine Standardwaffe (+5) zu einer
+göttlichen Waffe. Die göttliche Waffe
+kann auf +5 verstärkt werden.
+Göttliche Waffen eignen sich für die
+Untotenjagd. Nutze sie gegen Untote und
+die Knechte von Nekromanten. </text>
+<text id="809">Zur Waffenumwandlung erforderliche Glut
+Götter-Glut für geheime Kirchenrituale
+Für ausgewählte göttliche Schmiede bestimmt
+
+Wandelt göttliche Waffen (+5) um. Ermöglicht
+Verstärkung auf +10, ähnlich den Waffen der
+Götter.</text>
+<text id="810">Zur Waffenumwandlung erforderliche Glut
+
+Da die Kirche die verbotene dunkle Glut
+lange geheimhielt, weiß kein Schmied um
+ihre Existenz. Wandelt eine göttliche Waffe (+5) zu
+einer okkulten Waffe um. Die okkulte Waffe kann
+auf +5 verstärkt werden. Okkulte Waffen eignen
+sich für die Götterjagd und sind effektiv
+gegen ihre Anhänger und Verwandten.</text>
+<text id="811">%null%</text>
+<text id="812">Zur Waffenumwandlung erforderliche Glut
+Flammen-Glut für Rituale Neu-Londos
+Kann nur von mit alten Methoden vertrauten
+Schmieden bearbeitet werden
+
+Wandelt Feuerwaffen (+5) um.
+Ermöglicht Verstärkung auf +10, die
+mächtigste Stufe für Feuerwaffen.</text>
+<text id="813">Zur Waffenumwandlung erforderliche Glut
+
+Chaos-Glut entstammt der Stadt Izalith und
+wird nur von mit alten Methoden vertrauten
+Schmieden bearbeitet. Wandelt Feuerwaffe (+5)
+zu einer Chaoswaffe um. Die Chaoswaffe kann
+auf +5 verstärkt werden. Chaoswaffen sind mit
+Menschlichkeit verstärkte, Feuerschaden
+verursachende Dämonenwaffen.</text>
+<text id="1000">Titanitscherbe zur Waffenverstärkung
+In dieser Form wird Titanit am häufigsten
+vorgefunden
+
+Verstärkt Standardwaffen auf +5.
+Titanitscherben sind Bruchstücke der
+Legendären Schollen. Titanit wird zur
+Verstärkung in Waffen hineingeätzt.</text>
+<text id="1001">%null%</text>
+<text id="1002">%null%</text>
+<text id="1003">%null%</text>
+<text id="1004">%null%</text>
+<text id="1005">%null%</text>
+<text id="1006">%null%</text>
+<text id="1007">%null%</text>
+<text id="1008">%null%</text>
+<text id="1009">%null%</text>
+<text id="1010">Titanitscherbe zur Waffenverstärkung
+Größere Menge an Titanit
+
+Verstärkt Standardwaffen auf +10,
+Krude Waffen auf +5.
+Titanitscherben sind Bruchstücke der
+Legendären Schollen. Titanit wird zur
+Verstärkung in Waffen hineingeätzt.</text>
+<text id="1011">%null%</text>
+<text id="1012">%null%</text>
+<text id="1013">%null%</text>
+<text id="1014">%null%</text>
+<text id="1015">%null%</text>
+<text id="1016">%null%</text>
+<text id="1017">%null%</text>
+<text id="1018">%null%</text>
+<text id="1019">%null%</text>
+<text id="1020">Titanitscherbe zur Waffenverstärkung
+Grünes, mit einer Spezialkraft durch-
+tränktes Titanit
+
+Verstärkt Zauberwaffen, göttliche Waffen und
+Feuerwaffen auf +5. Titanitscherben sind Bruch-
+stücke der Legendären Schollen. Titanit wird zur
+Verstärkung in Waffen hineingeätzt.</text>
+<text id="1021">%null%</text>
+<text id="1022">%null%</text>
+<text id="1023">%null%</text>
+<text id="1024">%null%</text>
+<text id="1025">%null%</text>
+<text id="1026">%null%</text>
+<text id="1027">%null%</text>
+<text id="1028">%null%</text>
+<text id="1029">%null%</text>
+<text id="1030">Titanitbrocken zur Waffenverstärkung
+Kein Vorkommen außerhalb Lordrans
+
+Verstärkt Standardwaffen auf +14 und
+Kristallwaffen sowie Blitzwaffen auf +4.
+Seit diese Brocken in Lordran gefunden
+wurden, hat die Jagd auf die Legendären
+Schollen begonnen. Oder sind sie eventuell
+doch bloß ein Mythos?</text>
+<text id="1031">%null%</text>
+<text id="1032">%null%</text>
+<text id="1033">%null%</text>
+<text id="1034">%null%</text>
+<text id="1035">%null%</text>
+<text id="1036">%null%</text>
+<text id="1037">%null%</text>
+<text id="1038">%null%</text>
+<text id="1039">%null%</text>
+<text id="1040">Titanitbrocken zur Waffenverstärkung
+Blauem Titanit wohnt mächtige Zauber-
+energie inne
+
+Verstärkt Zauberwaffen auf +9 und verzau-
+berte Waffen auf +4. Seit diese Brocken in
+Lordran gefunden wurden, hat die Jagd auf die
+Legendären Schollen begonnen. Oder sind sie 
+eventuell doch bloß ein Mythos?</text>
+<text id="1041">%null%</text>
+<text id="1042">%null%</text>
+<text id="1043">%null%</text>
+<text id="1044">%null%</text>
+<text id="1045">%null%</text>
+<text id="1046">%null%</text>
+<text id="1047">%null%</text>
+<text id="1048">%null%</text>
+<text id="1049">%null%</text>
+<text id="1050">Titanitbrocken zur Waffenverstärkung
+Weißem Titanit wohnt mächtige Wunder-
+energie inne
+
+Verstärkt göttliche Waffen auf +9 und
+okkulte Waffen auf +4. Seit diese Brocken in
+Lordran gefunden wurden, hat die Jagd auf die
+Legendären Schollen begonnen. Oder sind sie 
+eventuell doch bloß ein Mythos?</text>
+<text id="1051">%null%</text>
+<text id="1052">%null%</text>
+<text id="1053">%null%</text>
+<text id="1054">%null%</text>
+<text id="1055">%null%</text>
+<text id="1056">%null%</text>
+<text id="1057">%null%</text>
+<text id="1058">%null%</text>
+<text id="1059">%null%</text>
+<text id="1060">Titanitbrocken zur Waffenverstärkung
+Rotem Titanit wohnt mächtige Feuer-
+energie inne
+
+Verstärkt Feuerwaffen auf +9 und Chaoswaffen
+auf +4. Seit diese Brocken in Lordran gefunden
+wurden, hat die Jagd auf die Legendären
+Schollen begonnen. Oder sind sie eventuell
+doch bloß ein Mythos?</text>
+<text id="1061">%null%</text>
+<text id="1062">%null%</text>
+<text id="1063">%null%</text>
+<text id="1064">%null%</text>
+<text id="1065">%null%</text>
+<text id="1066">%null%</text>
+<text id="1067">%null%</text>
+<text id="1068">%null%</text>
+<text id="1069">%null%</text>
+<text id="1070">Titanitscholle zur Waffenverstärkung
+Die Legendären Schollen gehörten den Göttern.
+Verstärkt Standardwaffen auf +15 und Kristall- 
+und Blitzwaffen auf +5.
+Diese Schollen wurden von einem unbekannten
+Schmiedegott vererbt, der die Waffen der
+anderen Götter schmiedete. Mit dieser Scholle
+geschmiedete Waffen werden zu seltenen
+legendären Waffen.</text>
+<text id="1071">%null%</text>
+<text id="1072">%null%</text>
+<text id="1073">%null%</text>
+<text id="1074">%null%</text>
+<text id="1075">%null%</text>
+<text id="1076">%null%</text>
+<text id="1077">%null%</text>
+<text id="1078">%null%</text>
+<text id="1079">%null%</text>
+<text id="1080">Blaue Titanitscholle zur Waffenverstärkung
+Die Legendären Schollen gehörten den Göttern
+Verstärkt Zauberwaffen auf +10 und verzauberte 
+Waffen auf +5.
+Diese Schollen wurden von einem unbekannten
+Schmiedegott vererbt, der die Waffen der
+anderen Götter schmiedete. Mit dieser Scholle
+geschmiedete Waffen werden zu seltenen
+legendären Waffen.</text>
+<text id="1081">%null%</text>
+<text id="1082">%null%</text>
+<text id="1083">%null%</text>
+<text id="1084">%null%</text>
+<text id="1085">%null%</text>
+<text id="1086">%null%</text>
+<text id="1087">%null%</text>
+<text id="1088">%null%</text>
+<text id="1089">%null%</text>
+<text id="1090">Weiße Titanitscholle zur Waffenverstärkung
+Die Legendären Schollen gehörten den Göttern
+Verstärkt göttliche Waffen auf +10 und okkulte 
+Waffen auf +5.
+Diese Schollen wurden von einem unbekannten
+Schmiedegott vererbt, der die Waffen der
+anderen Götter schmiedete. Mit dieser Scholle
+geschmiedete Waffen werden zu seltenen
+legendären Waffen.</text>
+<text id="1091">%null%</text>
+<text id="1092">%null%</text>
+<text id="1093">%null%</text>
+<text id="1094">%null%</text>
+<text id="1095">%null%</text>
+<text id="1096">%null%</text>
+<text id="1097">%null%</text>
+<text id="1098">%null%</text>
+<text id="1099">%null%</text>
+<text id="1100">Rote Titanitscholle zur Waffenverstärkung
+Die Legendären Schollen gehörten den Göttern
+Verstärkt Feuerwaffen auf +10 und Chaoswaffen 
+auf +5.
+Diese Schollen wurden von einem unbekannten
+Schmiedegott vererbt, der die Waffen der
+anderen Götter schmiedete. Mit dieser Scholle
+geschmiedete Waffen werden zu seltenen
+legendären Waffen.</text>
+<text id="1101">%null%</text>
+<text id="1102">%null%</text>
+<text id="1103">%null%</text>
+<text id="1104">%null%</text>
+<text id="1105">%null%</text>
+<text id="1106">%null%</text>
+<text id="1107">%null%</text>
+<text id="1108">%null%</text>
+<text id="1109">%null%</text>
+<text id="1110">Stein zur Verstärkung von Drachenwaffen
+Von einem alten Drachen abgeschält
+
+Der Drachenstein entstammt den Brust-Schuppen
+eines Drachen. Die Transzendenz-Apostel, die
+die Ewigkeit der alten Drachen anstreben,
+haben auf der Suche nach diesem unermesslich
+wertvollen Schatz die gesamte Welt bereist.</text>
+<text id="1111">%null%</text>
+<text id="1112">%null%</text>
+<text id="1113">%null%</text>
+<text id="1114">%null%</text>
+<text id="1115">%null%</text>
+<text id="1116">%null%</text>
+<text id="1117">%null%</text>
+<text id="1118">%null%</text>
+<text id="1119">%null%</text>
+<text id="1120">Vom Titanit-Dämon, einem gesichtslosen
+Steinmonster, gestohlenes Spezial-Titanit
+
+Als der unbekannte Schmiedegott dahinschied,
+erwuchsen aus mehreren Schollen riesige
+Monster. Die Macht des Titanits wohnt nach
+wie vor in ihnen, und sie streifen noch
+heute durch Lordran.</text>
+<text id="1121">%null%</text>
+<text id="1122">%null%</text>
+<text id="1123">%null%</text>
+<text id="1124">%null%</text>
+<text id="1125">%null%</text>
+<text id="1126">%null%</text>
+<text id="1127">%null%</text>
+<text id="1128">%null%</text>
+<text id="1129">%null%</text>
+<text id="1130">Dieses Waffen verstärkende Titanit ist von
+besonders mächtiger Energie durchdrungen
+
+Verstärkt Waffen, die sonst nicht verstärkt
+werden können, auf +5.
+Dieses Titanit hat, nachdem es von seiner
+Scholle abgeschält wurde, angeblich eine
+Spezialkraft erhalten, deren Wesen jedoch
+im Dunklen liegt. </text>
+<text id="2001">Öffnet einen schmalen Durchgang, der dich 
+unter der großen Brücke hindurch in die untere 
+Stadt der Untoten führt
+
+Die untere Stadt der Untoten ist ein tückischer 
+Ort. Wende den gerissenen Dieben oder den wilden 
+Hunden, die dem Ziegendämon dienen, niemals 
+deinen Rücken zu.</text>
+<text id="2002">Dieses Wappen öffnet eine von uralter Magie
+versiegelte Tür im Finsterwurzgarten
+
+Die Tür führt zum Grab von Sir Artorias, dem
+Abgrundschreiter. Viele zogen schon aus, das
+Grab zu suchen, doch keiner kehrte zurück
+- sie waren leichte Beute für Banditen. Das
+Wappen kann daher in der Hand Unerfahrener
+mehr schaden als nutzen.</text>
+<text id="2003">Schlüssel für den hängenden Käfig in
+Sens Festung
+
+Wenn ein unbesonnener Abenteurer im Versuch,
+die Festung zu erstürmen, erschöpft, werden
+ihn die Schlangenmänner nicht töten, sondern
+in einen Käfig sperren. Und wenn sie ihn
+nicht vergessen, verschleppen sie ihn später
+an einen unbekannten Ort.</text>
+<text id="2004">Schlüssel zur Zelle im Archivturm des Herzogs
+
+Der Turm barg einst eine Sammlung wertvoller
+Werke und Briefe, wurde aber nach Ausbruch
+von Seaths Wahnsinn als Kerker genutzt. Die
+dort wachenden Schlangenmänner ahnen nichts
+von diesen Schätzen. Im Keller des Turms hau-
+sen die gepeinigten "Fehler" der schreckli-
+chen Experimente, die hier ausgeführt wurden.</text>
+<text id="2005">Schlüssel zur riesigen Tür des Archivturms,
+der jetzt als Kerker fungiert
+
+Der Schlüssel sieht nicht aus wie ein
+Gefängnisschlüssel, weil der Turm früher kein
+Kerker war, sondern eine Sammlung wertvoller
+Werke enthielt.</text>
+<text id="2006">Schlüssel zur riesigen Zelle unterhalb des
+Archivturms des Herzogs
+
+Dort wurden einst unzählige Maiden gefangen
+gehalten, aber bis auf ein paar bedeutende
+Personen steht sie nun leer. Sie versuchen,
+sich dem Wahnsinn zu entziehen, während die
+zahlreichen "Fehler" in beunruhigender Nähe
+vor sich hinsiechen.</text>
+<text id="2007">Schlüssel zur Schandstadt aus den Tiefen der
+Stadt der Untoten, der von dem Klaffdrachen
+verschluckt wurde
+
+Die Schandstadt ist ein widerwärtiger Ort
+und selbst die Bewohner der Tiefen fürchten
+ihre Gefahren. In der Hoffnung, die Gefahren
+wegsperren zu können und in Sicherheit zu
+leben, haben sie dieses mächtige Tor gebaut.</text>
+<text id="2008">Schlüssel zum Öffnen der Eisengitter zwischen
+den Ruinen von Neu-Londo und des Drachentals
+
+Die Ruinen von Neu-Londo wurden versiegelt,
+um die dort lebenden verfluchten Geister weg-
+zusperren, die eine Bedrohung für Leib und
+Seele darstellen. Der Legende nach soll dort
+eine schreckliche Finsternis existieren.</text>
+<text id="2009">Schlüssel für den Anbau der Gemalten Welt 
+von Ariamis
+
+In der winterlichen Gemalten Welt ist eine Struktur 
+in Form einer alten Kathedrale. Ihr Anbau dient 
+als eine Art Speicher.</text>
+<text id="2010">Schlüssel zum Kerker des Nördlichen Asyls
+der Untoten
+
+Ein mysteriöser Ritter hat einst wortlos eine
+Leiche in die Zelle geworfen, die den Schlüs-
+sel bei sich führte. Wer war dieser Ritter?
+Und welchem Zweck diente er? Vielleicht wird
+die Wahrheit verborgen bleiben, aber das darf
+den Lauf der Dinge nicht aufhalten.</text>
+<text id="2011">Schlüssel zur inneren Tür der Haupthalle des
+Asyls der Untoten, der einem auserwählten
+Untoten-Pilger gehörte
+
+Allerdings weiß dieser auserwählte Untote nicht, was ihn
+auf seiner Pilgerreise erwarten wird.</text>
+<text id="2012">Schlüssel zum Öffnen der Eisengitter auf der
+Ostseite der zweiten Ebene des Nördlichen
+Asyls der Untoten
+
+Das Asyl der Untoten ist ein riesiges Unter-
+grund-Gefängnis, unterteilt durch zahlreiche
+Eisengitter. Selbst wenn ein Untoter seiner
+Zelle entkäme, wäre er noch weit entfernt von
+der freiheits-verheißenden Außenwelt.</text>
+<text id="2013">Schlüssel zu den Fluttoren von Neu-Londo,
+mit dem die der Finsternis verfallenen
+Vier Könige weggesperrt wurden
+Als die Intelligenzija einst in Neu-Londo
+eindrang und die Geister der Finsternis und
+die Vier Könige wegsperrte, wurden bewusst
+die blühende Kultur der Stadt und zahlreiche
+Leben vernichtet, die nun als Geister durch
+die Ruinen streunen.</text>
+<text id="2014">Schlüssel für die Tür vom unteren Teil der
+Stadt der Untoten zu den Tiefen
+
+Die aus der Stadt der Untoten Verbannten,
+fristen jetzt ihr Dasein in den Tiefen
+- einem feuchten und gefährlichen Höhlen-
+labyrinth ohne jegliches Sonnenlicht.</text>
+<text id="2015">Schlüssel für den Aufzug zu den Ruinen
+von Neu-Londo im Untergeschoss des
+Feuerbandschreins
+
+Die Ruinen von Neu-Londo wurden versiegelt,
+um die dort lebenden verfluchten Geister weg-
+zusperren, die eine Bedrohung für Leib und
+Seele darstellen. Der Legende nach soll dort
+eine schreckliche Finsternis existieren.
+</text>
+<text id="2016">Schlüssel zum Öffnen der Eisengitter auf der
+Westseite der zweiten Ebene des Nördlichen
+Asyls der Untoten
+
+Das Asyl der Untoten ist ein riesiges Unter-
+grund-Gefängnis, unterteilt durch zahlreiche
+Eisengitter. Selbst wenn ein Held in Lordran
+den Schlüssel finden würde, um dem Kerker zu
+entkommen, käme er jemals zurück?</text>
+<text id="2017">Der Zweck dieses Schlüssels ist unbekannt
+
+Es scheint sich um einen einfachen
+Gefängniszellen-Schlüssel zu handeln.</text>
+<text id="2018">Schlüssel zur Kanalkammer in den Tiefen
+
+In jeder Gesellschaft gibt es ein paar
+ebenso schwarze wie gierige Schafe. Würden
+sie bekehrt, wenn sie als Untote in die
+Tiefen verbannt würden?
+Verwende den Schlüssel und finde es heraus.</text>
+<text id="2019">Schlüssel zum Untergeschoss des Wachturms
+in der Stadt der Untoten
+
+Das Untergeschoss des Wachturms besteht aus
+einer Steinzelle. Gerüchten zufolge soll sich
+hier ein Held in eine Hülle verwandelt haben,
+nachdem er von einem guten Freund hier einge-
+sperrt wurde. Zu seinem Besten versteht sich.</text>
+<text id="2020">Extra Schlüssel für eine Zelle im Archivturm 
+des Herzogs
+
+Eventuell waren die Schlangenmenschen 
+unachtsam, denn es gibt mehrere einzelne 
+Schlüssel, welche zu den Archivturm-
+Zellen passen.</text>
+<text id="2021">Schlüssel zu einem Anwesen in der Stadt der 
+Untoten
+
+Das einfache, robuste Aussehen der Schlösser 
+in der Stadt hält unerwünschte Besucher fern.
+Aber dies ist ein Standard-Schlüssel, welcher 
+sämtliche Anwesen öffnen wird.</text>
+<text id="2022">Verbogener Wappenschlüssel
+
+Die Kerben des Wappens sind verwunschen,
+und die Tür mit einem mächtigen Zauber versiegelt.</text>
+<text id="2100">Dieser Generalschlüssel öffnet jedes
+einfache Schloss - das Lieblingswerkzeug
+der Diebe
+
+Aber im verfluchten Land der Untoten sollten
+die meisten Türen besser geschlossen bleiben.</text>
+<text id="2200">%null%</text>
+<text id="2500">Seele des Grabesfürsten Nito, der erste der
+Toten
+Diese Fürstenseele wurde zu Beginn des
+Zeitalters des Feuers entdeckt.
+Grabesfürst Nito beherrscht den Tod aller
+Wesen und die Macht dieser Seele ist groß
+genug, um das Herrschergefäß zu sättigen
+- obwohl schon ein großer Teil der Energie
+dem Tode geopfert wurde.</text>
+<text id="2501">Seele der Hexe von Izalith, die vom
+Chaoswesen verzehrt wurde
+
+Diese Fürstenseele wurde zu Beginn des Zeitalters
+des Feuers entdeckt. Die Hexe versuchte die Erste
+Flamme mithilfe einer Seele zu duplizieren, erschuf
+aber ein Chaos- und Feuerwesen. Seine Macht schuf 
+eine Lebensgrundlage für alle Dämonen und kann das
+Herrschergefäß vollständig sättigen.</text>
+<text id="2502">Seele eines der Vier Könige, der der
+Finsternis verfiel
+Dieses Fürstenseelenfragment wurde zu
+Beginn des Zeitalters des Feuers entdeckt.
+Fürst Gwyn erkannte die Umsicht der vier
+großen Anführer von Neu-Londo und gewährte
+ihnen Ränge und die Fragmente einer großen
+Seele. Es ist zwar nur ein Seelenbruchstück,
+sättigt aber dennoch das Herrschergefäß.</text>
+<text id="2503">Seele von Seath dem Schuppenlosen
+
+Dieses Fürstenseelenfragment wurde zu
+Beginn des Zeitalters des Feuers entdeckt.
+Seath hatte sich mit Fürst Gwyn gegen die
+Drachen verbündet und dafür den Adelstitel
+eines Herzogs und das Fragment einer großen
+Seele erhalten. Es ist nur ein Bruchstück,
+sättigt aber dennoch das Herrschergefäß.</text>
+<text id="2504">Dämonenflamme 5</text>
+<text id="2505">%null%</text>
+<text id="2506">%null%</text>
+<text id="2507">%null%</text>
+<text id="2508">%null%</text>
+<text id="2509">%null%</text>
+<text id="2510">Dieses Herrschergefäß wird dem auserwählten
+Untoten überreicht, der Fürst Gwyn beerbt.
+Dem auserwählten Untoten wird die Kunst des
+Teleports zwischen den Leuchtfeuern gewährt.
+
+Um die letzte Tür zu öffnen, stelle das 
+Gefäß auf den Feuerbandschrein-Altar und 
+fülle es mit mächtigen Seelen.</text>
+<text id="2511">%null%</text>
+<text id="2512">%null%</text>
+<text id="2513">%null%</text>
+<text id="2514">%null%</text>
+<text id="2515">%null%</text>
+<text id="2516">%null%</text>
+<text id="2517">%null%</text>
+<text id="2518">%null%</text>
+<text id="2519">%null%</text>
+<text id="2520">Eine Hälfte eines zerbrochenen Steinanhängers.
+Die Rebe scheint aus Oolacile zu stammen.
+
+Eine mächtige Magie entströmt diesem uralten Stein, 
+doch können die heutigen Menschen ihre Macht, die
+eine ausgeprägte Note von Ehrfurcht und Nostalgie in
+sich trägt, weder nutzen noch spüren.</text>
+<text id="2600">Mit diesem Werkzeug kann man aus Titanit
+Waffenverstärkungen herstellen
+
+Zum Verstärken einer Waffe muss man eine
+Rast an einem Leuchtfeuer einlegen.</text>
+<text id="2601">Mit diesem Werkzeug kann man aus Titanit
+Rüstungsverstärkungen herstellen
+
+Zum Verstärken einer Rüstung muss man eine
+Rast an einem Leuchtfeuer einlegen.</text>
+<text id="2602">Spezialmörser zum Zermahlen von Reparatur-
+pulver für die Reparatur von Waffen und
+Rüstung
+
+Zum Reparieren von Waffen und Rüstungen muss
+man eine Rast an einem Leuchtfeuer einlegen.
+Das Reparaturpulver ist empfindlich und kann
+nicht lange verwahrt werden.</text>
+<text id="2603">%null%</text>
+<text id="2604">%null%</text>
+<text id="2605">%null%</text>
+<text id="2606">%null%</text>
+<text id="2607">Die Kunst, Menschlichkeit darzubieten, um
+Leuchtfeuer zu entfachen und zusätzliches
+Estus aufzusammeln.
+Entfachen war ein heiliger Ritus der
+Kleriker, doch Untote können den Vorgang
+nachahmen, so wie sie ihre Aushöhlung mittels
+Menschlichkeit umkehren können. Wie seltsam,
+dass Menschen ihre Menschlichkeit erst als
+Untote zu schätzen wissen.</text>
+<text id="2608">Eine seltsame Holzkiste ohne Boden und
+unbekannter Herkunft. Sie gilt einigen als
+Symbol entfesselter Habgier.
+
+Die Kiste kann eine unbegrenzte Anzahl Gegen-
+stände aufnehmen, die während einer Rast am
+Leuchtfeuer verwaltet werden können.</text>
+<text id="2609">%null%</text>
+<text id="3000">Elementarzauber
+Schießt Seelenpfeil ab
+
+Seelenpfeile verursachen Zauberschaden.
+Sie sind wirkungsvoll gegen Eisenrüstungen,
+harte Schuppen und andere physisch
+robuste Materialien.</text>
+<text id="3001">%null%</text>
+<text id="3002">%null%</text>
+<text id="3003">%null%</text>
+<text id="3004">%null%</text>
+<text id="3005">%null%</text>
+<text id="3006">%null%</text>
+<text id="3007">%null%</text>
+<text id="3008">%null%</text>
+<text id="3009">%null%</text>
+<text id="3010">Verbesserte Version von Seelenpfeil
+Schießt einen starken Seelenpfeil ab
+
+In der Drachenschule von Vinheim symbolisiert
+der Erwerb dieses Zaubers die Krönung eines
+Lehrlings als Zauberer.</text>
+<text id="3011">%null%</text>
+<text id="3012">%null%</text>
+<text id="3013">%null%</text>
+<text id="3014">%null%</text>
+<text id="3015">%null%</text>
+<text id="3016">%null%</text>
+<text id="3017">%null%</text>
+<text id="3018">%null%</text>
+<text id="3019">%null%</text>
+<text id="3020">Kraft verstärkender Seelenzauber
+Schießt einen schweren Seelenpfeil ab
+
+Ein mächtigerer, aber langsamerer Zauber.
+Aufgrund langer Abklingzeit und begrenzter
+Anwendungszahl schwierig zu gebrauchen.</text>
+<text id="3021">%null%</text>
+<text id="3022">%null%</text>
+<text id="3023">%null%</text>
+<text id="3024">%null%</text>
+<text id="3025">%null%</text>
+<text id="3026">%null%</text>
+<text id="3027">%null%</text>
+<text id="3028">%null%</text>
+<text id="3029">%null%</text>
+<text id="3030">Verbesserte Version von Schwerer Seelenpfeil
+Schießt einen starken schweren Seelenpfeil ab
+
+Ähnlich schwierig zu gebrauchen wie Schwere
+Seelenpfeile, aber lohnend aufgrund seiner
+Macht. Beliebt bei bestimmten Zauberern.</text>
+<text id="3031">%null%</text>
+<text id="3032">%null%</text>
+<text id="3033">%null%</text>
+<text id="3034">%null%</text>
+<text id="3035">%null%</text>
+<text id="3036">%null%</text>
+<text id="3037">%null%</text>
+<text id="3038">%null%</text>
+<text id="3039">%null%</text>
+<text id="3040">Von Spitzhut Logan entwickelter Zauber
+Schießt eine Zielflug-Seelenmasse ab
+
+Das Leben gründet in der Seele. Kein Wunder
+also, dass die Seelenmasse von ihm angezogen
+wird. Dieser Zauber gewährt einen Einblick in
+die Methoden des Suchers Logan.</text>
+<text id="3041">%null%</text>
+<text id="3042">%null%</text>
+<text id="3043">%null%</text>
+<text id="3044">%null%</text>
+<text id="3045">%null%</text>
+<text id="3046">%null%</text>
+<text id="3047">%null%</text>
+<text id="3048">%null%</text>
+<text id="3049">%null%</text>
+<text id="3050">Vom Wissen, das Logan im Königlichen Archiv
+gewann, verstärkter Zauber
+Schießt eine Zielflug-Kristall-Seelenmasse ab
+
+Die Geheimnisse der Seelen, der Kristalle und
+der Zauberei sind untrennbar miteinander
+verwoben.</text>
+<text id="3051">%null%</text>
+<text id="3052">%null%</text>
+<text id="3053">%null%</text>
+<text id="3054">%null%</text>
+<text id="3055">%null%</text>
+<text id="3056">%null%</text>
+<text id="3057">%null%</text>
+<text id="3058">%null%</text>
+<text id="3059">%null%</text>
+<text id="3060">Von Spitzhut Logan entwickelter Zauber
+Schleudert einen durchbohrenden Seelenspeer
+
+Dieser Seelenspeer ist ein Symbol von Logans
+Stärke und wird in den Legenden vielerorts
+erwähnt. Es heißt, er sei Fürst Gwyns Blitz
+ebenbürtig.</text>
+<text id="3061">%null%</text>
+<text id="3062">%null%</text>
+<text id="3063">%null%</text>
+<text id="3064">%null%</text>
+<text id="3065">%null%</text>
+<text id="3066">%null%</text>
+<text id="3067">%null%</text>
+<text id="3068">%null%</text>
+<text id="3069">%null%</text>
+<text id="3070">Vom Wissen, das Logan im Königlichen Archiv
+gewann, verstärkter Zauber
+Schleudert stechenden Kristall-Seelenspeer
+
+Diese bleichen, durch Kristallisierung
+geschärften Zauberspeere sind der Rüstung
+der alten Fürsten ebenbürtig.</text>
+<text id="3100">Zauber für Schwerter führende Wirker
+Magiestärkung: Rechte Waffe
+
+Die Macht der magischen Schwertkämpfer
+von Vinheim gründet neben dem Zauberschild
+auch auf diesem Zauber. Für viele Krieger ist
+er der Grund, die Zauberei zu erlernen.</text>
+<text id="3101">%null%</text>
+<text id="3102">%null%</text>
+<text id="3103">%null%</text>
+<text id="3104">%null%</text>
+<text id="3105">%null%</text>
+<text id="3106">%null%</text>
+<text id="3107">%null%</text>
+<text id="3108">%null%</text>
+<text id="3109">%null%</text>
+<text id="3110">Verbesserte Version von Zauberwaffe
+Große Magiestärkung: Rechte Waffe
+
+In der Drachenschule von Vinheim ist es nur
+Schwertkämpfern mit Spezialauftrag gestattet,
+diesen Zauber, der diversen Waffen mächtige
+Kräfte verleiht, zu erlernen.</text>
+<text id="3111">%null%</text>
+<text id="3112">%null%</text>
+<text id="3113">%null%</text>
+<text id="3114">%null%</text>
+<text id="3115">%null%</text>
+<text id="3116">%null%</text>
+<text id="3117">%null%</text>
+<text id="3118">%null%</text>
+<text id="3119">%null%</text>
+<text id="3120">Vom Wissen, das Logan im Königlichen Archiv
+gewann, verstärkter Zauber
+Große Magie + Kristallisierung: Rechte Waffe
+
+Logans Versuche erwiesen sich als erfolg-
+reich, und das Kristallmedium schuf eine
+stärkere Verbindung von Waffe und Seele.</text>
+<text id="3300">Zauber für Schwerter führende Wirker
+Magiestärkung: Linker Schild
+
+Durch Magie verstärkte Schilder halten
+Zauberangriffen stand und sind stabiler.
+Dieser Zauber ermöglicht es, mächtige Gegner
+auch mit kleinem Schild herauszufordern.</text>
+<text id="3301">%null%</text>
+<text id="3302">%null%</text>
+<text id="3303">%null%</text>
+<text id="3304">%null%</text>
+<text id="3305">%null%</text>
+<text id="3306">%null%</text>
+<text id="3307">%null%</text>
+<text id="3308">%null%</text>
+<text id="3309">%null%</text>
+<text id="3310">Verbesserte Version von Zauberschild
+Große Magiestärkung: Linker Schild
+
+In der Drachenschule von Vinheim ist es nur
+Schwertkämpfern mit Spezialauftrag gestattet,
+diesen Zauber, der Großschilden vorüber-
+gehende Stärke verleiht, zu erlernen.</text>
+<text id="3400">Uralter Zauber des verlorenen Landes Oolacile
+Macht rechte Waffe unsichtbar
+
+Keine einfache Verstärkung. Ihre Wirkung
+hängt vom Talent des Wirkers ab. Ein Beispiel
+für die Fähigkeit der Oolacile-Zauberei,
+Licht zu kontrollieren.</text>
+<text id="3401">%null%</text>
+<text id="3402">%null%</text>
+<text id="3403">%null%</text>
+<text id="3404">%null%</text>
+<text id="3405">%null%</text>
+<text id="3406">%null%</text>
+<text id="3407">%null%</text>
+<text id="3408">%null%</text>
+<text id="3409">%null%</text>
+<text id="3410">Uralter Zauber des verlorenen Landes Oolacile
+Macht Körper beinahe unsichtbar
+
+Vollständige Unsichtbarkeit lässt sich auf-
+grund der Risiken zwar nicht erreichen, aber
+der Wirker muss nur einen Moment stillstehen,
+um mit der Umgebung zu verschmelzen.</text>
+<text id="3500">Uralter Zauber des verlorenen Landes Oolacile
+Wirft grelles Licht auf Umgebung
+
+Dieser Licht verströmende Zauber ist zwar
+elementar, aber dennoch ein Beweis für die
+Errungenschaften der Oolacile-Mystik. Solche
+Zauber hat nicht einmal Vinheim entwickelt.</text>
+<text id="3501">%null%</text>
+<text id="3502">%null%</text>
+<text id="3503">%null%</text>
+<text id="3504">%null%</text>
+<text id="3505">%null%</text>
+<text id="3506">%null%</text>
+<text id="3507">%null%</text>
+<text id="3508">%null%</text>
+<text id="3509">%null%</text>
+<text id="3510">Von einem verstohlenen Zauberer der Drachen-
+schule von Vinheim entwickelter Zauber
+Verbirgt alle Geräusche des Wirkenden
+
+Vinheim steht unter der Kontrolle der
+Drachenschule. Und so überrascht es nicht,
+dass es dort auch düstere Geheimnisse gibt.</text>
+<text id="3511">%null%</text>
+<text id="3512">%null%</text>
+<text id="3513">%null%</text>
+<text id="3514">%null%</text>
+<text id="3515">%null%</text>
+<text id="3516">%null%</text>
+<text id="3517">%null%</text>
+<text id="3518">%null%</text>
+<text id="3519">%null%</text>
+<text id="3520">Von verspielten Zauberern verwendeter Zauber
+Lockt Feinde von dir weg, indem er ein Geräusch 
+in der Ferne produziert
+
+Für seriöse Zauberer ist dieser Zauber nicht
+die erste Wahl. Aber er zeichnet sich durch
+überraschende Anwendungen aus, von denen
+einige sogar sehr effektiv sind.</text>
+<text id="3521">%null%</text>
+<text id="3522">%null%</text>
+<text id="3523">%null%</text>
+<text id="3524">%null%</text>
+<text id="3525">%null%</text>
+<text id="3526">%null%</text>
+<text id="3527">%null%</text>
+<text id="3528">%null%</text>
+<text id="3529">%null%</text>
+<text id="3530">Uralter Zauber des verlorenen Landes Oolacile
+Repariert ausgerüstete Waffen und Rüstung
+
+Dieser Zauber war in Oolacile einst
+alltäglich. Sein Effekt ähnelt dem Waffen-
+reparaturpulver, das man offenbar auch in
+diesem untergegangenen Reich kannte.</text>
+<text id="3531">%null%</text>
+<text id="3532">%null%</text>
+<text id="3533">%null%</text>
+<text id="3534">%null%</text>
+<text id="3535">%null%</text>
+<text id="3536">%null%</text>
+<text id="3537">%null%</text>
+<text id="3538">%null%</text>
+<text id="3539">%null%</text>
+<text id="3540">Von einem verstohlenen Zauberer der Drachen-
+schule von Vinheim entwickelter Zauber.
+Verringert Schaden und Geräusche durch Sturz.
+
+Dieser Zauber sowie "Stille" sind der Grund,
+weshalb es so außerordentlich teuer ist,
+Spione in Vinheim anzuheuern.</text>
+<text id="3541">%null%</text>
+<text id="3542">%null%</text>
+<text id="3543">%null%</text>
+<text id="3544">%null%</text>
+<text id="3545">%null%</text>
+<text id="3546">%null%</text>
+<text id="3547">%null%</text>
+<text id="3548">%null%</text>
+<text id="3549">%null%</text>
+<text id="3550">Uralter Zauber des verlorenen Landes Oolacile
+Verwandelt den Wirker in etwas Unauffälliges
+
+Ein weiterer Tarnzauber neben dem
+Verborgenen Körper. Fähige Tarnzauberer
+müssen sich ihrer Umgebung und der Objekte,
+die als Tarnung dienen können, bewusst sein.</text>
+<text id="3600">Zauber des rotgekleideten Heilers Ingward,
+Hüter des Siegels in Neu-Londo
+Opfert Menschlichkeit zur Fluch-Aufhebung
+
+Wem abscheuliche Flüche am Wesen nagen,
+der muss sich von seinen Flüchen reinigen
+- was wahrlich keine leichte Aufgabe ist.</text>
+<text id="3601">%null%</text>
+<text id="3602">%null%</text>
+<text id="3603">%null%</text>
+<text id="3604">%null%</text>
+<text id="3605">%null%</text>
+<text id="3606">%null%</text>
+<text id="3607">%null%</text>
+<text id="3608">%null%</text>
+<text id="3609">%null%</text>
+<text id="3610">Zauber des rotgekleideten Heilers Ingward,
+Hüter des Siegels in Neu-Londo
+Reduziert Blutungen und Ansammlungen von
+Giften und hebt Gifteffekte auf
+
+Einer der einzigartigen Heilzauber von
+Neu-Londo, vermutlich aus der Not geboren,
+aufgrund der Nähe zu Schandstadt.</text>
+<text id="3700">Von Logan während seiner Vernarrtheit in
+Seath den Schuppenlosen entwickelter Zauber
+Verströmt Seaths Kristallhauch
+
+Auch wenn er keine Flüche mehr hervorruft
+- was mag Logan wohl dazu bewegt haben,
+sich die Macht der alten Drachen anzueignen?</text>
+<text id="4000">Standard-Pyromantie des Großen Sumpfes
+Schleudert Feuerball
+
+Der von Feuerbällen verursachte Feuerschaden
+macht sie wirksam gegen physische Bestien
+und Untote (die das Feuer ohnehin fürchten).</text>
+<text id="4001">%null%</text>
+<text id="4002">%null%</text>
+<text id="4003">%null%</text>
+<text id="4004">%null%</text>
+<text id="4005">%null%</text>
+<text id="4006">%null%</text>
+<text id="4007">%null%</text>
+<text id="4008">%null%</text>
+<text id="4009">%null%</text>
+<text id="4010">Verbesserte Version von Feuerball
+Schleudert Feuerkugel
+
+Die lodernde Feuerkugel explodiert beim Auf-
+prall, verursacht Flächenschaden und ruft ein
+Spektakel hervor, das die Macht der feuer-
+beherrschenden Pyromanten verdeutlicht.</text>
+<text id="4011">%null%</text>
+<text id="4012">%null%</text>
+<text id="4013">%null%</text>
+<text id="4014">%null%</text>
+<text id="4015">%null%</text>
+<text id="4016">%null%</text>
+<text id="4017">%null%</text>
+<text id="4018">%null%</text>
+<text id="4019">%null%</text>
+<text id="4020">Ultimative Feuerball-Pyromantie
+Schleudert riesigen Feuerball
+
+Für Salaman, den Meister-Pyromanten, auch
+der Große Feuerball genannt, ist Pyromantie
+ein Ausdruck der Bewunderung des Feuers.
+Wer diesen Zauber erwirbt, stimmt da wohl zu.</text>
+<text id="4021">%null%</text>
+<text id="4022">%null%</text>
+<text id="4023">%null%</text>
+<text id="4024">%null%</text>
+<text id="4025">%null%</text>
+<text id="4026">%null%</text>
+<text id="4027">%null%</text>
+<text id="4028">%null%</text>
+<text id="4029">%null%</text>
+<text id="4030">Von Quelana von Izalith gelehrte
+grundlegende Pyromantie
+Errichtet in der Umgebung Feuerpfeiler
+
+Der Flammensturm verschlingt wahllos
+alles Leben in seiner Nähe.</text>
+<text id="4031">%null%</text>
+<text id="4032">%null%</text>
+<text id="4033">%null%</text>
+<text id="4034">%null%</text>
+<text id="4035">%null%</text>
+<text id="4036">%null%</text>
+<text id="4037">%null%</text>
+<text id="4038">%null%</text>
+<text id="4039">%null%</text>
+<text id="4040">Von Quelana von Izalith gelehrte
+grundlegende Pyromantie
+Errichtet in der Umgebung große Feuerpfeiler
+
+Dieses Inferno ähnelt jenem, das die Töchter
+des Chaos auslösten, als sie die Drachen
+herausforderten und die Erde versengten.</text>
+<text id="4041">%null%</text>
+<text id="4042">%null%</text>
+<text id="4043">%null%</text>
+<text id="4044">%null%</text>
+<text id="4045">%null%</text>
+<text id="4046">%null%</text>
+<text id="4047">%null%</text>
+<text id="4048">%null%</text>
+<text id="4049">%null%</text>
+<text id="4050">Im Großen Sumpf unbekannte Pyromantie
+Erzeugt einen Feuerstoß auf der Handfläche
+
+Nicht jede Pyromantie entstammt dem Großen
+Sumpf. In diversen Ländern soll es unbekannte
+Pyromanten geben - und dieser Zauber ist
+das Werk eines solchen Namenlosen.</text>
+<text id="4051">%null%</text>
+<text id="4052">%null%</text>
+<text id="4053">%null%</text>
+<text id="4054">%null%</text>
+<text id="4055">%null%</text>
+<text id="4056">%null%</text>
+<text id="4057">%null%</text>
+<text id="4058">%null%</text>
+<text id="4059">%null%</text>
+<text id="4060">Von Quelana von Izalith gelehrte
+grundlegende Pyromantie
+Fegt Feinde mit einer Feuerpeitsche beiseite
+
+Die ursprüngliche Pyromantie hinter der
+Verbrennung, aber erheblich schwieriger
+zu meistern.</text>
+<text id="4100">Elementar-Pyromantie
+Erzeugt eine mächtige Flamme in der Hand
+
+Einer der grundlegendsten Pyromantie-Zauber.
+Die von ihm erzeugte Flamme ist daher auch
+wahrhaft schrecklich.</text>
+<text id="4101">%null%</text>
+<text id="4102">%null%</text>
+<text id="4103">%null%</text>
+<text id="4104">%null%</text>
+<text id="4105">%null%</text>
+<text id="4106">%null%</text>
+<text id="4107">%null%</text>
+<text id="4108">%null%</text>
+<text id="4109">%null%</text>
+<text id="4110">Verbesserte Version von Verbrennung
+Erzeugt eine mächtige Riesenflamme
+in der Hand
+
+Die Große Verbrennung erzeugt eine mächtige
+Flamme. Viele Zauberer spotten jedoch über
+diesen Zauber, da er recht simpel ist.</text>
+<text id="4200">Von Eingyi, selbst im Großen Sumpf als Ketzer
+geächtet, erschaffene einzigartige Pyromantie
+Erzeugt einen Giftnebel
+
+Eingyi wurde zu einem eitragenden Untoten und
+diente einer verunstalteten jungen Frau, die
+eine unverständliche Sprache spricht.</text>
+<text id="4201">%null%</text>
+<text id="4202">%null%</text>
+<text id="4203">%null%</text>
+<text id="4204">%null%</text>
+<text id="4205">%null%</text>
+<text id="4206">%null%</text>
+<text id="4207">%null%</text>
+<text id="4208">%null%</text>
+<text id="4209">%null%</text>
+<text id="4210">Von Eingyi, selbst im Großen Sumpf als Ketzer
+geächtet, erschaffene einzigartige Pyromantie
+Erzeugt einen intensiven Giftnebel
+
+Wer diese perfide Pyromantie wirkt, wird
+verstehen, weshalb Eingyi dereinst aus dem
+Großen Sumpf vertrieben wurde.</text>
+<text id="4211">%null%</text>
+<text id="4212">%null%</text>
+<text id="4213">%null%</text>
+<text id="4214">%null%</text>
+<text id="4215">%null%</text>
+<text id="4216">%null%</text>
+<text id="4217">%null%</text>
+<text id="4218">%null%</text>
+<text id="4219">%null%</text>
+<text id="4220">Von Eingyi, selbst im Großen Sumpf als Ketzer
+geächtet, erschaffene einzigartige Pyromantie
+Versprüht Waffen und Rüstung zerfressende Säure
+
+Nicht jede Pyromantie fand ihren Ursprung im 
+Großen Sumpf. Es wird sich erzählt, dass unbe-
+kannte Pyromanten unzählige Länder bewohnen. 
+Dieser Fluch ist das Werk eines solchen.</text>
+<text id="4300">Pyromantie der Carmina, welche die Flamme
+bändigte, um das Innerste zu verwirklichen
+Verstärkt Abwehr und Widerstandskraft
+
+Diese Pyromantie sollte mit Bedacht einge-
+setzt werden. Ihr Wirker wird sehr schwer und
+bewegungsunfähig.</text>
+<text id="4301">%null%</text>
+<text id="4302">%null%</text>
+<text id="4303">%null%</text>
+<text id="4304">%null%</text>
+<text id="4305">%null%</text>
+<text id="4306">%null%</text>
+<text id="4307">%null%</text>
+<text id="4308">%null%</text>
+<text id="4309">%null%</text>
+<text id="4310">Pyromantie der Carmina, welche die Flamme
+bändigte, um das Innerste zu verwirklichen
+Starkes Schwitzen verringert Feuerschaden
+
+Carmina, die beste Schülerin von Salaman
+dem Meister-Pyromanten, eröffnete der
+Kunst der Pyromantie neue Pfade.</text>
+<text id="4311">%null%</text>
+<text id="4312">%null%</text>
+<text id="4313">%null%</text>
+<text id="4314">%null%</text>
+<text id="4315">%null%</text>
+<text id="4316">%null%</text>
+<text id="4317">%null%</text>
+<text id="4318">%null%</text>
+<text id="4319">%null%</text>
+<text id="4320">Von Quelana von Izalith gelehrte
+fortgeschrittene Pyromantie
+Macht Untote vorübergehend zu Verbündeten
+
+Das Feuer lockt die Lebenden. Die Faszination
+für Flammen gehört zum Wesen der Pyromantie.
+Von beiden Geschlechtern benutzbar.</text>
+<text id="4360">Pyromantie der Carmina, welche die Flamme
+bändigte, um das Innerste zu verwirklichen
+Steigert kurz Stärke &amp; Kondition, senkt TP
+
+Enorme Kräfte zehren an der Lebensenergie
+des Wirkers. Wurde, wie alle gefährlichen
+Zauber, über Äonen geheim gehalten.</text>
+<text id="4400">Kunst der Flamme des Chaos, die die Hexe von
+Izalith und ihre Töchter verzehrte
+Schleudert riesigen Chaos-Feuerball
+
+Die Flamme des Chaos kann Stein schmelzen
+und so vorübergehend einen Lavastrom
+erzeugen.</text>
+<text id="4500">Kunst der Flamme des Chaos, die die Hexe von
+Izalith und ihre Töchter verzehrte
+Errichtet in der Nähe Chaos-Feuerpfeiler
+
+Beim Versuch, die erste Flamme nachzubilden,
+schuf die Hexe von Izalith die Flamme des
+Chaos, ein pervertiertes Lebensfundament.</text>
+<text id="4501">%null%</text>
+<text id="4502">%null%</text>
+<text id="4503">%null%</text>
+<text id="4504">%null%</text>
+<text id="4505">%null%</text>
+<text id="4506">%null%</text>
+<text id="4507">%null%</text>
+<text id="4508">%null%</text>
+<text id="4509">%null%</text>
+<text id="4510">Kunst der Flamme des Chaos, die die Hexe von
+Izalith und ihre Töchter verzehrte
+Fegt Feinde mit Chaos-Feuerpeitsche beiseite
+
+Die Flamme des Chaos wurde von der ältesten 
+Tochter des Chaos entfesselt.</text>
+<text id="4511">%null%</text>
+<text id="4512">%null%</text>
+<text id="4513">%null%</text>
+<text id="4514">%null%</text>
+<text id="4515">%null%</text>
+<text id="4516">%null%</text>
+<text id="4517">%null%</text>
+<text id="4518">%null%</text>
+<text id="4519">%null%</text>
+<text id="4520">Wunder</text>
+<text id="5000">Von erfahrenen Klerikern gewirktes Wunder
+Stellt viele TP wieder her
+
+Die Große Heilung ist eine lange Sage und
+wird nur von wenigen Auserwählten erlernt.
+Doch die von ihr gewährte Lebensfülle wird
+keinen Wirker enttäuschen.</text>
+<text id="5001">%null%</text>
+<text id="5002">%null%</text>
+<text id="5003">%null%</text>
+<text id="5004">%null%</text>
+<text id="5005">%null%</text>
+<text id="5006">%null%</text>
+<text id="5007">%null%</text>
+<text id="5008">%null%</text>
+<text id="5009">%null%</text>
+<text id="5010">Von erfahrenen Klerikern gewirktes Wunder
+Stellt viele TP wieder her
+
+Der Auszug aus der Großen Heilung umfasst nur
+einige Verse der Großen Heilung. Daher kann
+er nur wenige Male gewirkt werden.</text>
+<text id="5011">%null%</text>
+<text id="5012">%null%</text>
+<text id="5013">%null%</text>
+<text id="5014">%null%</text>
+<text id="5015">%null%</text>
+<text id="5016">%null%</text>
+<text id="5017">%null%</text>
+<text id="5018">%null%</text>
+<text id="5019">%null%</text>
+<text id="5020">Von erfahrenen Klerikern gewirktes Wunder
+Stellt viele TP wieder her
+
+Der Auszug aus der Großen Heilung umfasst nur
+einige Verse der Großen Heilung. Daher kann
+er nur wenige Male gewirkt werden.</text>
+<text id="5021">%null%</text>
+<text id="5022">%null%</text>
+<text id="5023">%null%</text>
+<text id="5024">%null%</text>
+<text id="5025">%null%</text>
+<text id="5026">%null%</text>
+<text id="5027">%null%</text>
+<text id="5028">%null%</text>
+<text id="5029">%null%</text>
+<text id="5030">Unter Kleriker-Kriegern gebräuchliches Wunder
+Schrittweise TP-Wiederherstellung
+
+Hüte dich vor den mit Auffrischung gesegneten
+Kleriker-Kriegern - sie sind nicht leicht zu
+überwinden.</text>
+<text id="5031">%null%</text>
+<text id="5032">%null%</text>
+<text id="5033">%null%</text>
+<text id="5034">%null%</text>
+<text id="5035">%null%</text>
+<text id="5036">%null%</text>
+<text id="5037">%null%</text>
+<text id="5038">%null%</text>
+<text id="5039">%null%</text>
+<text id="5040">Unter Kleriker-Kriegern gebräuchliches Wunder
+Schrittweise TP-Wiederherstellung
+
+Hüte dich vor den mit Auffrischung gesegneten
+Kleriker-Kriegern - sie sind nicht leicht zu
+überwinden.</text>
+<text id="5041">%null%</text>
+<text id="5042">%null%</text>
+<text id="5043">%null%</text>
+<text id="5044">%null%</text>
+<text id="5045">%null%</text>
+<text id="5046">%null%</text>
+<text id="5047">%null%</text>
+<text id="5048">%null%</text>
+<text id="5049">%null%</text>
+<text id="5050">Nur den Dienern des ersten Toten, des
+Grabesfürsten Nito, bekanntes Wunder
+Lässt in der Umgebung Schwerter emporragen
+
+Nito ruht in den riesigen Katakomben, wacht
+leise über den Tod und wartet darauf, dass
+seine Diener das Auge des Todes einläuten.</text>
+<text id="5100">Nur den Dienern des ersten Toten, des
+Grabesfürsten Nito, bekanntes Wunder
+Lässt in der Umgebung Großschw. emporragen
+
+Viele wurden geopfert, um den Großschwerttanz
+zu vollziehen, ein nur den engsten Vertrauten
+des Großkönigs bekanntes Ritual.</text>
+<text id="5101">%null%</text>
+<text id="5102">%null%</text>
+<text id="5103">%null%</text>
+<text id="5104">%null%</text>
+<text id="5105">%null%</text>
+<text id="5106">%null%</text>
+<text id="5107">%null%</text>
+<text id="5108">%null%</text>
+<text id="5109">%null%</text>
+<text id="5110">Dem Weißen Pfad unbekanntes,
+verschollenes Wunder
+Verhindert Verluste durch Tod (wenn aktiv)
+
+Der Weiße Pfad erkennt zwar den Tod selbst
+an, schilt aber die Untoten. Genau deshalb
+ist dieses Wunder auch verschollen.</text>
+<text id="5200">Großes, von erfahrenen Klerikern
+gewirktes Wunder
+Kehrt zum Leuchtfeuer der letzten Rast zurück
+
+Führte in die Heimat, wurde aber vom Fluch
+der Untoten umgelenkt. Nun gelangt man zu
+einem Leuchtfeuer. Der Untoten Heimat?</text>
+<text id="5201">%null%</text>
+<text id="5202">%null%</text>
+<text id="5203">%null%</text>
+<text id="5204">%null%</text>
+<text id="5205">%null%</text>
+<text id="5206">%null%</text>
+<text id="5207">%null%</text>
+<text id="5208">%null%</text>
+<text id="5209">%null%</text>
+<text id="5210">Großes, von erfahrenen Klerikern
+gewirktes Wunder
+Kehrt zum Leuchtfeuer der letzten Rast zurück
+
+Führte in die Heimat, wurde aber vom Fluch
+der Untoten umgelenkt. Nun gelangt man zu
+einem Leuchtfeuer. Der Untoten Heimat?</text>
+<text id="5300">Grundlegende Form der Wucht
+Erzeugt mächtige Schockwelle
+
+Der Götterzorn war eine epische Sage, die mit
+der Zeit verschliss und zur heutigen Wucht
+wurde. Diese grundlegende Form der Wucht er-
+zeugt eine Schockwelle, die Schaden zufügt.</text>
+<text id="5301">%null%</text>
+<text id="5302">%null%</text>
+<text id="5303">%null%</text>
+<text id="5304">%null%</text>
+<text id="5305">%null%</text>
+<text id="5306">%null%</text>
+<text id="5307">%null%</text>
+<text id="5308">%null%</text>
+<text id="5309">%null%</text>
+<text id="5310">Fremdes, dem Weißen Pfad unbekanntes Wunder
+Sendet Schockwelle aus
+
+Gilt als Alternativzweig der Wucht. Erzeugt
+eine größer werdende Schockwellenkugel.</text>
+<text id="5311">%null%</text>
+<text id="5312">%null%</text>
+<text id="5313">%null%</text>
+<text id="5314">%null%</text>
+<text id="5315">%null%</text>
+<text id="5316">%null%</text>
+<text id="5317">%null%</text>
+<text id="5318">%null%</text>
+<text id="5319">%null%</text>
+<text id="5320">Wunder von auf untoter Mission
+befindlichen Klerikern
+Gewährt weitere Führung aus anderen Welten
+
+Führung erleichtert die Kommunikation unter
+Untoten, ist jedoch wechselhaft. Ein Gleich-
+gewicht von Glaube und Weisheit ist nötig.</text>
+<text id="5400">Wunder von auf untoter Mission
+befindlichen Klerikern
+Gewährt weitere Führung aus anderen Welten
+
+Führung erleichtert die Kommunikation unter
+Untoten, ist jedoch wechselhaft. Ein Gleich-
+gewicht von Glaube und Weisheit ist nötig.</text>
+<text id="5500">An die mit dem Sonnenlichtkrieger im
+Bunde Stehenden weitergereichtes Wunder
+Schleudert riesigen Blitzspeer
+
+Die Waffe des Kriegsgottes, der das
+Sonnenlicht von Fürst Gwyn erbte, aber außer
+Waffen nichts achtete.</text>
+<text id="5501">%null%</text>
+<text id="5502">%null%</text>
+<text id="5503">%null%</text>
+<text id="5504">%null%</text>
+<text id="5505">%null%</text>
+<text id="5506">%null%</text>
+<text id="5507">%null%</text>
+<text id="5508">%null%</text>
+<text id="5509">%null%</text>
+<text id="5510">Aus der schwindenden Seele des Gwyn
+stammendes Wunder
+Schleudert Sonnenlichtspeer
+Im Krieg, der den Beginn des Zeitalters des
+Feuers darstellte, kämpfte Gwyn mit Sonnen-
+strahlen, die selbst im Schwinden noch
+entsetzlich sind!</text>
+<text id="5511">%null%</text>
+<text id="5512">%null%</text>
+<text id="5513">%null%</text>
+<text id="5514">%null%</text>
+<text id="5515">%null%</text>
+<text id="5516">%null%</text>
+<text id="5517">%null%</text>
+<text id="5518">%null%</text>
+<text id="5519">%null%</text>
+<text id="5520">Wunder von Bischof Havel dem Fels
+Hüllt Körper in Verteidigungszauber
+
+Diese Ummantelung steigert die Zauberabwehr
+enorm und hilft so Kriegern, die sich jener
+Magie stellen müssen, die Bischof Havel so
+erfolgreich abwehrte.</text>
+<text id="5600">Wunder von Bischof Havel dem Fels
+Hüllt Körper in mächtigen Verteidigungszauber
+
+Havel der Fels, ein alter Kampfgefährte von
+Fürst Gwyn, war ein erbitterter Feind von
+Seath dem Schuppenlosen. Er verachtete Magie
+und ersann Mittel der Gegenwehr.</text>
+<text id="5601">%null%</text>
+<text id="5602">%null%</text>
+<text id="5603">%null%</text>
+<text id="5604">%null%</text>
+<text id="5605">%null%</text>
+<text id="5606">%null%</text>
+<text id="5607">%null%</text>
+<text id="5608">%null%</text>
+<text id="5609">%null%</text>
+<text id="5610">Wunder der schwarzhaarigen Hexe Velka
+Zeitweise Auto-Konter gegen schweren Schaden
+
+Jede Sünde führt auch eine Strafe nach sich.
+Und die Definition der Sünde und das Erteilen
+der Strafe obliegen der Göttin Velka.</text>
+<text id="5700">%null%</text>
+<text id="5701">%null%</text>
+<text id="5702">%null%</text>
+<text id="5703">%null%</text>
+<text id="5704">%null%</text>
+<text id="5705">%null%</text>
+<text id="5706">%null%</text>
+<text id="5707">%null%</text>
+<text id="5708">%null%</text>
+<text id="5709">%null%</text>
+<text id="5710">Fremdes, dem Weißen Pfad unbekanntes Wunder
+Verlangsamt alle im Wirkungsbereich
+
+Dieses Wunder wird üblicherweise zur Flucht
+eingesetzt, da es die Schritte verlangsamt,
+aber auf Angriffe keine Wirkung hat.
+Die perfekte Form des Friedens.</text>
+<text id="5800">Wunder der schwarzhaarigen Hexe Velka
+Verhindert im Wirkungsbereich das Zaubern
+
+Velka, die Sündengöttin, ist eine
+abtrünnige Gottheit, doch in alten wie neuen
+Künsten geschult. Es heißt, sie habe selbst
+unter den Göttern enormen Einfluss.</text>
+<text id="5801">%null%</text>
+<text id="5802">%null%</text>
+<text id="5803">%null%</text>
+<text id="5804">%null%</text>
+<text id="5805">%null%</text>
+<text id="5806">%null%</text>
+<text id="5807">%null%</text>
+<text id="5808">%null%</text>
+<text id="5809">%null%</text>
+<text id="5810">Von Fürst Gwyns Erstgeborenem gewirktes 
+Wunder
+Verstärkt rechte Waffe mit Sonnenstrahlen
+
+Die Energie des Sonnenlichtes manifestiert
+sich im Blitz. Dieses Schwert fügt Blitz-
+schaden zu und ist so effektiv gegen Drachen.</text>
+<text id="5900">Den mit Fürst Gwyns Letztgeborener Wendelin
+im Bunde Stehenden gewährtes Wunder
+Stärkt rechte Waffe mit Finstermondstrahlen
+
+Der Finstermond gewährt die Energie der
+Rache. Und je größer der Animus, desto
+vernichtender der Angriff.</text>
+<text id="5901">%null%</text>
+<text id="5902">%null%</text>
+<text id="5903">%null%</text>
+<text id="5904">%null%</text>
+<text id="5905">%null%</text>
+<text id="5906">%null%</text>
+<text id="5907">%null%</text>
+<text id="5908">%null%</text>
+<text id="5909">%null%</text>
+<text id="5910">%null%</text>
+<text id="9000">%null%</text>
+<text id="9001">%null%</text>
+<text id="9002">%null%</text>
+<text id="9003">%null%</text>
+<text id="9004">%null%</text>
+<text id="9005">%null%</text>
+<text id="9006">%null%</text>
+<text id="9007">%null%</text>
+<text id="9008">%null%</text>
+<text id="9009">%null%</text>
+<text id="9010">%null%</text>
+<text id="9011">%null%</text>
+<text id="9012">%null%</text>
+<text id="9013">%null%</text>
+<text id="9014">%null%</text>
+</entries>
+</fmg>

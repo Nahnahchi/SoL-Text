@@ -1,0 +1,1512 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls1</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">OK</text>
+<text id="2">CANCEL</text>
+<text id="3">YES</text>
+<text id="4">NO</text>
+<text id="5">Accept</text>
+<text id="6">Do Not Accept</text>
+<text id="7">Decline</text>
+<text id="8">RETRY</text>
+<text id="9">CONTINUE</text>
+<text id="10">CANCEL</text>
+<text id="2001">KG_OK</text>
+<text id="2002">KG_Cancel</text>
+<text id="2003">KG_L_U</text>
+<text id="2004">KG_L_D</text>
+<text id="2005">KG_L_L</text>
+<text id="2006">KG_L_R</text>
+<text id="2007">KG_L_UD</text>
+<text id="2008">KG_L_LR</text>
+<text id="2009">KG_L_UDLR</text>
+<text id="2010">KG_R_U</text>
+<text id="2011">KG_R_L</text>
+<text id="2012">KG_L1</text>
+<text id="2013">KG_R1</text>
+<text id="2014">KG_L2</text>
+<text id="2015">KG_R2</text>
+<text id="2016">KG_L3</text>
+<text id="2017">KG_R3</text>
+<text id="2018">KG_LS</text>
+<text id="2019">KG_RS</text>
+<text id="2020">KG_TP_L</text>
+<text id="2021">KG_TP_R</text>
+<text id="2022">KG_Start</text>
+<text id="2201">CN_TEX_Copyright</text>
+<text id="2202">CN_TEX_R_mark</text>
+<text id="2203">CN_TEX_TradeMark</text>
+<text id="2204">CN_TEX_Dash</text>
+<text id="4101">Cannot connect to network.
+Returning to Title Menu.</text>
+<text id="4102">The connection to the DARK SOULS™: REMASTERED game server 
+was lost.  Returning to Title Menu.</text>
+<text id="4103">%null%</text>
+<text id="4104">%null%</text>
+<text id="4105">%null%</text>
+<text id="4106">%null%</text>
+<text id="4107">%null%</text>
+<text id="4108">%null%</text>
+<text id="4109">%null%</text>
+<text id="4110">The connection to the DARK SOULS™: REMASTERED game server was lost.</text>
+<text id="4160">Connection to Steam interrupted.
+Returning to Title Menu.</text>
+<text id="4161">Frame rate unsuitable for online play.
+Returning to Title Menu.</text>
+<text id="4190">A network error occurred.
+Returning to Title Menu.</text>
+<text id="4191">Failed to save game.
+Save data is corrupted.
+
+Select "Yes" to try again.
+
+Select "No" to return to
+Title Menu without saving.</text>
+<text id="4192">Failed to save game.
+Save data is corrupted.
+
+Returning to Title Menu.</text>
+<text id="4193">Failed to save game.
+Save data is corrupted.</text>
+<text id="4194">Network connection has been lost. Returning to Title Menu.</text>
+<text id="18300">&lt;?selectUD?&gt;:Select &lt;?conclusion?&gt;:Details &lt;?commando?&gt;:Steam User Info &lt;?cancel?&gt;:Close &lt;?categoryChangeL?&gt;:Previous 100 &lt;?categoryChangeR?&gt;:Next 100 &lt;?shortCutL?&gt;:Show top &lt;?shortCutR?&gt;:Your Grades</text>
+<text id="18301">%null%</text>
+<text id="18302">%null%</text>
+<text id="18303">%null%</text>
+<text id="18304">%null%</text>
+<text id="18305">%null%</text>
+<text id="18306">%null%</text>
+<text id="18307">%null%</text>
+<text id="18308">%null%</text>
+<text id="18309">%null%</text>
+<text id="18310">&lt;?selectUD?&gt;:Select &lt;?selectLR?&gt;Change level tier &lt;?conclusion?&gt;:Details &lt;?commando?&gt;:Steam User Info &lt;?cancel?&gt;:Close &lt;?categoryChangeL?&gt;:Above 100 &lt;?categoryChangeR?&gt;:Below 100 &lt;?shortCutL?&gt;:Show leaders &lt;?shortCutR?&gt;:Your rank</text>
+<text id="18311">%null%</text>
+<text id="18312">%null%</text>
+<text id="18313">%null%</text>
+<text id="18314">%null%</text>
+<text id="18315">%null%</text>
+<text id="18316">%null%</text>
+<text id="18317">%null%</text>
+<text id="18318">%null%</text>
+<text id="18319">%null%</text>
+<text id="18320">&lt;?selectUD?&gt;:Select &lt;?conclusion?&gt;:Enter &lt;?commando?&gt;:Steam User Info &lt;?cancel?&gt;:Close</text>
+<text id="41000">This will delete selected save data.
+Is this OK?</text>
+<text id="45000">This game uses an autosave function.
+Do not turn off the power or quit
+the game while the save indicator
+is seen at upper-right of screen.</text>
+<text id="45001">Save file version differs from game version.
+Quit game, sign in to Steam,
+and download update.</text>
+<text id="45100">Insufficient free space on hard drive.
+At least 9 MB is required to play
+DARK SOULS™: REMASTERED.</text>
+<text id="45101">%null%</text>
+<text id="45102">%null%</text>
+<text id="45103">Insufficient free space on hard drive.
+At least 9 MB is required to play
+DARK SOULS™: REMASTERED.</text>
+<text id="45104">%null%</text>
+<text id="45105">%null%</text>
+<text id="45106">%null%</text>
+<text id="45107">%null%</text>
+<text id="45108">%null%</text>
+<text id="45109">%null%</text>
+<text id="45110">Save data was corrupted.</text>
+<text id="45111">Save data was corrupted.
+Would you like to create new save data?
+The current save data will be overwritten.
+
+Select OK to overwrite save data.
+Select CANCEL to reload current save data.</text>
+<text id="45112">%null%</text>
+<text id="45113">%null%</text>
+<text id="45114">%null%</text>
+<text id="45115">%null%</text>
+<text id="45116">%null%</text>
+<text id="45117">%null%</text>
+<text id="45118">%null%</text>
+<text id="45119">%null%</text>
+<text id="45120">Failed to load save data.</text>
+<text id="45121">Failed to load save data.
+Would you like to create new save data?
+The current save data will be overwritten.
+
+Press the CANCEL button to reload save data.</text>
+<text id="45122">Last time, the game may not have been
+closed using Quit Game in the System menu.
+To quit the game, always select Quit Game
+from the System menu.
+
+Failing to quit the game properly can result
+in losing some progress.</text>
+<text id="45123">%null%</text>
+<text id="45124">%null%</text>
+<text id="45125">%null%</text>
+<text id="45126">%null%</text>
+<text id="45127">%null%</text>
+<text id="45128">%null%</text>
+<text id="45129">%null%</text>
+<text id="45130">Failed to create new save data.
+Please exit the game and manually delete the save data.
+
+Selecting CANCEL will create new save data again.</text>
+<text id="45200">Failed to save save data.</text>
+<text id="45201">Failed to save save data.</text>
+<text id="45250">Failed to install Trophy Set.
+Quit the game and reload DARK SOULS™: REMASTERED
+to reinstall</text>
+<text id="45300">Save data is corrupted.
+Would you like to attempt to repair the save data?
+Any corrupted characters will be discarded.
+
+Selecting CANCEL will load the save data again.</text>
+<text id="45400">You can't create any more characters.
+Delete an existing character and create a new one?
+
+*You can create up to 10 characters.</text>
+<text id="45500">%null%</text>
+<text id="47000">Checking number of files</text>
+<text id="47100">Loading save data...
+Do not turn off the power
+or quit the game.</text>
+<text id="47101">Checking save data...
+Do not turn off the power
+or quit the game.</text>
+<text id="47102">Loading...
+Do not turn off the power
+or quit the game.</text>
+<text id="47103">%null%</text>
+<text id="47104">%null%</text>
+<text id="47105">%null%</text>
+<text id="47106">%null%</text>
+<text id="47107">%null%</text>
+<text id="47108">%null%</text>
+<text id="47109">%null%</text>
+<text id="47110">Updating save data...
+Do not turn off the power
+or quit the game.</text>
+<text id="47111">Updating save data...
+Do not turn off the power
+or quit the game.</text>
+<text id="47112">Creating save data...
+Do not turn off the power
+or quit the game.</text>
+<text id="47113">Deleting character...
+Do not turn off the power
+or quit the game.</text>
+<text id="47114">%null%</text>
+<text id="47115">%null%</text>
+<text id="47116">%null%</text>
+<text id="47117">%null%</text>
+<text id="47118">%null%</text>
+<text id="47119">%null%</text>
+<text id="47120">%null%</text>
+<text id="47121">%null%</text>
+<text id="48000">Discard changes and return</text>
+<text id="50000">%null%</text>
+<text id="50001">Acquiring Ranking Data</text>
+<text id="50002">Ranking Data cannot be acquired in Offline Mode</text>
+<text id="50501">Game will start in offline mode.</text>
+<text id="50502">You are not connected to Steam. You are not able to
+access online mode.</text>
+<text id="50503">Your Steam account
+is restricted by a parental lock, preventing
+access to online play.</text>
+<text id="50504">You are not signed in
+You must sign in to access Steam multiplayer.
+Would you like to sign in?</text>
+<text id="50505">A network error has occurred.
+Cannot use Steam multiplayer.</text>
+<text id="50506">Steam multiplayer cannot be used with this
+version.</text>
+<text id="50507">You are not signed in. Do you still wish
+to start the game? You will only be able
+to play offline.</text>
+<text id="50520">Service not available at this time
+You will only be able to play offline</text>
+<text id="50521">Service not yet available
+You will only be able to play offline</text>
+<text id="50522">Currently undergoing maintenance
+You will only be able to play offline</text>
+<text id="50523">No response from server
+You will only be able to play offline</text>
+<text id="50524">Cannot use server at this time
+You will only be able to play offline</text>
+<text id="50525">Cannot use server at this time
+You will only be able to play offline</text>
+<text id="50526">%null%</text>
+<text id="50527">%null%</text>
+<text id="50528">%null%</text>
+<text id="50529">%null%</text>
+<text id="50530">Error with Framerate detected and 
+Online mode is not accessible.
+Either continue the game in Offline mode
+or re-boot the game after solving the issue.</text>
+<text id="51100">You were signed out.
+Returning to Title Menu.</text>
+<text id="51101">Game resumed from suspended state.
+Returning to the Title Menu.</text>
+<text id="65000">You are not signed in and will be unable
+to save the game. Is this OK? If you
+continue playing without signing in, your
+progress will not be saved.</text>
+<text id="65001">You are not signed in. Game will start
+in single-player mode. Data will not
+be saved.</text>
+<text id="65002">Save file version differs from game version.
+Sign in to Steam and
+acquire newest version of the game.
+Closing game.</text>
+<text id="65003">Your multiplayer privileges are blocked.
+Unable to access Steam multiplayer.</text>
+<text id="65004">You are in a party session.
+Online Mode is inaccessible.</text>
+<text id="65005">A sign-in change has occurred...</text>
+<text id="65100">You cannot use online play because
+you are not connected to Steam.</text>
+<text id="65101">This gamer profile does not have
+permission to access Steam multiplayer.</text>
+<text id="65200">No storage device is selected. Game cannot
+be saved. Is this OK? If you continue
+playing, your progress will not be saved,
+and you will be unable to use online play.</text>
+<text id="65201">Not enough free space on the hard drive.
+At least &lt;?dataSize?&gt; MB of free space
+is required to save data.</text>
+<text id="65202">Failed to load save data.
+The data may be corrupted.
+
+Do you wish to create new save data?
+This will overwrite your old save data.
+
+Select "No" to attempt to load again.</text>
+<text id="65203">Failed to load save data.
+The data may be corrupted.
+
+Do you wish to create new save data?
+This will overwrite your old save data.
+
+Select "No" to attempt to load again.</text>
+<text id="65204">%null%</text>
+<text id="65205">No storage device selected. Failed to load save data.</text>
+<text id="65206">Unable to access selected storage device.
+Failed to create save data.</text>
+<text id="65207">Unable to access selected storage device. 
+Failed to load the selected character.</text>
+<text id="65208">Cannot create a new character because 
+a sign-in change has occurred...</text>
+<text id="65209">Cannot load an existing character
+because a sign-in change has occurred...</text>
+<text id="65210">You have signed out of the gamer profile.
+Returning to Title Menu. </text>
+<text id="65211">Failed to create save data due to
+disconnection from Steam.</text>
+<text id="65212">Failed to load save data due to disconnection
+from Steam.</text>
+<text id="65213">Failed to load save data due to disconnection
+from Steam.</text>
+<text id="65300">You cannot create any more profiles.
+Do you wish to erase existing profile data
+and create a new profile?</text>
+<text id="65301">No save data found.
+Create save data?
+- Note -
+This game supports autosave. Data will
+be overwritten automatically to the
+hard drive.</text>
+<text id="65400">Add this character to rankings?
+If a previous character has already been
+added, its rankings will be overwritten.</text>
+<text id="65401">Remove this character from rankings?</text>
+<text id="65402">%null%</text>
+<text id="65403">%null%</text>
+<text id="65404">%null%</text>
+<text id="65405">%null%</text>
+<text id="65406">%null%</text>
+<text id="65407">%null%</text>
+<text id="65408">%null%</text>
+<text id="65409">%null%</text>
+<text id="65410">Downloading advanced data</text>
+<text id="65411">Failed to download advanced data
+
+*Advanced data is only tallied for players near top</text>
+<text id="65412">Acquiring your data</text>
+<text id="65413">Your data was not found</text>
+<text id="65500">Please reconnect the controller.</text>
+<text id="70000">Save failed.
+Unable to locate hard drive.
+Returning to Title Menu...</text>
+<text id="101000">PRESS ANY BUTTON</text>
+<text id="101001">PRESS START BUTTON</text>
+<text id="114006">Vibration</text>
+<text id="200100">Text includes unsupported characters.
+Unsupported characters will be replaced with asterisks (*).</text>
+<text id="250059">&lt;?warpName10?&gt;</text>
+<text id="250060">&lt;?warpName11?&gt;</text>
+<text id="400003">At the end of the previous session, Quit Game
+might not have been selected from the system menu.
+Please use Quit Game from the system menu
+when you wish to end your play session.
+
+Failure to end session with Quit Game may result
+in loss of progress.</text>
+<text id="401102">Failed to create save data.
+Press "OK" to try again.</text>
+<text id="401103">Failed to load save data.
+Press "OK" to try again.</text>
+<text id="401104">%null%</text>
+<text id="401105">%null%</text>
+<text id="401106">Failed to save game.
+Save data is corrupted.
+
+Select "OK" to try again.</text>
+<text id="401107">The save data is corrupted.
+Delete corrupted data and create a new save?</text>
+<text id="401108">Failed to save game.
+Insufficient free space to save game.
+
+Select "OK" to try again.</text>
+<text id="401109">%null%</text>
+<text id="401110">Checking save data...</text>
+<text id="401111">Creating save data...</text>
+<text id="401112">Updating save data...</text>
+<text id="401113">The game version and save data version are different.
+Quit the game and use the Steam client to update
+DARK SOULS™: REMASTERED to the latest version before trying again.</text>
+<text id="401114">Cannot load this profile as it is from
+a later version of the currently installed game.
+Quit the game and sign in to Steam to
+update DARK SOULS™: REMASTERED to the latest version.</text>
+<text id="401115">%null%</text>
+<text id="401116">%null%</text>
+<text id="401117">%null%</text>
+<text id="401118">%null%</text>
+<text id="401119">%null%</text>
+<text id="401120">Checking network connection status...</text>
+<text id="401150">Logging in to the DARK SOULS™: REMASTERED game server...</text>
+<text id="401151">Logging out from DARK SOULS™: REMASTERED game server...</text>
+<text id="401152">%null%</text>
+<text id="401153">%null%</text>
+<text id="401154">%null%</text>
+<text id="401155">%null%</text>
+<text id="401156">%null%</text>
+<text id="401157">%null%</text>
+<text id="401158">%null%</text>
+<text id="401159">%null%</text>
+<text id="401160">Retrieving data from the DARK SOULS™: REMASTERED game server...</text>
+<text id="401161">%null%</text>
+<text id="401162">%null%</text>
+<text id="401163">%null%</text>
+<text id="401164">%null%</text>
+<text id="401165">Saving data to the DARK SOULS™: REMASTERED game server...</text>
+<text id="401166">%null%</text>
+<text id="401167">%null%</text>
+<text id="401168">%null%</text>
+<text id="401169">%null%</text>
+<text id="401170">Starting in offline mode.
+
+To use online features, check to see 
+if your connection is set up properly, 
+and select Log In from Title Menu.</text>
+<text id="401171">Returning to Title Menu.</text>
+<text id="401201">Unable to connect to the network.
+Please check your network settings.</text>
+<text id="401202">Network status check failed.</text>
+<text id="401400">Unable to start in online mode due to a detected frame rate issue.
+
+Please restart the game after resolving the issue to play online.</text>
+<text id="401502">Your account is currently not permitted to access
+DARK SOULS™: REMASTERED game server services.</text>
+<text id="401503">Failed to log in to the DARK SOULS™: REMASTERED game server.
+Select "OK" to attempt to log in again.</text>
+<text id="401504">An update to the game is available. To use network
+features, please install the update and restart the game.</text>
+<text id="401505">Cannot log in to the DARK SOULS™: REMASTERED game server
+because it has been stopped or is undergoing maintenance.</text>
+<text id="401506">%null%</text>
+<text id="401507">Cheating detected on your account by Valve Anti-Cheat.
+You may no longer utilize services provided by the DARK SOULS™: REMASTERED Servers.</text>
+<text id="401601">Failed to acquire information.
+Select "OK" to try again.</text>
+<text id="401701">Cannot create any more profiles.
+Delete an existing profile and create a new one?
+
+Note: You may create up to 10 profiles.</text>
+<text id="401721">Failed to load save data.
+Save data is corrupted.</text>
+<text id="401722">%null%</text>
+<text id="401723">%null%</text>
+<text id="401724">%null%</text>
+<text id="401725">%null%</text>
+<text id="401726">%null%</text>
+<text id="401727">%null%</text>
+<text id="401728">%null%</text>
+<text id="401729">%null%</text>
+<text id="401730">%null%</text>
+<text id="401731">Failed to initialize character info for online play.
+Select "OK" to try again.</text>
+<text id="401991">An error has occurred.
+Returning to Title Menu.</text>
+<text id="500000">Thank you for playing</text>
+<text id="500001">2018.5.24</text>
+<text id="509999">TERMS OF SERVICE FOR ONLINE SERVICES FOR DARK SOULS™: REMASTERED</text>
+<text id="510000">TERMS OF SERVICE FOR ONLINE SERVICES FOR DARK SOULS™: REMASTERED
+
+These Terms of Service (hereinafter referred to as the "TOS") shall apply to any matters between Players, as defined in the TOS, and FromSoftware, Inc. (hereinafter referred to as the "Company") of the use of online services (hereinafter referred to as the "Services") for the game software, "DARK SOULS" (hereinafter referred to as the "Software") developed by the Company. Players shall use the Services in accordance with the TOS. Should any Player fail to consent to the TOS, such Player may not use the Services. Players shall be deemed to have consented to the TOS when using the Services.</text>
+<text id="510001">Article 1. Scope and Modification of TOS
+1. The Company may, in addition to the TOS, separately notify Players of terms of use, precautions, guidelines and other terms and conditions (hereinafter referred to as "Individual Terms") where appropriate by posting Individual Terms on the official website operated by the Company (hereinafter referred to as the "Website") or through other means. Individual Terms shall constitute part of the TOS, and if any provision of Individual Terms conflicts with the TOS, the provision of Individual Terms shall apply and supersede the TOS.
+2. The Company shall be entitled to modify or revise the TOS and Individual Terms where appropriate from time to time, and in this case, may notify Players of such modification or revision by posting the same on the Website or through other means the Company thinks it reasonable.
+3. If any Player fails to consent to the modification or revision of the TOS and Individual Terms, the Company shall be entitled to have the Player cease or suspend his/her use of the Services.
+4. Players shall be deemed to have consented to the modified or revised the TOS through their continuous use of the Services after the Players have been notified of such modification or revision through any means set forth in Paragraph 1 of this Article.
+5. When Players use the Services, the necessary terms and conditions for the use of STEAM® shall apply.</text>
+<text id="510002">Article 2. Definition of Players
+The term "Player" means a customer who consents to the TOS (in the plural, "Players"). Players less than twenty (20) years of age shall be deemed to have obtained the consent of their parents or other persons who have parental authority when consenting to the TOS.</text>
+<text id="510003">Article 3. Principle of Self-responsibility
+1. Players shall use the Services at their own responsibility, and if any Player causes any loss or damage to another or the Company when using the Services, the Player shall pay damages therefor at his/her own expense and responsibility.
+2. Players shall, when giving and receiving any information or service to and from any third party other than the Company through the Services, be fully liable for any acts and contents incidental thereto. If any Player causes any loss or damage to another or to the Company when giving and receiving any such information or service, the Player shall pay damages therefor at his/her own expense and responsibility.
+3. Players shall, if any problem arises through the Services with any third party other than the Company, deal with and resolve the problem at their own expense and responsibility. The Company shall not be obligated or liable in any way whatsoever for arbitration, dealing, compensation, damages or any other matters with respect to such problem.</text>
+<text id="510004">Article 4. Liability for Fees and Charges
+1. The Services are free of charge; however, Players shall prepare the necessary hardware, lines and any other items for their use of the Services at their own expense and responsibility.
+2. In addition to the preceding paragraph, Players hereby accept that communications charges such as telephone charges, Internet connection charges, electrical charges and other necessary charges for their use of the Services will be incurred, and shall be liable therefor.
+3. Fees for the Software and contents and services provided accompanying the Services will be determined by the Company at its discretion depending on the details and time of such provision.</text>
+<text id="510005">Article 5. Management of Personal Information
+1. For the protection of personal information, Players shall not include information that leads to his/her identification in any information posted or disclosed by him/her through the Services when using the Services.
+2. The Company shall not protect information posted on or disclosed in the Services.</text>
+<text id="510006">Article 6. Ownership of Rights
+1. Any rights in and to the Software and the Services, including intellectual property rights (any and all rights including, but not limited to patent rights, utility model rights, trademark rights, design rights, knowhow, trade secrets and copyrights) shall belong to the Company or the third parties in question.
+2. Players shall not be entitled to alter, adapt, copy, edit, reproduce, distribute, transmit or publish all pieces of information included in the Software and the Services (any and all kinds of information including, but not limited to images, pictures, characters, scenarios, plots, programs, software and ideas) without the prior approval of the Company.
+3. When using the Services, Players shall not have any intellectual property right or claim with respect to data stored on any storage device such as a server for the Services (hereinafter referred to as "Recorded Data"), and Players hereby grant the Company or the third party designated by the Company the right to copy, edit and distribute Recorded Data.</text>
+<text id="510007">Article 7. Outsourcing of Operation of the Services
+The Company shall be entitled to assign to another all or any part of its rights and obligations related to the operation of the Services (including personal information in connection therewith) or outsource to another the operation of all or any part of the Services.</text>
+<text id="510008">Article 8. Suspension of the Services
+1. The Company shall, in cases falling under the following items, suspend any part or all of the Services without prior notice to Players:
+(1) Where any failure or other defect occurs in any of the systems used for the Services (including, but not limited to communication lines, power sources, and any structures where the foregoing is accommodated);
+(2) Where maintenance, inspection, repair or modification work is regularly or urgently carried out on any systems used for the Services;
+(3) Where services for STEAM® cease or are suspended; or
+(4) Otherwise where the Company determines that it is necessary to suspend the Services for operational or technical reasons.
+2. Even if the provision of the Services is delayed or suspended for any of the reasons listed in the items of the preceding paragraph, and thereby any loss or damage is caused to Players or other third parties, the Company shall not be liable therefor in any way whatsoever.</text>
+<text id="510009">Article 9 Discontinuation of Provision of the Services
+1. The Company shall, at any time upon giving prior notice of termination to Players, be entitled to discontinue the provision of all or any part of the Services. In this case, the Company shall notify Players of that fact by posting the same on the Website, by e-mail or through other means the Company thinks reasonable. The notice of termination shall be deemed to have reached all Players upon expiration of thirty (30) days after the Company has started posting such notice on the Website.
+2. The Company shall not be liable in any way whatsoever for any loss or damage caused to Players or other third parties in connection with the discontinuation of provision of the Services.</text>
+<text id="510010">Article 10 Prohibited Matters
+1. No Player shall be entitled to assign to, transfer to, sell to or buy from another, change the name to another's name of, or provide another as pledge or other security with, any of his/her rights held as a Player, and items, characters and saved data within the game related to the Software which are obtained in the Services (including so-called "real money trading").
+2. No Player shall perform any of the following other acts on the Services:
+(1) Playing a game in a manner offensive to other Players;
+(2) Playing a game using falsified data regardless of the circumstances;
+(3) Playing a game in a manner not intended by the Company using any function or failure of the Software or the Services; or
+(4) Performing any other act determined to be inappropriate by the Company or a third party providing any of the systems used for the Services.
+3. With respect to Players who have performed acts prohibited under this Article, the Company or the third party providing any of the systems used for the Services shall be entitled at its discretion to give such Players warnings, delete the Recorded Data of such Players, or have such Players suspend or cease their use of the Services.</text>
+<text id="510011">Article 11 Damages
+1. The Company shall not be liable in any way to Players for any loss or damage caused to Players and third parties due to the Players' use of the Services, nor shall the Company be obligated to pay damages therefor.
+2. With respect to the deletion of the Recorded Data of Players, the cessation or cancellation of Players' registration, or the cessation, suspension or discontinuation of Players' use of the Services by the Company, the Company shall not be obligated to pay any damages for any reason whatsoever.
+3. Even if the Company is liable for damages for any reason, the Company shall not be liable to pay damages of an amount exceeding those for the loss or damage directly caused to Players, nor shall the Company be liable to pay damages for any incidental, indirect, special or future damage, or lost profits.
+4. If any Player causes any loss or damage to other Players or third parties due to his/her use of the Services, the Player shall resolve such issue at his/her own expense and responsibility, and not cause any loss or damage to the Company.
+5. If any Player causes any loss or damage to the Company due to his/her act in violation of the TOS or his/her improper or illegal actions, the Company shall be entitled to make a claim for damages against the Player.</text>
+<text id="510012">Article 12 Disclaimers
+1. Each Player shall, if another makes any inquiry or complaint to him/her in connection with his/her use of the Services, or he/she has any request, question or complaint about another's act, deal with and resolve such issue at his/her own expense and responsibility, and the Company shall not be liable or obligated in any way therefor.
+2. Players shall note that they will avoid using the Services at their discretion in an excessive manner that may disturb their sound lifestyle. The Company shall not be liable in any way for any social, mental or physical damage caused to any Player due to the Player's deviant behavior therefrom.
+3. For conflicts of interests or problems between Players arising in connection with the Players' use of the Services, or for measures taken thereunder by the Company or third parties, the Company shall not be liable in any way whatsoever.
+4. Since there is a possibility for the Services to be unavailable depending on the individual environment of each Player due to the nature of the Services, the Company shall not warrant that the Services will be available in any environment.
+5. The Company shall not warrant in any way that the Services are free of errors or viruses, or otherwise games will progress in a safe manner.</text>
+<text id="510013">Article 13 Governing Law and Dispute Resolution
+The TOS shall, including the execution, validity, interpretation and performance hereof, be governed by the laws and regulations of Japan by all means. If any problem, dispute, difficulty or other issue arises in connection with the Services between any Player and the Company, the Player and the Company shall resolve the issue through consultation in good faith, and in the event of a failure in resolving it through consultation, it shall be subject to the exclusive jurisdiction of the Tokyo District Court in the first instance as agreed upon between the parties.</text>
+<text id="510014">Supplementary Provisions
+The TOS shall come into effect upon sale of the Software.
+The TOS may be modified from time to time.
+The latest information shall be posted on the Website and made referenceable by Players from time to time.</text>
+<text id="510999">DARK SOULS™: REMASTERED End User License Agreement</text>
+<text id="511000">BANDAI NAMCO ENTERTAINMENT
+END USER LICENSE AGREEMENT
+</text>
+<text id="511001">Last Updated: December 19, 2017</text>
+<text id="511002">PLEASE READ THIS AGREEMENT CAREFULLY. BY ACCESSING OR USING OUR GAMES OR SERVICES, YOU AGREE TO BE BOUND BY ALL TERMS DESCRIBED HEREIN AND ALL TERMS INCORPORATED BY REFERENCE. IF YOU DO NOT AGREE TO ALL OF THESE TERMS, DO NOT ACCESS OR USE OUR GAMES OR SERVICES.</text>
+<text id="511003">THIS AGREEMENT CONTAINS, AMONG OTHER THINGS, AN ARBITRATION PROVISION (SECTION 19(a)) AND A CLASS ACTION WAIVER (SECTION 19(b)), WHICH DO NOT APPLY TO YOU IF YOU RESIDE OUTSIDE THE UNITED STATES.</text>
+<text id="511004">If you are a resident of Germany, some specific clauses apply to you. See Sections 7 and 15 for details.
+If you are a resident of the European Union, a specific clause applies to you. See Section 10 for details.
+If you are a resident of Australia, a specific clause applies to you. See Section 15 for details.
+If you are a resident of North, Central, or South America, excluding the United States, a specific clause applies to you. See Section 18 for details.
+If you are a resident of the United States a specific clause applies to you. See Section 19 for details.</text>
+<text id="511005">This End User License Agreement (this "Agreement") is a contract between you and either BANDAI NAMCO Entertainment Inc. (“BNEI”), BANDAI NAMCO Entertainment America Inc. (“BNEA”), BANDAI NAMCO Entertainment Europe S.A.S. (“BNEE”) or BANDAI NAMCO Entertainment Asia Pte Ltd. (“BNE Asia”) as applicable (in either case, "BANDAI NAMCO", "us", "we" or "our") and applies to your access to, and use of, the game in which this Agreement appears (or if posted online, the game referenced above), including, without limitation, any multi-player, online, or downloadable portions thereof and any related written or electronic documentation or content (the “Game”). The Game is licensed, and not sold, and this Agreement confers no title or ownership to the Game or any copy thereof. This Agreement does not alter in any way the terms or conditions of any other agreement you may have with BANDAI NAMCO for other products or services. Any changes, additions, or deletions by you are not acceptable, and are hereby expressly rejected by BANDAI NAMCO.</text>
+<text id="511006">Additional terms provided by us (including, but not limited to, posted fees, billing procedures, and promotion rules) may apply to particular functionalities and features that are part of the Game. Unless otherwise indicated, any additional applicable terms are incorporated by reference into this Agreement. In the event of a conflict between this Agreement and any additional terms, the additional terms shall govern with respect to such particular functionalities and features.</text>
+<text id="511007">1. 	CONTRACTING PARTY. The BANDAI NAMCO entity with which you are entering into a contractual relationship with depends on your place of residence. If you are a resident of North, Central, or South America, this Agreement is between you and BNEA. If you are a resident of Asia (excluding Japan), this Agreement is between you and BNE Asia. If you are a resident of anywhere else, this Agreement is between you and BNEE.</text>
+<text id="511008">2. 	PRIVACY. Data collected through this Game is held by BNEI in Japan. For more information, please refer to BNEI’s Privacy Policy (which will be shown after this Agreement) for information about how we collect, use, and disclose such data.</text>
+<text id="511009">3. 	PRECONDITIONS OF THE LICENSES. The licenses granted in this Agreement are specifically conditioned upon the following and your full compliance with all other terms and conditions set forth in this Agreement:
+a)	You have reached the age of majority in your jurisdiction. If you are under the age of majority in your jurisdiction, your parent or legal guardian must agree to be bound by this Agreement and any applicable additional terms;
+b)	You agree to and comply with all of the terms in this Agreement, and any additional terms as may be applicable to the Game;
+c)	Your access and use of the Game is subject to certain security measures, including, without limitation, registering the Game with a serial code, having continuous access to the Internet, and accepting certain security/digital rights management features. Failure to accept and fully-comply with such security measures may partially or completely impair your use of the Game.
+d)	Your access and use of the Game is in accordance with all applicable local, state, national, and foreign laws and regulations.
+e)	You access and use the Game only on local machines, running validly licensed copies of operating systems on which the Game was designed to operate (the “Hardware”);
+f)	You have accepted and are in compliance with all terms and conditions applicable to the Hardware, including any terms of such platform regarding the checkout process.</text>
+<text id="511010">4. 	LIMITED USE LICENSE.
+a)	Subject to the terms of this Agreement and your compliance with these terms, we grant you a nonexclusive, nontransferable, limited license to use the Game for the term of the Agreement in your country of residence, on Hardware that you own or exclusively control and solely as permitted by the applicable platform usage rules or terms of use (if any). Any updates, supplements or replacements to the original Game are governed by this Agreement unless separate license terms accompany such update.
+b)	The preceding states the entirety of your rights with respect to the Game, and we reserve all rights in and to the Game not expressly granted to you in this Agreement. Without limiting the foregoing, you will not do, or authorize or permit any third party to do, any of the following: (i) distribute, copy, license, rent, or sell the Game (except as expressly permitted by this license or the applicable platform usage rules); (ii) use the Game for any purpose other than your own personal, noncommercial use; (iii) reverse engineer, decompile, disassemble, or attempt to discover the source code for the Game; (iv) modify, alter, or create any derivative works of the Game; (v) remove, alter, or obscure any copyright, trademark, or other proprietary rights notice on or in the Game; (vi) use the Game for purposes for which it is not designed; (vii) use the Game on any Hardware that you do not own or exclusively control; (viii) circumvent, or attempt to circumvent, any security measures in the Game; or (ix) attempt to obscure or mask your region when accessing any online features of the Game.</text>
+<text id="511011">5. 	OWNERSHIP. The Game and all content (other than User Content, as defined below) and other materials in the Game or available through the Game, including, without limitation, the BANDAI NAMCO logo, and all designs, text, graphics, pictures, information, data, software, sound files, Game Currency, Virtual Items, other files and the selection and arrangement thereof are the property of BANDAI NAMCO or its licensors and are protected by copyright and other intellectual property laws and treaties. Notwithstanding any provision to the contrary herein, you agree that you have no right or title in or to any content that appears in the Game, including without limitation any Game Currency and Virtual Items.</text>
+<text id="511012">6. 	TERM.
+a)	Subject to your satisfaction of the preconditions set forth in Section 3, this Agreement will remain in full force and effect while you use the Game. Either party may terminate this Agreement with or without cause at any time with reasonable prior notice. You may terminate this Agreement by deleting or destroying all copies of the Game in your possession, custody, or control. BANDAI NAMCO shall not be liable to you or any third party for termination of your use of the Game.
+b)	Without limiting any other rights of BANDAI NAMCO, if you fail to comply with the terms and conditions of this Agreement, BANDAI NAMCO retains the right to immediately limit, suspend, or terminate your license to the Game.
+c)	Upon termination of this Agreement: (i) your license to the Game shall cease immediately; and (ii) you will not be entitled to a refund of any fees, including any unused fees, if any, except for Purchased Game Currency refunded as required by applicable law.
+d)	Sections 4(b), 5, 6(d), 8, 11, 14-23 shall survive termination of this Agreement.</text>
+<text id="511013">7. 	AMENDMENTS. BANDAI NAMCO reserves the right to change or modify this Agreement at any time and for any reason at BANDAI NAMCO’s sole discretion. If BANDAI NAMCO makes changes to this Agreement, we will provide one month prior notice of such changes, such as by providing notice through the Game. Your continued use of the Game after the effective date of such changes will confirm your acceptance of the revised Agreement.
+
+If you are a resident of Germany, in addition to the above terms in this section, the following additional wording will apply to you:
+
+BANDAI NAMCO reserves the right to change or modify this Agreement at any time, with the exception of the provisions determining the parties' primary contractual obligations hereunder. The parties' primary contractual obligations will not be changed in the manner described in this section. BANDAI NAMCO will inform you of any proposed modification of this Agreement, provide you with the proposed new version of this Agreement and notify you of the date when the new Agreement will be implemented. Any change is subject to a prior written (e-mail sufficient) notice of six weeks. If you do not expressly refuse the respective modification within six weeks from the date on which the new Agreement is implemented, you are deemed to have approved the modification of the Agreement. In the aforementioned notice of the proposed modification, BANDAI NAMCO will inform you expressly and specifically about the right to object within the six week period and the consequences of not expressly refusing the proposed modification.</text>
+<text id="511014">8. 	MODIFICATION OF THE GAME.
+a) BANDAI NAMCO reserves the right to modify or discontinue, temporarily or permanently, the Game or any features or portions thereof with prior reasonable notice and, in case of emergency or if absolutely necessary, without prior notice. You agree that BANDAI NAMCO will not be liable for any modification, suspension, or discontinuance of the Game or any part thereof.
+b) The Game is in beta. Your right to access and use the Game is limited in time to a period determined by BANDAI NAMCO in its sole discretion (the “Beta Period”).
+i) From time to time, BANDAI NAMCO, in its sole discretion, may modify, impose limits on, restrict, suspend, terminate, or discontinue the Game or any aspect of the Game and your access to and use thereof, including resetting your play data, without any notice or liability to you. Modifications may include automatic software updates, upgrades, or removal of content or services that may cause a loss of data, content, functionality, or utility.
+ii) The Game may contain defects, and a primary purpose of licensing the Game under this Agreement is for BANDAI NAMCO to obtain feedback on Game performance and identify defects. BANDAI NAMCO is under no obligation to provide technical support to you under the terms of this Agreement and provides no assurance that any specific errors or discrepancies in the Game will be corrected. You agree that, to the extent permitted by applicable law, BANDAI NAMCO is not liable for any loss of data, content, function, or utility or damage to your computer, data, and/or software. Your access to and use of the Game are entirely at your own risk.
+iii) You agree to cooperate with BANDAI NAMCO's requests related to your access to and use of the Game, including BANDAI NAMCO’s requests to report any bugs and other issues that you discover in or related to the Game.
+iv) You agree that you will not reveal or disclose any suggestions, feedback, or non-public data or information related to the Game (including, but not limited to, information about images, gameplay, or bugs in the Game) to any third parties without BANDAI NAMCO’s prior written consent.
+v) At any time during the Beta Period, BANDAI NAMCO, in its sole discretion, may reset your play data (level, item) without any notice or liability to you.</text>
+<text id="511015">9. 	IN-GAME CURRENCY AND VIRTUAL ITEMS.
+a)	BANDAI NAMCO may offer you the ability to: (i) purchase a limited license to use in-game currency (“Purchased Game Currency”); (ii) earn a limited license to use in-game currency by performing specified tasks in the Game (together with the Purchased Game Currency, “Game Currency”); and/or (iii) earn a limited license, and/or purchase a limited license with Game Currency, to virtual goods and services made available by BANDAI NAMCO in the Game (“Virtual Items”). If BANDAI NAMCO offers the ability to purchase or earn such licenses, BANDAI NAMCO shall grant you a non-exclusive, non-transferable, revocable, limited right and license to use such Game Currency or Virtual Items, as applicable, for your personal, non-commercial use exclusively in the Game, subject to the terms of this Agreement and your compliance therewith.
+b)	Game Currency may only be redeemed for Virtual Items for use in the Game and neither Game Currency nor Virtual Items are redeemable for money, any thing of monetary value, or for any monetary equivalent from BANDAI NAMCO or any other person or entity, except as otherwise required by applicable law. Game Currency and Virtual Items do not have an equivalent value in real currency and do not act as a substitute for real currency. Neither BANDAI NAMCO nor any other person or entity has any obligation to exchange Game Currency or Virtual Items for anything of value, including, but not limited to, real currency. You acknowledge and agree that BANDAI NAMCO may engage in actions that may impact the in-game attributes or perceived value of Game Currency and/or Virtual Items at any time, except as prohibited by applicable law. BANDAI NAMCO, in its sole discretion, may impose limits on the amount of Game Currency that may be purchased, earned, or redeemed.
+c)	All purchases of Purchased Game Currency are final and are not refundable, transferable, or exchangeable under any circumstances, except as otherwise required by applicable law.  Except for the purchase price of Purchased Game Currency and certain Virtual Items, BANDAI NAMCO does not charge any fees for the access, use, or non-use of Game Currency or Virtual Items.
+d)	You may not transfer, sell, gift, exchange, trade, lease, sublicense, or rent Game Currency or Virtual Items except in the Game and as expressly permitted by BANDAI NAMCO. Except as otherwise agreed herein, BANDAI NAMCO reserves and retains all rights, title, and interest in and to the Game Currency and Virtual Items.
+e)	The licenses granted hereunder to Game Currency and Virtual Items will terminate upon termination of this Agreement in accordance with Section 6, except as otherwise provided herein.</text>
+<text id="511016">10. 	RIGHT OF WITHDRAWAL. If you are a resident of a member state of the European Union, you have certain withdrawal rights for purchases of Game Currency or Virtual Items made with real currency. However, you expressly waive your withdrawal right once the performance of the service begins when your account is provided access to the Game Currency or Virtual Items. You agree that: (i) download of Game Currency or Virtual Items begins immediately after purchase; and (ii) you lose your right of withdrawal once the purchase is complete.</text>
+<text id="511017">11. 	USER CONTENT. By posting any communication, information, intellectual property, material, messages, photos, graphics, videos, URLs, and other items or content to the Game (“User Content”), to the extent permitted by applicable local law, you hereby grant BANDAI NAMCO a non-exclusive, royalty-free, fully transferable and sub-licensable worldwide license for the whole duration of the applicable legal protection of intellectual rights to use the User Content in connection with the Game and related goods and services including the rights to reproduce, copy, adapt, modify, perform, create derivative works from, display, publish, broadcast, transmit, or otherwise use, distribute, exploit and communicate to the public by any and all means and media whether now known or hereafter devised without any further notice or compensation of any kind to you. To the extent permitted by applicable law, you hereby waive any moral rights of paternity, publication, reputation, or attribution with respect to BANDAI NAMCO’s and other players’ use and enjoyment of such assets in connection with the Game and related goods and services under applicable law. The license grant to BANDAI NAMCO survives any termination or revocation of this Agreement.</text>
+<text id="511018">12. 	ONLINE CONDUCT. Unless through the intentional fault or gross negligence of BANDAI NAMCO, BANDAI NAMCO is not responsible or liable for the conduct of any users, whether or not such conduct relates to the access or use of the Game. BANDAI NAMCO may suspend or terminate your access to the Game at any time if you violate the terms of this Section 12 or any other terms and conditions of this Agreement. BANDAI NAMCO may (for example in response to a claim from a copyright owner) review any User Content that is uploaded, published, stored, or displayed on the Game (hereinafter, "posted") provided that in the case of User Content shared as a part of any private message within the Game, BANDAI NAMCO will not screen or review such content unless at least one party to the communication grants its consent (e.g. by reporting the message to BANDAI NAMCO as objectionable). BANDAI NAMCO reserves the right to delete or refuse to take online any User Content. Although BANDAI NAMCO does not regularly screen, edit, or monitor any of the User Content posted on the Game, BANDAI NAMCO reserves the right, and has absolute discretion, to remove, screen, or edit any User Content posted through the Game if BANDAI NAMCO determines in its reasonable discretion that such User Content violates this Agreement and/or any third party right, applicable law, rule, or regulation. You may not use the Game if you have previously been suspended or removed from the Game. You are solely responsible for any User Content that you post or transmit to any users or third parties. Specifically, you agree not to do, attempt to do, or cause another to do any of the following in connection with the Game:
+
+a)	post any User Content that is unlawful, libelous, defamatory, offensive, obscene, pornographic, indecent, vulgar, lewd, sexually explicit, harassing, threatening, invasive of privacy or publicity rights, abusive, inflammatory, or fraudulent; promotes or encourages any illegal or other antisocial activity, including hacking; promotes racism, bigotry, hatred, or physical or other harm of any kind against any group or individual or is otherwise objectionable;
+b)	post any User Content that may infringe any patent, trademark, trade secret, copyright, or other intellectual or proprietary right of any person or entity;
+c)	engage in commercial activities or commercial sales, including transmission of any commercial advertisements or solicitations;
+d)	enter, disclose or disseminate any personal information about anyone (including you);
+e)	impersonate any person or entity, including any BANDAI NAMCO officials, forum leaders, guides, hosts, employees, or agents, or falsely state or otherwise misrepresent your affiliation with a person or entity;
+f)	impede or disrupt the Game or the normal flow of Game play or dialogue or use vulgar language, abusiveness, excessive shouting (e.g., ALL CAPS), “spamming,” or any other disruptive or detrimental methods that disturb other users of the Game;
+g)	use or exploit any bugs, errors, or design flaws to obtain unauthorized access to the Game, to gain an unfair advantage over other players, or to cheat or utilize unauthorized exploits in connection with the Game, including but not limited to accessing portions of the Game that you are not authorized to access and using any bots, emulators, or other unauthorized third party tools;
+h)	do anything that interferes with the ability of other users to enjoy playing the Game in accordance with its rules or that materially increases the expense or difficulty of BANDAI NAMCO or the platform provider in maintaining the Game for the enjoyment of all its users.
+i)	intentionally disconnect from the network during online play or allow yourself to be defeated by a given player repeatedly to help boost their rankings or win counts in the Game.
+j)	trade, sell, auction, or otherwise transfer or attempt to transfer any Virtual Items or Game Currency outside the Game;
+k)	otherwise violates the terms of this Agreement, other policies communicated by BANDAI NAMCO, or creates liability for BANDAI NAMCO.</text>
+<text id="511019">13. 	COPYRIGHT POLICY. Copyright owners or agents of copyright owners who believe that anything in the Game infringes upon any copyright owned or controlled by them, may submit a notification of such infringement with our designated Copyright Agent as set forth below. The processing of your notification can be expedited by providing the information and declarations set out in 17 U.S.C. §512(c)(3). Compliance with this statute is not a prerequisite for infringement notification except for copyright owners located in the United States. Any person who knowingly misrepresents in a notification that the material or activity is infringing, may be liable for any damages, including costs and attorneys’ fees, incurred by us or the alleged infringer as the result of our relying upon such misrepresentation in removing or disabling access to the accused material or activity. BANDAI NAMCO has adopted a policy of terminating, in appropriate circumstances and at BANDAI NAMCO’s sole discretion, users who are repeat infringers of the intellectual property rights of third parties. Provided however that, BANDAI NAMCO also may limit or terminate access to the Game of any users who infringe any intellectual property rights of others, whether or not there is any repeat infringement.
+
+BANDAI NAMCO Entertainment Inc.
+Attn: Copyright Agent
+5-37-8 Shiba, Minato-ku,
+Tokyo 108-0014
+Japan
++81-3-6744-6112 (phone)
++81-3-6866-0577 (fax)
+copyrightagent@bandainamcoent.co.jp</text>
+<text id="511020">14. 	THIRD PARTY CONTENT. Content from any users, advertisers, and other third parties may be made available to you through the Game. Because we do not control third party content, you agree that unless due to intentional fault or gross negligence of BANDAI NAMCO, we are not responsible for any third party content, make no guarantees about the accuracy or quality of the information in third party content; and assume no responsibility for unintended, objectionable, inaccurate, misleading, or unlawful third party content. Reference to any products, services, processes or other information, by trade name, trademark, manufacturer, supplier or otherwise does not constitute or imply endorsement, sponsorship or recommendation thereof, or any affiliation therewith, by BANDAI NAMCO, except where expressly stated by BANDAI NAMCO.</text>
+<text id="511021">15. 	DISCLAIMER. YOU ACKNOWLEDGE AND AGREE THAT BANDAI NAMCO AND ITS LICENSORS AND SUPPLIERS ARE NOT RESPONSIBLE OR LIABLE FOR ANY VIRUSES OR OTHER DISABLING FEATURES THAT AFFECT YOUR ACCESS TO OR USE OF THE GAME OR ANY INCOMPATIBILITY AMONG THE GAME, OTHER SERVICES, AND HARDWARE. THE GAME AND ALL OTHER SERVICES ARE PROVIDED “AS IS.” EXCEPT AS MIGHT BE DESCRIBED HEREIN, BANDAI NAMCO AND ITS LICENSORS AND SUPPLIERS EXPRESSLY DISCLAIM ALL WARRANTIES OR CONDITIONS OF ANY KIND (EXPRESS OR IMPLIED AND ARISING BY LAW OR OTHERWISE) INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE.
+Some jurisdictions do not allow the disclaimer of implied terms nor the exclusion or limitation of warranties or guarantees in contracts with consumers, so some or all of the disclaimers in this section may not apply to you.
+
+If you are a resident of Australia, in addition to the above terms in this section, the following additional wording will apply to you:
+This Section 15 does not intend to limit or reduce any mandatory or statutory consumers’ rights or remedies that apply under the laws of your local jurisdiction. To the extent permitted by law, the conditions and warranties implied by the Schedule 2 of the Competition and Consumer Act 2010 (Cth) (the Australian Consumer Law) are entirely excluded from this Agreement, and to the extent that they may not be excluded, you acknowledge that the liability of BANDAI NAMCO is limited to, and acknowledge that, it is fair and reasonable so to limit BANDAI NAMCO’s liability to:
+(i)	the supplying of the Game again; or
+(ii)	the payment of the cost of having the Game supplied again.
+
+If you are a resident of Germany, in addition to the above terms in this section, the following additional wording will apply to you:
+To the extent any services are provided against a fee, the following applies: BANDAI NAMCO warrants that the Game will operate materially as specified in the applicable documentation or product description. In the event of any defect, BANDAI NAMCO will provide subsequent performance by either removing the defect (e.g. by providing a patch) or providing a new version of the service that does not have the defect, within a reasonable time period allowing for at least three attempts at subsequent performance. If subsequent performance definitely fails, you may exercise your other statutory rights, provided however that BANDAI NAMCO’s no-fault liability for initial defects under sec. 536a para 1. of the German Civil Code is excluded in any event.</text>
+<text id="511022">16. 	INTERNET. YOU ACKNOWLEDGE AND AGREE THAT BANDAI NAMCO IS NOT RESPONSIBLE OR LIABLE FOR ANY DELAYS OR FAILURES YOU MAY EXPERIENCE IN INITIATING, CONDUCTING, OR COMPLETING ANY TRANSMISSIONS OR TRANSACTIONS IN CONNECTION WITH THE GAME IN AN ACCURATE OR TIMELY MANNER. Further, BANDAI NAMCO cannot and does not promise or ensure that you will be able to access the online, multi-player, or downloadable portions of the Game whenever you want, and there may be extended periods of time when you cannot access such portions of the Game. BANDAI NAMCO does not ensure continuous, error-free, secure, or virus-free operation of any online, multi-player, or downloadable portions of the Game or continued operation or availability of any given server.</text>
+<text id="511023">17. 	LIMITATION ON LIABILITY. EXCEPT FOR (1) DEATH OR PERSONAL INJURY CAUSED BY BANDAI NAMCO’S NEGLIGENCE, (2) FRAUD OR FRAUDULENT MISREPRESENTATION BY BANDAI NAMCO, (3) INTENTIONAL ACTS OR GROSS NEGLIGENCE OF BANDAI NAMCO, (4) LOSS OR DESTRUCTION OF TANGIBLE PERSONAL PROPERTY CAUSED BY THE USE OF THE GAME, AND (5) ANY OTHER LIABILITY WHICH CANNOT BE LIMITED OR EXCLUDED BY APPLICABLE LAW, IN NO EVENT SHALL BANDAI NAMCO OR ITS SUBSIDIARIES, AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, AND OTHER PARTNERS AND SUPPLIERS BE LIABLE FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR ANY OTHER DAMAGES INCLUDING BUT NOT LIMITED TO LOSS OF USE, LOSS OF PROFITS, WHETHER IN AN ACTION IN CONTRACT, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE USE OF OR INABILITY TO USE THE GAME OR THE CONTENT CONTAINED IN OR ACCESSED THROUGH THE GAME OR THE FAILURE TO PROVIDE SUPPORT SERVICES. IN THE EVENT OF SLIGHT OR ORDINARY NEGLIGENCE, OR BREACH OF BANDAI NAMCO’S ESSENTIAL OBLIGATIONS UNDER THIS AGREEMENT, BANDAI NAMCO’S LIABILITY SHALL BE LIMITED TO DIRECT AND FORESEEABLE DAMAGES SUFFERED BY YOU. IN NO EVENT SHALL THE AGGREGATE LIABILITY OF BANDAI NAMCO, WHETHER IN CONTRACT, WARRANTY, TORT, PRODUCT LIABILITY, STRICT LIABILITY, INTELLECTUAL PROPERTY INFRINGEMENT OR OTHER THEORY, ARISING OUT OF OR RELATING TO THE USE OF OR INABILITY TO USE THE GAME OR TO THESE TERMS EXCEED ONE HUNDRED DOLLARS ($100) OR, IF HIGHER, THE AMOUNT PAID BY YOU TO BANDAI NAMCO FOR YOUR USE OF THE GAME. THIS SECTION 17 DOES NOT LIMIT ANY MANDATORY OR STATUTORY GUARANTEES THAT CANNOT BE LIMITED BY CONTRACT UNDER THE LAWS OF YOUR LOCAL JURISDICTION.</text>
+<text id="511024">18. 	DISPUTE RESOLUTION.
+THIS SECTION 18 APPLIES TO YOU ONLY IF YOU RESIDE IN NORTH, CENTRAL, AND SOUTH AMERICA, OTHER THAN THE UNITED STATES.
+
+If you are a resident of any nation of the Americas, other than the United States of America, either you or BNEA may refer any dispute relating to or arising from this Agreement or the Game to alternative dispute resolution (such as conciliation or arbitration) with the prior written consent of the other party. Notwithstanding the foregoing, the terms of this Agreement will not prevent you from bringing any dispute or claim that may be subject to this Section 18: (i) to the attention of any federal, state, or local government agencies that can, if the law allows, seek relief from BNEA on your behalf; (ii) bringing against BNEA, in any court of competent jurisdiction, any claim that is not arbitrable or for which arbitration is prohibited or restricted by applicable law; or (iii) from bringing any claim before a small claims court, subject to the jurisdictional limitations and requirements of such small claims court.</text>
+<text id="511025">19. 	DISPUTE RESOLUTION.
+THIS SECTION 19 APPLIES TO YOU ONLY IF YOU RESIDE IN THE UNITED STATES.
+
+If you are a resident of the United States of America, by accepting the terms of this Agreement, you and BNEA: (i) agree to resolve certain disputes through mandatory binding arbitration, as set forth in Section 19(a), and each subpart thereof (collectively, the “Arbitration Agreement”); and (ii) expressly waive the right to a trial by jury or to participate in any class action brought against the other party, pursuant to Section 19(b) (the “Class Action Waiver”); unless (iii) you exercise your right to opt out of the Arbitration Agreement and/or the Class Action Waiver, as set forth in Section 19(c).
+a)	MANDATORY, BINDING ARBITRATION. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, YOU AND BNEA: (i) ACKNOWLEDGE AND AGREE TO RESOLVE ALL DISPUTES AND CLAIMS BETWEEN YOU AND BNEA THROUGH BINDING ARBITRATION, PURSUANT TO THE FEDERAL ARBITRATION ACT, INCLUDING WITHOUT LIMITATION (EXCEPT AS EXPRESSLY SET FORTH IN SECTION 19.a.iii) ANY DISPUTES OR CLAIMS BASED ON LEGAL THEORIES OF BREACH OF CONTRACT, TORTIOUS INJURY, STATUTORY VIOLATIONS, FRAUD, UNFAIR COMPETITION, RIGHTS OF PRIVACY, MISREPRESENTATION, OR ANY OTHER LEGAL THEORY, THAT MAY ARISE OUT OF OR RELATE TO ANY ASPECT OF THE RELATIONSHIP BETWEEN YOU AND BNEA, ANY TERM OR PROVISION OF THIS AGREEMENT, OR YOUR ACCESS TO OR USE OF THE GAME (EACH, A “CLAIM”); (ii) EXPRESSLY AND IRREVOCABLY WAIVE ANY RIGHT TO PURSUE ANY CLAIMS IN COURT OR TO HAVE ANY CLAIMS HEARD OR TRIED BEFORE A JUDGE OR JURY; (iii) SHALL NOT BRING OR PARTICIPATE IN A CLASS OR REPRESENTATIVE ARBITRATION AGAINST THE OTHER PARTY, EVEN IF OTHERWISE PERMITTED BY THE FEDERAL ARBITRATION ACT; AND (iv) SHALL NOT SEEK TO CONSOLIDATE OR COMBINE ANY ARBITRATION OF ANY CLAIM BY YOU OR BNEA WITH ANY ACTION OR ARBITRATION BROUGHT BY OR AGAINST ANY THIRD PARTY, WITHOUT THE EXPRESS WRITTEN CONSENT OF EACH SUCH THIRD PARTY AND BOTH PARTIES TO THIS AGREEMENT. UNLESS YOU SUBMIT A PROPER OPT OUT NOTICE (IN STRICT COMPLIANCE WITH SECTION 19(c)), YOU AND BNEA AGREE THAT ANY CLAIMS AGAINST THE OTHER PARTY WILL ONLY BE CONDUCTED THROUGH MANDATORY, BINDING ARBITRATION.
+i)	Pre-Arbitration Informal Dispute Resolution. Prior to initiating arbitration of any Claim subject to this Arbitration Agreement, you and BNEA agree to make reasonable, good faith efforts to informally resolve any dispute or Claim between you and BNEA. The party seeking to raise such dispute or Claim shall send to the other party a written notice describing the nature and basis of such dispute or Claim and identifying the relief sought. All such written notices to BNEA must be sent via first class mail to: BANDAI NAMCO Entertainment America Inc., Attn: Legal &amp; Business Affairs Department, 2051 Mission College Blvd., Santa Clara, CA 95054, USA. If you and BNEA do not agree to resolve such dispute or Claim within 30 days after such written notice is received, the party seeking to raise such dispute or Claim may initiate an arbitration action against the other, as permitted by the Arbitration Agreement, above.
+ii)	Arbitration Procedure. Arbitration is a legally-binding process, through which a party may seek legal remedies from or against another party, similar to a legal action brought before a court, but that generally imposes fewer strict procedural formalities, is held before a third party, neutral arbitrator (instead of before a judge or jury), provides for more limited discovery and potentially reduced legal fees for each party, and is subject to limited review by courts. The procedure for arbitration of any Claim under this Arbitration Agreement will be governed by the Commercial Arbitration Rules of the American Arbitration Association (“AAA”) and, where applicable, the AAA’s Supplementary Procedures for Consumer Related Disputes, both of which are available at: http://www.adr.org. Notwithstanding the foregoing, you and BNEA agree that any such arbitration will be conducted in English, and permit the electronic submission of documents and allow participation by phone or by teleconference, or in person, at a mutually agreed location.
+iii)	Excluded Claims. Notwithstanding the foregoing, the terms of this Arbitration Agreement will not prevent you or BNEA from bringing any Claim: (i) to the attention of any federal, state, or local government agencies with the governmental authority and competent jurisdiction to seek relief on your or BNEA’s behalf, from the other party; or (ii) before a small claims court, subject to the jurisdictional limitations and requirements of such small claims court.
+iv)	Severability of Arbitration Agreement. You and BNEA agree that, no provision of this Arbitration Agreement shall be enforceable against you or BNEA and all Claims shall be governed by Sections 20(a) and 21(a), below, in the event either: (i) a court of competent jurisdiction conclusively determines that any term or provision of this Arbitration Agreement is unenforceable, prohibited by applicable law, or inapplicable to any Claim; or (ii) you submit a proper Opt Out Notice (in compliance with Section 19(c)), wherein you have expressed your election to opt out of this Arbitration Agreement.
+b)	CLASS ACTION WAIVER. IF YOU ARE A RESIDENT OF THE UNITED STATES OF AMERICA, BY ACCEPTING THE TERMS OF THIS AGREEMENT, YOU AND BNEA HEREBY AGREE: (i) THAT EACH CLAIM IS PERSONAL TO YOU AND BNEA, AND SHALL ONLY BE CONDUCTED AS AN INDIVIDUAL ARBITRATION (OR AN INDIVIDUAL COURT PROCEEDING, WITH RESPECT TO CLAIMS EXCLUDED FROM THE ARBITRATION AGREEMENT, PURSUANT TO SECTION 19.a.iii) AND NOT AS A CLASS ACTION OR OTHER FORM OF REPRESENTATIVE ACTION; (ii) EXPRESSLY WAIVE ANY RIGHT TO FILE OR PARTICIPATE IN A CLASS ACTION OR SEEK RELIEF ON A CLASS OR REPRESENTATIVE BASIS; AND (iii) THE ARBITRATOR (OR COURT, WITH RESPECT TO CLAIMS EXCLUDED FROM THE ARBITRATION AGREEMENT, PURSUANT TO SECTION 19.a.iii) MAY ONLY CONDUCT AN INDIVIDUAL ARBITRATION (OR COURT ACTION, WITH RESPECT TO CLAIMS EXCLUDED FROM THE ARBITRATION AGREEMENT, PURSUANT TO SECTION 19.a.iii), MAY NOT CONSOLIDATE MORE THAN ONE INDIVIDUAL’S CLAIMS, AND MAY NOT PRESIDE OVER ANY FORM OF REPRESENTATIVE OR CLASS PROCEEDING RELATING TO SUCH CLAIMS. UNLESS YOU SUBMIT A PROPER OPT OUT NOTICE (AS DESCRIBED IN SECTION 19(c)), YOU AND BNEA AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING.
+i)	Severability of Class Action Waiver. You and BNEA agree that, no provision of this Class Action Waiver shall be enforceable against you or BNEA and all Claims shall be governed by Sections 20(a) and 21(a), below, in the event either: (i) a court of competent jurisdiction conclusively determines that any term or provision of this Class Action Waiver is unenforceable, prohibited by applicable law, or inapplicable to any Claim; or (ii) you submit a proper Opt Out Notice (in compliance with Section 19(c)), wherein you have elected to opt out of this Class Action Waiver. In no event may the severance of the Class Action Waiver be interpreted or deemed to constitute consent by you or BNEA to participate in a class action or class arbitration.
+c)	OPT OUT PROCEDURE. You have the right to opt out and not be bound by the foregoing Arbitration Agreement and Class Action Waiver, by sending a written notice of your election to opt out from such Arbitration Agreement and/or Class Action Waiver (the “Opt Out Notice”), in strict compliance with the following requirements of Sections 19.c.i – 19.c.iii:
+i)	Form &amp; Address. Your Opt Out Notice must be sent to the following address: BANDAI NAMCO Entertainment America Inc., ATTN: Legal &amp; Business Affairs, 2051 Mission College Blvd., Santa Clara, CA 95054, USA, and either by: (i) first class mail, postage prepaid, certified and return receipt requested; or (ii) overnight courier service (such as Federal Express).
+ii)	Time Limitations. Unless a longer period is required by applicable law, your Opt Out Notice must be postmarked (if sent by first class mail) or deposited (if sent by overnight courier service) within: (i) 30 days of your purchase of your copy of the Game; or (ii) if no purchase was made, then within 30 days of the date on which you first accessed or used your copy of the Game.
+iii)	Required Information. Your Opt Out Notice must include: (i) the title of the specific Game to which your Opt Out Notice is intended to apply; (ii) your first and last name; (iii) your address; (iv) your phone number; (v) your email address; (vi) if you are a registered user of the Game or any other BNEA product or service, each of your usernames for the Game and such other BNEA products and services; and (vii) a statement that you do not agree to the Arbitration Agreement and/or to the Class Action Waiver. BNEA may use the foregoing information included in the Opt Out Notice to record, process, maintain, and administer your opting out of the Arbitration Agreement and/or Class Action Waiver, as applicable, but not for marketing purposes.
+iv)	Effects of Proper Opt Out Notice. If your Opt Out Notice meets all of the above requirements, you and BNEA will be deemed to have opted out of the Arbitration Agreement and/or Class Action Waiver, subject to your statement in such Opt Out Notice, with respect to this Agreement. Submission of a valid Opt Out Notice applies only to Claims arising from or relating to the Game and Agreement identified therein, as between BNEA and the individual identified in such Opt Out Notice.
+v)	Effects of Improper Opt Out Notice. If you submit an Opt Out Notice that fails to meet any of the requirements set forth in Sections 19.c.i – 19.c.iii, you and BNEA will be bound by the Arbitration Agreement and Class Action Waiver set forth in this Agreement.</text>
+<text id="511026">20. 	GOVERNING LAW.
+To the extent required by applicable law, all terms and provisions of this Agreement shall be governed and construed in accordance with all applicable mandatory laws, even if inconsistent with the governing law set forth in this Section 20 and in no event shall the application, interpretation, or enforcement of the terms of this Agreement, under any jurisdictional law contemplated by this Section 20 exclude, limit, or otherwise restrict any rights vested with you, as a consumer, under any applicable consumer protection laws. Please note that your conduct may also be subject to other local, state, national, and international laws. The parties agree that the UN Convention on Contracts for the International Sale of Goods shall not apply to any dispute or transaction arising out of this Agreement.
+a)	If you reside in North, Central, or South America:
+The laws of the State of California, excluding its conflicts-of-law rules, govern the application, interpretation, or enforcement of the terms of this Agreement and your use of the Game.
+b)	If you reside in Asia (excluding Japan):
+Any dispute between the parties arising from or relating to this Agreement, will be governed by this Agreement and the laws of Singapore, without giving effect to any conflict of laws principles that may provide for the application of the law of another jurisdiction.
+c)	If you reside in any other location:
+Any dispute between the parties arising from or relating to this Agreement, will be governed by this Agreement and the laws of France, without giving effect to any conflict of laws principles that may provide for the application of the law of another jurisdiction.</text>
+<text id="511027">21. 	VENUE.
+a)	If you reside in North, Central, or South America:
+You and BNEA expressly agree that, for all claims and disputes arising out of or relating to this Agreement and/or your use of the Game that are not subject to the Arbitration Agreement in Section 19, above, exclusive jurisdiction for any such claim or action shall be the federal or state courts that govern Santa Clara County, California, and you expressly consent to the exercise of personal jurisdiction of such courts.
+b)	If you reside in Asia (excluding Japan):
+Any dispute between the parties arising from or relating to this Agreement shall be decided by the State Courts of Singapore, and you and BNE Asia agree to submit to the exclusive jurisdiction of that court.
+c)	If you reside in any other location:
+Any dispute between the parties arising from or relating to this Agreement shall be decided by the Commercial Court of Lyon, and you and BNEE agree to submit to the personal jurisdiction of that court.</text>
+<text id="511028">22. 	THIRD-PARTY BENEFICIARIES. Any person or entity who is not a party to this Agreement shall have no rights under any law to enforce any terms of this Agreement, regardless of whether such person or entity has been identified by name. Nothing in this section shall affect the rights of any permitted assignee or transferee of this Agreement.</text>
+<text id="511029">23. 	MISCELLANEOUS. This Agreement contains the entire agreement between you and BANDAI NAMCO regarding the use of the Game. If any provision of this Agreement is held invalid or unenforceable, the remainder of this Agreement shall continue in full force and effect for the remainder of the term, or as otherwise set forth in Section 7(d), except if such provision deprives the Agreement from its essential obligations. You may not assign this Agreement or any of its rights under this Agreement without the prior written consent of BANDAI NAMCO, and any attempted assignment without such consent shall be void. Subject to the foregoing restriction, this Agreement will be fully binding upon, inure to the benefit of, and be enforceable by us and our respective successors and assigns. The failure of BANDAI NAMCO to exercise or enforce any right or provision of this Agreement shall not operate as a waiver of such right or provision. The section titles in this Agreement are for convenience only and have no legal or contractual effect.</text>
+<text id="511030">To contact BNEA, please contact BNEA’s customer support line at https://www.bandainamcoent.com/support or by writing to BNEA at: BANDAI NAMCO Entertainment America Inc., 2051 Mission College Blvd., Santa Clara, CA 95054, USA.
+To contact BNEE, please contact BNEE through BNEE customer service at http://www.bandainamcoent.eu/support or BANDAI NAMCO Entertainment Europe S.A.S., 49/51 rue des Docks, CS 90618 – 69258 LYON CEDEX 09 – France.
+To contact BNE Asia, please contact BNE Asia through BNE Asia customer service at https://www.bandainamcoent.com.sg/support.</text>
+<text id="519999">no translation needed</text>
+<text id="520000">no translation needed</text>
+<text id="520001">no translation needed</text>
+<text id="520002">no translation needed</text>
+<text id="520003">no translation needed</text>
+<text id="520004">no translation needed</text>
+<text id="520005">no translation needed</text>
+<text id="520006">no translation needed</text>
+<text id="520007">no translation needed</text>
+<text id="520008">no translation needed</text>
+<text id="520099">no translation needed</text>
+<text id="520100">no translation needed</text>
+<text id="520101">no translation needed</text>
+<text id="520102">no translation needed</text>
+<text id="520103">no translation needed</text>
+<text id="520104">no translation needed</text>
+<text id="520105">no translation needed</text>
+<text id="520106">no translation needed</text>
+<text id="520107">no translation needed</text>
+<text id="520108">no translation needed</text>
+<text id="520999">DARK SOULS™: REMASTERED Privacy Policy</text>
+<text id="521000">BANDAI NAMCO ENTERTAINMENT INC.
+PRIVACY POLICY</text>
+<text id="521001">Last Updated: June 20, 2017</text>
+<text id="521002">This Privacy Policy explains how information about you is collected, used and disclosed by BANDAI NAMCO Entertainment Inc. (“BNEI”, “us”, “we” or “our”), when you use our websites, games, mobile applications and other online products and services (collectively, the “Services”) or when you otherwise interact with us. This Privacy Policy applies only to the information we collect about users of our Services.</text>
+<text id="521003">We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the Privacy Policy and, in some cases, we may provide you with additional notice (such as by adding a statement to the homepage of our Services or sending you a notification). If you do not agree to the changes, please do not use our Services or otherwise provide us with your personal information. We encourage you to review the Privacy Policy whenever you access the Services to stay informed about our information practices and the ways you can help protect your privacy.</text>
+<text id="521004">I. 	Collection of Information</text>
+<text id="521005">Information You Provide to Us</text>
+<text id="521006">We collect information you provide directly to us. For example, we collect information when you create an account, interact with other users, request customer support, sign up to receive newsletters, participate in surveys or otherwise communicate with us. The types of information we may collect include your username, password, email address and any other information you choose to provide.</text>
+<text id="521007">Information We Collect from Hardware's Network</text>
+<text id="521008">Type of Information: account ID, online ID</text>
+<text id="521009">Purpose of Collection: Account Management</text>
+<text id="521010">Who the Data may be Shared: FromSoftware, Inc.</text>
+<text id="521011">Where the Information is Stored: Japan</text>
+<text id="521012">Information We Collect Automatically When You Use the Services</text>
+<text id="521013">When you access or use our Services, we automatically collect information about you, including:</text>
+<text id="521014">	Usage Information: We collect information about your use of our Services, including gaming service ID, levels completed, game scores, time spent using our Services, and other game play information.</text>
+<text id="521015">	Log Information: We log information about your use of our Services, including your browser type and language, access times, pages viewed, your IP address and the website you visited before navigating to our Services.</text>
+<text id="521016">	Hardware Information: We may collect information about the computer or device you use to access our Services, including the hardware model, operating system and version, browser,  MAC address, IP address, and other unique device identifiers made available by the operating system of your device.</text>
+<text id="521017">	Information Collected by Cookies and Other Tracking Technologies: We use various technologies to collect information, and this may include sending cookies to your computer or mobile device. Cookies are small data files stored on your computer hard drive or in device memory that help us to improve our Services and your experience, see which areas and features of our Services are popular and count visits. We use the following cookies:</text>
+<text id="521018">o	Strictly necessary cookies. These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website.</text>
+<text id="521019">o	Analytical/performance cookies. They allow us to recognize and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.</text>
+<text id="521020">o	Functionality cookies. These are used to recognize you when you return to our website. This enables us to personalize our content for you, greet you by name and remember your preferences (for example, your choice of language or region).</text>
+<text id="521021">We may also collect information using web beacons (also known as “tracking pixels”). In contrast to cookies, web beacons are embedded invisibly on webpages and may not be disabled or controlled through your browser. For more information about cookies, and how to disable them, please see “Your Choices” below.</text>
+<text id="521022">Information We Collect From Other Sources</text>
+<text id="521023">We may also obtain information from other sources as far as it is necessary to perform our Services, and combine that with information we collect through our Services. In all other cases we will ask you to authorize us to collect, store, and use personal information from third parties. For instance, we may collect game ranking and achievement status from your console or mobile operating system game center application. Additionally, when you complete in-app purchases, we may collect information about you from the provider of your device operating system when they process the purchases on our behalf. Please note that we do not receive your payment method information from the operating system providers.</text>
+<text id="521024">II. 	Use of Information</text>
+<text id="521025">We (or a third party data processor on our behalf) may collect, store and use information about you for the following purposes for the periods necessary to achieve such purposes:</text>
+<text id="521026">	Provide, maintain and improve our Services;</text>
+<text id="521027">	Provide and deliver the products and services you request, process transactions and send you related information;</text>
+<text id="521028">	Register you for an account on our Services and assist in the management of your account;</text>
+<text id="521029">	Restore game play information associated with a particular game if that game was previously deleted and later reinstalled on the same device;</text>
+<text id="521030">	Respond to your comments, questions and requests and provide customer service;</text>
+<text id="521031">	Send you technical notices, updates, security alerts and support and administrative messages;</text>
+<text id="521032">	Communicate with you about products, services, offers, promotions, rewards, and events offered by BNEI and others, and provide news, information and other marketing materials that we think will be of interest to you;</text>
+<text id="521033">	Monitor and analyze trends, usage and activities in connection with our Services;</text>
+<text id="521034">	Process and deliver contest entries and rewards promoted by BNEI;</text>
+<text id="521035">	Personalize and improve the Services and provide in-Service advertisements, content or features that match user profiles or interests;</text>
+<text id="521036">	Link or combine with information we get from others to help understand your needs and provide you with better service;</text>
+<text id="521037">	Detect, investigate and/or prevent fraudulent, unauthorized or illegal activity;</text>
+<text id="521038">	For any other purpose required or authorized for us to comply with our legal and regulatory obligations;</text>
+<text id="521039">	For any other purpose for which you provided the information.</text>
+<text id="521040">III. 	Sharing of Information</text>
+<text id="521041">We do not share, sell, transfer or otherwise exchange your personal information with third parties, unless required for the provision of our products or services, otherwise in accordance with this Privacy Policy, or permitted by law or unless you have given us express consent. In compliance with the aforementioned we may share information about you as follows or as otherwise described in this Privacy Policy:</text>
+<text id="521042">	With other users if you choose to participate in the interactive areas of our Services, such as community forums (the use of personal data (such as your full name) as a username in our services is strictly prohibited);</text>
+<text id="521043">	With our employees, affiliates, related companies, vendors, consultants and other third party service providers who need access to such information to carry out work on our behalf (including, for example, payment processors, website hosting services, or information storage and processing service providers);</text>
+<text id="521044">	In response to legal process or a request for information if disclosure is in accordance with, or as otherwise required by, any applicable law, rule, or regulation (including, for example government or regulatory bodies, law enforcement, or courts of law);</text>
+<text id="521045">	If we have reasonable grounds to believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of BNEI, our users or others;</text>
+<text id="521046">	In connection with any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company;</text>
+<text id="521047">	With your consent or at your direction.</text>
+<text id="521048">We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.</text>
+<text id="521049">IV. 	 Advertising and Analytics Services Provided by Others</text>
+<text id="521050">We may allow others to provide analytics services on our behalf and to serve advertisements within our Services. These entities may use technologies to automatically collect information about your device and your use of our Services, including IP address, device ID, time spent on pages within our Services, and links clicked within our Services. This information may be used by us and others to, among other things, maintain and analyze the functioning of our Services and deliver contextual or targeted advertising that may be of interest to you. The use of your information by these third parties is covered by their respective privacy policies, and we do not control and are not responsible for the privacy practices of third parties.</text>
+<text id="521051">V. 	Social Sharing Feature</text>
+<text id="521052">The Services may offer social sharing features or other integrated tools, which let you share actions you take on the Services with other social media, and vice versa. The use of such features enables the sharing of certain personal information with your friends or the public, depending on the settings you establish with the third party that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the third parties that provide these features.</text>
+<text id="521053">VI. 	Security</text>
+<text id="521054">We take reasonable technical and organizational measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction. However, no transmission over the internet can ever be guaranteed secure so we cannot guarantee the security of any personal information that you transfer over the internet to us.</text>
+<text id="521055">VII. 	Storing and deleting data</text>
+<text id="521056">All information collected is being stored in our data centers located in Japan. Personal data is being stored and deleted in compliance with privacy requirements. All data will be de-identified or deleted if no longer required for the purposes mentioned above, unless further retention is required by law.</text>
+<text id="521057">VIII. 	International Transfers</text>
+<text id="521058">Personal information that we collect from you is usually transferred, stored and processed in Japan.
+Please be aware that we may transfer your personal information to locations outside of your country which may not offer the same level of data protection as your country’s laws. However, our collection, storage and use of your personal data will continue to be governed by this Privacy Policy, and where we do disclose your personal data to third parties located overseas, we take such steps as are reasonable in the circumstances to ensure it is used in accordance with this Privacy Policy. You acknowledge that by providing us with your personal information, you consent to such overseas disclosure. By consenting to such disclosure, you acknowledge that to the extent permitted by law, BNEI will not be liable, and you will not be able to seek redress against BNEI, for any breach of your privacy by the overseas recipient.</text>
+<text id="521059">IX. 	Third Party Sites</text>
+<text id="521060">This website contains links to other websites operated by third parties. Please note that this Privacy Policy applies only to the personal information that we collect through this website and we cannot be responsible for personal information that third parties may collect, store and use through their website. You should always read the privacy policy of each website you visit carefully.</text>
+<text id="521061">X. 	Your Choices</text>
+<text id="521062">Cookies</text>
+<text id="521063">Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. If you would like more information from an independent resource on a range of cookie-related issues, including how to change your browser settings, please visit www.allaboutcookies.org.</text>
+<text id="521064">How to Control Cookies</text>
+<text id="521065">Generally, you can delete all the cookies already stored on your computer. You can also set most browsers to disable cookies. To do so, you shall modify your browser settings. In your browser, the Help section of your browser will provide you any information you need for managing cookies. In that case you might have to proceed to manual settings of some preferences for each time you visit the website. Managing cookies may prevent you from having access to some site functions or features. For information on how to manage cookie options in your browser settings, please visit http://www.allaboutcookies.org/manage-cookies/.
+
+Removing or rejecting browser cookies does not necessarily affect third party flash cookies used in connection with our Services. To delete or disable flash cookies please visit http://www.macromedia.com/support/documentation/en/flashplayer/help/help02.html for more information.
+
+Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.</text>
+<text id="521066">Promotional Communications</text>
+<text id="521067">Only with your prior opt-in may we send you promotional messages. You may opt out of receiving them at any time by following the instructions in those messages. If you opt out, we may still send you transactional or relationship messages, but only about our ongoing business relations and with no promotional content.</text>
+<text id="521068">Access Rights</text>
+<text id="521069">You, and your legal guardian if you are a minor, have the following rights in relation to any personal information that we hold about you:</text>
+<text id="521070">	The right to review or to ask us to provide you with copies of personal information that we hold about you at any time, subject to a fee specified by law;</text>
+<text id="521071">	The right to ask us to update and correct any out-of-date or incorrect personal information that we hold about you free of charge;</text>
+<text id="521072">	The right to ask us to cease collecting, processing, using, or to delete, personal information that we hold about you, provided that we may refuse to do if required to by law;</text>
+<text id="521073">	The right to object to unlawful processing of personal information that we hold about you;</text>
+<text id="521074">	The right to opt out of any marketing communications that we (or any third party to whom we have disclosed your personal information with your consent) may send you.</text>
+<text id="521075">If you have such a request, you may address your requests to ppolicy@bandainamcoent.co.jp.</text>
+<text id="521076">If you have a BANDAI NAMCO ID, and wish view or to delete your account, sign into your BANDAI NAMCO ID and follow the instructions on https://www.bandainamcoid.com/portal/resign. Once you delete your account, you will no longer be able to access the BANDAI NAMCO ID services.</text>
+<text id="521077">If you refuse to provide your personal information or request we delete or cease collecting your personal information, you may not be able to use all or some parts of our Services.</text>
+<text id="521078">XI. 	Complaints</text>
+<text id="521079">If you have any concerns that your personal information may have been compromised or wish to make a complaint about the handling of your personal information, please contact us at ppolicy@bandainamcoent.co.jp setting out the nature of your complaint. We will investigate your complaint and endeavour to provide you with a response within a reasonable time of receipt.</text>
+<text id="521080">If, after receiving our response, you still consider that your privacy complaint has not been resolved, you may refer your complaint to a relevant regulatory or government body in your jurisdiction.</text>
+<text id="521081">XII. 	Contact</text>
+<text id="521082">If you have any questions about this Privacy Policy or our practices, please contact us at:
+
+BANDAI NAMCO Entertainment Inc.
+Attn: Contact for Personal Information Matter
+5-37-8 Shiba
+Minato-ku, Tokyo 108-0014
+Japan
++81-3-6744-6112 (phone)
+ppolicy@bandainamcoent.co.jp</text>
+<text id="599999">TERMS OF SERVICE FOR ONLINE SERVICES FOR DARK SOULS™: REMASTERED</text>
+<text id="600000">TERMS OF SERVICE FOR ONLINE SERVICES FOR DARK SOULS™: REMASTERED
+
+These Terms of Service (hereinafter referred to as the "TOS") shall apply to any matters between Players, as defined in the TOS, and FromSoftware, Inc. (hereinafter referred to as the "Company") of the use of online services (hereinafter referred to as the "Services") for the game software, "DARK SOULS" (hereinafter referred to as the "Software") developed by the Company. Players shall use the Services in accordance with the TOS. Should any Player fail to consent to the TOS, such Player may not use the Services. Players shall be deemed to have consented to the TOS when using the Services.</text>
+<text id="600001">Article 1. Scope and Modification of TOS
+1. The Company may, in addition to the TOS, separately notify Players of terms of use, precautions, guidelines and other terms and conditions (hereinafter referred to as "Individual Terms") where appropriate by posting Individual Terms on the official website operated by the Company (hereinafter referred to as the "Website") or through other means. Individual Terms shall constitute part of the TOS, and if any provision of Individual Terms conflicts with the TOS, the provision of Individual Terms shall apply and supersede the TOS.
+2. The Company shall be entitled to modify or revise the TOS and Individual Terms where appropriate from time to time, and in this case, may notify Players of such modification or revision by posting the same on the Website or through other means the Company thinks it reasonable.
+3. If any Player fails to consent to the modification or revision of the TOS and Individual Terms, the Company shall be entitled to have the Player cease or suspend his/her use of the Services.
+4. Players shall be deemed to have consented to the modified or revised the TOS through their continuous use of the Services after the Players have been notified of such modification or revision through any means set forth in Paragraph 1 of this Article.
+5. When Players use the Services, the necessary terms and conditions for the use of STEAM® shall apply.</text>
+<text id="600002">Article 2. Definition of Players
+The term "Player" means a customer who consents to the TOS (in the plural, "Players"). Players less than twenty (20) years of age shall be deemed to have obtained the consent of their parents or other persons who have parental authority when consenting to the TOS.</text>
+<text id="600003">Article 3. Principle of Self-responsibility
+1. Players shall use the Services at their own responsibility, and if any Player causes any loss or damage to another or the Company when using the Services, the Player shall pay damages therefor at his/her own expense and responsibility.
+2. Players shall, when giving and receiving any information or service to and from any third party other than the Company through the Services, be fully liable for any acts and contents incidental thereto. If any Player causes any loss or damage to another or to the Company when giving and receiving any such information or service, the Player shall pay damages therefor at his/her own expense and responsibility.
+3. Players shall, if any problem arises through the Services with any third party other than the Company, deal with and resolve the problem at their own expense and responsibility. The Company shall not be obligated or liable in any way whatsoever for arbitration, dealing, compensation, damages or any other matters with respect to such problem.</text>
+<text id="600004">Article 4. Liability for Fees and Charges
+1. The Services are free of charge; however, Players shall prepare the necessary hardware, lines and any other items for their use of the Services at their own expense and responsibility.
+2. In addition to the preceding paragraph, Players hereby accept that communications charges such as telephone charges, Internet connection charges, electrical charges and other necessary charges for their use of the Services will be incurred, and shall be liable therefor.
+3. Fees for the Software and contents and services provided accompanying the Services will be determined by the Company at its discretion depending on the details and time of such provision.</text>
+<text id="600005">Article 5. Management of Personal Information
+1. For the protection of personal information, Players shall not include information that leads to his/her identification in any information posted or disclosed by him/her through the Services when using the Services.
+2. The Company shall not protect information posted on or disclosed in the Services.</text>
+<text id="600006">Article 6. Ownership of Rights
+1. Any rights in and to the Software and the Services, including intellectual property rights (any and all rights including, but not limited to patent rights, utility model rights, trademark rights, design rights, knowhow, trade secrets and copyrights) shall belong to the Company or the third parties in question.
+2. Players shall not be entitled to alter, adapt, copy, edit, reproduce, distribute, transmit or publish all pieces of information included in the Software and the Services (any and all kinds of information including, but not limited to images, pictures, characters, scenarios, plots, programs, software and ideas) without the prior approval of the Company.
+3. When using the Services, Players shall not have any intellectual property right or claim with respect to data stored on any storage device such as a server for the Services (hereinafter referred to as "Recorded Data"), and Players hereby grant the Company or the third party designated by the Company the right to copy, edit and distribute Recorded Data.</text>
+<text id="600007">Article 7. Outsourcing of Operation of the Services
+The Company shall be entitled to assign to another all or any part of its rights and obligations related to the operation of the Services (including personal information in connection therewith) or outsource to another the operation of all or any part of the Services.</text>
+<text id="600008">Article 8. Suspension of the Services
+1. The Company shall, in cases falling under the following items, suspend any part or all of the Services without prior notice to Players:
+(1) Where any failure or other defect occurs in any of the systems used for the Services (including, but not limited to communication lines, power sources, and any structures where the foregoing is accommodated);
+(2) Where maintenance, inspection, repair or modification work is regularly or urgently carried out on any systems used for the Services;
+(3) Where services for STEAM® cease or are suspended; or
+(4) Otherwise where the Company determines that it is necessary to suspend the Services for operational or technical reasons.
+2. Even if the provision of the Services is delayed or suspended for any of the reasons listed in the items of the preceding paragraph, and thereby any loss or damage is caused to Players or other third parties, the Company shall not be liable therefor in any way whatsoever.</text>
+<text id="600009">Article 9 Discontinuation of Provision of the Services
+1. The Company shall, at any time upon giving prior notice of termination to Players, be entitled to discontinue the provision of all or any part of the Services. In this case, the Company shall notify Players of that fact by posting the same on the Website, by e-mail or through other means the Company thinks reasonable. The notice of termination shall be deemed to have reached all Players upon expiration of thirty (30) days after the Company has started posting such notice on the Website.
+2. The Company shall not be liable in any way whatsoever for any loss or damage caused to Players or other third parties in connection with the discontinuation of provision of the Services.</text>
+<text id="600010">Article 10 Prohibited Matters
+1. No Player shall be entitled to assign to, transfer to, sell to or buy from another, change the name to another's name of, or provide another as pledge or other security with, any of his/her rights held as a Player, and items, characters and saved data within the game related to the Software which are obtained in the Services (including so-called "real money trading").
+2. No Player shall perform any of the following other acts on the Services:
+(1) Playing a game in a manner offensive to other Players;
+(2) Playing a game using falsified data regardless of the circumstances;
+(3) Playing a game in a manner not intended by the Company using any function or failure of the Software or the Services; or
+(4) Performing any other act determined to be inappropriate by the Company or a third party providing any of the systems used for the Services.
+3. With respect to Players who have performed acts prohibited under this Article, the Company or the third party providing any of the systems used for the Services shall be entitled at its discretion to give such Players warnings, delete the Recorded Data of such Players, or have such Players suspend or cease their use of the Services.</text>
+<text id="600011">Article 11 Damages
+1. The Company shall not be liable in any way to Players for any loss or damage caused to Players and third parties due to the Players' use of the Services, nor shall the Company be obligated to pay damages therefor.
+2. With respect to the deletion of the Recorded Data of Players, the cessation or cancellation of Players' registration, or the cessation, suspension or discontinuation of Players' use of the Services by the Company, the Company shall not be obligated to pay any damages for any reason whatsoever.
+3. Even if the Company is liable for damages for any reason, the Company shall not be liable to pay damages of an amount exceeding those for the loss or damage directly caused to Players, nor shall the Company be liable to pay damages for any incidental, indirect, special or future damage, or lost profits.
+4. If any Player causes any loss or damage to other Players or third parties due to his/her use of the Services, the Player shall resolve such issue at his/her own expense and responsibility, and not cause any loss or damage to the Company.
+5. If any Player causes any loss or damage to the Company due to his/her act in violation of the TOS or his/her improper or illegal actions, the Company shall be entitled to make a claim for damages against the Player.</text>
+<text id="600012">Article 12 Disclaimers
+1. Each Player shall, if another makes any inquiry or complaint to him/her in connection with his/her use of the Services, or he/she has any request, question or complaint about another's act, deal with and resolve such issue at his/her own expense and responsibility, and the Company shall not be liable or obligated in any way therefor.
+2. Players shall note that they will avoid using the Services at their discretion in an excessive manner that may disturb their sound lifestyle. The Company shall not be liable in any way for any social, mental or physical damage caused to any Player due to the Player's deviant behavior therefrom.
+3. For conflicts of interests or problems between Players arising in connection with the Players' use of the Services, or for measures taken thereunder by the Company or third parties, the Company shall not be liable in any way whatsoever.
+4. Since there is a possibility for the Services to be unavailable depending on the individual environment of each Player due to the nature of the Services, the Company shall not warrant that the Services will be available in any environment.
+5. The Company shall not warrant in any way that the Services are free of errors or viruses, or otherwise games will progress in a safe manner.</text>
+<text id="600013">Article 13 Governing Law and Dispute Resolution
+The TOS shall, including the execution, validity, interpretation and performance hereof, be governed by the laws and regulations of Japan by all means. If any problem, dispute, difficulty or other issue arises in connection with the Services between any Player and the Company, the Player and the Company shall resolve the issue through consultation in good faith, and in the event of a failure in resolving it through consultation, it shall be subject to the exclusive jurisdiction of the Tokyo District Court in the first instance as agreed upon between the parties.</text>
+<text id="600014">Supplementary Provisions
+The TOS shall come into effect upon sale of the Software.
+The TOS may be modified from time to time.
+The latest information shall be posted on the Website and made referenceable by Players from time to time.</text>
+<text id="600999">DARK SOULS™: REMASTERED End User License Agreement</text>
+<text id="601000">BANDAI NAMCO ENTERTAINMENT
+END USER LICENSE AGREEMENT
+</text>
+<text id="601001">Last Updated: December 19, 2017</text>
+<text id="601002">PLEASE READ THIS AGREEMENT CAREFULLY. BY ACCESSING OR USING OUR GAMES OR SERVICES, YOU AGREE TO BE BOUND BY ALL TERMS DESCRIBED HEREIN AND ALL TERMS INCORPORATED BY REFERENCE. IF YOU DO NOT AGREE TO ALL OF THESE TERMS, DO NOT ACCESS OR USE OUR GAMES OR SERVICES.</text>
+<text id="601003">THIS AGREEMENT CONTAINS, AMONG OTHER THINGS, AN ARBITRATION PROVISION (SECTION 19(a)) AND A CLASS ACTION WAIVER (SECTION 19(b)), WHICH DO NOT APPLY TO YOU IF YOU RESIDE OUTSIDE THE UNITED STATES.</text>
+<text id="601004">If you are a resident of Germany, some specific clauses apply to you. See Sections 7 and 15 for details.
+If you are a resident of the European Union, a specific clause applies to you. See Section 10 for details.
+If you are a resident of Australia, a specific clause applies to you. See Section 15 for details.
+If you are a resident of North, Central, or South America, excluding the United States, a specific clause applies to you. See Section 18 for details.
+If you are a resident of the United States a specific clause applies to you. See Section 19 for details.</text>
+<text id="601005">This End User License Agreement (this "Agreement") is a contract between you and either BANDAI NAMCO Entertainment Inc. (“BNEI”), BANDAI NAMCO Entertainment America Inc. (“BNEA”), BANDAI NAMCO Entertainment Europe S.A.S. (“BNEE”) or BANDAI NAMCO Entertainment Asia Pte Ltd. (“BNE Asia”) as applicable (in either case, "BANDAI NAMCO", "us", "we" or "our") and applies to your access to, and use of, the game in which this Agreement appears (or if posted online, the game referenced above), including, without limitation, any multi-player, online, or downloadable portions thereof and any related written or electronic documentation or content (the “Game”). The Game is licensed, and not sold, and this Agreement confers no title or ownership to the Game or any copy thereof. This Agreement does not alter in any way the terms or conditions of any other agreement you may have with BANDAI NAMCO for other products or services. Any changes, additions, or deletions by you are not acceptable, and are hereby expressly rejected by BANDAI NAMCO.</text>
+<text id="601006">Additional terms provided by us (including, but not limited to, posted fees, billing procedures, and promotion rules) may apply to particular functionalities and features that are part of the Game. Unless otherwise indicated, any additional applicable terms are incorporated by reference into this Agreement. In the event of a conflict between this Agreement and any additional terms, the additional terms shall govern with respect to such particular functionalities and features.</text>
+<text id="601007">1. 	CONTRACTING PARTY. The BANDAI NAMCO entity with which you are entering into a contractual relationship with depends on your place of residence. If you are a resident of North, Central, or South America, this Agreement is between you and BNEA. If you are a resident of Asia (excluding Japan), this Agreement is between you and BNE Asia. If you are a resident of anywhere else, this Agreement is between you and BNEE.</text>
+<text id="601008">2. 	PRIVACY. Data collected through this Game is held by BNEI in Japan. For more information, please refer to BNEI’s Privacy Policy (which will be shown after this Agreement) for information about how we collect, use, and disclose such data.</text>
+<text id="601009">3. 	PRECONDITIONS OF THE LICENSES. The licenses granted in this Agreement are specifically conditioned upon the following and your full compliance with all other terms and conditions set forth in this Agreement:
+a)	You have reached the age of majority in your jurisdiction. If you are under the age of majority in your jurisdiction, your parent or legal guardian must agree to be bound by this Agreement and any applicable additional terms;
+b)	You agree to and comply with all of the terms in this Agreement, and any additional terms as may be applicable to the Game;
+c)	Your access and use of the Game is subject to certain security measures, including, without limitation, registering the Game with a serial code, having continuous access to the Internet, and accepting certain security/digital rights management features. Failure to accept and fully-comply with such security measures may partially or completely impair your use of the Game.
+d)	Your access and use of the Game is in accordance with all applicable local, state, national, and foreign laws and regulations.
+e)	You access and use the Game only on local machines, running validly licensed copies of operating systems on which the Game was designed to operate (the “Hardware”);
+f)	You have accepted and are in compliance with all terms and conditions applicable to the Hardware, including any terms of such platform regarding the checkout process.</text>
+<text id="601010">4. 	LIMITED USE LICENSE.
+a)	Subject to the terms of this Agreement and your compliance with these terms, we grant you a nonexclusive, nontransferable, limited license to use the Game for the term of the Agreement in your country of residence, on Hardware that you own or exclusively control and solely as permitted by the applicable platform usage rules or terms of use (if any). Any updates, supplements or replacements to the original Game are governed by this Agreement unless separate license terms accompany such update.
+b)	The preceding states the entirety of your rights with respect to the Game, and we reserve all rights in and to the Game not expressly granted to you in this Agreement. Without limiting the foregoing, you will not do, or authorize or permit any third party to do, any of the following: (i) distribute, copy, license, rent, or sell the Game (except as expressly permitted by this license or the applicable platform usage rules); (ii) use the Game for any purpose other than your own personal, noncommercial use; (iii) reverse engineer, decompile, disassemble, or attempt to discover the source code for the Game; (iv) modify, alter, or create any derivative works of the Game; (v) remove, alter, or obscure any copyright, trademark, or other proprietary rights notice on or in the Game; (vi) use the Game for purposes for which it is not designed; (vii) use the Game on any Hardware that you do not own or exclusively control; (viii) circumvent, or attempt to circumvent, any security measures in the Game; or (ix) attempt to obscure or mask your region when accessing any online features of the Game.</text>
+<text id="601011">5. 	OWNERSHIP. The Game and all content (other than User Content, as defined below) and other materials in the Game or available through the Game, including, without limitation, the BANDAI NAMCO logo, and all designs, text, graphics, pictures, information, data, software, sound files, Game Currency, Virtual Items, other files and the selection and arrangement thereof are the property of BANDAI NAMCO or its licensors and are protected by copyright and other intellectual property laws and treaties. Notwithstanding any provision to the contrary herein, you agree that you have no right or title in or to any content that appears in the Game, including without limitation any Game Currency and Virtual Items.</text>
+<text id="601012">6. 	TERM.
+a)	Subject to your satisfaction of the preconditions set forth in Section 3, this Agreement will remain in full force and effect while you use the Game. Either party may terminate this Agreement with or without cause at any time with reasonable prior notice. You may terminate this Agreement by deleting or destroying all copies of the Game in your possession, custody, or control. BANDAI NAMCO shall not be liable to you or any third party for termination of your use of the Game.
+b)	Without limiting any other rights of BANDAI NAMCO, if you fail to comply with the terms and conditions of this Agreement, BANDAI NAMCO retains the right to immediately limit, suspend, or terminate your license to the Game.
+c)	Upon termination of this Agreement: (i) your license to the Game shall cease immediately; and (ii) you will not be entitled to a refund of any fees, including any unused fees, if any, except for Purchased Game Currency refunded as required by applicable law.
+d)	Sections 4(b), 5, 6(d), 8, 11, 14-23 shall survive termination of this Agreement.</text>
+<text id="601013">7. 	AMENDMENTS. BANDAI NAMCO reserves the right to change or modify this Agreement at any time and for any reason at BANDAI NAMCO’s sole discretion. If BANDAI NAMCO makes changes to this Agreement, we will provide one month prior notice of such changes, such as by providing notice through the Game. Your continued use of the Game after the effective date of such changes will confirm your acceptance of the revised Agreement.
+
+If you are a resident of Germany, in addition to the above terms in this section, the following additional wording will apply to you:
+
+BANDAI NAMCO reserves the right to change or modify this Agreement at any time, with the exception of the provisions determining the parties' primary contractual obligations hereunder. The parties' primary contractual obligations will not be changed in the manner described in this section. BANDAI NAMCO will inform you of any proposed modification of this Agreement, provide you with the proposed new version of this Agreement and notify you of the date when the new Agreement will be implemented. Any change is subject to a prior written (e-mail sufficient) notice of six weeks. If you do not expressly refuse the respective modification within six weeks from the date on which the new Agreement is implemented, you are deemed to have approved the modification of the Agreement. In the aforementioned notice of the proposed modification, BANDAI NAMCO will inform you expressly and specifically about the right to object within the six week period and the consequences of not expressly refusing the proposed modification.</text>
+<text id="601014">8. 	MODIFICATION OF THE GAME. BANDAI NAMCO reserves the right to modify or discontinue, temporarily or permanently, the Game or any features or portions thereof with prior reasonable notice and, in case of emergency or if absolutely necessary, without prior notice. You agree that BANDAI NAMCO will not be liable for any modification, suspension, or discontinuance of the Game or any part thereof.</text>
+<text id="601015">9. 	IN-GAME CURRENCY AND VIRTUAL ITEMS.
+a)	BANDAI NAMCO may offer you the ability to: (i) purchase a limited license to use in-game currency (“Purchased Game Currency”); (ii) earn a limited license to use in-game currency by performing specified tasks in the Game (together with the Purchased Game Currency, “Game Currency”); and/or (iii) earn a limited license, and/or purchase a limited license with Game Currency, to virtual goods and services made available by BANDAI NAMCO in the Game (“Virtual Items”). If BANDAI NAMCO offers the ability to purchase or earn such licenses, BANDAI NAMCO shall grant you a non-exclusive, non-transferable, revocable, limited right and license to use such Game Currency or Virtual Items, as applicable, for your personal, non-commercial use exclusively in the Game, subject to the terms of this Agreement and your compliance therewith.
+b)	Game Currency may only be redeemed for Virtual Items for use in the Game and neither Game Currency nor Virtual Items are redeemable for money, any thing of monetary value, or for any monetary equivalent from BANDAI NAMCO or any other person or entity, except as otherwise required by applicable law. Game Currency and Virtual Items do not have an equivalent value in real currency and do not act as a substitute for real currency. Neither BANDAI NAMCO nor any other person or entity has any obligation to exchange Game Currency or Virtual Items for anything of value, including, but not limited to, real currency. You acknowledge and agree that BANDAI NAMCO may engage in actions that may impact the in-game attributes or perceived value of Game Currency and/or Virtual Items at any time, except as prohibited by applicable law. BANDAI NAMCO, in its sole discretion, may impose limits on the amount of Game Currency that may be purchased, earned, or redeemed.
+c)	All purchases of Purchased Game Currency are final and are not refundable, transferable, or exchangeable under any circumstances, except as otherwise required by applicable law.  Except for the purchase price of Purchased Game Currency and certain Virtual Items, BANDAI NAMCO does not charge any fees for the access, use, or non-use of Game Currency or Virtual Items.
+d)	You may not transfer, sell, gift, exchange, trade, lease, sublicense, or rent Game Currency or Virtual Items except in the Game and as expressly permitted by BANDAI NAMCO. Except as otherwise agreed herein, BANDAI NAMCO reserves and retains all rights, title, and interest in and to the Game Currency and Virtual Items.
+e)	The licenses granted hereunder to Game Currency and Virtual Items will terminate upon termination of this Agreement in accordance with Section 6, except as otherwise provided herein.</text>
+<text id="601016">10. 	RIGHT OF WITHDRAWAL. If you are a resident of a member state of the European Union, you have certain withdrawal rights for purchases of Game Currency or Virtual Items made with real currency. However, you expressly waive your withdrawal right once the performance of the service begins when your account is provided access to the Game Currency or Virtual Items. You agree that: (i) download of Game Currency or Virtual Items begins immediately after purchase; and (ii) you lose your right of withdrawal once the purchase is complete.</text>
+<text id="601017">11. 	USER CONTENT. By posting any communication, information, intellectual property, material, messages, photos, graphics, videos, URLs, and other items or content to the Game (“User Content”), to the extent permitted by applicable local law, you hereby grant BANDAI NAMCO a non-exclusive, royalty-free, fully transferable and sub-licensable worldwide license for the whole duration of the applicable legal protection of intellectual rights to use the User Content in connection with the Game and related goods and services including the rights to reproduce, copy, adapt, modify, perform, create derivative works from, display, publish, broadcast, transmit, or otherwise use, distribute, exploit and communicate to the public by any and all means and media whether now known or hereafter devised without any further notice or compensation of any kind to you. To the extent permitted by applicable law, you hereby waive any moral rights of paternity, publication, reputation, or attribution with respect to BANDAI NAMCO’s and other players’ use and enjoyment of such assets in connection with the Game and related goods and services under applicable law. The license grant to BANDAI NAMCO survives any termination or revocation of this Agreement.</text>
+<text id="601018">12. 	ONLINE CONDUCT. Unless through the intentional fault or gross negligence of BANDAI NAMCO, BANDAI NAMCO is not responsible or liable for the conduct of any users, whether or not such conduct relates to the access or use of the Game. BANDAI NAMCO may suspend or terminate your access to the Game at any time if you violate the terms of this Section 12 or any other terms and conditions of this Agreement. BANDAI NAMCO may (for example in response to a claim from a copyright owner) review any User Content that is uploaded, published, stored, or displayed on the Game (hereinafter, "posted") provided that in the case of User Content shared as a part of any private message within the Game, BANDAI NAMCO will not screen or review such content unless at least one party to the communication grants its consent (e.g. by reporting the message to BANDAI NAMCO as objectionable). BANDAI NAMCO reserves the right to delete or refuse to take online any User Content. Although BANDAI NAMCO does not regularly screen, edit, or monitor any of the User Content posted on the Game, BANDAI NAMCO reserves the right, and has absolute discretion, to remove, screen, or edit any User Content posted through the Game if BANDAI NAMCO determines in its reasonable discretion that such User Content violates this Agreement and/or any third party right, applicable law, rule, or regulation. You may not use the Game if you have previously been suspended or removed from the Game. You are solely responsible for any User Content that you post or transmit to any users or third parties. Specifically, you agree not to do, attempt to do, or cause another to do any of the following in connection with the Game:
+
+a)	post any User Content that is unlawful, libelous, defamatory, offensive, obscene, pornographic, indecent, vulgar, lewd, sexually explicit, harassing, threatening, invasive of privacy or publicity rights, abusive, inflammatory, or fraudulent; promotes or encourages any illegal or other antisocial activity, including hacking; promotes racism, bigotry, hatred, or physical or other harm of any kind against any group or individual or is otherwise objectionable;
+b)	post any User Content that may infringe any patent, trademark, trade secret, copyright, or other intellectual or proprietary right of any person or entity;
+c)	engage in commercial activities or commercial sales, including transmission of any commercial advertisements or solicitations;
+d)	enter, disclose or disseminate any personal information about anyone (including you);
+e)	impersonate any person or entity, including any BANDAI NAMCO officials, forum leaders, guides, hosts, employees, or agents, or falsely state or otherwise misrepresent your affiliation with a person or entity;
+f)	impede or disrupt the Game or the normal flow of Game play or dialogue or use vulgar language, abusiveness, excessive shouting (e.g., ALL CAPS), “spamming,” or any other disruptive or detrimental methods that disturb other users of the Game;
+g)	use or exploit any bugs, errors, or design flaws to obtain unauthorized access to the Game, to gain an unfair advantage over other players, or to cheat or utilize unauthorized exploits in connection with the Game, including but not limited to accessing portions of the Game that you are not authorized to access and using any bots, emulators, or other unauthorized third party tools;
+h)	do anything that interferes with the ability of other users to enjoy playing the Game in accordance with its rules or that materially increases the expense or difficulty of BANDAI NAMCO or the platform provider in maintaining the Game for the enjoyment of all its users.
+i)	intentionally disconnect from the network during online play or allow yourself to be defeated by a given player repeatedly to help boost their rankings or win counts in the Game.
+j)	trade, sell, auction, or otherwise transfer or attempt to transfer any Virtual Items or Game Currency outside the Game;
+k)	otherwise violates the terms of this Agreement, other policies communicated by BANDAI NAMCO, or creates liability for BANDAI NAMCO.</text>
+<text id="601019">13. 	COPYRIGHT POLICY. Copyright owners or agents of copyright owners who believe that anything in the Game infringes upon any copyright owned or controlled by them, may submit a notification of such infringement with our designated Copyright Agent as set forth below. The processing of your notification can be expedited by providing the information and declarations set out in 17 U.S.C. §512(c)(3). Compliance with this statute is not a prerequisite for infringement notification except for copyright owners located in the United States. Any person who knowingly misrepresents in a notification that the material or activity is infringing, may be liable for any damages, including costs and attorneys’ fees, incurred by us or the alleged infringer as the result of our relying upon such misrepresentation in removing or disabling access to the accused material or activity. BANDAI NAMCO has adopted a policy of terminating, in appropriate circumstances and at BANDAI NAMCO’s sole discretion, users who are repeat infringers of the intellectual property rights of third parties. Provided however that, BANDAI NAMCO also may limit or terminate access to the Game of any users who infringe any intellectual property rights of others, whether or not there is any repeat infringement.
+
+BANDAI NAMCO Entertainment Inc.
+Attn: Copyright Agent
+5-37-8 Shiba, Minato-ku,
+Tokyo 108-0014
+Japan
++81-3-6744-6112 (phone)
++81-3-6866-0577 (fax)
+copyrightagent@bandainamcoent.co.jp</text>
+<text id="601020">14. 	THIRD PARTY CONTENT. Content from any users, advertisers, and other third parties may be made available to you through the Game. Because we do not control third party content, you agree that unless due to intentional fault or gross negligence of BANDAI NAMCO, we are not responsible for any third party content, make no guarantees about the accuracy or quality of the information in third party content; and assume no responsibility for unintended, objectionable, inaccurate, misleading, or unlawful third party content. Reference to any products, services, processes or other information, by trade name, trademark, manufacturer, supplier or otherwise does not constitute or imply endorsement, sponsorship or recommendation thereof, or any affiliation therewith, by BANDAI NAMCO, except where expressly stated by BANDAI NAMCO.</text>
+<text id="601021">15. 	DISCLAIMER. YOU ACKNOWLEDGE AND AGREE THAT BANDAI NAMCO AND ITS LICENSORS AND SUPPLIERS ARE NOT RESPONSIBLE OR LIABLE FOR ANY VIRUSES OR OTHER DISABLING FEATURES THAT AFFECT YOUR ACCESS TO OR USE OF THE GAME OR ANY INCOMPATIBILITY AMONG THE GAME, OTHER SERVICES, AND HARDWARE. THE GAME AND ALL OTHER SERVICES ARE PROVIDED “AS IS.” EXCEPT AS MIGHT BE DESCRIBED HEREIN, BANDAI NAMCO AND ITS LICENSORS AND SUPPLIERS EXPRESSLY DISCLAIM ALL WARRANTIES OR CONDITIONS OF ANY KIND (EXPRESS OR IMPLIED AND ARISING BY LAW OR OTHERWISE) INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE.
+Some jurisdictions do not allow the disclaimer of implied terms nor the exclusion or limitation of warranties or guarantees in contracts with consumers, so some or all of the disclaimers in this section may not apply to you.
+
+If you are a resident of Australia, in addition to the above terms in this section, the following additional wording will apply to you:
+This Section 15 does not intend to limit or reduce any mandatory or statutory consumers’ rights or remedies that apply under the laws of your local jurisdiction. To the extent permitted by law, the conditions and warranties implied by the Schedule 2 of the Competition and Consumer Act 2010 (Cth) (the Australian Consumer Law) are entirely excluded from this Agreement, and to the extent that they may not be excluded, you acknowledge that the liability of BANDAI NAMCO is limited to, and acknowledge that, it is fair and reasonable so to limit BANDAI NAMCO’s liability to:
+(i)	the supplying of the Game again; or
+(ii)	the payment of the cost of having the Game supplied again.
+
+If you are a resident of Germany, in addition to the above terms in this section, the following additional wording will apply to you:
+To the extent any services are provided against a fee, the following applies: BANDAI NAMCO warrants that the Game will operate materially as specified in the applicable documentation or product description. In the event of any defect, BANDAI NAMCO will provide subsequent performance by either removing the defect (e.g. by providing a patch) or providing a new version of the service that does not have the defect, within a reasonable time period allowing for at least three attempts at subsequent performance. If subsequent performance definitely fails, you may exercise your other statutory rights, provided however that BANDAI NAMCO’s no-fault liability for initial defects under sec. 536a para 1. of the German Civil Code is excluded in any event.</text>
+<text id="601022">16. 	INTERNET. YOU ACKNOWLEDGE AND AGREE THAT BANDAI NAMCO IS NOT RESPONSIBLE OR LIABLE FOR ANY DELAYS OR FAILURES YOU MAY EXPERIENCE IN INITIATING, CONDUCTING, OR COMPLETING ANY TRANSMISSIONS OR TRANSACTIONS IN CONNECTION WITH THE GAME IN AN ACCURATE OR TIMELY MANNER. Further, BANDAI NAMCO cannot and does not promise or ensure that you will be able to access the online, multi-player, or downloadable portions of the Game whenever you want, and there may be extended periods of time when you cannot access such portions of the Game. BANDAI NAMCO does not ensure continuous, error-free, secure, or virus-free operation of any online, multi-player, or downloadable portions of the Game or continued operation or availability of any given server.</text>
+<text id="601023">17. 	LIMITATION ON LIABILITY. EXCEPT FOR (1) DEATH OR PERSONAL INJURY CAUSED BY BANDAI NAMCO’S NEGLIGENCE, (2) FRAUD OR FRAUDULENT MISREPRESENTATION BY BANDAI NAMCO, (3) INTENTIONAL ACTS OR GROSS NEGLIGENCE OF BANDAI NAMCO, (4) LOSS OR DESTRUCTION OF TANGIBLE PERSONAL PROPERTY CAUSED BY THE USE OF THE GAME, AND (5) ANY OTHER LIABILITY WHICH CANNOT BE LIMITED OR EXCLUDED BY APPLICABLE LAW, IN NO EVENT SHALL BANDAI NAMCO OR ITS SUBSIDIARIES, AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, AND OTHER PARTNERS AND SUPPLIERS BE LIABLE FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR ANY OTHER DAMAGES INCLUDING BUT NOT LIMITED TO LOSS OF USE, LOSS OF PROFITS, WHETHER IN AN ACTION IN CONTRACT, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE USE OF OR INABILITY TO USE THE GAME OR THE CONTENT CONTAINED IN OR ACCESSED THROUGH THE GAME OR THE FAILURE TO PROVIDE SUPPORT SERVICES. IN THE EVENT OF SLIGHT OR ORDINARY NEGLIGENCE, OR BREACH OF BANDAI NAMCO’S ESSENTIAL OBLIGATIONS UNDER THIS AGREEMENT, BANDAI NAMCO’S LIABILITY SHALL BE LIMITED TO DIRECT AND FORESEEABLE DAMAGES SUFFERED BY YOU. IN NO EVENT SHALL THE AGGREGATE LIABILITY OF BANDAI NAMCO, WHETHER IN CONTRACT, WARRANTY, TORT, PRODUCT LIABILITY, STRICT LIABILITY, INTELLECTUAL PROPERTY INFRINGEMENT OR OTHER THEORY, ARISING OUT OF OR RELATING TO THE USE OF OR INABILITY TO USE THE GAME OR TO THESE TERMS EXCEED ONE HUNDRED DOLLARS ($100) OR, IF HIGHER, THE AMOUNT PAID BY YOU TO BANDAI NAMCO FOR YOUR USE OF THE GAME. THIS SECTION 17 DOES NOT LIMIT ANY MANDATORY OR STATUTORY GUARANTEES THAT CANNOT BE LIMITED BY CONTRACT UNDER THE LAWS OF YOUR LOCAL JURISDICTION.</text>
+<text id="601024">18. 	DISPUTE RESOLUTION.
+THIS SECTION 18 APPLIES TO YOU ONLY IF YOU RESIDE IN NORTH, CENTRAL, AND SOUTH AMERICA, OTHER THAN THE UNITED STATES.
+
+If you are a resident of any nation of the Americas, other than the United States of America, either you or BNEA may refer any dispute relating to or arising from this Agreement or the Game to alternative dispute resolution (such as conciliation or arbitration) with the prior written consent of the other party. Notwithstanding the foregoing, the terms of this Agreement will not prevent you from bringing any dispute or claim that may be subject to this Section 18: (i) to the attention of any federal, state, or local government agencies that can, if the law allows, seek relief from BNEA on your behalf; (ii) bringing against BNEA, in any court of competent jurisdiction, any claim that is not arbitrable or for which arbitration is prohibited or restricted by applicable law; or (iii) from bringing any claim before a small claims court, subject to the jurisdictional limitations and requirements of such small claims court.</text>
+<text id="601025">19. 	DISPUTE RESOLUTION.
+THIS SECTION 19 APPLIES TO YOU ONLY IF YOU RESIDE IN THE UNITED STATES.
+
+If you are a resident of the United States of America, by accepting the terms of this Agreement, you and BNEA: (i) agree to resolve certain disputes through mandatory binding arbitration, as set forth in Section 19(a), and each subpart thereof (collectively, the “Arbitration Agreement”); and (ii) expressly waive the right to a trial by jury or to participate in any class action brought against the other party, pursuant to Section 19(b) (the “Class Action Waiver”); unless (iii) you exercise your right to opt out of the Arbitration Agreement and/or the Class Action Waiver, as set forth in Section 19(c).
+a)	MANDATORY, BINDING ARBITRATION. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, YOU AND BNEA: (i) ACKNOWLEDGE AND AGREE TO RESOLVE ALL DISPUTES AND CLAIMS BETWEEN YOU AND BNEA THROUGH BINDING ARBITRATION, PURSUANT TO THE FEDERAL ARBITRATION ACT, INCLUDING WITHOUT LIMITATION (EXCEPT AS EXPRESSLY SET FORTH IN SECTION 19.a.iii) ANY DISPUTES OR CLAIMS BASED ON LEGAL THEORIES OF BREACH OF CONTRACT, TORTIOUS INJURY, STATUTORY VIOLATIONS, FRAUD, UNFAIR COMPETITION, RIGHTS OF PRIVACY, MISREPRESENTATION, OR ANY OTHER LEGAL THEORY, THAT MAY ARISE OUT OF OR RELATE TO ANY ASPECT OF THE RELATIONSHIP BETWEEN YOU AND BNEA, ANY TERM OR PROVISION OF THIS AGREEMENT, OR YOUR ACCESS TO OR USE OF THE GAME (EACH, A “CLAIM”); (ii) EXPRESSLY AND IRREVOCABLY WAIVE ANY RIGHT TO PURSUE ANY CLAIMS IN COURT OR TO HAVE ANY CLAIMS HEARD OR TRIED BEFORE A JUDGE OR JURY; (iii) SHALL NOT BRING OR PARTICIPATE IN A CLASS OR REPRESENTATIVE ARBITRATION AGAINST THE OTHER PARTY, EVEN IF OTHERWISE PERMITTED BY THE FEDERAL ARBITRATION ACT; AND (iv) SHALL NOT SEEK TO CONSOLIDATE OR COMBINE ANY ARBITRATION OF ANY CLAIM BY YOU OR BNEA WITH ANY ACTION OR ARBITRATION BROUGHT BY OR AGAINST ANY THIRD PARTY, WITHOUT THE EXPRESS WRITTEN CONSENT OF EACH SUCH THIRD PARTY AND BOTH PARTIES TO THIS AGREEMENT. UNLESS YOU SUBMIT A PROPER OPT OUT NOTICE (IN STRICT COMPLIANCE WITH SECTION 19(c)), YOU AND BNEA AGREE THAT ANY CLAIMS AGAINST THE OTHER PARTY WILL ONLY BE CONDUCTED THROUGH MANDATORY, BINDING ARBITRATION.
+i)	Pre-Arbitration Informal Dispute Resolution. Prior to initiating arbitration of any Claim subject to this Arbitration Agreement, you and BNEA agree to make reasonable, good faith efforts to informally resolve any dispute or Claim between you and BNEA. The party seeking to raise such dispute or Claim shall send to the other party a written notice describing the nature and basis of such dispute or Claim and identifying the relief sought. All such written notices to BNEA must be sent via first class mail to: BANDAI NAMCO Entertainment America Inc., Attn: Legal &amp; Business Affairs Department, 2051 Mission College Blvd., Santa Clara, CA 95054, USA. If you and BNEA do not agree to resolve such dispute or Claim within 30 days after such written notice is received, the party seeking to raise such dispute or Claim may initiate an arbitration action against the other, as permitted by the Arbitration Agreement, above.
+ii)	Arbitration Procedure. Arbitration is a legally-binding process, through which a party may seek legal remedies from or against another party, similar to a legal action brought before a court, but that generally imposes fewer strict procedural formalities, is held before a third party, neutral arbitrator (instead of before a judge or jury), provides for more limited discovery and potentially reduced legal fees for each party, and is subject to limited review by courts. The procedure for arbitration of any Claim under this Arbitration Agreement will be governed by the Commercial Arbitration Rules of the American Arbitration Association (“AAA”) and, where applicable, the AAA’s Supplementary Procedures for Consumer Related Disputes, both of which are available at: http://www.adr.org. Notwithstanding the foregoing, you and BNEA agree that any such arbitration will be conducted in English, and permit the electronic submission of documents and allow participation by phone or by teleconference, or in person, at a mutually agreed location.
+iii)	Excluded Claims. Notwithstanding the foregoing, the terms of this Arbitration Agreement will not prevent you or BNEA from bringing any Claim: (i) to the attention of any federal, state, or local government agencies with the governmental authority and competent jurisdiction to seek relief on your or BNEA’s behalf, from the other party; or (ii) before a small claims court, subject to the jurisdictional limitations and requirements of such small claims court.
+iv)	Severability of Arbitration Agreement. You and BNEA agree that, no provision of this Arbitration Agreement shall be enforceable against you or BNEA and all Claims shall be governed by Sections 20(a) and 21(a), below, in the event either: (i) a court of competent jurisdiction conclusively determines that any term or provision of this Arbitration Agreement is unenforceable, prohibited by applicable law, or inapplicable to any Claim; or (ii) you submit a proper Opt Out Notice (in compliance with Section 19(c)), wherein you have expressed your election to opt out of this Arbitration Agreement.
+b)	CLASS ACTION WAIVER. IF YOU ARE A RESIDENT OF THE UNITED STATES OF AMERICA, BY ACCEPTING THE TERMS OF THIS AGREEMENT, YOU AND BNEA HEREBY AGREE: (i) THAT EACH CLAIM IS PERSONAL TO YOU AND BNEA, AND SHALL ONLY BE CONDUCTED AS AN INDIVIDUAL ARBITRATION (OR AN INDIVIDUAL COURT PROCEEDING, WITH RESPECT TO CLAIMS EXCLUDED FROM THE ARBITRATION AGREEMENT, PURSUANT TO SECTION 19.a.iii) AND NOT AS A CLASS ACTION OR OTHER FORM OF REPRESENTATIVE ACTION; (ii) EXPRESSLY WAIVE ANY RIGHT TO FILE OR PARTICIPATE IN A CLASS ACTION OR SEEK RELIEF ON A CLASS OR REPRESENTATIVE BASIS; AND (iii) THE ARBITRATOR (OR COURT, WITH RESPECT TO CLAIMS EXCLUDED FROM THE ARBITRATION AGREEMENT, PURSUANT TO SECTION 19.a.iii) MAY ONLY CONDUCT AN INDIVIDUAL ARBITRATION (OR COURT ACTION, WITH RESPECT TO CLAIMS EXCLUDED FROM THE ARBITRATION AGREEMENT, PURSUANT TO SECTION 19.a.iii), MAY NOT CONSOLIDATE MORE THAN ONE INDIVIDUAL’S CLAIMS, AND MAY NOT PRESIDE OVER ANY FORM OF REPRESENTATIVE OR CLASS PROCEEDING RELATING TO SUCH CLAIMS. UNLESS YOU SUBMIT A PROPER OPT OUT NOTICE (AS DESCRIBED IN SECTION 19(c)), YOU AND BNEA AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING.
+i)	Severability of Class Action Waiver. You and BNEA agree that, no provision of this Class Action Waiver shall be enforceable against you or BNEA and all Claims shall be governed by Sections 20(a) and 21(a), below, in the event either: (i) a court of competent jurisdiction conclusively determines that any term or provision of this Class Action Waiver is unenforceable, prohibited by applicable law, or inapplicable to any Claim; or (ii) you submit a proper Opt Out Notice (in compliance with Section 19(c)), wherein you have elected to opt out of this Class Action Waiver. In no event may the severance of the Class Action Waiver be interpreted or deemed to constitute consent by you or BNEA to participate in a class action or class arbitration.
+c)	OPT OUT PROCEDURE. You have the right to opt out and not be bound by the foregoing Arbitration Agreement and Class Action Waiver, by sending a written notice of your election to opt out from such Arbitration Agreement and/or Class Action Waiver (the “Opt Out Notice”), in strict compliance with the following requirements of Sections 19.c.i – 19.c.iii:
+i)	Form &amp; Address. Your Opt Out Notice must be sent to the following address: BANDAI NAMCO Entertainment America Inc., ATTN: Legal &amp; Business Affairs, 2051 Mission College Blvd., Santa Clara, CA 95054, USA, and either by: (i) first class mail, postage prepaid, certified and return receipt requested; or (ii) overnight courier service (such as Federal Express).
+ii)	Time Limitations. Unless a longer period is required by applicable law, your Opt Out Notice must be postmarked (if sent by first class mail) or deposited (if sent by overnight courier service) within: (i) 30 days of your purchase of your copy of the Game; or (ii) if no purchase was made, then within 30 days of the date on which you first accessed or used your copy of the Game.
+iii)	Required Information. Your Opt Out Notice must include: (i) the title of the specific Game to which your Opt Out Notice is intended to apply; (ii) your first and last name; (iii) your address; (iv) your phone number; (v) your email address; (vi) if you are a registered user of the Game or any other BNEA product or service, each of your usernames for the Game and such other BNEA products and services; and (vii) a statement that you do not agree to the Arbitration Agreement and/or to the Class Action Waiver. BNEA may use the foregoing information included in the Opt Out Notice to record, process, maintain, and administer your opting out of the Arbitration Agreement and/or Class Action Waiver, as applicable, but not for marketing purposes.
+iv)	Effects of Proper Opt Out Notice. If your Opt Out Notice meets all of the above requirements, you and BNEA will be deemed to have opted out of the Arbitration Agreement and/or Class Action Waiver, subject to your statement in such Opt Out Notice, with respect to this Agreement. Submission of a valid Opt Out Notice applies only to Claims arising from or relating to the Game and Agreement identified therein, as between BNEA and the individual identified in such Opt Out Notice.
+v)	Effects of Improper Opt Out Notice. If you submit an Opt Out Notice that fails to meet any of the requirements set forth in Sections 19.c.i – 19.c.iii, you and BNEA will be bound by the Arbitration Agreement and Class Action Waiver set forth in this Agreement.</text>
+<text id="601026">20. 	GOVERNING LAW.
+To the extent required by applicable law, all terms and provisions of this Agreement shall be governed and construed in accordance with all applicable mandatory laws, even if inconsistent with the governing law set forth in this Section 20 and in no event shall the application, interpretation, or enforcement of the terms of this Agreement, under any jurisdictional law contemplated by this Section 20 exclude, limit, or otherwise restrict any rights vested with you, as a consumer, under any applicable consumer protection laws. Please note that your conduct may also be subject to other local, state, national, and international laws. The parties agree that the UN Convention on Contracts for the International Sale of Goods shall not apply to any dispute or transaction arising out of this Agreement.
+a)	If you reside in North, Central, or South America:
+The laws of the State of California, excluding its conflicts-of-law rules, govern the application, interpretation, or enforcement of the terms of this Agreement and your use of the Game.
+b)	If you reside in Asia (excluding Japan):
+Any dispute between the parties arising from or relating to this Agreement, will be governed by this Agreement and the laws of Singapore, without giving effect to any conflict of laws principles that may provide for the application of the law of another jurisdiction.
+c)	If you reside in any other location:
+Any dispute between the parties arising from or relating to this Agreement, will be governed by this Agreement and the laws of France, without giving effect to any conflict of laws principles that may provide for the application of the law of another jurisdiction.</text>
+<text id="601027">21. 	VENUE.
+a)	If you reside in North, Central, or South America:
+You and BNEA expressly agree that, for all claims and disputes arising out of or relating to this Agreement and/or your use of the Game that are not subject to the Arbitration Agreement in Section 19, above, exclusive jurisdiction for any such claim or action shall be the federal or state courts that govern Santa Clara County, California, and you expressly consent to the exercise of personal jurisdiction of such courts.
+b)	If you reside in Asia (excluding Japan):
+Any dispute between the parties arising from or relating to this Agreement shall be decided by the State Courts of Singapore, and you and BNE Asia agree to submit to the exclusive jurisdiction of that court.
+c)	If you reside in any other location:
+Any dispute between the parties arising from or relating to this Agreement shall be decided by the Commercial Court of Lyon, and you and BNEE agree to submit to the personal jurisdiction of that court.</text>
+<text id="601028">22. 	THIRD-PARTY BENEFICIARIES. Any person or entity who is not a party to this Agreement shall have no rights under any law to enforce any terms of this Agreement, regardless of whether such person or entity has been identified by name. Nothing in this section shall affect the rights of any permitted assignee or transferee of this Agreement.</text>
+<text id="601029">23. 	MISCELLANEOUS. This Agreement contains the entire agreement between you and BANDAI NAMCO regarding the use of the Game. If any provision of this Agreement is held invalid or unenforceable, the remainder of this Agreement shall continue in full force and effect for the remainder of the term, or as otherwise set forth in Section 7(d), except if such provision deprives the Agreement from its essential obligations. You may not assign this Agreement or any of its rights under this Agreement without the prior written consent of BANDAI NAMCO, and any attempted assignment without such consent shall be void. Subject to the foregoing restriction, this Agreement will be fully binding upon, inure to the benefit of, and be enforceable by us and our respective successors and assigns. The failure of BANDAI NAMCO to exercise or enforce any right or provision of this Agreement shall not operate as a waiver of such right or provision. The section titles in this Agreement are for convenience only and have no legal or contractual effect.</text>
+<text id="601030">To contact BNEA, please contact BNEA’s customer support line at https://www.bandainamcoent.com/support or by writing to BNEA at: BANDAI NAMCO Entertainment America Inc., 2051 Mission College Blvd., Santa Clara, CA 95054, USA.
+To contact BNEE, please contact BNEE through BNEE customer service at http://www.bandainamcoent.eu/support or BANDAI NAMCO Entertainment Europe S.A.S., 49/51 rue des Docks, CS 90618 – 69258 LYON CEDEX 09 – France.
+To contact BNE Asia, please contact BNE Asia through BNE Asia customer service at https://www.bandainamcoent.com.sg/support.</text>
+<text id="609999">no translation needed</text>
+<text id="610000">no translation needed</text>
+<text id="610001">no translation needed</text>
+<text id="610002">no translation needed</text>
+<text id="610003">no translation needed</text>
+<text id="610004">no translation needed</text>
+<text id="610005">no translation needed</text>
+<text id="610006">no translation needed</text>
+<text id="610007">no translation needed</text>
+<text id="610008">no translation needed</text>
+<text id="610099">no translation needed</text>
+<text id="610100">no translation needed</text>
+<text id="610101">no translation needed</text>
+<text id="610102">no translation needed</text>
+<text id="610103">no translation needed</text>
+<text id="610104">no translation needed</text>
+<text id="610105">no translation needed</text>
+<text id="610106">no translation needed</text>
+<text id="610107">no translation needed</text>
+<text id="610108">no translation needed</text>
+<text id="610999">DARK SOULS™: REMASTERED Privacy Policy</text>
+<text id="611000">BANDAI NAMCO ENTERTAINMENT INC.
+PRIVACY POLICY</text>
+<text id="611001">Last Updated: June 20, 2017</text>
+<text id="611002">This Privacy Policy explains how information about you is collected, used and disclosed by BANDAI NAMCO Entertainment Inc. (“BNEI”, “us”, “we” or “our”), when you use our websites, games, mobile applications and other online products and services (collectively, the “Services”) or when you otherwise interact with us. This Privacy Policy applies only to the information we collect about users of our Services.</text>
+<text id="611003">We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the Privacy Policy and, in some cases, we may provide you with additional notice (such as by adding a statement to the homepage of our Services or sending you a notification). If you do not agree to the changes, please do not use our Services or otherwise provide us with your personal information. We encourage you to review the Privacy Policy whenever you access the Services to stay informed about our information practices and the ways you can help protect your privacy.</text>
+<text id="611004">I. 	Collection of Information</text>
+<text id="611005">Information You Provide to Us</text>
+<text id="611006">We collect information you provide directly to us. For example, we collect information when you create an account, interact with other users, request customer support, sign up to receive newsletters, participate in surveys or otherwise communicate with us. The types of information we may collect include your username, password, email address and any other information you choose to provide.</text>
+<text id="611007">Information We Collect from Hardware's Network</text>
+<text id="611008">Type of Information: account ID, online ID</text>
+<text id="611009">Purpose of Collection: Account Management</text>
+<text id="611010">Who the Data may be Shared: FromSoftware, Inc.</text>
+<text id="611011">Where the Information is Stored: Japan</text>
+<text id="611012">Information We Collect Automatically When You Use the Services</text>
+<text id="611013">When you access or use our Services, we automatically collect information about you, including:</text>
+<text id="611014">	Usage Information: We collect information about your use of our Services, including gaming service ID, levels completed, game scores, time spent using our Services, and other game play information.</text>
+<text id="611015">	Log Information: We log information about your use of our Services, including your browser type and language, access times, pages viewed, your IP address and the website you visited before navigating to our Services.</text>
+<text id="611016">	Hardware Information: We may collect information about the computer or device you use to access our Services, including the hardware model, operating system and version, browser,  MAC address, IP address, and other unique device identifiers made available by the operating system of your device.</text>
+<text id="611017">	Information Collected by Cookies and Other Tracking Technologies: We use various technologies to collect information, and this may include sending cookies to your computer or mobile device. Cookies are small data files stored on your computer hard drive or in device memory that help us to improve our Services and your experience, see which areas and features of our Services are popular and count visits. We use the following cookies:</text>
+<text id="611018">o	Strictly necessary cookies. These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website.</text>
+<text id="611019">o	Analytical/performance cookies. They allow us to recognize and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.</text>
+<text id="611020">o	Functionality cookies. These are used to recognize you when you return to our website. This enables us to personalize our content for you, greet you by name and remember your preferences (for example, your choice of language or region).</text>
+<text id="611021">We may also collect information using web beacons (also known as “tracking pixels”). In contrast to cookies, web beacons are embedded invisibly on webpages and may not be disabled or controlled through your browser. For more information about cookies, and how to disable them, please see “Your Choices” below.</text>
+<text id="611022">Information We Collect From Other Sources</text>
+<text id="611023">We may also obtain information from other sources as far as it is necessary to perform our Services, and combine that with information we collect through our Services. In all other cases we will ask you to authorize us to collect, store, and use personal information from third parties. For instance, we may collect game ranking and achievement status from your console or mobile operating system game center application. Additionally, when you complete in-app purchases, we may collect information about you from the provider of your device operating system when they process the purchases on our behalf. Please note that we do not receive your payment method information from the operating system providers.</text>
+<text id="611024">II. 	Use of Information</text>
+<text id="611025">We (or a third party data processor on our behalf) may collect, store and use information about you for the following purposes for the periods necessary to achieve such purposes:</text>
+<text id="611026">	Provide, maintain and improve our Services;</text>
+<text id="611027">	Provide and deliver the products and services you request, process transactions and send you related information;</text>
+<text id="611028">	Register you for an account on our Services and assist in the management of your account;</text>
+<text id="611029">	Restore game play information associated with a particular game if that game was previously deleted and later reinstalled on the same device;</text>
+<text id="611030">	Respond to your comments, questions and requests and provide customer service;</text>
+<text id="611031">	Send you technical notices, updates, security alerts and support and administrative messages;</text>
+<text id="611032">	Communicate with you about products, services, offers, promotions, rewards, and events offered by BNEI and others, and provide news, information and other marketing materials that we think will be of interest to you;</text>
+<text id="611033">	Monitor and analyze trends, usage and activities in connection with our Services;</text>
+<text id="611034">	Process and deliver contest entries and rewards promoted by BNEI;</text>
+<text id="611035">	Personalize and improve the Services and provide in-Service advertisements, content or features that match user profiles or interests;</text>
+<text id="611036">	Link or combine with information we get from others to help understand your needs and provide you with better service;</text>
+<text id="611037">	Detect, investigate and/or prevent fraudulent, unauthorized or illegal activity;</text>
+<text id="611038">	For any other purpose required or authorized for us to comply with our legal and regulatory obligations;</text>
+<text id="611039">	For any other purpose for which you provided the information.</text>
+<text id="611040">III. 	Sharing of Information</text>
+<text id="611041">We do not share, sell, transfer or otherwise exchange your personal information with third parties, unless required for the provision of our products or services, otherwise in accordance with this Privacy Policy, or permitted by law or unless you have given us express consent. In compliance with the aforementioned we may share information about you as follows or as otherwise described in this Privacy Policy:</text>
+<text id="611042">	With other users if you choose to participate in the interactive areas of our Services, such as community forums (the use of personal data (such as your full name) as a username in our services is strictly prohibited);</text>
+<text id="611043">	With our employees, affiliates, related companies, vendors, consultants and other third party service providers who need access to such information to carry out work on our behalf (including, for example, payment processors, website hosting services, or information storage and processing service providers);</text>
+<text id="611044">	In response to legal process or a request for information if disclosure is in accordance with, or as otherwise required by, any applicable law, rule, or regulation (including, for example government or regulatory bodies, law enforcement, or courts of law);</text>
+<text id="611045">	If we have reasonable grounds to believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of BNEI, our users or others;</text>
+<text id="611046">	In connection with any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company;</text>
+<text id="611047">	With your consent or at your direction.</text>
+<text id="611048">We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.</text>
+<text id="611049">IV. 	 Advertising and Analytics Services Provided by Others</text>
+<text id="611050">We may allow others to provide analytics services on our behalf and to serve advertisements within our Services. These entities may use technologies to automatically collect information about your device and your use of our Services, including IP address, device ID, time spent on pages within our Services, and links clicked within our Services. This information may be used by us and others to, among other things, maintain and analyze the functioning of our Services and deliver contextual or targeted advertising that may be of interest to you. The use of your information by these third parties is covered by their respective privacy policies, and we do not control and are not responsible for the privacy practices of third parties.</text>
+<text id="611051">V. 	Social Sharing Feature</text>
+<text id="611052">The Services may offer social sharing features or other integrated tools, which let you share actions you take on the Services with other social media, and vice versa. The use of such features enables the sharing of certain personal information with your friends or the public, depending on the settings you establish with the third party that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the third parties that provide these features.</text>
+<text id="611053">VI. 	Security</text>
+<text id="611054">We take reasonable technical and organizational measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction. However, no transmission over the internet can ever be guaranteed secure so we cannot guarantee the security of any personal information that you transfer over the internet to us.</text>
+<text id="611055">VII. 	Storing and deleting data</text>
+<text id="611056">All information collected is being stored in our data centers located in Japan. Personal data is being stored and deleted in compliance with privacy requirements. All data will be de-identified or deleted if no longer required for the purposes mentioned above, unless further retention is required by law.</text>
+<text id="611057">VIII. 	International Transfers</text>
+<text id="611058">Personal information that we collect from you is usually transferred, stored and processed in Japan.
+Please be aware that we may transfer your personal information to locations outside of your country which may not offer the same level of data protection as your country’s laws. However, our collection, storage and use of your personal data will continue to be governed by this Privacy Policy, and where we do disclose your personal data to third parties located overseas, we take such steps as are reasonable in the circumstances to ensure it is used in accordance with this Privacy Policy. You acknowledge that by providing us with your personal information, you consent to such overseas disclosure. By consenting to such disclosure, you acknowledge that to the extent permitted by law, BNEI will not be liable, and you will not be able to seek redress against BNEI, for any breach of your privacy by the overseas recipient.</text>
+<text id="611059">IX. 	Third Party Sites</text>
+<text id="611060">This website contains links to other websites operated by third parties. Please note that this Privacy Policy applies only to the personal information that we collect through this website and we cannot be responsible for personal information that third parties may collect, store and use through their website. You should always read the privacy policy of each website you visit carefully.</text>
+<text id="611061">X. 	Your Choices</text>
+<text id="611062">Cookies</text>
+<text id="611063">Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. If you would like more information from an independent resource on a range of cookie-related issues, including how to change your browser settings, please visit www.allaboutcookies.org.</text>
+<text id="611064">How to Control Cookies</text>
+<text id="611065">Generally, you can delete all the cookies already stored on your computer. You can also set most browsers to disable cookies. To do so, you shall modify your browser settings. In your browser, the Help section of your browser will provide you any information you need for managing cookies. In that case you might have to proceed to manual settings of some preferences for each time you visit the website. Managing cookies may prevent you from having access to some site functions or features. For information on how to manage cookie options in your browser settings, please visit http://www.allaboutcookies.org/manage-cookies/.
+
+Removing or rejecting browser cookies does not necessarily affect third party flash cookies used in connection with our Services. To delete or disable flash cookies please visit http://www.macromedia.com/support/documentation/en/flashplayer/help/help02.html for more information.
+
+Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.</text>
+<text id="611066">Promotional Communications</text>
+<text id="611067">Only with your prior opt-in may we send you promotional messages. You may opt out of receiving them at any time by following the instructions in those messages. If you opt out, we may still send you transactional or relationship messages, but only about our ongoing business relations and with no promotional content.</text>
+<text id="611068">Access Rights</text>
+<text id="611069">You, and your legal guardian if you are a minor, have the following rights in relation to any personal information that we hold about you:</text>
+<text id="611070">	The right to review or to ask us to provide you with copies of personal information that we hold about you at any time, subject to a fee specified by law;</text>
+<text id="611071">	The right to ask us to update and correct any out-of-date or incorrect personal information that we hold about you free of charge;</text>
+<text id="611072">	The right to ask us to cease collecting, processing, using, or to delete, personal information that we hold about you, provided that we may refuse to do if required to by law;</text>
+<text id="611073">	The right to object to unlawful processing of personal information that we hold about you;</text>
+<text id="611074">	The right to opt out of any marketing communications that we (or any third party to whom we have disclosed your personal information with your consent) may send you.</text>
+<text id="611075">If you have such a request, you may address your requests to ppolicy@bandainamcoent.co.jp.</text>
+<text id="611076">If you have a BANDAI NAMCO ID, and wish view or to delete your account, sign into your BANDAI NAMCO ID and follow the instructions on https://www.bandainamcoid.com/portal/resign. Once you delete your account, you will no longer be able to access the BANDAI NAMCO ID services.</text>
+<text id="611077">If you refuse to provide your personal information or request we delete or cease collecting your personal information, you may not be able to use all or some parts of our Services.</text>
+<text id="611078">XI. 	Complaints</text>
+<text id="611079">If you have any concerns that your personal information may have been compromised or wish to make a complaint about the handling of your personal information, please contact us at ppolicy@bandainamcoent.co.jp setting out the nature of your complaint. We will investigate your complaint and endeavour to provide you with a response within a reasonable time of receipt.</text>
+<text id="611080">If, after receiving our response, you still consider that your privacy complaint has not been resolved, you may refer your complaint to a relevant regulatory or government body in your jurisdiction.</text>
+<text id="611081">XII. 	Contact</text>
+<text id="611082">If you have any questions about this Privacy Policy or our practices, please contact us at:
+
+BANDAI NAMCO Entertainment Inc.
+Attn: Contact for Personal Information Matter
+5-37-8 Shiba
+Minato-ku, Tokyo 108-0014
+Japan
++81-3-6744-6112 (phone)
+ppolicy@bandainamcoent.co.jp</text>
+<text id="20001000">Disconnected from master of world.
+Returning to your world.</text>
+<text id="20001001">Network connection has become unstable.
+Leaving session.</text>
+<text id="20001002">You have been disconnected from Steam. Exiting online mode…</text>
+<text id="20001003">Failed to create session.</text>
+<text id="20001004">Failed to join session.</text>
+<text id="20001005">You have been disconnected from Steam. Exiting online mode…</text>
+<text id="20001006">%null%</text>
+<text id="20001007">%null%</text>
+<text id="20001008">%null%</text>
+<text id="20001009">%null%</text>
+<text id="20001010">A sign-in change has occurred.
+Exiting game session...</text>
+<text id="20001011">Cannot continue game because you are in party chat.
+Returning to Title Menu...</text>
+<text id="20001012">%null%</text>
+<text id="20001013">%null%</text>
+<text id="20001014">%null%</text>
+<text id="20001015">P2P connection has been lost
+Returning to Main Menu</text>
+<text id="20001016">%null%</text>
+<text id="20001017">Framerate is insufficient for Online play. 
+Returning to the Title menu. </text>
+<text id="20001999">Network settings</text>
+<text id="20002000">Network settings</text>
+<text id="20002001">%null%</text>
+<text id="20002002">Matchmaking password</text>
+<text id="20002003">%null%</text>
+<text id="20002004">%null%</text>
+<text id="20002005">Region Matchmaking</text>
+<text id="20002006">Launch setting</text>
+<text id="20002007">Ranking Registration</text>
+<text id="20002100">Local</text>
+<text id="20002101">Global</text>
+<text id="20002102">Character name</text>
+<text id="20002103">Profile name</text>
+<text id="20002104">Online</text>
+<text id="20002105">Offline</text>
+<text id="20002106">Start Online</text>
+<text id="20002107">Start Offline</text>
+<text id="20002200">&lt;?networkValue01?&gt;</text>
+<text id="20002201">&lt;?networkValue02?&gt;</text>
+<text id="20002202">&lt;?networkValue03?&gt;</text>
+<text id="20002203">&lt;?networkValue04?&gt;</text>
+<text id="20002204">&lt;?networkValue05?&gt;</text>
+<text id="30001000">DARK SOULS™: REMASTERED ROM not detected.
+Insert DARK SOULS™: REMASTERED ROM into drive.</text>
+<text id="30001001">%null%</text>
+<text id="30001002">%null%</text>
+<text id="30001003">%null%</text>
+<text id="30001004">%null%</text>
+<text id="30001005">%null%</text>
+<text id="30001006">%null%</text>
+<text id="30001007">%null%</text>
+<text id="30001008">%null%</text>
+<text id="30001009">%null%</text>
+<text id="30001010">This game requires DirectX 9.
+Please install DirectX 9 to play.</text>
+<text id="30001011">%null%</text>
+<text id="30001012">%null%</text>
+<text id="30001013">%null%</text>
+<text id="30001014">%null%</text>
+<text id="30001015">%null%</text>
+<text id="30001016">%null%</text>
+<text id="30001017">%null%</text>
+<text id="30001018">%null%</text>
+<text id="30001019">%null%</text>
+<text id="30001020">This computer is running an older version of Windows.
+To play this game, install version xxx or higher.</text>
+<text id="30001021">%null%</text>
+<text id="30001022">%null%</text>
+<text id="30001023">%null%</text>
+<text id="30001024">%null%</text>
+<text id="30001025">%null%</text>
+<text id="30001026">%null%</text>
+<text id="30001027">%null%</text>
+<text id="30001028">%null%</text>
+<text id="30001029">%null%</text>
+<text id="30001030">This application was already launched</text>
+<text id="30001031">%null%</text>
+<text id="30001032">%null%</text>
+<text id="30001033">%null%</text>
+<text id="30001034">%null%</text>
+<text id="30001035">%null%</text>
+<text id="30001036">%null%</text>
+<text id="30001037">%null%</text>
+<text id="30001038">%null%</text>
+<text id="30001039">%null%</text>
+<text id="30001040">The system does not meet the minimum DirectX 11 / Shader Model 5.0 GPU requirement to run the application.</text>
+<text id="30001041">%null%</text>
+<text id="30001042">%null%</text>
+<text id="30001043">%null%</text>
+<text id="30001044">%null%</text>
+<text id="30001045">%null%</text>
+<text id="30001046">%null%</text>
+<text id="30001047">%null%</text>
+<text id="30001048">%null%</text>
+<text id="30001049">%null%</text>
+<text id="30001050">The system does not meet the minimum memory requirement to run the application.</text>
+<text id="30002000">An error occurred while reading game data.
+Closing game.</text>
+<text id="30003099">PC settings</text>
+<text id="30003100">PC settings</text>
+<text id="30003101">Display</text>
+<text id="30003102">Resolution</text>
+<text id="30003103">Vertical sync</text>
+<text id="30003104">Display mode</text>
+<text id="30003105">FPS display</text>
+<text id="30003106">Quality</text>
+<text id="30003107">Anti-Aliasing</text>
+<text id="30003108">Motion Blur</text>
+<text id="30003109">Frequency</text>
+<text id="30003110">Depth of field</text>
+<text id="30003111">Ambient Occlusion</text>
+<text id="30003130">&lt;?pcenvValue01?&gt;</text>
+<text id="30003131">&lt;?pcenvValue02?&gt;</text>
+<text id="30003132">&lt;?pcenvValue03?&gt;</text>
+<text id="30003133">&lt;?pcenvValue04?&gt;</text>
+<text id="30003134">&lt;?pcenvValue05?&gt;</text>
+<text id="30003135">&lt;?pcenvValue06?&gt;</text>
+<text id="30003136">&lt;?pcenvValue07?&gt;</text>
+<text id="30003137">&lt;?pcenvValue08?&gt;</text>
+<text id="30003138">&lt;?pcenvValue09?&gt;</text>
+<text id="30003139">&lt;?pcenvValue10?&gt;</text>
+<text id="30003140">&lt;?pcenvValue11?&gt;</text>
+<text id="30003141">&lt;?pcenvValue12?&gt;</text>
+<text id="30003142">&lt;?pcenvValue13?&gt;</text>
+<text id="30003143">&lt;?pcenvValue14?&gt;</text>
+<text id="30003200">ON</text>
+<text id="30003201">OFF</text>
+<text id="30003202">Hz</text>
+<text id="30003203">x</text>
+<text id="30003204">bit</text>
+<text id="30003205">&lt;?pcenvInitValue01?&gt;</text>
+<text id="30003206">&lt;?pcenvInitValue02?&gt;</text>
+<text id="30003207">&lt;?pcenvInitValue03?&gt;</text>
+<text id="30003208">&lt;?pcenvInitValue04?&gt;</text>
+<text id="30003209">OFF</text>
+<text id="30003210">FXAA</text>
+<text id="30003211">FXAA High</text>
+<text id="30003212">Temporal Anti-Aliasing</text>
+<text id="30003213">SMAA</text>
+<text id="30003214">Fading out</text>
+<text id="30003215">Full screen</text>
+<text id="30003216">Borderless</text>
+<text id="30003217">Windowed</text>
+<text id="30003218">%null%</text>
+<text id="30003219">%null%</text>
+<text id="30003220">&lt;?pcenvInitValue05?&gt;</text>
+<text id="30003221">&lt;?pcenvInitValue06?&gt;</text>
+<text id="30003222">&lt;?pcenvInitValue07?&gt;</text>
+<text id="30003223">&lt;?pcenvInitValue08?&gt;</text>
+<text id="30003224">&lt;?pcenvInitValue09?&gt;</text>
+<text id="30003225">&lt;?pcenvInitValue10?&gt;</text>
+<text id="30003226">&lt;?pcenvInitValue11?&gt;</text>
+<text id="30003227">&lt;?pcenvInitValue12?&gt;</text>
+<text id="30003228">&lt;?pcenvInitValue13?&gt;</text>
+<text id="30003229">&lt;?pcenvInitValue14?&gt;</text>
+<text id="30004000">&lt;?systemDlgButton01?&gt;</text>
+<text id="30004001">&lt;?systemDlgButton02?&gt;</text>
+<text id="30004002">&lt;?systemDlgButton03?&gt;</text>
+<text id="30004003">&lt;?systemDlgButton04?&gt;</text>
+<text id="30004004">&lt;?systemDlgButton05?&gt;</text>
+<text id="30004005">&lt;?systemDlgButton06?&gt;</text>
+<text id="30004080">Keyboard &amp; Mouse Alt</text>
+<text id="30004081">%null%</text>
+<text id="30004082">%null%</text>
+<text id="30004083">%null%</text>
+<text id="30004084">%null%</text>
+<text id="30004085">%null%</text>
+<text id="30004086">%null%</text>
+<text id="30004087">%null%</text>
+<text id="30004088">%null%</text>
+<text id="30004089">Key settings</text>
+<text id="30004090">Key settings</text>
+<text id="30004091">Controller</text>
+<text id="30004092">Keyboard &amp; Mouse</text>
+<text id="30004093">XInput controller</text>
+<text id="30004094">DirectInput controller</text>
+<text id="30004095">Xbox One Wireless Controller</text>
+<text id="30004096">PlayStation®4 controller</text>
+<text id="30004097">%null%</text>
+<text id="30004098">%null%</text>
+<text id="30004099">%null%</text>
+<text id="30004100">Run (forward)</text>
+<text id="30004101">Run (backward)</text>
+<text id="30004102">Run (right)</text>
+<text id="30004103">Run (left)</text>
+<text id="30004104">Walk</text>
+<text id="30004105">%null%</text>
+<text id="30004106">%null%</text>
+<text id="30004107">%null%</text>
+<text id="30004108">%null%</text>
+<text id="30004109">%null%</text>
+<text id="30004110">Camera up</text>
+<text id="30004111">Camera down</text>
+<text id="30004112">Camera right</text>
+<text id="30004113">Camera left</text>
+<text id="30004114">Lock target on or off/Reset camera</text>
+<text id="30004115">%null%</text>
+<text id="30004116">%null%</text>
+<text id="30004117">%null%</text>
+<text id="30004118">%null%</text>
+<text id="30004119">%null%</text>
+<text id="30004120">Switch right weapon</text>
+<text id="30004121">Switch left weapon</text>
+<text id="30004122">Switch item</text>
+<text id="30004123">Switch magic</text>
+<text id="30004124">%null%</text>
+<text id="30004125">%null%</text>
+<text id="30004126">%null%</text>
+<text id="30004127">%null%</text>
+<text id="30004128">%null%</text>
+<text id="30004129">%null%</text>
+<text id="30004130">Right weapon action (attack)</text>
+<text id="30004131">Right weapon action (Strong Attack)</text>
+<text id="30004132">Left weapon action (block)</text>
+<text id="30004133">Left weapon action (parry)</text>
+<text id="30004134">%null%</text>
+<text id="30004135">%null%</text>
+<text id="30004136">%null%</text>
+<text id="30004137">%null%</text>
+<text id="30004138">%null%</text>
+<text id="30004139">%null%</text>
+<text id="30004140">Use item</text>
+<text id="30004141">Dash/Roll/Backstep</text>
+<text id="30004142">Action</text>
+<text id="30004143">Toggle one-hand/two-hand grip</text>
+<text id="30004144">Jump</text>
+<text id="30004145">%null%</text>
+<text id="30004146">%null%</text>
+<text id="30004147">%null%</text>
+<text id="30004148">%null%</text>
+<text id="30004149">%null%</text>
+<text id="30004150">Open Menu</text>
+<text id="30004151">Open Gesture Menu</text>
+<text id="30004152">Open LIVE Guide</text>
+<text id="30004153">%null%</text>
+<text id="30004154">%null%</text>
+<text id="30004155">%null%</text>
+<text id="30004156">%null%</text>
+<text id="30004157">%null%</text>
+<text id="30004158">%null%</text>
+<text id="30004159">%null%</text>
+<text id="30004160">Select (up)</text>
+<text id="30004161">Select (down)</text>
+<text id="30004162">Select (left)</text>
+<text id="30004163">Select (right)</text>
+<text id="30004164">Confirm</text>
+<text id="30004165">Cancel</text>
+<text id="30004166">Menu function 1: switch status, etc.</text>
+<text id="30004167">Menu func. 2: toggle disp./remove equip., etc.</text>
+<text id="30004168">Switch menu (R)</text>
+<text id="30004169">Switch menu (L)</text>
+<text id="30004170">Scroll Up</text>
+<text id="30004171">Scroll Down</text>
+<text id="30004172">Explanation</text>
+<text id="30004200">Movement</text>
+<text id="30004201">Camera</text>
+<text id="30004202">Switch equipment</text>
+<text id="30004203">Actions</text>
+<text id="30004204">Menu display</text>
+<text id="30004205">Menu control</text>
+<text id="30004206">Movement and Camera</text>
+<text id="30004207">Gameplay</text>
+<text id="30004208">Menus</text>
+<text id="30004209">Save changes</text>
+<text id="30004210">Don't save changes</text>
+<text id="30004211">Leaving menu – save changes?</text>
+<text id="30004212">Input already assigned. Reassign?</text>
+<text id="40000000">&lt;?keyCategory?&gt;</text>
+<text id="40000001">&lt;?keyController?&gt;</text>
+<text id="40000002">%null%</text>
+<text id="40000003">%null%</text>
+<text id="40000004">%null%</text>
+<text id="40000005">%null%</text>
+<text id="40000006">%null%</text>
+<text id="40000007">%null%</text>
+<text id="40000008">%null%</text>
+<text id="40000009">%null%</text>
+<text id="40000010">&lt;?keyAction1?&gt;</text>
+<text id="40000011">&lt;?keyAction2?&gt;</text>
+<text id="40000012">&lt;?keyAction3?&gt;</text>
+<text id="40000013">&lt;?keyAction4?&gt;</text>
+<text id="40000014">&lt;?keyAction5?&gt;</text>
+<text id="40000015">&lt;?keyAction6?&gt;</text>
+<text id="40000016">&lt;?keyAction7?&gt;</text>
+<text id="40000017">&lt;?keyAction8?&gt;</text>
+<text id="40000018">&lt;?keyAction9?&gt;</text>
+<text id="40000019">&lt;?keyAction10?&gt;</text>
+<text id="40000020">&lt;?key1?&gt;</text>
+<text id="40000021">&lt;?key2?&gt;</text>
+<text id="40000022">&lt;?key3?&gt;</text>
+<text id="40000023">&lt;?key4?&gt;</text>
+<text id="40000024">&lt;?key5?&gt;</text>
+<text id="40000025">&lt;?key6?&gt;</text>
+<text id="40000026">&lt;?key7?&gt;</text>
+<text id="40000027">&lt;?key8?&gt;</text>
+<text id="40000028">&lt;?key9?&gt;</text>
+<text id="40000029">&lt;?key10?&gt;</text>
+<text id="40000030">&lt;?keyDefault1?&gt;</text>
+<text id="40000031">&lt;?keyDefault2?&gt;</text>
+<text id="40000032">&lt;?keyDefault3?&gt;</text>
+<text id="40000033">&lt;?keyDefault4?&gt;</text>
+<text id="40000034">&lt;?keyDefault5?&gt;</text>
+<text id="40000035">&lt;?keyDefault6?&gt;</text>
+<text id="40000036">&lt;?keyDefault7?&gt;</text>
+<text id="40000037">&lt;?keyDefault8?&gt;</text>
+<text id="40000038">&lt;?keyDefault9?&gt;</text>
+<text id="40000039">&lt;?keyDefault10?&gt;</text>
+<text id="40001001">Left click</text>
+<text id="40001002">Right click</text>
+<text id="40001003">%null%</text>
+<text id="40001004">L.</text>
+<text id="40001005">R.</text>
+<text id="40001006">(Num.Key)</text>
+<text id="40001007">+</text>
+<text id="40001008">Backspace</text>
+<text id="40001009">Tab</text>
+<text id="40001010">%null%</text>
+<text id="40001011">%null%</text>
+<text id="40001012">%null%</text>
+<text id="40001013">Enter</text>
+<text id="40001014">%null%</text>
+<text id="40001015">%null%</text>
+<text id="40001016">Shift</text>
+<text id="40001017">Ctrl</text>
+<text id="40001018">Alt</text>
+<text id="40001019">%null%</text>
+<text id="40001020">Caps Lock</text>
+<text id="40001021">%null%</text>
+<text id="40001022">%null%</text>
+<text id="40001023">%null%</text>
+<text id="40001024">%null%</text>
+<text id="40001025">%null%</text>
+<text id="40001026">%null%</text>
+<text id="40001027">Esc</text>
+<text id="40001028">%null%</text>
+<text id="40001029">%null%</text>
+<text id="40001030">%null%</text>
+<text id="40001031">%null%</text>
+<text id="40001032">Space</text>
+<text id="40001033">Page Up</text>
+<text id="40001034">Page Down</text>
+<text id="40001035">End</text>
+<text id="40001036">Home</text>
+<text id="40001037">←</text>
+<text id="40001038">↑</text>
+<text id="40001039">→</text>
+<text id="40001040">↓</text>
+<text id="40001041">%null%</text>
+<text id="40001042">%null%</text>
+<text id="40001043">%null%</text>
+<text id="40001044">%null%</text>
+<text id="40001045">Insert</text>
+<text id="40001046">Delete</text>
+<text id="40001047">%null%</text>
+<text id="40001048">0</text>
+<text id="40001049">1</text>
+<text id="40001050">2</text>
+<text id="40001051">3</text>
+<text id="40001052">4</text>
+<text id="40001053">5</text>
+<text id="40001054">6</text>
+<text id="40001055">7</text>
+<text id="40001056">8</text>
+<text id="40001057">9</text>
+<text id="40001058">%null%</text>
+<text id="40001059">%null%</text>
+<text id="40001060">%null%</text>
+<text id="40001061">%null%</text>
+<text id="40001062">%null%</text>
+<text id="40001063">%null%</text>
+<text id="40001064">%null%</text>
+<text id="40001065">A</text>
+<text id="40001066">B</text>
+<text id="40001067">C</text>
+<text id="40001068">D</text>
+<text id="40001069">E</text>
+<text id="40001070">F</text>
+<text id="40001071">G</text>
+<text id="40001072">H</text>
+<text id="40001073">I</text>
+<text id="40001074">J</text>
+<text id="40001075">K</text>
+<text id="40001076">L</text>
+<text id="40001077">M</text>
+<text id="40001078">N</text>
+<text id="40001079">O</text>
+<text id="40001080">P</text>
+<text id="40001081">Q</text>
+<text id="40001082">R</text>
+<text id="40001083">S</text>
+<text id="40001084">T</text>
+<text id="40001085">U</text>
+<text id="40001086">V</text>
+<text id="40001087">W</text>
+<text id="40001088">X</text>
+<text id="40001089">Y</text>
+<text id="40001090">Z</text>
+<text id="40001101">Shift + left click</text>
+<text id="40001102">Shift + right click</text>
+<text id="40001165">Shift+A</text>
+<text id="40001166">Shift+B</text>
+<text id="40001167">Shift+C</text>
+<text id="40001168">Shift+D</text>
+<text id="40001169">Shift+E</text>
+<text id="40001170">Shift+F</text>
+<text id="40001171">Shift+G</text>
+<text id="40001172">Shift+H</text>
+<text id="40001173">Shift+I</text>
+<text id="40001174">Shift+J</text>
+<text id="40001175">Shift+K</text>
+<text id="40001176">Shift+L</text>
+<text id="40001177">Shift+M</text>
+<text id="40001178">Shift+N</text>
+<text id="40001179">Shift+O</text>
+<text id="40001180">Shift+P</text>
+<text id="40001181">Shift+Q</text>
+<text id="40001182">Shift+R</text>
+<text id="40001183">Shift+S</text>
+<text id="40001184">Shift+T</text>
+<text id="40001185">Shift+U</text>
+<text id="40001186">Shift+V</text>
+<text id="40001187">Shift+W</text>
+<text id="40001188">Shift+X</text>
+<text id="40001189">Shift+Y</text>
+<text id="40001190">Shift+Z</text>
+<text id="40002001">L.Ctrl+W</text>
+<text id="40002002">L.Ctrl+S</text>
+<text id="40002003">L.Ctrl+D</text>
+<text id="40002004">L.Ctrl+A</text>
+<text id="40002005">L.Shift</text>
+<text id="40002006">L.Alt</text>
+</entries>
+</fmg>

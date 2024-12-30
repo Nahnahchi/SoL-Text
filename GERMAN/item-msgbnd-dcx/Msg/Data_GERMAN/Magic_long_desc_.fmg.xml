@@ -1,0 +1,961 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls1</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="3000">Elementarzauber
+Schießt Seelenpfeil ab
+
+Seelenpfeile verursachen Zauberschaden.
+Sie sind wirkungsvoll gegen Eisenrüstungen,
+harte Schuppen und andere physisch
+robuste Materialien.</text>
+<text id="3001">%null%</text>
+<text id="3002">%null%</text>
+<text id="3003">%null%</text>
+<text id="3004">%null%</text>
+<text id="3005">%null%</text>
+<text id="3006">%null%</text>
+<text id="3007">%null%</text>
+<text id="3008">%null%</text>
+<text id="3009">%null%</text>
+<text id="3010">Verbesserte Version von Seelenpfeil
+Schießt einen starken Seelenpfeil ab
+
+In der Drachenschule von Vinheim symbolisiert
+der Erwerb dieses Zaubers die Krönung eines
+Lehrlings als Zauberer.</text>
+<text id="3011">%null%</text>
+<text id="3012">%null%</text>
+<text id="3013">%null%</text>
+<text id="3014">%null%</text>
+<text id="3015">%null%</text>
+<text id="3016">%null%</text>
+<text id="3017">%null%</text>
+<text id="3018">%null%</text>
+<text id="3019">%null%</text>
+<text id="3020">Kraft verstärkender Seelenzauber
+Schießt einen schweren Seelenpfeil ab
+
+Ein mächtigerer, aber langsamerer Zauber.
+Aufgrund langer Abklingzeit und begrenzter
+Anwendungszahl schwierig zu gebrauchen.</text>
+<text id="3021">%null%</text>
+<text id="3022">%null%</text>
+<text id="3023">%null%</text>
+<text id="3024">%null%</text>
+<text id="3025">%null%</text>
+<text id="3026">%null%</text>
+<text id="3027">%null%</text>
+<text id="3028">%null%</text>
+<text id="3029">%null%</text>
+<text id="3030">Verbesserte Version von Schwerer Seelenpfeil
+Schießt einen starken schweren Seelenpfeil ab
+
+Ähnlich schwierig zu gebrauchen wie Schwere
+Seelenpfeile, aber lohnend aufgrund seiner
+Macht. Beliebt bei bestimmten Zauberern.</text>
+<text id="3031">%null%</text>
+<text id="3032">%null%</text>
+<text id="3033">%null%</text>
+<text id="3034">%null%</text>
+<text id="3035">%null%</text>
+<text id="3036">%null%</text>
+<text id="3037">%null%</text>
+<text id="3038">%null%</text>
+<text id="3039">%null%</text>
+<text id="3040">Von Spitzhut Logan entwickelter Zauber
+Schießt eine Zielflug-Seelenmasse ab
+
+Das Leben gründet in der Seele. Kein Wunder
+also, dass die Seelenmasse davon angezogen
+wird. Dieser Zauber gewährt einen Einblick in
+die Methoden des Suchers Logan.</text>
+<text id="3041">%null%</text>
+<text id="3042">%null%</text>
+<text id="3043">%null%</text>
+<text id="3044">%null%</text>
+<text id="3045">%null%</text>
+<text id="3046">%null%</text>
+<text id="3047">%null%</text>
+<text id="3048">%null%</text>
+<text id="3049">%null%</text>
+<text id="3050">Vom Wissen, das Logan im Königlichen Archiv
+gewann, verstärkter Zauber
+Schießt eine Zielflug-Kristallseelenmasse ab
+
+Die Geheimnisse der Seelen, der Kristalle und
+der Zauberei sind untrennbar miteinander
+verwoben.</text>
+<text id="3051">%null%</text>
+<text id="3052">%null%</text>
+<text id="3053">%null%</text>
+<text id="3054">%null%</text>
+<text id="3055">%null%</text>
+<text id="3056">%null%</text>
+<text id="3057">%null%</text>
+<text id="3058">%null%</text>
+<text id="3059">%null%</text>
+<text id="3060">Von Spitzhut Logan entwickelter Zauber
+Schleudert einen durchbohrenden Seelenspeer
+
+Dieser Seelenspeer ist ein Symbol von Logans
+Stärke und wird in den Legenden vielerorts
+erwähnt. Es heißt, er sei Fürst Gwyns Blitz
+ebenbürtig.</text>
+<text id="3061">%null%</text>
+<text id="3062">%null%</text>
+<text id="3063">%null%</text>
+<text id="3064">%null%</text>
+<text id="3065">%null%</text>
+<text id="3066">%null%</text>
+<text id="3067">%null%</text>
+<text id="3068">%null%</text>
+<text id="3069">%null%</text>
+<text id="3070">Vom Wissen, das Logan im Königlichen Archiv
+gewann, verstärkter Zauber
+Schleudert stechenden Kristall-Seelenspeer
+
+Diese bleichen, durch Kristallisierung
+geschärften Zauberspeere sind der Rüstung
+der alten Fürsten ebenbürtig.</text>
+<text id="3100">Zauber für Schwerter führende Wirker
+Magiestärkung: Rechte Waffe
+
+Die Macht der magischen Schwertkämpfer
+von Vinheim gründet neben dem Zauberschild
+auch auf diesem Zauber. Für viele Krieger ist
+er der Grund, die Zauberei zu erlernen.</text>
+<text id="3101">%null%</text>
+<text id="3102">%null%</text>
+<text id="3103">%null%</text>
+<text id="3104">%null%</text>
+<text id="3105">%null%</text>
+<text id="3106">%null%</text>
+<text id="3107">%null%</text>
+<text id="3108">%null%</text>
+<text id="3109">%null%</text>
+<text id="3110">Verbesserte Version von Zauberwaffe
+Große Magiestärkung: Rechte Waffe
+
+In der Drachenschule von Vinheim ist es nur
+Schwertkämpfern mit Spezialauftrag gestattet,
+diesen Zauber, der diversen Waffen mächtige
+Kräfte verleiht, zu erlernen.</text>
+<text id="3111">%null%</text>
+<text id="3112">%null%</text>
+<text id="3113">%null%</text>
+<text id="3114">%null%</text>
+<text id="3115">%null%</text>
+<text id="3116">%null%</text>
+<text id="3117">%null%</text>
+<text id="3118">%null%</text>
+<text id="3119">%null%</text>
+<text id="3120">Vom Wissen, das Logan im Königlichen Archiv
+gewann, verstärkter Zauber
+Große Magie + Kristallisierung: Rechte Waffe
+
+Logans Versuche erwiesen sich als erfolg-
+reich, und das Kristallmedium schuf eine
+stärkere Verbindung von Waffe und Seele.</text>
+<text id="3300">Zauber für Schwerter führende Wirker
+Magiestärkung: Linker Schild
+
+Durch Magie verstärkte Schilde halten
+Zauberangriffen stand und sind stabiler.
+Dieser Zauber ermöglicht es, mächtige Gegner
+auch mit kleinem Schild herauszufordern.</text>
+<text id="3301">%null%</text>
+<text id="3302">%null%</text>
+<text id="3303">%null%</text>
+<text id="3304">%null%</text>
+<text id="3305">%null%</text>
+<text id="3306">%null%</text>
+<text id="3307">%null%</text>
+<text id="3308">%null%</text>
+<text id="3309">%null%</text>
+<text id="3310">Verbesserte Version von Zauberschild
+Große Magiestärkung: Linker Schild
+
+In der Drachenschule von Vinheim ist es nur
+Schwertkämpfern mit Spezialauftrag gestattet,
+diesen Zauber, der Großschilden vorüber-
+gehende Stärke verleiht, zu erlernen.</text>
+<text id="3400">Uralter Zauber des verlorenen Landes Oolacile
+Macht rechte Waffe unsichtbar
+
+Keine einfache Verstärkung. Ihre Wirkung
+hängt vom Talent des Wirkers ab. Ein Beispiel
+für die Fähigkeit der Oolacile-Zauberei,
+Licht zu kontrollieren.</text>
+<text id="3401">%null%</text>
+<text id="3402">%null%</text>
+<text id="3403">%null%</text>
+<text id="3404">%null%</text>
+<text id="3405">%null%</text>
+<text id="3406">%null%</text>
+<text id="3407">%null%</text>
+<text id="3408">%null%</text>
+<text id="3409">%null%</text>
+<text id="3410">Uralter Zauber des verlorenen Landes Oolacile
+Macht Körper beinahe unsichtbar
+
+Vollständige Unsichtbarkeit lässt sich auf-
+grund der Risiken zwar nicht erreichen, aber
+der Wirker muss nur einen Moment stillstehen,
+um mit der Umgebung zu verschmelzen.</text>
+<text id="3500">Uralter Zauber des verlorenen Landes Oolacile
+Wirft grelles Licht auf Umgebung
+
+Dieser Licht verströmende Zauber ist zwar
+elementar, aber dennoch ein Beweis für die
+Errungenschaften der Oolacile-Mystik. Solche
+Zauber hat nicht einmal Vinheim entwickelt.</text>
+<text id="3501">%null%</text>
+<text id="3502">%null%</text>
+<text id="3503">%null%</text>
+<text id="3504">%null%</text>
+<text id="3505">%null%</text>
+<text id="3506">%null%</text>
+<text id="3507">%null%</text>
+<text id="3508">%null%</text>
+<text id="3509">%null%</text>
+<text id="3510">Von einem verstohlenen Zauberer der Drachen-
+schule von Vinheim entwickelter Zauber
+Verschluckt alle Geräusche des Wirkenden
+
+Vinheim steht unter der Kontrolle der
+Drachenschule. Und so überrascht es nicht,
+dass es dort auch düstere Geheimnisse gibt.</text>
+<text id="3511">%null%</text>
+<text id="3512">%null%</text>
+<text id="3513">%null%</text>
+<text id="3514">%null%</text>
+<text id="3515">%null%</text>
+<text id="3516">%null%</text>
+<text id="3517">%null%</text>
+<text id="3518">%null%</text>
+<text id="3519">%null%</text>
+<text id="3520">Von verspielten Zauberern verwendeter Zauber
+Lockt Feinde von dir weg, indem er ein Ge-
+räusch in einiger Enfernung produziert
+Für seriöse Zauberer ist dieser Zauber nicht
+die erste Wahl. Aber er zeichnet sich durch
+eine überraschende Fülle an Anwendungs-
+möglichkeiten aus, von denen einige sogar
+sehr effektiv sind.</text>
+<text id="3521">%null%</text>
+<text id="3522">%null%</text>
+<text id="3523">%null%</text>
+<text id="3524">%null%</text>
+<text id="3525">%null%</text>
+<text id="3526">%null%</text>
+<text id="3527">%null%</text>
+<text id="3528">%null%</text>
+<text id="3529">%null%</text>
+<text id="3530">Uralter Zauber des verlorenen Landes Oolacile
+Repariert ausgerüstete Waffen und Rüstung
+
+Dieser Zauber war in Oolacile einst
+alltäglich. Sein Effekt ähnelt dem Waffen-
+reparaturpulver, das man offenbar auch in
+diesem untergegangenen Reich kannte.</text>
+<text id="3531">%null%</text>
+<text id="3532">%null%</text>
+<text id="3533">%null%</text>
+<text id="3534">%null%</text>
+<text id="3535">%null%</text>
+<text id="3536">%null%</text>
+<text id="3537">%null%</text>
+<text id="3538">%null%</text>
+<text id="3539">%null%</text>
+<text id="3540">Von einem verstohlenen Zauberer der Drachen-
+schule von Vinheim entwickelter Zauber
+Verringert Schaden und Geräusche durch Sturz
+
+Dieser Zauber sowie Stille sind der Grund,
+weshalb es so außerordentlich teuer ist,
+Spione in Vinheim anzuheuern.</text>
+<text id="3541">%null%</text>
+<text id="3542">%null%</text>
+<text id="3543">%null%</text>
+<text id="3544">%null%</text>
+<text id="3545">%null%</text>
+<text id="3546">%null%</text>
+<text id="3547">%null%</text>
+<text id="3548">%null%</text>
+<text id="3549">%null%</text>
+<text id="3550">Uralter Zauber des verlorenen Landes Oolacile
+Verwandelt den Wirker in etwas Unauffälliges
+
+Ein weiterer Tarnzauber neben dem
+Verborgenen Körper. Fähige Tarnzauberer
+müssen sich ihrer Umgebung und der Objekte,
+die als Tarnung dienen können, bewusst sein.</text>
+<text id="3600">Zauber des rotgekleideten Heilers Ingward,
+Hüter des Siegels in Neu-Londo
+Opfert Menschlichkeit zur Fluch-Aufhebung
+
+Wem abscheuliche Flüche am Wesen nagen,
+der muss sich von seinen Flüchen reinigen
+- was wahrlich keine leichte Aufgabe ist.</text>
+<text id="3601">%null%</text>
+<text id="3602">%null%</text>
+<text id="3603">%null%</text>
+<text id="3604">%null%</text>
+<text id="3605">%null%</text>
+<text id="3606">%null%</text>
+<text id="3607">%null%</text>
+<text id="3608">%null%</text>
+<text id="3609">%null%</text>
+<text id="3610">Zauber der rotgekleideten Heilerin Yulva,
+Hüterin des Siegels in Neu-Londo
+Reduziert Blutungen und Gifteffekte
+
+Einer der einzigartigen Heilzauber von
+Neu-Londo. Möglicherweise gab sie ihre 
+Pflicht als Hüterin auf um ihre Kunst der 
+Heilung nach Schandstadt zu bringen.</text>
+<text id="3700">Von Logan während seiner Vernarrtheit in
+Seath den Schuppenlosen entwickelter Zauber
+Verströmt Seaths Kristallhauch
+
+Auch wenn er keine Flüche mehr hervorruft
+- was mag Logan wohl dazu bewegt haben,
+sich die Macht der alten Drachen anzueignen?</text>
+<text id="3701">%null%</text>
+<text id="3702">%null%</text>
+<text id="3703">%null%</text>
+<text id="3704">%null%</text>
+<text id="3705">%null%</text>
+<text id="3706">%null%</text>
+<text id="3707">%null%</text>
+<text id="3708">%null%</text>
+<text id="3709">%null%</text>
+<text id="3710">Die Zauberei des Abgrunds, entdeckt von einem
+Oolacile-Zauberer am Rande des Wahnsinns.
+Sie feuert eine riesige finstere Kugel.
+Im Gegensatz zur Standardseelenzauberei
+ist die Zauberei des Abgrunds gewichtig und
+fügt körperlichen Schaden zu. Vielleicht 
+neigen menschliche Seelen aufgrund ihrer
+Menschlichkeit zu greifbarer Präsenz.</text>
+<text id="3711">%null%</text>
+<text id="3712">%null%</text>
+<text id="3713">%null%</text>
+<text id="3714">%null%</text>
+<text id="3715">%null%</text>
+<text id="3716">%null%</text>
+<text id="3717">%null%</text>
+<text id="3718">%null%</text>
+<text id="3719">%null%</text>
+<text id="3720">Die Zauberei des Abgrunds, entdeckt von einem
+Oolacile-Zauberer am Rande des Wahnsinns.
+Sie feuert in Abfolge finstere Kugeln.
+Im Gegensatz zur Standardseelenzauberei
+ist die Zauberei des Abgrunds gewichtig und
+fügt körperlichen Schaden zu. Vielleicht 
+ist eine menschliche Seele aufgrund ihrer
+Menschlichkeit der Materie näher.</text>
+<text id="3721">%null%</text>
+<text id="3722">%null%</text>
+<text id="3723">%null%</text>
+<text id="3724">%null%</text>
+<text id="3725">%null%</text>
+<text id="3726">%null%</text>
+<text id="3727">%null%</text>
+<text id="3728">%null%</text>
+<text id="3729">%null%</text>
+<text id="3730">Die Zauberei des Abgrunds, entdeckt von einem
+Oolacile-Zauberer am Rande des Wahnsinns.
+Erschafft eine Wolke finsteren Nebels.
+
+Obwohl finsterer Nebel der Menschlichkeit recht
+nahe ist, ist er doch ein schreckliches Gift für
+Menschen. Vielleicht spiegelt es seine
+Grausamkeit gegen die seinen wider.</text>
+<text id="3731">%null%</text>
+<text id="3732">%null%</text>
+<text id="3733">%null%</text>
+<text id="3734">%null%</text>
+<text id="3735">%null%</text>
+<text id="3736">%null%</text>
+<text id="3737">%null%</text>
+<text id="3738">%null%</text>
+<text id="3739">%null%</text>
+<text id="3740">Die Zauberei von Manus, dem Vater des Abgrunds.
+Gewährt der Finsternis der Menschlichkeit
+einen flüchtigen Wunsch und verschießt das Resultat.
+
+Der Wunsch fühlt den Neid oder auch die Liebe.
+Trotz des unvermeidlich banalen und tragischen
+Endes sieht der Wunsch keine Alternative und wird
+wahnsinnig zu seinem Ziel hingezogen.</text>
+<text id="4000">Standard-Pyromantie des Großen Sumpfes
+Schleudert Feuerball
+
+Der von Feuerbällen verursachte Feuerschaden
+macht sie wirksam gegen physische Bestien
+und Untote (die das Feuer ohnehin fürchten).</text>
+<text id="4001">%null%</text>
+<text id="4002">%null%</text>
+<text id="4003">%null%</text>
+<text id="4004">%null%</text>
+<text id="4005">%null%</text>
+<text id="4006">%null%</text>
+<text id="4007">%null%</text>
+<text id="4008">%null%</text>
+<text id="4009">%null%</text>
+<text id="4010">Verbesserte Version von Feuerball
+Schleudert Feuerkugel
+
+Die lodernde Feuerkugel explodiert beim Auf-
+prall, verursacht Flächenschaden und ruft ein
+Spektakel hervor, das die Macht der feuer-
+beherrschenden Pyromanten verdeutlicht.</text>
+<text id="4011">%null%</text>
+<text id="4012">%null%</text>
+<text id="4013">%null%</text>
+<text id="4014">%null%</text>
+<text id="4015">%null%</text>
+<text id="4016">%null%</text>
+<text id="4017">%null%</text>
+<text id="4018">%null%</text>
+<text id="4019">%null%</text>
+<text id="4020">Ultimative Feuerball-Pyromantie
+Schleudert riesigen Feuerball
+
+Für Salaman, den Meister-Pyromanten, auch
+der Große Feuerball genannt, ist Pyromantie
+ein Ausdruck der Bewunderung des Feuers.
+Wer diesen Zauber erwirbt, stimmt da wohl zu.</text>
+<text id="4021">%null%</text>
+<text id="4022">%null%</text>
+<text id="4023">%null%</text>
+<text id="4024">%null%</text>
+<text id="4025">%null%</text>
+<text id="4026">%null%</text>
+<text id="4027">%null%</text>
+<text id="4028">%null%</text>
+<text id="4029">%null%</text>
+<text id="4030">Von Quelana von Izalith gelehrte
+grundlegende Pyromantie
+Errichtet in der Umgebung Feuerpfeiler
+
+Der Flammensturm verschlingt wahllos
+alles Leben in seiner Nähe.</text>
+<text id="4031">%null%</text>
+<text id="4032">%null%</text>
+<text id="4033">%null%</text>
+<text id="4034">%null%</text>
+<text id="4035">%null%</text>
+<text id="4036">%null%</text>
+<text id="4037">%null%</text>
+<text id="4038">%null%</text>
+<text id="4039">%null%</text>
+<text id="4040">Von Quelana von Izalith gelehrte
+grundlegende Pyromantie
+Errichtet in der Umgebung große Feuerpfeiler
+
+Dieses Inferno ähnelt jenem, das die Töchter
+des Chaos auslösten, als sie die Drachen
+herausforderten und die Erde versengten.</text>
+<text id="4041">%null%</text>
+<text id="4042">%null%</text>
+<text id="4043">%null%</text>
+<text id="4044">%null%</text>
+<text id="4045">%null%</text>
+<text id="4046">%null%</text>
+<text id="4047">%null%</text>
+<text id="4048">%null%</text>
+<text id="4049">%null%</text>
+<text id="4050">Im Großen Sumpf unbekannte Pyromantie
+Erzeugt einen Feuerstoß auf der Handfläche
+
+Nicht jede Pyromantie entstammt dem Großen
+Sumpf. In diversen Ländern soll es unbekannte
+Pyromanten geben - und dieser Zauber ist
+das Werk eines solchen Namenlosen.</text>
+<text id="4051">%null%</text>
+<text id="4052">%null%</text>
+<text id="4053">%null%</text>
+<text id="4054">%null%</text>
+<text id="4055">%null%</text>
+<text id="4056">%null%</text>
+<text id="4057">%null%</text>
+<text id="4058">%null%</text>
+<text id="4059">%null%</text>
+<text id="4060">Von Quelana von Izalith gelehrte
+grundlegende Pyromantie
+Fegt Feinde mit einer Feuerpeitsche beiseite
+
+Die ursprüngliche Pyromantie hinter der
+Verbrennung, aber erheblich schwieriger
+zu meistern.</text>
+<text id="4100">Elementar-Pyromantie
+Erzeugt eine mächtige Flamme in der Hand
+
+Einer der grundlegendsten Pyromantie-Zauber.
+Die von ihm erzeugte Flamme ist daher auch
+wahrhaft schrecklich.</text>
+<text id="4101">%null%</text>
+<text id="4102">%null%</text>
+<text id="4103">%null%</text>
+<text id="4104">%null%</text>
+<text id="4105">%null%</text>
+<text id="4106">%null%</text>
+<text id="4107">%null%</text>
+<text id="4108">%null%</text>
+<text id="4109">%null%</text>
+<text id="4110">Verbesserte Version von Verbrennung
+Erzeugt eine mächtige Riesenflamme
+in der Hand
+
+Die Große Verbrennung erzeugt eine mächtige
+Flamme. Viele Zauberer spotten jedoch über
+diesen Zauber, da er recht simpel ist.</text>
+<text id="4200">Von Eingyi, selbst im Großen Sumpf als Ketzer
+geächtet, erschaffene einzigartige Pyromantie
+Erzeugt einen Giftnebel
+
+Eingyi wurde zu einem eitragenden Untoten und
+diente einer verunstalteten jungen Frau, die
+eine unverständliche Sprache spricht.</text>
+<text id="4201">%null%</text>
+<text id="4202">%null%</text>
+<text id="4203">%null%</text>
+<text id="4204">%null%</text>
+<text id="4205">%null%</text>
+<text id="4206">%null%</text>
+<text id="4207">%null%</text>
+<text id="4208">%null%</text>
+<text id="4209">%null%</text>
+<text id="4210">Von Eingyi, selbst im Großen Sumpf als Ketzer
+geächtet, erschaffene einzigartige Pyromantie
+Erzeugt einen intensiven Giftnebel
+
+Wer diese perfide Pyromantie wirkt, wird
+verstehen, weshalb Eingyi dereinst aus dem
+Großen Sumpf vertrieben wurde.</text>
+<text id="4211">%null%</text>
+<text id="4212">%null%</text>
+<text id="4213">%null%</text>
+<text id="4214">%null%</text>
+<text id="4215">%null%</text>
+<text id="4216">%null%</text>
+<text id="4217">%null%</text>
+<text id="4218">%null%</text>
+<text id="4219">%null%</text>
+<text id="4220">Von Eingyi, selbst im Großen Sumpf als Ketzer
+geächtet, erschaffene einzigartige Pyromantie
+Versprüht Waffen und Rüstung zerfressende Säure
+
+Nicht jede Pyromantie fand ihren Ursprung im 
+Großen Sumpf. Es wird sich erzählt, dass unbe-
+kannte Pyromanten unzählige Länder bewohnen. 
+Dieser Fluch ist das Werk eines solchen.</text>
+<text id="4300">Pyromantie der Carmina, welche die Flamme
+bändigte, um das Innerste zu verwirklichen
+Verstärkt Abwehr und Widerstandskraft
+
+Diese Pyromantie sollte mit Bedacht einge-
+setzt werden. Ihr Wirker wird sehr schwer und
+bewegungsunfähig.</text>
+<text id="4301">%null%</text>
+<text id="4302">%null%</text>
+<text id="4303">%null%</text>
+<text id="4304">%null%</text>
+<text id="4305">%null%</text>
+<text id="4306">%null%</text>
+<text id="4307">%null%</text>
+<text id="4308">%null%</text>
+<text id="4309">%null%</text>
+<text id="4310">Pyromantie der Carmina, welche die Flamme
+bändigte, um das Innerste zu verwirklichen
+Starkes Schwitzen verringert Feuerschaden
+
+Carmina, die beste Schülerin von Salaman
+dem Meister-Pyromanten, eröffnete der
+Kunst der Pyromantie neue Pfade.</text>
+<text id="4311">%null%</text>
+<text id="4312">%null%</text>
+<text id="4313">%null%</text>
+<text id="4314">%null%</text>
+<text id="4315">%null%</text>
+<text id="4316">%null%</text>
+<text id="4317">%null%</text>
+<text id="4318">%null%</text>
+<text id="4319">%null%</text>
+<text id="4320">%null%</text>
+<text id="4360">Von Quelana von Izalith gelehrte
+fortgeschrittene Pyromantie
+Macht Untote vorübergehend zu Verbündeten
+
+Das Feuer lockt die Lebenden. Die Faszination
+für Flammen gehört zum Wesen der Pyromantie.
+Von beiden Geschlechtern benutzbar.</text>
+<text id="4400">Pyromantie der Carmina, welche die Flamme
+bändigte, um das Innerste zu verwirklichen
+Steigert kurz Stärke und Kondition, senkt TP
+
+Enorme Kräfte zehren an der Lebensenergie
+des Wirkers. Wurde, wie alle gefährlichen
+Zauber, über Äonen geheim gehalten.</text>
+<text id="4500">Kunst der Flamme des Chaos, die die Hexe von
+Izalith und ihre Töchter verzehrte.
+Schleudert riesigen Chaos-Feuerball.
+
+Die Flamme des Chaos kann Stein schmelzen
+und so vorübergehend einen Lavastrom
+erzeugen.</text>
+<text id="4501">%null%</text>
+<text id="4502">%null%</text>
+<text id="4503">%null%</text>
+<text id="4504">%null%</text>
+<text id="4505">%null%</text>
+<text id="4506">%null%</text>
+<text id="4507">%null%</text>
+<text id="4508">%null%</text>
+<text id="4509">%null%</text>
+<text id="4510">Kunst der Flamme des Chaos, die die Hexe von
+Izalith und ihre Töchter verzehrte.
+Errichtet örtliche Chaos-Feuerpfeiler.
+
+Beim Versuch, die erste Flamme nachzubilden,
+schuf die Hexe von Izalith die Flamme des
+Chaos, ein pervertiertes Lebensfundament.</text>
+<text id="4511">%null%</text>
+<text id="4512">%null%</text>
+<text id="4513">%null%</text>
+<text id="4514">%null%</text>
+<text id="4515">%null%</text>
+<text id="4516">%null%</text>
+<text id="4517">%null%</text>
+<text id="4518">%null%</text>
+<text id="4519">%null%</text>
+<text id="4520">Kunst der Flamme des Chaos, die die Hexe von
+Izalith und ihre Töchter verzehrte.
+Fegt Feinde mit Chaos-Feuerpeitsche beiseite.
+
+Diese Feuer-Peitsche wurde von der ältesten 
+der Töchter des Chaos geführt.</text>
+<text id="4521">%null%</text>
+<text id="4522">%null%</text>
+<text id="4523">%null%</text>
+<text id="4524">%null%</text>
+<text id="4525">%null%</text>
+<text id="4526">%null%</text>
+<text id="4527">%null%</text>
+<text id="4528">%null%</text>
+<text id="4529">%null%</text>
+<text id="4530">Pyromantie, entdeckt in der
+Finsternis des Abgrund von einem
+Pyromanten, der durch Oolacile wanderte.
+Beschwört eine große schwarze Flamme in der Hand
+
+Schwarze Flammen sind gewichtig und verursachen
+körperlichen Schaden - genug, um auch den
+mächtigsten Schild beiseite zu stoßen.</text>
+<text id="5000">Von Klerikern gewirktes Elementarwunder
+Stellt TP wieder her
+
+Um ein Wunder zu wirken, erfährt der Wirker
+eine Sage der Götter und spricht ein Gebet,
+um vom Offenbarten gesegnet zu werden.
+Die Heilung ist die kürzeste dieser Visionen.</text>
+<text id="5001">%null%</text>
+<text id="5002">%null%</text>
+<text id="5003">%null%</text>
+<text id="5004">%null%</text>
+<text id="5005">%null%</text>
+<text id="5006">%null%</text>
+<text id="5007">%null%</text>
+<text id="5008">%null%</text>
+<text id="5009">%null%</text>
+<text id="5010">Von erfahrenen Klerikern gewirktes Wunder
+Stellt viele TP wieder her
+
+Die Große Heilung ist eine lange Sage und
+wird nur von wenigen Auserwählten erlernt.
+Doch die von ihr gewährte Lebensfülle wird
+keinen Wirker enttäuschen.</text>
+<text id="5011">%null%</text>
+<text id="5012">%null%</text>
+<text id="5013">%null%</text>
+<text id="5014">%null%</text>
+<text id="5015">%null%</text>
+<text id="5016">%null%</text>
+<text id="5017">%null%</text>
+<text id="5018">%null%</text>
+<text id="5019">%null%</text>
+<text id="5020">Von erfahrenen Klerikern gewirktes Wunder
+Stellt viele TP wieder her
+
+Der Auszug aus der Großen Heilung umfasst nur
+einige Verse der Großen Heilung. Daher kann
+er nur wenige Male gewirkt werden.</text>
+<text id="5021">%null%</text>
+<text id="5022">%null%</text>
+<text id="5023">%null%</text>
+<text id="5024">%null%</text>
+<text id="5025">%null%</text>
+<text id="5026">%null%</text>
+<text id="5027">%null%</text>
+<text id="5028">%null%</text>
+<text id="5029">%null%</text>
+<text id="5030">Allen mit Gwynevere, der Prinzessin der Sonne,
+im Bunde Stehenden gewährtes Wunder.
+Stellt viele TP von Wirker und Umgebung wieder her.
+
+Die Wunder der Gwynevere, der von allen
+verehrten Prinzessin, gewähren ihre Segnungen
+vielen Kriegern.</text>
+<text id="5031">%null%</text>
+<text id="5032">%null%</text>
+<text id="5033">%null%</text>
+<text id="5034">%null%</text>
+<text id="5035">%null%</text>
+<text id="5036">%null%</text>
+<text id="5037">%null%</text>
+<text id="5038">%null%</text>
+<text id="5039">%null%</text>
+<text id="5040">Unter Kleriker-Kriegern gebräuchliches Wunder
+Schrittweise TP-Wiederherstellung
+
+Hüte dich vor den mit Auffrischung gesegneten
+Kleriker-Kriegern - sie sind nicht leicht zu
+überwinden.</text>
+<text id="5041">%null%</text>
+<text id="5042">%null%</text>
+<text id="5043">%null%</text>
+<text id="5044">%null%</text>
+<text id="5045">%null%</text>
+<text id="5046">%null%</text>
+<text id="5047">%null%</text>
+<text id="5048">%null%</text>
+<text id="5049">%null%</text>
+<text id="5050">Allen mit Gwynevere, der Prinzessin der Sonne,
+im Bunde Stehenden gewährtes Wunder.
+Schrittweise TP-Wiederherstellung von Wirker 
+und Umgebung. 
+
+Die Wunder der Gwynevere, der von allen
+verehrten Prinzessin, gewähren ihre Segnungen
+vielen Kriegern.</text>
+<text id="5100">Nur den Dienern des ersten Toten, des
+Grabesfürsten Nito, bekanntes Wunder.
+Lässt in der Umgebung Schwerter emporragen
+
+Nito ruht in den riesigen Katakomben, wacht
+leise über den Tod und wartet darauf, dass
+seine Diener das Auge des Todes einläuten.</text>
+<text id="5101">%null%</text>
+<text id="5102">%null%</text>
+<text id="5103">%null%</text>
+<text id="5104">%null%</text>
+<text id="5105">%null%</text>
+<text id="5106">%null%</text>
+<text id="5107">%null%</text>
+<text id="5108">%null%</text>
+<text id="5109">%null%</text>
+<text id="5110">Nur den Dienern des ersten Toten, des
+Grabesfürsten Nito, bekanntes Wunder
+Lässt in der Umgebung Großschwerter emporragen
+
+Viele wurden geopfert, um den Großschwerttanz
+zu vollziehen, ein nur den engsten Vertrauten
+des Großkönigs bekanntes Ritual.</text>
+<text id="5200">Dem Weißen Pfad unbekanntes,
+verschollenes Wunder
+Verhindert Verluste durch Tod, wenn aktiv
+
+Der Weiße Pfad erkennt zwar den Tod selbst
+an, schilt aber die Untoten. Genau deshalb
+ist dieses Wunder auch verschollen.</text>
+<text id="5201">%null%</text>
+<text id="5202">%null%</text>
+<text id="5203">%null%</text>
+<text id="5204">%null%</text>
+<text id="5205">%null%</text>
+<text id="5206">%null%</text>
+<text id="5207">%null%</text>
+<text id="5208">%null%</text>
+<text id="5209">%null%</text>
+<text id="5210">Großes, von erfahrenen Klerikern
+gewirktes Wunder
+Kehrt zum Leuchtfeuer der letzten Rast zurück
+
+Führte in die Heimat, wurde aber vom Fluch
+der Untoten umgelenkt. Nun gelangt man zu
+einem Leuchtfeuer. Der Untoten Heimat?</text>
+<text id="5300">Unter Kleriker-Kriegern gebräuchliches Wunder
+Erzeugt Schockwelle
+
+Dieses rasche Wunder fügt keinen Schaden zu,
+wirft Feinde aber zurück und verteidigt gegen
+Pfeile. Kleriker-Krieger setzen dieses Wunder
+beim Angriff gegen wütende Horden ein.</text>
+<text id="5301">%null%</text>
+<text id="5302">%null%</text>
+<text id="5303">%null%</text>
+<text id="5304">%null%</text>
+<text id="5305">%null%</text>
+<text id="5306">%null%</text>
+<text id="5307">%null%</text>
+<text id="5308">%null%</text>
+<text id="5309">%null%</text>
+<text id="5310">Grundlegende Form der Wucht
+Erzeugt mächtige Schockwelle
+
+Der Götterzorn war eine epische Sage, die mit
+der Zeit verschliss und zur heutigen Wucht
+wurde. Diese grundlegende Form der Wucht er-
+zeugt eine Schockwelle, die Schaden zufügt.</text>
+<text id="5311">%null%</text>
+<text id="5312">%null%</text>
+<text id="5313">%null%</text>
+<text id="5314">%null%</text>
+<text id="5315">%null%</text>
+<text id="5316">%null%</text>
+<text id="5317">%null%</text>
+<text id="5318">%null%</text>
+<text id="5319">%null%</text>
+<text id="5320">Fremdes, dem Weißen Pfad unbekanntes Wunder
+Sendet Schockwelle aus
+
+Gilt als Alternativzweig der Wucht. Erzeugt
+eine größer werdende Schockwellenkugel.</text>
+<text id="5400">Wunder von auf untoter Mission
+befindlichen Klerikern
+Gewährt weitere Führung aus anderen Welten
+
+Führung erleichtert die Kommunikation unter
+Untoten, ist jedoch wechselhaft. Ein Gleich-
+gewicht von Glaube und Weisheit ist nötig.</text>
+<text id="5500">An die mit dem Krieger des Sonnenlichts im 
+Bunde Stehenden weitergereichtes Wunder
+Schleudert Blitzspeer
+
+Blitzspeere richten außerordentlichen
+Blitzschaden an und sind sehr effektiv gegen
+Zauber, Feuer und insbesondere Drachen.</text>
+<text id="5501">%null%</text>
+<text id="5502">%null%</text>
+<text id="5503">%null%</text>
+<text id="5504">%null%</text>
+<text id="5505">%null%</text>
+<text id="5506">%null%</text>
+<text id="5507">%null%</text>
+<text id="5508">%null%</text>
+<text id="5509">%null%</text>
+<text id="5510">An die mit dem Krieger des Sonnenlichts im 
+Bunde Stehenden weitergereichtes Wunder
+Schleudert riesigen Blitzspeer
+
+Die Waffe des Kriegsgottes, der das
+Sonnenlicht von Fürst Gwyn erbte, aber außer
+Waffen nichts achtete.</text>
+<text id="5511">%null%</text>
+<text id="5512">%null%</text>
+<text id="5513">%null%</text>
+<text id="5514">%null%</text>
+<text id="5515">%null%</text>
+<text id="5516">%null%</text>
+<text id="5517">%null%</text>
+<text id="5518">%null%</text>
+<text id="5519">%null%</text>
+<text id="5520">Aus der schwindenden Seele des Gwyn
+stammendes Wunder
+Schleudert Sonnenlichtspeer
+
+Im Krieg, zu Beginn des Zeitalters des
+Feuers, kämpfte Gwyn mit Sonnenstrahlen,
+die selbst im Schwinden noch entsetzlich sind!</text>
+<text id="5600">Wunder von Bischof Havel dem Fels
+Hüllt Körper in Verteidigungszauber
+
+Diese Ummantelung steigert die Zauberabwehr
+enorm und hilft so Kriegern, die sich jener
+Magie stellen müssen, die Bischof Havel so
+erfolgreich abwehrte.</text>
+<text id="5601">%null%</text>
+<text id="5602">%null%</text>
+<text id="5603">%null%</text>
+<text id="5604">%null%</text>
+<text id="5605">%null%</text>
+<text id="5606">%null%</text>
+<text id="5607">%null%</text>
+<text id="5608">%null%</text>
+<text id="5609">%null%</text>
+<text id="5610">Wunder von Bischof Havel dem Fels
+Hüllt Körper in mächtigen Verteidigungszauber
+
+Havel der Fels, ein alter Kampfgefährte von
+Fürst Gwyn, war ein erbitterter Feind von
+Seath dem Schuppenlosen. Er verachtete Magie
+und ersann Mittel der Gegenwehr.</text>
+<text id="5700">Wunder der schwarzhaarigen Hexe Velka
+Zeitweise Auto-Konter gegen schweren Schaden
+
+Jede Sünde führt auch eine Strafe nach sich.
+Und die Definition der Sünde und das Erteilen
+der Strafe obliegen der Göttin Velka.</text>
+<text id="5701">%null%</text>
+<text id="5702">%null%</text>
+<text id="5703">%null%</text>
+<text id="5704">%null%</text>
+<text id="5705">%null%</text>
+<text id="5706">%null%</text>
+<text id="5707">%null%</text>
+<text id="5708">%null%</text>
+<text id="5709">%null%</text>
+<text id="5710">%null%</text>
+<text id="5800">Fremdes, dem Weißen Pfad unbekanntes Wunder
+Verlangsamt alle im Wirkungsbereich
+
+Dieses Wunder wird üblicherweise zur Flucht
+eingesetzt, da es die Schritte verlangsamt,
+aber auf Angriffe keine Wirkung hat.
+Die perfekte Form des Friedens.</text>
+<text id="5801">%null%</text>
+<text id="5802">%null%</text>
+<text id="5803">%null%</text>
+<text id="5804">%null%</text>
+<text id="5805">%null%</text>
+<text id="5806">%null%</text>
+<text id="5807">%null%</text>
+<text id="5808">%null%</text>
+<text id="5809">%null%</text>
+<text id="5810">Wunder der schwarzhaarigen Hexe Velka
+Verhindert im Wirkungsbereich das Zaubern
+
+Velka, die Sündengöttin, ist eine
+abtrünnige Gottheit, doch in alten wie neuen
+Künsten geschult. Es heißt, sie habe selbst
+unter den Göttern enormen Einfluss.</text>
+<text id="5900">Den mit Fürst Gwyns Erstgeborenem im
+Bunde Stehenden gewährtes Wunder
+Verstärkt rechte Waffe mit Sonnenstrahlen
+
+Die Energie des Sonnenlichtes manifestiert
+sich im Blitz. Dieses Schwert fügt Blitz-
+schaden zu und ist so effektiv gegen Drachen.</text>
+<text id="5901">%null%</text>
+<text id="5902">%null%</text>
+<text id="5903">%null%</text>
+<text id="5904">%null%</text>
+<text id="5905">%null%</text>
+<text id="5906">%null%</text>
+<text id="5907">%null%</text>
+<text id="5908">%null%</text>
+<text id="5909">%null%</text>
+<text id="5910">Den mit Fürst Gwyns Letztgeborenem Wendelin
+im Bunde Stehenden gewährtes Wunder
+Stärkt rechte Waffe mit Finstermondstrahlen
+
+Der Finstermond gewährt die Energie der
+Rache. Und je größer der Animus, desto
+vernichtender der Angriff.</text>
+</entries>
+</fmg>
